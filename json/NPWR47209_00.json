@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR47209_00",
+  "title": "Path Builder",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Path Builder Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/8b734016-9ed6-4697-b792-e25d2b966dd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 2 stars",
+      "trophyDetail": "Collect total amount of 2 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1bc6d76a-5ea0-47bf-9f53-adb398b3a55d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 4 stars",
+      "trophyDetail": "Collect total amount of 4 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/da5c4f2b-9b21-4de7-ac28-8352aa9ef5ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 7 stars",
+      "trophyDetail": "Collect total amount of 7 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/00a8515f-52f3-4fa0-804c-fbd3481106bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 10 stars",
+      "trophyDetail": "Collect total amount of 10 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/8b572eaf-0607-4827-9076-0721e7baa5f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 13 stars",
+      "trophyDetail": "Collect total amount of 13 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/95f59916-41d1-4931-bb91-77421465572f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 16 stars",
+      "trophyDetail": "Collect total amount of 16 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/58f6739c-dce0-46d0-bf73-cfd5d77cd794.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 19 stars",
+      "trophyDetail": "Collect total amount of 19 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/b0d5e3fc-d723-4639-813d-f5a8015666c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 22 stars",
+      "trophyDetail": "Collect total amount of 22 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/353b3d9b-78a7-4a4e-9239-5767a64cfd1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 25 stars",
+      "trophyDetail": "Collect total amount of 25 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c2b4d761-805e-4404-96ec-bad365610cd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 28 stars",
+      "trophyDetail": "Collect total amount of 28 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/8715c197-295c-42e9-a175-681fb8bc96ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 31 stars",
+      "trophyDetail": "Collect total amount of 31 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1f4b698a-402f-40e8-96e0-036bde65f446.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 34 stars",
+      "trophyDetail": "Collect total amount of 34 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1a9d9ed6-c332-4036-843f-359dbb470555.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 37 stars",
+      "trophyDetail": "Collect total amount of 37 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/364cdf36-4b21-4d18-bbb7-27f2876faca6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 40 stars",
+      "trophyDetail": "Collect total amount of 40 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/53623d1f-aa23-44cd-a746-2c14e8f747d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 43 stars",
+      "trophyDetail": "Collect total amount of 43 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/111702b2-ba7c-4f14-bb9c-0d7bc27384e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 46 stars",
+      "trophyDetail": "Collect total amount of 46 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/3ae14055-05cb-4d92-bad4-fd6602e30777.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 49 stars",
+      "trophyDetail": "Collect total amount of 49 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/7cf400d5-8e23-49e5-a5e0-520a66f245e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 52 stars",
+      "trophyDetail": "Collect total amount of 52 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c8f6f272-ed15-43e0-b53b-b01c7b100cd1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 55 stars",
+      "trophyDetail": "Collect total amount of 55 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/3ba9c2d4-9d74-45e1-ae88-b5d78f2b54d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 58 stars",
+      "trophyDetail": "Collect total amount of 58 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/2e4adda7-79a7-4084-858c-1b4492397fc9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 61 stars",
+      "trophyDetail": "Collect total amount of 61 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1248d186-aaa6-4b1a-ba81-01732fb1a83e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 64 stars",
+      "trophyDetail": "Collect total amount of 64 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/a23252f5-e650-447c-876d-1152798a71d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 67 stars",
+      "trophyDetail": "Collect total amount of 67 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/07514aab-b266-4fb4-816f-f496f628ffbb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 70 stars",
+      "trophyDetail": "Collect total amount of 70 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/200ffbeb-dad7-47a3-ae18-166fff109cad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 73 stars",
+      "trophyDetail": "Collect total amount of 73 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/f49d133d-ebf8-495f-9c85-9fa642c87435.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 76 stars",
+      "trophyDetail": "Collect total amount of 76 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/f7ef9d85-a9b6-4629-8a2c-244801459285.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 79 stars",
+      "trophyDetail": "Collect total amount of 79 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/246495ad-69c1-4f10-ab46-c2794a113869.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 82 stars",
+      "trophyDetail": "Collect total amount of 82 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/ad116051-7b10-49dc-b3b8-8136baeeefab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 85 stars",
+      "trophyDetail": "Collect total amount of 85 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/268caa77-1eec-4d24-a486-693601b54058.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 88 stars",
+      "trophyDetail": "Collect total amount of 88 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/2f41a8a7-c1c0-4fab-abf6-157a6d960bc4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 91 stars",
+      "trophyDetail": "Collect total amount of 91 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/74c206a7-1a23-473d-9c47-8a9c62c7c780.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 94 stars",
+      "trophyDetail": "Collect total amount of 94 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/209c2d04-055c-4a4c-b6cf-f757c742c15e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 97 stars",
+      "trophyDetail": "Collect total amount of 97 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/25c148bf-0c6d-476e-a17b-2588a256752a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 100 stars",
+      "trophyDetail": "Collect total amount of 100 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/4a4d98aa-4eae-4f8d-8b2e-e36372037d23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 103 stars",
+      "trophyDetail": "Collect total amount of 103 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/550c62fb-8734-47af-b754-00d94ec93031.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 106 stars",
+      "trophyDetail": "Collect total amount of 106 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/b1d9a71f-95cc-4627-b896-4dbe93689fef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 109 stars",
+      "trophyDetail": "Collect total amount of 109 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/287a88ff-505b-4c6e-8a5f-f8b462f25e0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 112 stars",
+      "trophyDetail": "Collect total amount of 112 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/eaa821b3-d899-4c51-8235-65f46af3ce0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 115 stars",
+      "trophyDetail": "Collect total amount of 115 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/60e39a63-842c-41af-aae5-36dbd047abd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 118 stars",
+      "trophyDetail": "Collect total amount of 118 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/8947aebe-e21f-4a19-9857-f4818a058393.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 121 stars",
+      "trophyDetail": "Collect total amount of 121 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/3ed8e0e0-cd34-4669-9d93-12b61e70d963.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 124 stars",
+      "trophyDetail": "Collect total amount of 124 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/66a164ea-6938-4832-b178-9221fde490e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 127 stars",
+      "trophyDetail": "Collect total amount of 127 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/91bd8dcf-edef-4a5b-8b1f-fe0fc3188f08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 130 stars",
+      "trophyDetail": "Collect total amount of 130 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/18dc1ee4-77ff-4fc2-b680-e636cad424bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 133 stars",
+      "trophyDetail": "Collect total amount of 133 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/e5c984a1-07cf-4baa-b7b7-1dc3af43de9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 136 stars",
+      "trophyDetail": "Collect total amount of 136 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/3261d805-e77a-4b87-a5b2-542d5abd9e38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 139 stars",
+      "trophyDetail": "Collect total amount of 139 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/2b6cb0a5-0ac5-4727-a168-1a9af336635f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 142 stars",
+      "trophyDetail": "Collect total amount of 142 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/f16dc9d9-8a20-434c-b04d-834ed6faf957.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 145 stars",
+      "trophyDetail": "Collect total amount of 145 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1743a145-d1a1-4d21-bfdd-dd1165559813.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 148 stars",
+      "trophyDetail": "Collect total amount of 148 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1dae95f1-147b-4c55-b09f-2d37e3d5824f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 151 stars",
+      "trophyDetail": "Collect total amount of 151 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/d58d85c4-0ff9-497b-b110-3bc74e5743ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 154 stars",
+      "trophyDetail": "Collect total amount of 154 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/1ce07a69-057d-49bc-b0fa-75171a6cebeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 157 stars",
+      "trophyDetail": "Collect total amount of 157 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c0ab28fe-aa0b-4ece-9293-0cc23139f0f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 160 stars",
+      "trophyDetail": "Collect total amount of 160 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/f13e918b-6b65-49e5-9c5f-46290c4af41d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 163 stars",
+      "trophyDetail": "Collect total amount of 163 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/2409227b-cf55-4e75-a91a-19527d285ac0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 166 stars",
+      "trophyDetail": "Collect total amount of 166 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/f7328ddb-85b4-4347-a2b2-94c2c3eb0617.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 169 stars",
+      "trophyDetail": "Collect total amount of 169 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/22862c8f-8625-4ad5-9ecb-e01adebfff61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 172 stars",
+      "trophyDetail": "Collect total amount of 172 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/9b2e91df-a3f6-4d33-a84b-9138773ae813.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 175 stars",
+      "trophyDetail": "Collect total amount of 175 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/bed81594-811f-4ea7-a10a-3704990d5602.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 178 stars",
+      "trophyDetail": "Collect total amount of 178 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/166cc27d-20b2-4ed3-9d8e-8d9553d16bc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 181 stars",
+      "trophyDetail": "Collect total amount of 181 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c5d2742d-45da-40c9-a7ba-0920de3e73cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 184 stars",
+      "trophyDetail": "Collect total amount of 184 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/9d7e02c1-ad39-4a32-b181-6d44595abcc7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 187 stars",
+      "trophyDetail": "Collect total amount of 187 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/41032ff8-4153-460d-9c70-e763dfbc936a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 190 stars",
+      "trophyDetail": "Collect total amount of 190 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/6a70dc89-3bd2-44e2-91b0-dda4b178ecad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 193 stars",
+      "trophyDetail": "Collect total amount of 193 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/6e66ac12-ac6c-410b-ac4f-dd2e49fedf89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 196 stars",
+      "trophyDetail": "Collect total amount of 196 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/df38f5bf-f307-410c-b4d4-2de8e1d60650.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 199 stars",
+      "trophyDetail": "Collect total amount of 199 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c75d315a-2ee7-4e28-8c7d-4e53643f8c9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 202 stars",
+      "trophyDetail": "Collect total amount of 202 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/b1899330-c067-4091-bbe3-e0039b56d2ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 205 stars",
+      "trophyDetail": "Collect total amount of 205 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/c7ec3988-8335-41d0-8c15-01ab95a2f067.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 225 stars",
+      "trophyDetail": "Collect total amount of 225 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47209_00/099d2244-72ba-4789-b2ac-4bda222b778e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

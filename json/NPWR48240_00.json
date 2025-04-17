@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR48240_00",
+  "title": "Card Guesser: Red or Black",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master of Red and Black",
+      "trophyDetail": "Unlock all trophies in the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/7D558B53CE00F08DC763419660E411C485EC4CC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ace of Sparkles",
+      "trophyDetail": "Flipped the Ace of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/28E835ED5D6DDE2877679E239778C288B0019A31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Diamonds",
+      "trophyDetail": "Flipped the 2 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/CCCD55EF922F180C4BE37AE4DB78371E11CDB1FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Gems",
+      "trophyDetail": "Flipped the 3 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/91B42B88A25156BAD05544FA34046BCD234A5115.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamond in the Rough",
+      "trophyDetail": "Flipped the 4 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/E5888A784E95CC56CBABE83B8DFAD51B3E512415.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shining Bright",
+      "trophyDetail": "Flipped the 5 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/D6671105A384B5ADA4C5D6987CDDB0EA01E9CE1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polished Gem",
+      "trophyDetail": "Flipped the 6 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/96F28090DF7BE2F0F9DADC2014DDB184B835E6DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seven Gems",
+      "trophyDetail": "Flipped the 7 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/7F083E0AE2BA620D3F6934CC7A0AF08D2162D684.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gem Craze",
+      "trophyDetail": "Flipped the 8 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/3667303D7198DAB9570B56569E0276CAB8A17968.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Precious Stones",
+      "trophyDetail": "Flipped the 9 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/3A62EEF0BDB649753ACCBA39667763D90FDA49E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gem Perfection",
+      "trophyDetail": "Flipped the 10 of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/CFB839FF5002DC805DB9BE19D5ECF8F251EC4746.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jackpot Gem",
+      "trophyDetail": "Flipped the Jack of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/28443270CF71B0A187C4B2B88F99DDFC95B1D79A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamond Diva",
+      "trophyDetail": "Flipped the Queen of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/6F8196C8EC1D4ED819BA8FA3669E6BD2907EF39F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowned Jewel",
+      "trophyDetail": "Flipped the King of Diamonds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/97F8C48A061A91611A6A75EA7EC4E32FF623CEEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart of a Champion",
+      "trophyDetail": "Flipped the Ace of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/A19BAC37DF38EAE1312B92319704D8D71AE49144.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Down",
+      "trophyDetail": "Flipped the 2 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/27210C7652CE6B4E3BA017F5234430881F47F43A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Threat",
+      "trophyDetail": "Flipped the 3 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/845958148335DE3376CB0DCE3A9496359C1D8C0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fourth Time's the Charm",
+      "trophyDetail": "Flipped the 4 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/D3FCA6EF3537E40C0864168C482E868D35D52145.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heartbreaker",
+      "trophyDetail": "Flipped the 5 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/F839485D7FE1BF7816D455E6EDF2B5A8A239B5CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sixth Sense",
+      "trophyDetail": "Flipped the 6 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/AF66EF539D167EED539AF9073BDD9B8AB7CDAEBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky 7",
+      "trophyDetail": "Flipped the 7 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/04EE66914399EFB0F9768FB80F99F530D239818D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart Attack",
+      "trophyDetail": "Flipped the 8 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/A6F534AABFCB216B382143F506D1EF7CA46C0FDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Heart of It All",
+      "trophyDetail": "Flipped the 9 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/9F9DF952F9D3268DEA43DCDC5E889ADB898F5C04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect 10",
+      "trophyDetail": "Flipped the 10 of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/9B15115C584A73578891A444CB707CE149B43D10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jack of Hearts",
+      "trophyDetail": "Flipped the Jack of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/818FD52BF2854F4B486028D6E3E6AD5D613086EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Queen of Love",
+      "trophyDetail": "Flipped the Queen of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/2E35F66E9F9A6F589E4666C9D2DC265579E7C0F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Hearts",
+      "trophyDetail": "Flipped the King of Hearts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/55134F13E571C16ED5E1918DD75069E2A776C972.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Dark Jester",
+      "trophyDetail": "Flipped the Black Joker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/03D232D537C05CFDE9A8D156DAF9B5EFCDE6B4D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scarlet Jester",
+      "trophyDetail": "Flipped the Red Joker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/F34BF25CE716F40386203A76F3190C4A310701CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ace of Death",
+      "trophyDetail": "Flipped the Ace of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/0DB8E942DEB5820600FC9B25A67FEDC952668D1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doubled Edge",
+      "trophyDetail": "Flipped the 2 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/FDD77EE52A8A35B3B9FF89330E3CF66F57D1D0B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three of Blades",
+      "trophyDetail": "Flipped the 3 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/A276C4EC5788270CF424D2B5AAC9470AC65A3496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharp Shooter",
+      "trophyDetail": "Flipped the 4 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/7F3F4F1E9B39F31346E1EA6374E94B49EF9A9097.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five of Fate",
+      "trophyDetail": "Flipped the 5 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/DB82F3CF6BA0344208D85B598EDDE35FD9EB80B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharpened Edge",
+      "trophyDetail": "Flipped the 6 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/6E53CE2924D78C0C4CD639FACF0AA5CACA49AE2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seven Blades",
+      "trophyDetail": "Flipped the 7 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/CE41785B172B6C413FC603C627FAE2BBC4A0E87B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spade Parade",
+      "trophyDetail": "Flipped the 8 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/BC808D6834D07DC70F57DD4387D1A00BFEFF1799.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grave Digger",
+      "trophyDetail": "Flipped the 9 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/398B9ECDB5FB60E9D8CB7CAD5E756521B45F10C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Blade",
+      "trophyDetail": "Flipped the 10 of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/75D6B482FB0BC3ABA19236170E637B367728F2CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jack the Ripper",
+      "trophyDetail": "Flipped the Jack of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/9C36CF04BAA43BAE4D0672C47742CCB17B801FB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Queen of Shadows",
+      "trophyDetail": "Flipped the Queen of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/05AB5862D70E67B3090C0020ED73A345C92E5840.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reaper King",
+      "trophyDetail": "Flipped the King of Spades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/99B5C72FDF168AC4E4E11C3BA10F3FF8763F48F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ace of Clovers",
+      "trophyDetail": "Flipped the Ace of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/036A628EA4E2294734EA58770B9250B7F008F7C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Clubber",
+      "trophyDetail": "Flipped the 2 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/0E6EE2EE84740C75F898644C2AD5AAD3E673975D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Clover",
+      "trophyDetail": "Flipped the 3 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/CF053E94E13278162FD66DA2BC81269676CAA810.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Four-Leaf Clover",
+      "trophyDetail": "Flipped the 4 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/96FA01405EAD204FB9BE01CB486B1B59EB5F4CE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Club Master",
+      "trophyDetail": "Flipped the 5 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/E54D66953F142C24EC38F176A9B57ED2A7DE5BE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clubber's Delight",
+      "trophyDetail": "Flipped the 6 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/175B1A6B15B4512A6DB294F77A38647D0B7F4CFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Club",
+      "trophyDetail": "Flipped the 7 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/FCE57FA1235A8B874ABA44CAA099DD0DF4444B3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cloverfield",
+      "trophyDetail": "Flipped the 8 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/93881D8E7416446B9C0D9C5EDFF09B83A018E95A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swinger",
+      "trophyDetail": "Flipped the 9 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/C48E0A898E8C56465B01DC3583CB0B95923FAE72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": " Club Royale",
+      "trophyDetail": "Flipped the 10 of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/AB1C6FEA75296541C425BD8556F63A97688F8AD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clubber Jack",
+      "trophyDetail": "Flipped the Jack of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/2F136B85940CBEED25164D6D2E3391AA27C8E1EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Club Queen",
+      "trophyDetail": "Flipped the Queen of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/41459948B9C4B3CD52EDD10278C80F5ADF2130B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Clovers",
+      "trophyDetail": "Flipped the King of Clubs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/FB215BF1B2F23431E055BA5D92EF5A43A2DF3FAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Win",
+      "trophyDetail": "Achieved a win streak of 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/451FFC8EC6A6376F86E857A058AE5E2F2E5326D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winning Momentum",
+      "trophyDetail": "Achieved a win streak of 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/BEC481A4EAFAEE5F557B90AC3F0D0880256C00D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mind Reader",
+      "trophyDetail": "Achieved a win streak of 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/1456936D26B2F6B190E2A65B9D6310D135A18198.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Loss",
+      "trophyDetail": "Experienced a loss streak of 1.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/6475624108E34B13055307F387C3AA53DC4C6C77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Losing Grip",
+      "trophyDetail": "Experienced a loss streak of 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/AD63D761E9647A1D55C0ED802C928AE6262F9B22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three Strikes",
+      "trophyDetail": "Experienced a loss streak of 3.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/F475D36628B3ED061923D5D51598D67B90E022A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let the Games Begin",
+      "trophyDetail": "Started your first game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/54962ADF74767B25360A786511A90FA364483DC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five Minutes of Fame",
+      "trophyDetail": "Played for a total of 5 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/5DD58B7E62A2654EBE9FDA5905E29CDB018B8D76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twenty-Twenty Vision",
+      "trophyDetail": "Made a total of 20 guesses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/E1EC2E7B0BF8E0CECA8A449DF754A327DC7214F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forty for Glory",
+      "trophyDetail": "Made a total of 40 guesses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/6A89209DE7692F365F7AAFE32DD329FBDCB45813.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sixty Seconds of Guessing",
+      "trophyDetail": "Made a total of 60 guesses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/525E271AD87376F7E7EFDCF8E9B51D28444BE1D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five-Finger Discount",
+      "trophyDetail": "Achieved a total of 5 wins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/A6DC64F1A48F7E6B48F5E46E6D21588FB05833E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tenacious Winner",
+      "trophyDetail": "Achieved a total of 10 wins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/AA2D545B7B60A65F3FE1B54A379C1BC1BA91C93C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fifteen and Fabulous",
+      "trophyDetail": "Achieved a total of 15 wins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/017F318756AE9CFC40C2A915D2977D28FAEB0FE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five-Loss Wonder",
+      "trophyDetail": "Experienced a total of 5 losses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/D17C26D37E930706C5AF8AE4799ECFA5A1B7F8D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ten Times the Trouble",
+      "trophyDetail": "Experienced a total of 10 losses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48240_00_00A4642F8BD08B4C7B87270BFDC8DB2E50AA6F59C4/BF9C5441FAECE29C000C0E663C56A02E37703202.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

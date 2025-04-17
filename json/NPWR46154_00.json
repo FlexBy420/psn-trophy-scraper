@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR46154_00",
+  "title": "2048 Snake",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "2048 Snake Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/7ba31c82-a636-4cdd-9272-11e5117109d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 10 coins",
+      "trophyDetail": "Collect total amount of 10 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/d775c38b-a3e7-4ccb-b9b5-59b7bebb375a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 20 coins",
+      "trophyDetail": "Collect total amount of 20 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/d874b540-1725-49dc-865a-279a92451c06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 30 coins",
+      "trophyDetail": "Collect total amount of 30 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/9dca88a9-6175-4cbf-811b-1b056af28992.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 40 coins",
+      "trophyDetail": "Collect total amount of 40 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/1dae981a-bbcb-4c0f-943c-ffa18fa789b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 50 coins",
+      "trophyDetail": "Collect total amount of 50 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/012cd6be-553c-4366-8a9e-579fb805dcb7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 70 coins",
+      "trophyDetail": "Collect total amount of 70 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/aa278f17-32f3-4bf6-979a-ae696d0cd303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 90 coins",
+      "trophyDetail": "Collect total amount of 90 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/06394783-5dfe-4bdb-a02b-1300a4f212a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 110 coins",
+      "trophyDetail": "Collect total amount of 110 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/5491b383-22c9-461c-a312-c7b29801aaad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 130 coins",
+      "trophyDetail": "Collect total amount of 130 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/932e6b84-bacd-43d3-9e1b-4bd7b31bd9e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 150 coins",
+      "trophyDetail": "Collect total amount of 150 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/19e80d1e-368a-4176-80f6-867188f37c07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 170 coins",
+      "trophyDetail": "Collect total amount of 170 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/a11b780a-5048-40b5-9dd4-376e667f2f8a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 190 coins",
+      "trophyDetail": "Collect total amount of 190 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/7de24ec2-d09e-449a-86b1-a132919c880a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 210 coins",
+      "trophyDetail": "Collect total amount of 210 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/ab7fe39e-daa4-4568-a253-59762e3ae7ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 230 coins",
+      "trophyDetail": "Collect total amount of 230 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/3b75b195-bd84-47da-bcde-32b4e06b8794.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 250 coins",
+      "trophyDetail": "Collect total amount of 250 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/0ec39e9e-21b8-4b84-96d9-872f1e5f7904.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 270 coins",
+      "trophyDetail": "Collect total amount of 270 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/cce36546-b21a-415d-8d60-3eab6f6f1eb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 290 coins",
+      "trophyDetail": "Collect total amount of 290 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/7d9a3fdd-d408-43c5-97f2-a4f07709bf7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 310 coins",
+      "trophyDetail": "Collect total amount of 310 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/d49f3e86-09c5-4ca7-9f77-486e7de8e098.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 330 coins",
+      "trophyDetail": "Collect total amount of 330 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/b4a49476-9db0-4dab-954b-05967f25ad3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 350 coins",
+      "trophyDetail": "Collect total amount of 350 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/9c37ffcf-065e-4236-a0e7-18ec44d780c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 370 coins",
+      "trophyDetail": "Collect total amount of 370 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/83112e7a-bb90-4a7b-8227-50a5266521b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 390 coins",
+      "trophyDetail": "Collect total amount of 390 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/5de4454d-05e6-442e-bd28-978ffbca4ca8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 410 coins",
+      "trophyDetail": "Collect total amount of 410 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/e8f20fcd-24a4-4c7a-880b-d2bba155c96f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 430 coins",
+      "trophyDetail": "Collect total amount of 430 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/cfb8d981-3315-4620-a91f-d84d05610a40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 450 coins",
+      "trophyDetail": "Collect total amount of 450 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/fdc412e4-86dd-4486-bd81-23a6bbc4e63d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 470 coins",
+      "trophyDetail": "Collect total amount of 470 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/f90d39b5-4850-4706-80c9-320e3b29be11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 490 coins",
+      "trophyDetail": "Collect total amount of 490 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/93746e8d-d596-41dd-800d-cd7acad04397.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 510 coins",
+      "trophyDetail": "Collect total amount of 510 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/86c30ef6-51b0-4e63-868c-f2e75be9b2db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 530 coins",
+      "trophyDetail": "Collect total amount of 530 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/655a8358-bbee-4eaf-bb27-00a04221a0e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 550 coins",
+      "trophyDetail": "Collect total amount of 550 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/ec337fc3-2231-4318-a4b1-55df005ce81d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 570 coins",
+      "trophyDetail": "Collect total amount of 570 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/a1d8e3c2-c600-4579-9792-c1030f97fa17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 590 coins",
+      "trophyDetail": "Collect total amount of 590 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/f0ddff47-daba-450a-8561-87a2a40f998e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 610 coins",
+      "trophyDetail": "Collect total amount of 610 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/4821a625-eb7a-4b8b-b4ba-02865f0404fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 630 coins",
+      "trophyDetail": "Collect total amount of 630 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/5d2a2215-53f4-4523-9c44-b8f7baa752cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 650 coins",
+      "trophyDetail": "Collect total amount of 650 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/aa23d9f6-f2de-4342-823a-5a5232fb860f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 670 coins",
+      "trophyDetail": "Collect total amount of 670 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/edbaf802-62bf-471c-bc51-06f9e8f089f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 690 coins",
+      "trophyDetail": "Collect total amount of 690 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/0ed0482c-9971-4c79-9132-d438ee102d52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 710 coins",
+      "trophyDetail": "Collect total amount of 710 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/e5e2bbac-5355-45a8-841a-95d41d278746.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 730 coins",
+      "trophyDetail": "Collect total amount of 730 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/97bd069a-8b72-4d2e-bb50-a822f29ced78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 750 coins",
+      "trophyDetail": "Collect total amount of 750 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/9861ed44-6740-4287-b39a-4009d9ff0970.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 770 coins",
+      "trophyDetail": "Collect total amount of 770 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/e49bc4df-01c6-4034-aaf9-30318a69cb36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 790 coins",
+      "trophyDetail": "Collect total amount of 790 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/2245fa96-a7fb-4a3e-9f2c-fb6f8cf68f84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 810 coins",
+      "trophyDetail": "Collect total amount of 810 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/15f4ac32-c440-4a99-8cec-6374a13f51b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 830 coins",
+      "trophyDetail": "Collect total amount of 830 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/6d4901af-546e-4af2-bb50-0c37aa380d28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 850 coins",
+      "trophyDetail": "Collect total amount of 850 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/7a0b88e4-95cd-4457-aa04-6104a236ea0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 870 coins",
+      "trophyDetail": "Collect total amount of 870 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/7047c3ea-f727-4730-a099-e4cd3f14b02f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 890 coins",
+      "trophyDetail": "Collect total amount of 890 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/92ec276c-2579-4e52-84aa-9bf878abe34e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 910 coins",
+      "trophyDetail": "Collect total amount of 910 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/5cba6b4c-01fe-4af9-b9ab-d7b984b41263.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 930 coins",
+      "trophyDetail": "Collect total amount of 930 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/4a939b54-eeff-4dd0-9e67-f483765b6d75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 950 coins",
+      "trophyDetail": "Collect total amount of 950 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/4e12df7a-d71e-45c2-83b3-6c847d2aa639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 970 coins",
+      "trophyDetail": "Collect total amount of 970 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/50b2510d-fab3-4611-a5e6-01895f8a981f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 990 coins",
+      "trophyDetail": "Collect total amount of 990 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/4de4e179-aae4-44d4-88f2-5f668114f070.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1010 coins",
+      "trophyDetail": "Collect total amount of 1010 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/5f39696c-c049-4fb8-8e80-d2c7297ce296.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1030 coins",
+      "trophyDetail": "Collect total amount of 1030 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/b50ac560-e58a-4f2b-aebd-97740355163b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1050 coins",
+      "trophyDetail": "Collect total amount of 1050 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/67d6a865-2abf-4c2e-bc1b-b3a83697696a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1070 coins",
+      "trophyDetail": "Collect total amount of 1070 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/bbbafe6e-a140-4ca2-907f-465f1c5f80c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1090 coins",
+      "trophyDetail": "Collect total amount of 1090 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/a9267487-ae0a-4787-be38-771840030f75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1110 coins",
+      "trophyDetail": "Collect total amount of 1110 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/0c75ced4-a932-4bfc-9586-0ea6f02dcbb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1130 coins",
+      "trophyDetail": "Collect total amount of 1130 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/43531271-0908-4dfb-9104-64912296e4aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1150 coins",
+      "trophyDetail": "Collect total amount of 1150 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/101c154a-e67a-4fb8-9a13-1206ab500b82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1170 coins",
+      "trophyDetail": "Collect total amount of 1170 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/24e8df71-7ea7-478d-a155-b60a1fd11411.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1190 coins",
+      "trophyDetail": "Collect total amount of 1190 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/1afd1333-df4d-47c6-ad2e-9622033f72e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1210 coins",
+      "trophyDetail": "Collect total amount of 1210 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/9e0adf8f-25b4-4cf1-91e4-f9e28542f19b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1230 coins",
+      "trophyDetail": "Collect total amount of 1230 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/ee66d741-7b5a-4655-ad63-d01de06ef8d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1250 coins",
+      "trophyDetail": "Collect total amount of 1250 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/9ea9892c-e856-4e9c-8b1e-fa2ca616a9f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1270 coins",
+      "trophyDetail": "Collect total amount of 1270 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/d9d619b7-1355-4f54-88a0-ec9224e89fc4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1290 coins",
+      "trophyDetail": "Collect total amount of 1290 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/e20e90c7-01c3-4c47-9caa-cfa456b8427d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1310 coins",
+      "trophyDetail": "Collect total amount of 1310 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/8ae921e5-de52-4cf3-838d-3fe76b3ccb54.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1330 coins",
+      "trophyDetail": "Collect total amount of 1330 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/fba086fc-4275-4fc3-9731-e8a0c51cbf55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 1500 coins",
+      "trophyDetail": "Collect total amount of 1500 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46154_00/1c4986f8-bf81-4352-9e5b-7239fe9e3e39.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

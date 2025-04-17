@@ -1,0 +1,595 @@
+{
+  "npCommunicationId": "NPWR49088_00",
+  "title": "Bartender Hustle",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 65,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Certified Bartender",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/c3bd5d2d-8dc4-458a-8a43-20b883b9ae9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here you go!",
+      "trophyDetail": "Serve a customer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/78e45d85-8bc6-4f80-b032-bee030ad6c32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect!",
+      "trophyDetail": "Serve a perfect beverage to a customer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/9794300f-30a7-44aa-af69-7661378512af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Screwdriver",
+      "trophyDetail": "Mix and serve a Screwdriver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/a043b113-0184-41a6-acaf-d204e25801fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doctor's order",
+      "trophyDetail": "Serve a cocktail to a doctor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/ea33f6f6-d744-4c81-93d1-174823f91414.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deviant",
+      "trophyDetail": "Serve a cocktail to a twin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/35d788dd-a228-4ecd-bcb0-f82337cf94c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beast mode",
+      "trophyDetail": "Serve a cocktail to a bodybuilder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/9bd72a0c-1d8a-4929-a5d6-0d59bf911d18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First day",
+      "trophyDetail": "Complete the first day of work",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/bcb9c2dd-7e9a-4101-a6a4-df8873136ab3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice bartender",
+      "trophyDetail": "Serve 15 drinks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/2407e5c0-5a84-406d-8b5e-de8f226d4731.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flawless",
+      "trophyDetail": "Complete a shift with no mistakes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/fc2d73f9-5089-462e-bf49-3c698e544900.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark 'n' Stormy",
+      "trophyDetail": "Mix and serve a Dark 'n' Stormy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/ab7b05d7-b4ce-42b7-b416-fff3702661f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fashionable",
+      "trophyDetail": "Purchase an apparel item",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/cface732-f942-4f33-b64e-2318fbd5a59d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cocktail!",
+      "trophyDetail": "Shake a cocktail shaker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/90124b16-14c5-4d1b-9c76-bc14c7e41f84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In case of rain",
+      "trophyDetail": "Use a cocktail umbrella",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/a0d75e6e-3728-46a2-b493-b6bdb6f2d31f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old Fashioned",
+      "trophyDetail": "Mix and serve an Old Fashioned",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/d082177e-2d5b-4513-8258-9a75baef1ea3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Martini Dry",
+      "trophyDetail": "Mix and serve a Martini Dry",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/688f7c75-ff37-4cce-9e11-d70b7e98e70d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beer garden",
+      "trophyDetail": "Get a job at Jasper Beer Garden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/8c302346-3643-4309-978d-08a0a68938ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Howdy, partner!",
+      "trophyDetail": "Serve a cocktail to a farmer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/0d6451d3-4bee-42a1-ab09-8ad13d213782.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Martini Sweet",
+      "trophyDetail": "Mix and serve a Martini Sweet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/07043388-70b3-47e1-989b-36d02be8ab0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bro, do you even tip?",
+      "trophyDetail": "Serve a cocktail to a sibling",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/3118a4f5-f2b2-497c-b51a-52767024336e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver Bullet",
+      "trophyDetail": "Mix and serve a Silver Bullet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/429cafc5-fd1f-4899-8b27-b1f76f5c1c00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bonus!",
+      "trophyDetail": "Receive a quiz bonus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/0ed07571-ce64-49f1-8e24-f4563cd6fcca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grasshopper",
+      "trophyDetail": "Mix and serve a Grasshopper",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/a4002e67-bb76-45c0-bf6f-487aafaddf03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pop champagne",
+      "trophyDetail": "Open a bottle of champagne",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/f021c1eb-dee4-45ef-8784-b488d13f739a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rattlesnake",
+      "trophyDetail": "Mix and serve a Rattlesnake",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/e0dc644b-2dfb-4322-964b-902517fb563f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yellow Bird",
+      "trophyDetail": "Mix and serve a Yellow Bird",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/7bedf7b7-6cfc-46ff-b416-81e676efa324.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tic-tac-toe!",
+      "trophyDetail": "Win a game of tic-tac-toe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/cbdfceb4-4380-4950-b3e9-e259ed85a711.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strobe",
+      "trophyDetail": "Get a job at Flash Nightclub",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/5cb94f0e-985f-4f2c-a099-ab1c3879cdf3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tequila Slammer",
+      "trophyDetail": "Mix and serve a Tequila Slammer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/2d536be3-aab4-470f-95c1-f9339603faff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Firestarter",
+      "trophyDetail": "Light a cocktail on fire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/fb2e22d8-490b-40ab-9950-f8ffda4954ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magic Spell",
+      "trophyDetail": "Mix and serve a Magic Spell",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/fd8779f8-d427-4698-b760-aec0ba7d4c0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can I offer you a beverage?",
+      "trophyDetail": "Serve a cocktail to a flight attendant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/270daa67-ad6c-4d78-b3e9-62952dd25157.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising up",
+      "trophyDetail": "Get a job at Summit Hotel Bar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/0dc46c0c-c3ea-4621-a4d0-635d2fafee84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aviation",
+      "trophyDetail": "Mix and serve an Aviation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/0841dc98-fb0f-4abb-980c-8fd9bfc833f1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nice serve!",
+      "trophyDetail": "Serve a cocktail to a tennis player",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/18d49822-5c23-4fd8-bc6e-805ded9a02b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scuba",
+      "trophyDetail": "Serve a cocktail to a diver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/a8719f0b-8ece-402f-8611-1352cc483661.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Starstruck",
+      "trophyDetail": "Serve a cocktail to a celebrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/4ae129e6-2b5d-4ff0-85fe-4ec8095202dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Open for business!",
+      "trophyDetail": "Open a bar in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/fdc6b141-ea20-4490-a1ba-b15c4f6fbb0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hurricane",
+      "trophyDetail": "Mix and serve a Hurricane",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/182c4be2-1489-4e58-bb61-4576bedb0171.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tropical",
+      "trophyDetail": "Get a job at Dreams Resort Bar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/28d854a7-189e-425f-9b1d-249d8b096483.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mai Tai",
+      "trophyDetail": "Mix and serve a Mai Tai",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/17982928-691a-4978-a3d2-d29642c23e4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "AMF",
+      "trophyDetail": "Mix and serve an AMF",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/5957115d-33f0-426f-9ec0-24e8a96cf0f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunset",
+      "trophyDetail": "Complete story mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/82ddfc3c-bbaa-4c06-b56d-fdc3881c30ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making money",
+      "trophyDetail": "Have a profitable day in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/676b0e40-3a75-4467-a552-dddba859badd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge accepted!",
+      "trophyDetail": "Receive a trophy in a Sandbox challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/64a6554c-354f-4657-8d18-a837258148e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game on!",
+      "trophyDetail": "Add a lounge upgrade in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/a3d81811-eca1-4f9a-8cb1-a5907487df1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Lagoon",
+      "trophyDetail": "Mix and serve a Blue Lagoon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/2e6c1d19-8dc1-4a82-961d-4730c2a1a4fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro bartender",
+      "trophyDetail": "Serve 250 drinks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/91955ffd-eb31-4cdb-b4de-930d15883ff0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reputation 50",
+      "trophyDetail": "Reach a reputation of 50 in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/86207386-753d-40a3-9922-215bf8191730.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gin Fizz",
+      "trophyDetail": "Mix and serve a Gin Fizz",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/71e1cbb9-2dbf-4f90-94b2-dbef511a921b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party time!",
+      "trophyDetail": "Add a club upgrade in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/f8b56343-f97c-42e1-a048-3e64d3e7c62c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Dream",
+      "trophyDetail": "Mix and serve a Golden Dream",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/beaad6f3-c16f-4f25-ac8a-66281cebb5f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toasted almond",
+      "trophyDetail": "Mix and serve a Toasted Almond",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/c3967bfc-d904-48f0-af88-63a5139adf48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "French 75",
+      "trophyDetail": "Mix and serve a French 75",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/5131f948-99bc-47f9-b6fc-60152a4b308b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greyhound",
+      "trophyDetail": "Mix and serve a Greyhound",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/ba794c40-c97a-4d3f-a4cc-798f8fb9c20f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reputation 60",
+      "trophyDetail": "Reach a reputation of 60 in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/cd8b8b9a-e715-4ab7-9de7-39a48c9a25cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle's Dream",
+      "trophyDetail": "Mix and serve an Eagle's Dream",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/dd3c6c92-c5d8-41d6-96b2-23c5d0318397.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barracuda",
+      "trophyDetail": "Mix and serve a Barracuda",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/30ffbb24-d873-461b-8eac-5daa0388a87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "El Presidente",
+      "trophyDetail": "Mix and serve an El Presidente",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/4a4009e8-499f-43e7-8e03-480475270e92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "California Root Beer",
+      "trophyDetail": "Mix and serve a California Root Beer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/3ad491ec-fc56-4261-8a47-825432ab9f81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rocket Fuel",
+      "trophyDetail": "Mix and serve a Rocket Fuel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/996dbd54-c875-423d-a4e4-6ef7f535c065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jungle Bird",
+      "trophyDetail": "Mix and serve a Jungle Bird",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/e2ee605d-c5f7-41a3-9b7f-d734b25f3730.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reputation 70",
+      "trophyDetail": "Reach a reputation of 70 in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/5e9ef77a-c96c-47fd-9493-dadefc75e67c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Planter's Punch",
+      "trophyDetail": "Mix and serve a Planter's Punch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/b3eccd9d-3ac4-47dc-a71c-ed53bc131c04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reputation 100",
+      "trophyDetail": "Reach a reputation of 100 in Arcade mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49088_00/4da264b7-2b5e-47d0-b157-693f3d090fee.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

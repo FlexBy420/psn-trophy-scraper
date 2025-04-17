@@ -1,0 +1,748 @@
+{
+  "npCommunicationId": "NPWR50009_00",
+  "title": "Date Z: Welcome to Massville High",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 82,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Love in the Time of an Outbreak.",
+      "trophyDetail": "Collected all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/220dab65-053b-42f4-bcaa-8d49cc986023.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bonjour!",
+      "trophyDetail": "Attended your first French class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e4d4b0f9-e9c8-4b18-9d14-fcba4e72d56e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sweet.",
+      "trophyDetail": "Met Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/71a431cc-c3f8-4cc4-a3e4-d6fb66aee7c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Well-read.",
+      "trophyDetail": "Met Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e6f3c491-ee15-4134-9f3a-b2e6c015176a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Strong.",
+      "trophyDetail": "Met Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/73f61b1f-9ba8-431b-bb4b-03a42f5fc2c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Uncanny.",
+      "trophyDetail": "Met Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d7df09a1-9349-485a-8c8f-b52362929e63.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wasn't the past the worst?",
+      "trophyDetail": "Attended your first history class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/8ebc83b3-7b37-4fca-8166-8ab5f8e445ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Take five.",
+      "trophyDetail": "Went to grab some grub.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/93e77bf4-3ec1-48ac-8eaa-b705add6fb0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kaboom!",
+      "trophyDetail": "Attended your first science class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/28b96f2a-fdac-42d2-ac14-2843521a8e4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Winding down.",
+      "trophyDetail": "Made it to dinner.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/4ef936e8-7f08-4a8f-a339-76e01d7ce929.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "One down…",
+      "trophyDetail": "Survived your first day.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d00756ec-241b-442f-ba21-e3dc2e02aecc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "It was just a warm-up.",
+      "trophyDetail": "Completed loop 0.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/5f8f46b1-d129-4306-afa4-6a6b8b611d87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Wanna see me do it again?",
+      "trophyDetail": "Completed loop 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/34b2a39a-4537-4589-8897-af1e470a1660.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "I can do this all day.",
+      "trophyDetail": "Finished five loops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/a0a7025f-9b2d-4abf-b1dc-59ca31de61bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Don Juan, is that you?",
+      "trophyDetail": "Gained 1000 romance points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/bc5d755f-d9bc-4cc3-8034-9b7f1dcc21ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "So, it was just luck?",
+      "trophyDetail": "Lost 200 romance points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/2d4ddb85-a904-47f2-9b05-7d74aea9cdda.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Off the beaten path.",
+      "trophyDetail": "Viewed 30% of side scenes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e6e1ae30-536b-44e7-acb0-70792b8fb4e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Leave me alone!",
+      "trophyDetail": "Didn't engage in romance with anyone in a single run.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/74b9cf14-2ffc-4380-b632-f021d3abeec0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "1.21 Gigawatts.",
+      "trophyDetail": "Used time reverse for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d46baad6-f49c-45c0-bf79-cef7241394dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The laws of time are mine!",
+      "trophyDetail": "Used time reverse ten times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/f904fe18-19d0-45dd-921c-b3bf8d78d256.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Let's go hunting!",
+      "trophyDetail": "Completed the first romance scene with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/8bb53e44-d845-4898-8176-baaa09cfaaa4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rescue, fight or... Fun?",
+      "trophyDetail": "Completed the first romance scene with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/5dd1d6c5-e477-4d8b-9bb8-2278396a7fb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sparks are flying...",
+      "trophyDetail": "Completed the first romance scene with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c71f48b9-857b-4cb5-917f-a8c60211afcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Introduction to interviewing.",
+      "trophyDetail": "Completed the first romance scene with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d406c141-db8c-4fa4-9515-8349061cee57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Have you been handing out a love potion?",
+      "trophyDetail": "Had a romantic interaction with every girl in a single playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/65579624-e72a-40a5-986c-805fa6e7c706.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Encore ceci?",
+      "trophyDetail": "Attended your second French class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/caabec37-f7c8-4f53-bdaf-c22b6503bf57.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "This feels foreshadowing.",
+      "trophyDetail": "Attended your second history class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/44d853cc-1cb4-4b86-ace9-77f6d2bcda0f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What's on the menu today?",
+      "trophyDetail": "Visited the cantina again.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/0b7b1655-9baf-4277-a8b3-f64046482895.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Professor, is that you?",
+      "trophyDetail": "Attended your second science class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/f295abfc-3062-4418-9536-4c19e510ac33.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Day Two - check!",
+      "trophyDetail": "Survived day two.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c1d7e5e8-7b2f-487f-a0f8-13efa88a9207.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Something of an explorer.",
+      "trophyDetail": "Viewed 60% of side scenes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/6f0a2419-230b-4dbe-ba2d-cf513f9d7e60.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "(Don't) let her cook.",
+      "trophyDetail": "Completed the second romance scene with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c915a202-a278-42f1-9716-8ed20137faf7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Critical failure, squire!",
+      "trophyDetail": "Made the wrong choice while romancing Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/cf31f850-6269-458d-866f-40afab5deda8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Break-in.",
+      "trophyDetail": "Completed the second romance scene with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/0705dc9a-de78-4f01-822f-bceeb7ffa718.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Brandon doesn't know.",
+      "trophyDetail": "Completed the second romance scene with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/38cbda85-17f5-4ee1-a916-ba4355acb661.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Behind closed doors.",
+      "trophyDetail": "Completed the second romance scene with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/1ea6b2b2-f881-418e-a6ca-cd06cfd69bcf.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Long way down…",
+      "trophyDetail": "Learned about the terrible accident on campus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/90521691-3c40-4ccd-b5ff-27494a676172.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Un, Deux, Trois.",
+      "trophyDetail": "Attended your third French class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/37cceeb4-61e9-4389-8357-b58722dc6a6b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Commotion in the common room!",
+      "trophyDetail": "Attended the meeting in the assembly hall.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/7c0013ff-8870-4e9f-82cc-c86a1f6ed54d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dodged that bullet.",
+      "trophyDetail": "Attended your third science class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/2302ce8d-6012-45cc-88fc-54db78a8f9f0.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Getting a hang of it.",
+      "trophyDetail": "Survived day three.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/1578c8fc-9c80-41e6-8e0a-9402e233f77b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder!",
+      "trophyDetail": "Viewed all side scenes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/9cb70763-e5b8-45b7-9c22-9bd55ac8d4dc.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sheriff will be pissed…",
+      "trophyDetail": "Made the wrong choice while romancing Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c6112378-8bce-47a3-9431-a1b9628aa425.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The daughter also rises.",
+      "trophyDetail": "Completed the third romance scene with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/5c9e9b58-b319-45fa-965f-1570ff2bb07c.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Live ammo.",
+      "trophyDetail": "Completed the third romance scene with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/406b0104-eac8-473e-9636-768932e605ad.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Serious drilling.",
+      "trophyDetail": "Completed the fourth romance scene with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/0c88c27b-e9e5-4f68-8638-3f64295ecd78.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Printing press failure.",
+      "trophyDetail": "Made the wrong choice while romancing Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/56c38078-efe6-41ae-a646-91813e0ea249.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The investigation continues.",
+      "trophyDetail": "Completed the third romance scene with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c9195a88-a822-4632-917e-02409b11a950.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Key to his secrets.",
+      "trophyDetail": "Completed the fourth romance scene with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/009ea38e-63c7-499e-a0c1-71ab4ff9847e.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "This is private!",
+      "trophyDetail": "Had a shower encounter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/30b790a9-843d-445c-8c08-66765c552c07.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's becoming a new norm.",
+      "trophyDetail": "Attended your fourth history class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/dc208557-92cc-408c-acdb-5b9f5f4cb7bb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Call me beaker.",
+      "trophyDetail": "Attended your fourth science class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/1c4ac99c-2eb8-48bf-8a3e-163717d9c0f0.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Time is running out.",
+      "trophyDetail": "Survived day four.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/7838bed3-bea1-4c22-9d83-73b391d6c82f.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cooking for two...",
+      "trophyDetail": "Completed the fourth romance scene with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/6a54dbe3-f12e-4985-9c70-fdabb55826a1.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "That's the way the cookie crumbles.",
+      "trophyDetail": "Completed the fifth romance scene with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e0e15647-83df-485b-9e3a-514f1595452c.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fancy a bit of a role-play?",
+      "trophyDetail": "Completed the third romance scene with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/a0dd1e6c-bccb-46f5-a318-e60ccc399d0f.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bullied no more.",
+      "trophyDetail": "Completed the fourth romance scene with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/823d6160-29cd-4e6a-a63e-72308ade7b1d.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Your room is the tavern.",
+      "trophyDetail": "Completed the fifth romance scene with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/9e26fe9c-6380-4c49-8ae1-c54d916a2d00.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I knew you were not cool.",
+      "trophyDetail": "Made the wrong choice while romancing Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/fd5687b9-7f05-4663-9616-89a68eab80b8.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Outside and inside.",
+      "trophyDetail": "Completed the fifth romance scene with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/ed958878-eb58-40b0-8e21-bf0643b69871.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Final interview.",
+      "trophyDetail": "Completed the fifth romance scene with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/04f20719-1e2f-4847-a58f-554642d1da7e.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tour de France.",
+      "trophyDetail": "Completed all French lessons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c8efebe7-1d31-4443-b9f7-966d234692cd.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oh my god, it's happening!",
+      "trophyDetail": "Witnessed the outbreak.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/154aeeee-575b-479c-978c-cac735178f62.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You must really like her.",
+      "trophyDetail": "Attained maximum number of romance points with one girl.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/cc9fbfeb-2fd9-4cd2-ace5-94b8d5788702.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Two shots, one opportunity.",
+      "trophyDetail": "Seen first ending with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d3f3e39a-8f45-4fbd-b4cc-3409db97f90d.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Books will save us.",
+      "trophyDetail": "Seen second ending with Patty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/d676ee21-8d04-4243-b59d-bc3f8a207b0c.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "End of the line.",
+      "trophyDetail": "Seen first ending with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/c44aecdc-5860-4d71-8fbb-eab0d0956371.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Miraculous product.",
+      "trophyDetail": "Seen second ending with Vivi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/67d191b5-b8a8-49d5-a213-0c44d21e74aa.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tower defense.",
+      "trophyDetail": "Seen first ending with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/55a3d4aa-0e07-4218-913c-ef04d8ee1392.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No quitting!",
+      "trophyDetail": "Seen second ending with Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e2930944-d2a7-4545-9c94-a28e7812c3ca.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Parking violation.",
+      "trophyDetail": "Seen first ending with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/43e65df5-64f7-4361-a65a-0c9c8e854d2f.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Laboratory encounter.",
+      "trophyDetail": "Seen second ending with Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/a42ff8b7-a9ec-4f83-9be4-83124315b81f.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Polyamory 1-0-1.",
+      "trophyDetail": "Had a menage a trois while romancing Bao.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/1c305b68-091e-48e1-85c2-d9250a3de74f.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Three is a magic number.",
+      "trophyDetail": "Had a menage a trois while romancing Alicia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/6ee819e0-01b5-4063-8f06-572fdbfd9d8b.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Seen it all.",
+      "trophyDetail": "Explored all the main story paths.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/849295f0-44a5-4982-bd9d-63c29df127e3.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Don't freak out.",
+      "trophyDetail": "Completed the first romance scene with Oriana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/27fc67b5-54bd-458a-8f81-ec450f00b87d.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To say \"enthusiastic\"…",
+      "trophyDetail": "Completed the second romance scene with Oriana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/1b14517f-f1e2-49f5-82ce-81234f7d8671.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "… would be an understatement.",
+      "trophyDetail": "Completed the third romance scene with Oriana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/bd12274d-428b-4c65-b5b3-2ca68402413c.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Survivors assemble!",
+      "trophyDetail": "Gather the team to execute the master plan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/e8c4ba03-d10f-4255-96e1-2bf6c27f5e34.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's been a long time coming.",
+      "trophyDetail": "Completed the fourth romance scene with Oriana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/ed28ba12-e129-4648-8f35-5951aae14687.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Home straight.",
+      "trophyDetail": "Started the final loop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/3742007a-a895-4c90-8642-8a9856ba968c.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Love is blind.",
+      "trophyDetail": "Made the final choice.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50009_00/99e3769c-c964-4ed2-a14b-24c62671bfd7.png",
+      "trophyGroupId": "005"
+    }
+  ]
+}

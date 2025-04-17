@@ -1,0 +1,415 @@
+{
+  "npCommunicationId": "NPWR48107_00",
+  "title": "Break The Loop trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 45,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Platinum Trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/d5054e9d-80c9-4ab0-a935-01b51a5060d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Takoyaki",
+      "trophyDetail": "Defeat Yot-Soghoth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/c89ef6f3-afb4-4780-9b7e-00eadea5c94b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death to the dead",
+      "trophyDetail": "Defeat Putride",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/8503493a-8cae-4fc3-aea8-35c2eab7b718.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time tourist",
+      "trophyDetail": "Collect 500 Fluxons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/61012976-9892-4264-93a2-cc656e28ae3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Traveler",
+      "trophyDetail": "Collect 1000 Fluxons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/59dfe3b8-e49d-4d62-968c-61921721d65f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Explorer",
+      "trophyDetail": "Collect 2000 Fluxons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/7e52ef95-3ffb-430e-abc4-78795b0d4100.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Temporal Expert",
+      "trophyDetail": "Collect 4000 Fluxons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/b8120ada-c151-4cea-8c63-f828628b7412.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Hero",
+      "trophyDetail": "Collect 8000 Fluxons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/044ea20d-6bb5-46a3-af36-7cdfa2e1a29f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Impatient",
+      "trophyDetail": "Win a \"be bold\" boss battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/c9d02fd6-a77c-470e-bc7f-e950ffe48b02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purge",
+      "trophyDetail": "Kill all Eldritch monsters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/62efa04d-a096-4337-ae07-09dcc7828683.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First steps",
+      "trophyDetail": "You've earned Chronium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/85ccd580-02f6-467c-bf77-4f6737ef9a42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Favorite",
+      "trophyDetail": "Equip 5 capsules on a hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/fecc89f3-4455-44bd-ad54-d1ce98d8c4a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jackpot",
+      "trophyDetail": "Collect 300 Bigcoins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/e3445352-eb25-4805-bc66-06d2a722bc39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Butchery",
+      "trophyDetail": "Kill 100 monsters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/fbf83187-0e9e-42d6-a867-a7072fb60cba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lure of profit",
+      "trophyDetail": "Defeat the Mimic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/65129f8e-bf64-46dd-9a23-d825b3cf9312.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poacher",
+      "trophyDetail": "Defeat the Corrupted Bear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/2fa54805-02bc-4dfb-aa3c-b7499d6d5146.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weedkiller",
+      "trophyDetail": "Defeat the Putrescent Plant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/281780a5-3f39-4a42-a71c-feacb46b8790.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion",
+      "trophyDetail": "Save the world 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/d5054e9d-80c9-4ab0-a935-01b51a5060d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Infinity",
+      "trophyDetail": "Unlock all events in a segment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/ce7ea6d7-f28e-4623-bd7c-0a75f301f5d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Enough is enough",
+      "trophyDetail": "Take 20,000 damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/398adafc-3c5d-442c-9214-22e93ced22e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "HOW MUCH?",
+      "trophyDetail": "Inflict 999 damage in one attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/2ac795dc-7cdc-4c11-aca2-d51820baea5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pro Gamer",
+      "trophyDetail": "Defeat Pay2Win",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/7bb5f061-6af1-4b41-b488-8c773b43d5a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yin and Yang",
+      "trophyDetail": "Played 1 game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/f7a45ffa-e1f6-444c-a295-e79992f3a768.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Independence Day",
+      "trophyDetail": "Kill the alien emperor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/2ea05d27-ca7d-42f0-997a-dc906332dae4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Persistence",
+      "trophyDetail": "Finish the game in Cataclysm 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/88fe3908-bb92-48f9-875e-2300c32521e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Relentlessness",
+      "trophyDetail": "Finish the game in Cataclysm 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/d4c8ebbf-411e-46d8-9dae-19d32837d98a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Madness",
+      "trophyDetail": "Finish the game in Cataclysm 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/5f538cb8-15da-4b51-8a04-4135388f0aca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Team",
+      "trophyDetail": "Unlock all the heroes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/10f3635e-f599-4309-aeef-09f6262a1b9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swagger",
+      "trophyDetail": "Finish a game in Cataclsym 1 with 2 Poser talents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/f88f528c-604d-41df-8342-1969d0981365.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zom-bone",
+      "trophyDetail": "Kill a Walker with a critical",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/03501b21-aecf-4bb8-ba2e-3e8fdade4290.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surge of Power",
+      "trophyDetail": "Spend 800 echo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/cd11bca0-8839-4a08-a98f-08b383950665.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Echo-Responsible",
+      "trophyDetail": "Have all your team with 5 echo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/592b45b9-0f1a-4226-84ef-0759e2fc1d4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Round table",
+      "trophyDetail": "Test all options of an event dialog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/74239800-7936-4351-aef6-e044828bc37e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beneficial Care",
+      "trophyDetail": "Perform 8 critical heals on a weakened target",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/3e23f41f-c047-4c8e-806d-940454f88d1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Awakening",
+      "trophyDetail": "Unlock three passives on a hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/565250dc-5e4b-4f61-b10e-384d9ba80f23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scapegoat",
+      "trophyDetail": "Cumulate three charges of Dephasing on a hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/d9261d09-db56-4a4d-b0e9-d426f2a2eda7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bold",
+      "trophyDetail": "Kill 3 bosses with the bold choice on the same run",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/a0f007a7-4577-4b87-9985-21d14d2d49eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good fortune",
+      "trophyDetail": "Score 100 critical hits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/2835266f-a21a-4813-8d71-29ea27df0128.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Torment",
+      "trophyDetail": "Inflict 3 afflictions to a monster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/fd26152f-1057-4c7e-8fff-a5d3ae10b5c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stingy",
+      "trophyDetail": "Die with more than 40 Bigcoins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/d8e48484-e518-4a52-a9c6-88cb47ebc04b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Almost",
+      "trophyDetail": "Die on a boss with 15% HP",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/c3a996c8-7784-4fa1-b810-ea2e3d5f6754.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completionist",
+      "trophyDetail": "Put a modifier on all of a segment's tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/ab5ff60b-724a-411b-89f5-5b321a963aba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Persevering",
+      "trophyDetail": "Reroll the result of an event 4 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/2146760e-9e3b-421f-9675-5c68b685dd01.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharing",
+      "trophyDetail": "Equip 4 capsules on all heroes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/da119b95-2abc-4fff-8228-4d391537bfa7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hydrophobe",
+      "trophyDetail": "Kill the Water Spirit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48107_00/294eef9a-d6b6-4c31-ab40-2cf3b82ab7f8.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

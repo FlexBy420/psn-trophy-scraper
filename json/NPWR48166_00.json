@@ -1,0 +1,334 @@
+{
+  "npCommunicationId": "NPWR48166_00",
+  "title": "Just Crow Things",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 36,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Beat all the levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/EEC756DF77128DC62EF954009DBAC14E3928E3F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minimum Effort",
+      "trophyDetail": "You did the bare minimum!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/27183CD173AB9FEFF2CC161DE4B8CD8E7E843669.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Coolest Bird in Town",
+      "trophyDetail": "Beat the game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/F35E3E09EB60EB1C31FD71F6BBB3C713F93E0A6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Race Bird",
+      "trophyDetail": "Win all races",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/92DE52FFF3FB47D8C5133D508529CFD4D05994D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I am Speed",
+      "trophyDetail": "Win 1st place in all races",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/A4ABDD9ACEB10DF427DE11AA2E1566B6E63D434B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Skins Collector",
+      "trophyDetail": "Find all skins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/31EE6107A7F755FB62ACAD12200CB89F3E74858F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hat Collector",
+      "trophyDetail": "Find all hats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/494B9FAA2CB609C6D114CF4CEB85656D0F6D0249.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quaint Town",
+      "trophyDetail": "Reach the Quaint Town",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/7A686334C62D335D75796DB2C1C3AF96A18087C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyramids!",
+      "trophyDetail": "Reach the Pyramids",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/7985989C74C9BA70C173F28248B6E31F19627608.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Camp",
+      "trophyDetail": "Reach the Camp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/99A50D211735A0F6B37C3E7DC3638F9BB63FEA7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Riviera",
+      "trophyDetail": "Reach the Riviera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/3C08FAC89F47673A227BB1BD7E019C2926D9468C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edgar",
+      "trophyDetail": "Reach Edgar's Mansion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/1DDC02F33778774ABF228E0A47636A69DF33C9D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fantasy",
+      "trophyDetail": "Reach the Fantasy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/7F1F0308A6053ED5707BE595B4C83D1C36851BD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moon",
+      "trophyDetail": "Reach the Moon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/C65AB91366E608F47E55B82B06A7FCC9D73E065C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Apple",
+      "trophyDetail": "Reach the Big Apple",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/9639B3A11FB4555AE784CF53D3C40EBA4B164C3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Craft World",
+      "trophyDetail": "Reach the Craft World",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/E8D97D351D0FF856A62E1FAF0DC83C57EB732CB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wing Waker",
+      "trophyDetail": "Reach the open seas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/852455FFA62292FA5ACE027EFAC2E0D56E0F7DE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Almost There!",
+      "trophyDetail": "Reach the Finale",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/99C2D0D0E1ABAD1A858A99E9935A6FCDA18B7A26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Pooper",
+      "trophyDetail": "Poop 1,000 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/D5CB87CB8840DBD8DFFF810A9F6BDAAF193B7437.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spammer",
+      "trophyDetail": "Spawn 100 items in Sandbox Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/A34304A0BDDA30D2DB469F8D7F418EE3D6BBF563.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dev Hater",
+      "trophyDetail": "Poop on the developers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/68A80CF305CE974BB38DAF68494A75381FD3B1C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wake up the Elf Boi",
+      "trophyDetail": "World ain't gonna save itself.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/7D1A6F65560DA7BE2C24D07A2823747A45F4637E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Find the Princess",
+      "trophyDetail": "We're all mad here...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/1F8BDA615C3846E9CAC0B50F48E2B4F64E61248F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breadspiracy",
+      "trophyDetail": "Talk to the bread at 3 different occasions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/63877521CEDD5AF4312669050D52D2DBF0254416.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blown away",
+      "trophyDetail": "Blow away all briefcase guys",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/E538A305610C153A13D67EFCDAC43A694F4F7E82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Goat Herder",
+      "trophyDetail": "Get goats to punt 20 hoomans",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/3A45234BE0E84559AADF1D7E00999D7B909141F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ain't afraid of no ghosts",
+      "trophyDetail": "Destroy all nightmare creatures on Camp",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/185F1F48CC8BCE780B50C3FE5A3D707663CCECC5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anti-Potter",
+      "trophyDetail": "Break all pots in Edgar's mansion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/04C70694E2D1B1CDC659B634F8540A2C2C5A56DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Painter",
+      "trophyDetail": "Paint 1,000 blobs in the Riviera",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/BDB0A12BAEB5D713BB3C7D0789B36C08D6ED291C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Peacemaker",
+      "trophyDetail": "Restore peace in the Fantasy realm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/7A2757A1497F3785A1FE2C0BEB4F70ECDCCE151C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dog Person",
+      "trophyDetail": "Achieve Dog victory in the Fantasy realm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/693C15357510A3A9E649A9CACD2D506C79430DF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cat Person",
+      "trophyDetail": "Achieve Cat victory in the Fantasy realm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/99E84FE4F1E20D6B884FAB939D8A81A1508C6C47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Somewhat of a scientist",
+      "trophyDetail": "Find all the hidden minerals on Moon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/0DBF4634A14C75FBF18BB5645BECD9FF481A5A63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rain on Your Parade",
+      "trophyDetail": "Rain on 20 hoomans on Craft World",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/6611DDFC1242FA6248544C881D155C4B9CF866A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Home Run",
+      "trophyDetail": "Punt 100 hoomans",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/DC42A5C5C3F803E0C3924DF8EA851AB526874686.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coins!",
+      "trophyDetail": "Help someone who lost their coins",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48166_00_003535105F14FE816155D867D874C0E61854045D73/64D7FBD6E1044B38F65610E507BB01CE07FC6F43.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR40048_00",
+  "title": "UFIGHT Trophys",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win First Fight",
+      "trophyDetail": "You won your first fight in UFIGHT",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40048_00_004B7515F14F686145219F72A81F73AE95F6DB44D6/164A954F11149BA1529F1727A43EF14BD5938B43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 2nd Fight",
+      "trophyDetail": "Win 2nd Fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40048_00_004B7515F14F686145219F72A81F73AE95F6DB44D6/941C2D2380750AC63C0BE93688AEAB4739519004.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 3rd Fight",
+      "trophyDetail": "Win 3rd Fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40048_00_004B7515F14F686145219F72A81F73AE95F6DB44D6/AB74FAF792CDFB729051D1A6E28B78BCB70C77E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Win 4th Fight",
+      "trophyDetail": "Win 4th Fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40048_00_004B7515F14F686145219F72A81F73AE95F6DB44D6/DCD5DF91EDC828548F31326E84BC2EBC4D51C8C1.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

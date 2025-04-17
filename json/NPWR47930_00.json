@@ -1,0 +1,79 @@
+{
+  "npCommunicationId": "NPWR47930_00",
+  "title": "Doodle Hunt",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 7,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Classic Master",
+      "trophyDetail": "Complete all levels in Classic mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/e56e5494-7221-4310-922e-a3d960a2e328.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Time Master",
+      "trophyDetail": "Finish all levels in Timer mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/feb91986-e1da-44de-8a8b-e95be97dbd38.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Got Lost?",
+      "trophyDetail": "Use the navigator 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/76fe442d-531e-45fa-8200-29dc07bee14f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blind Spot",
+      "trophyDetail": "Click randomly 200 times without hitting an object.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/12024e79-6bf6-489a-9cfb-32fbce85a197.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Independent",
+      "trophyDetail": "Finish 10 levels without using the navigator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/ea90e4f4-f0a5-4ef9-aad1-7b3128df3e33.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Quick Player",
+      "trophyDetail": "Play 50 Quick Play levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/9f495bda-da76-4f59-bc61-b36b04e23928.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flash",
+      "trophyDetail": "Complete a level in under one and a half minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47930_00/85bb0b25-6305-4708-a653-b5c91f6c8765.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

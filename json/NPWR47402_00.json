@@ -1,0 +1,550 @@
+{
+  "npCommunicationId": "NPWR47402_00",
+  "title": "The Rise of the Golden Idol",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 60,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Rise of the Golden Idol",
+      "trophyDetail": "Complete all Rise of the Golden Idol puzzles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/c7bb795a-9e62-4f17-b6f1-d07b8da1e5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Constriction",
+      "trophyDetail": "Solve the Constriction scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/02db0722-fc96-41cc-92fa-1cef42cb074f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Academic Impact",
+      "trophyDetail": "Solve the Academic Impact scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/44681ce8-f837-4386-abd5-3ef24f058b20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under Construction",
+      "trophyDetail": "Solve the Under Construction scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/e5cf9ff6-b902-4184-872e-3f3cee205e1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "News Flash",
+      "trophyDetail": "Solve the News Flash scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/9cf3b42e-64d4-4bb6-b66a-f787a0f51021.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garden Retreat",
+      "trophyDetail": "Solve the Garden Retreat scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/66bf3818-864c-4eb6-88b7-8b275376e049.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behind Bars",
+      "trophyDetail": "Solve the Behind Bars scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/fcc520d9-d853-4171-8265-3b8b3c32dfe2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blockbuster Release",
+      "trophyDetail": "Solve the Blockbuster Release scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/ce0a2a65-77f4-4502-922c-73c6f2848454.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going Once",
+      "trophyDetail": "Solve the Going Once scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/31deecda-d6b0-4b5a-8fa6-e83dea640a36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignition",
+      "trophyDetail": "Solve the Ignition scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/7b1527e9-f793-4ea0-8473-6c1a8743b9e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Protest Movement",
+      "trophyDetail": "Solve the Protest Movement scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/bc4898c6-8e78-4385-90b6-331bd5ca0588.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Procedure",
+      "trophyDetail": "Solve the The Procedure scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/82e05839-83de-489e-9511-2ad234762747.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feathered Frenzy",
+      "trophyDetail": "Solve the Feathered Frenzy scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/4fe12924-5a5e-4eb1-ab9e-318c56460825.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Backstage Drama",
+      "trophyDetail": "Solve the Backstage Drama scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3a1d5eb7-a666-4558-bb60-50258cb2f430.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speildance",
+      "trophyDetail": "Solve the Speildance scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/428410c3-cbc1-46d1-8039-4f702f47a6c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complex",
+      "trophyDetail": "Solve the Complex scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/0d04a739-e6f4-4a83-82db-6bcea4280667.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beach Trip",
+      "trophyDetail": "Solve the Beach Trip scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/9c47d781-b013-4efc-b1c2-b2bb8fd51f17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boardroom Brawl",
+      "trophyDetail": "Solve the Boardroom Brawl scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3b5ad780-2ecf-40ce-a8a8-6a1142e7d275.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancient Artifacts",
+      "trophyDetail": "Solve the Ancient Artifacts scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/b62950f5-1139-4d6f-b74b-32cff1690c06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steelside Warehouse",
+      "trophyDetail": "Solve the Steelside Warehouse scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/88f5c513-ca60-4ef7-a88d-0484302feaf9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Clash",
+      "trophyDetail": "Solve the Final Clash scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/6b85ea00-9bd9-4283-9601-0a4988f45d29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Curse",
+      "trophyDetail": "Complete the Curse chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/e70401cb-07d1-406f-9ffb-1a34f5314e0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Pursuit",
+      "trophyDetail": "Complete the Pursuit chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/501d6870-6aac-46b7-a461-c87edaf848af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Machine",
+      "trophyDetail": "Complete the Machine chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3ea57219-f3ee-478f-b26e-e8a7c2977761.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Trials",
+      "trophyDetail": "Complete the Trials chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/7f3b6058-d2c9-4311-b96e-2a3154cd97df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Pinnacle",
+      "trophyDetail": "Complete the Pinnacle chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/48c3089f-6616-429f-a4ed-af2040961f91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Constriction Mastery",
+      "trophyDetail": "Complete all puzzles in the Constriction scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/0fbfa466-6feb-403a-a7ed-d4c80d0b44c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Academic Impact Mastery",
+      "trophyDetail": "Complete all puzzles in the Academic Impact scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/b89d4c4c-a868-47f5-8778-16e8c57786ff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under Construction Mastery",
+      "trophyDetail": "Complete all puzzles in the Under Construction scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3b831481-2469-4a73-b2ad-63d71dff7ce4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "News Flash Mastery",
+      "trophyDetail": "Complete all puzzles in the News Flash scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/fc7528b7-bfe7-4cec-b561-16d9acb58e5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garden Retreat Mastery",
+      "trophyDetail": "Complete all puzzles in the Garden Retreat scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/6b95af59-7076-4de5-a67d-96b4eaf3008f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behind Bars Mastery",
+      "trophyDetail": "Complete all puzzles in the Behind Bars scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/e78462ce-a5c9-48b3-a7ad-ed0cf654150f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blockbuster Release Mastery",
+      "trophyDetail": "Complete all puzzles in the Blockbuster Release scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/76409f3f-dc57-4c9b-b87c-a404e23de958.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going Once Mastery",
+      "trophyDetail": "Complete all puzzles in the Going Once scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/f9358cef-926d-473c-9372-78833ab6eba8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignition Mastery",
+      "trophyDetail": "Complete all puzzles in the Ignition scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/75991b55-0cbe-4313-b073-0c8dc57afb64.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Protest Movement Mastery",
+      "trophyDetail": "Complete all puzzles in the Protest Movement scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/2eb0426e-2c1b-4520-9521-d1e1df14e637.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Procedure Mastery",
+      "trophyDetail": "Complete all puzzles in the The Procedure scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/266665b4-7101-49bd-a30e-09860dc4b3fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feathered Frenzy Mastery",
+      "trophyDetail": "Complete all puzzles in the Feathered Frenzy scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/cb3d241c-6f36-4c8a-af74-1c3fcd9d6d9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Backstage Drama Mastery",
+      "trophyDetail": "Complete all puzzles in the Backstage Drama scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/72176d51-3f86-4e94-b2bd-6e6d976d9f50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speildance Mastery",
+      "trophyDetail": "Complete all puzzles in the Speildance scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/887d2a1d-f2f6-43a5-81c0-21114d4fab4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complex Mastery",
+      "trophyDetail": "Complete all puzzles in the Complex scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/750653d3-be26-4163-958c-c4d9a3d38e03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beach Trip Mastery",
+      "trophyDetail": "Complete all puzzles in the Beach Trip scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3c213cf5-ca02-4bb5-8624-66f5c22bc12d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boardroom Brawl Mastery",
+      "trophyDetail": "Complete all puzzles in the Boardroom Brawl scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/3a44adcf-ce3b-4dfa-8161-e80491300e59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancient Artifacts Mastery",
+      "trophyDetail": "Complete all puzzles in the Ancient Artifacts scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/c9a0afa2-5dbf-4ece-a6b2-2cd25cb5efc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steelside Warehouse Mastery",
+      "trophyDetail": "Complete all puzzles in the Steelside Warehouse scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/aa552fe3-0493-4751-b6da-3a50d72e8036.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Clash Mastery",
+      "trophyDetail": "Complete all puzzles in the Final Clash scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/05ada7d1-2b25-4ae8-b932-240b336e0438.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Curse Mastery",
+      "trophyDetail": "Complete all puzzles in the Curse chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/93b19d7a-8986-4a5a-96ad-348629b7f560.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Pursuit Mastery",
+      "trophyDetail": "Complete all puzzles in the Pursuit chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/7c045966-a4aa-40be-9f24-83c8f29f4c97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Machine Mastery",
+      "trophyDetail": "Complete all puzzles in the Machine chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/4b939a32-9053-4c7c-a2f9-8aac8e526729.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Trials Mastery",
+      "trophyDetail": "Complete all puzzles in the Trials chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/4b2da9e9-eae6-477c-bcbf-e67ca6c636d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Pinnacle Mastery",
+      "trophyDetail": "Complete all puzzles in the Pinnacle chapter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/9780bf19-8415-49a9-ac2c-9fdcce850ed2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Following Orders",
+      "trophyDetail": "Solved the Following Orders scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/ccf3ccbb-6d6a-48c7-b1cd-7e30cc72e2f9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trouble Unleashed",
+      "trophyDetail": "Solved the Trouble Unleashed scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/c7045d24-325b-4a9a-b29b-8bd3ae237b0e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Raid",
+      "trophyDetail": "Solved The Raid scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/603341b2-4f9c-4aa9-a6f5-cb674c90b633.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sins of New Wells",
+      "trophyDetail": "Completed The Sins of New Wells",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/939ac6df-6916-48eb-9141-bda6ce1a0d4c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Following Orders Mastery",
+      "trophyDetail": "Completed all puzzles in the Following Orders scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/a7c26f7c-39ba-4903-9ea0-ce21ad33c7d9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trouble Unleashed Mastery",
+      "trophyDetail": "Completed all puzzles in the Trouble Unleashed scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/ea8d91b5-8b32-4ef4-92c1-5b5e31f89d50.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Raid Mastery",
+      "trophyDetail": "Completed all puzzles in The Raid scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/6aa4b407-868d-4a39-8096-7c28b41c8b1b.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unravelling Mastery",
+      "trophyDetail": "Completed all puzzles in the Unravelling scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/1911ad57-36a4-4dad-9361-0d435584f350.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Sins of New Wells Mastery",
+      "trophyDetail": "Completed all puzzles in The Sins of New Wells",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47402_00/52f0a57f-6500-4766-8257-15783061b0aa.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

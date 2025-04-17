@@ -1,0 +1,247 @@
+{
+  "npCommunicationId": "NPWR47508_00",
+  "title": "Forklift Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 24,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Operator",
+      "trophyDetail": "Complete the game at 100%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/0b3e25c1-18b8-49ab-abf3-6380e1f86f8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Warehouse Master",
+      "trophyDetail": "Complete all levels in the warehouse location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/286beb6c-9f9a-4c7e-9a97-127310f0ca02.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Warehouse Pro",
+      "trophyDetail": "Complete 20 levels in warehouse location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/f1f402cb-cfc4-4449-8b8a-2191668ce854.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Junior",
+      "trophyDetail": "Complete 10 levels in warehouse location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/1b004b12-bd61-4606-932e-b418751f6733.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Factory Master",
+      "trophyDetail": "Complete all levels in the factory location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/119a62b5-7dae-479f-bc6b-4603a9ae9268.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Factory Pro",
+      "trophyDetail": "Complete 20 levels in factory location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/06a2939a-de22-4cf9-9821-25140ce6f936.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Factory Junior",
+      "trophyDetail": "Complete 10 levels in factory location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/1debaf6f-df3f-4f28-9f92-77f47a9872ba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ship Port Master",
+      "trophyDetail": "Complete all levels in the ship port location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/927049f7-b467-40fd-8b12-8cf0be8d1063.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ship Port Pro",
+      "trophyDetail": "Complete 20 levels in ship port location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/aa259f25-fa89-47ac-96a8-0c5fd09b897b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ship Port Junior",
+      "trophyDetail": "Complete 10 levels in ship port location.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/7f805f9c-3898-4c5f-8ce4-7cf7e94df7f6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knockout",
+      "trophyDetail": "Hit the forklift 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/3f0f4ab0-6ebb-4c9a-8cb3-76d5de169cca.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Collectioneer",
+      "trophyDetail": "Buy all the forklifts from shop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/be9cd392-9625-4d88-aff3-9d0385bd3563.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Newbie",
+      "trophyDetail": "Complete successfully your first day at the job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/14deaa18-0191-41b2-a4f1-13e07fa70cc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stylist",
+      "trophyDetail": "Buy all the skins in the shop for one forklift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/15a9aeb7-1056-4ec7-8e2d-2d71a1519490.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unload Express III",
+      "trophyDetail": "Unload 150 trucks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/e0785b95-c11b-4f98-b8b2-8deda4b488c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unload Express II",
+      "trophyDetail": "Unload 100 trucks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/6f746445-b1bd-4388-a0f5-a9e46de46af2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unload Express I",
+      "trophyDetail": "Unload 50 trucks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/d54a181f-fe7b-4d87-9c51-6cdb52355414.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hardworker III",
+      "trophyDetail": "Place successfully 500 pallets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/8b156ee3-8a74-4a2f-a8ee-75663b2a1374.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hardworker II",
+      "trophyDetail": "Place successfully 250 pallets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/8cf6ce0f-4b12-4dd9-bc5b-8fc0816c7eba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardworker I",
+      "trophyDetail": "Place successfully 100 pallets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/946bd292-7b36-4d6f-b049-6d360c9af2c3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Load Express III",
+      "trophyDetail": "Load 150 trucks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/3991576a-2370-4a78-ab57-f6ace5f55b4b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Load Express II",
+      "trophyDetail": "Load 100 trucks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/6f746445-b1bd-4388-a0f5-a9e46de46af2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Load Express I",
+      "trophyDetail": "Load 50 trucks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/d54a181f-fe7b-4d87-9c51-6cdb52355414.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Certified Operator",
+      "trophyDetail": "Complete all the levels in all locations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47508_00/a5fc66c9-2a43-4f28-92b5-b7865aad8f9d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "90"
+    }
+  ]
+}

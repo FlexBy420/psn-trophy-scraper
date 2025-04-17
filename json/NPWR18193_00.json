@@ -1,0 +1,37 @@
+{
+  "npCommunicationId": "NPWR18193_00",
+  "title": "Nekketsu Fighting Legend",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 3,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Martial Arts Champion",
+      "trophyDetail": "Clear the game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18193_00_0028506E54AA7E09BAC69764EB08258872F946C398/25D6FDF402E5B0E0A6CE53FCB6CE8123F86DB4B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tag Team with Kunio",
+      "trophyDetail": "Reach the hidden ending",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18193_00_0028506E54AA7E09BAC69764EB08258872F946C398/F88036378C3398D62931FF7FCF78F89654DF66D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Clean Victory",
+      "trophyDetail": "Clear the game using characters only born on November 28th",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18193_00_0028506E54AA7E09BAC69764EB08258872F946C398/733E86251C7623BADAD43CF42BABCCE25C1CBC09.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

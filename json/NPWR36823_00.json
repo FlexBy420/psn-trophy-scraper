@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR36823_00",
+  "title": "Mountain Racing",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "BEGINNER",
+      "trophyDetail": "To unlock this trophy player has to score 5000 points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36823_00_0010FB5A1511925E6507F794FC9117055A22026841/759ED61DE90A4E2CF1ED5369EA8DA49FF47896F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "INTERMEDIATE",
+      "trophyDetail": "To unlock this trophy player has to score 10000 points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36823_00_0010FB5A1511925E6507F794FC9117055A22026841/DA997D9AA76FDE60B06823583737AB0853F444E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "CHAMPION",
+      "trophyDetail": "To unlock this trophy player has to score 15000 points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36823_00_0010FB5A1511925E6507F794FC9117055A22026841/4E35593BC91C5E8BDAB7CB3A178D7416A268F292.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "MASTER BLASTER",
+      "trophyDetail": "To unlock this trophy player has to score 20000 points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36823_00_0010FB5A1511925E6507F794FC9117055A22026841/E9BF64EF1ADA4AA9F8990C7CFF10A2960022D0DD.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR50761_00",
+  "title": "UFO Builder",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "UFO Builder Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/defaf0c2-54ce-4d9c-b7c2-d2d4740c6d5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 50 money",
+      "trophyDetail": "Earn 50 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/10afb679-e361-46f8-bf3f-135aea9758e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 92 money",
+      "trophyDetail": "Earn 92 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/32a1c967-eaba-402f-a511-4a766b328d0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 134 money",
+      "trophyDetail": "Earn 134 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/f7719f64-3477-4dee-96a2-6520dc1abb72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 176 money",
+      "trophyDetail": "Earn 176 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/1386fd08-6273-4662-abff-667cf3ee9b23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 218 money",
+      "trophyDetail": "Earn 218 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/1e602a56-f9fb-461e-9f81-e4b7797b4c51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 260 money",
+      "trophyDetail": "Earn 260 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/518dbd22-8e0b-4d89-9677-3cfd624059c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 302 money",
+      "trophyDetail": "Earn 302 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/68f01173-a483-4c23-8a67-c15e7908d24e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 344 money",
+      "trophyDetail": "Earn 344 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/3aedbc60-5621-4238-b9ab-8ba24b450f74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 386 money",
+      "trophyDetail": "Earn 386 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/bf432b2a-d483-4370-ae58-94d6ec83ebbb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 428 money",
+      "trophyDetail": "Earn 428 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/b2362683-6c7b-45ea-bd40-0c290412fb9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 470 money",
+      "trophyDetail": "Earn 470 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/01a900af-69f6-4c85-9908-8a557605301f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 512 money",
+      "trophyDetail": "Earn 512 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/5dedc1b4-5da1-451f-98ba-23fe34ba47df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 554 money",
+      "trophyDetail": "Earn 554 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/b1cf2146-02e3-468b-94bc-b9c37a574b92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 596 money",
+      "trophyDetail": "Earn 596 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/a37b5a36-3446-4d47-a35b-97afefbc04b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 638 money",
+      "trophyDetail": "Earn 638 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/bb9bf7b5-17db-4ae2-9704-e46573166e2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 680 money",
+      "trophyDetail": "Earn 680 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/8f561c91-6ae9-4ee2-891d-8eade30a4fbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 722 money",
+      "trophyDetail": "Earn 722 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/d2b28a50-f9c7-4f4c-b53d-45776a64543f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 764 money",
+      "trophyDetail": "Earn 764 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/e6539b42-c646-4a86-8594-95ebf530d718.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 806 money",
+      "trophyDetail": "Earn 806 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/0b396e70-8546-4743-91d2-10d9943b64d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 848 money",
+      "trophyDetail": "Earn 848 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/c5d09a9f-6f4d-43b1-a76f-3a618b4d105b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 890 money",
+      "trophyDetail": "Earn 890 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/0a793f95-5760-4435-846b-07f4012bf044.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 932 money",
+      "trophyDetail": "Earn 932 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/f54437bb-4d9a-4169-9470-61c10e387a5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 974 money",
+      "trophyDetail": "Earn 974 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/6ad8e491-ef62-4f32-9272-b6d0e6a863d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1016 money",
+      "trophyDetail": "Earn 1016 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/043547f2-9b23-4f52-93cd-6345b68d4d8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1058 money",
+      "trophyDetail": "Earn 1058 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/ba5cf96a-fbcb-494f-b362-4c42ea058189.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1100 money",
+      "trophyDetail": "Earn 1100 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/75835830-3e75-4425-8001-904682ef6d84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1142 money",
+      "trophyDetail": "Earn 1142 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/b2cabcd0-67cd-4485-a488-ebcf77f1bc37.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1184 money",
+      "trophyDetail": "Earn 1184 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/6105a20d-ebaf-492c-a63c-d29e5d3b001f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1226 money",
+      "trophyDetail": "Earn 1226 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/29ff3736-0c12-4e14-b496-b5844cf816b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1268 money",
+      "trophyDetail": "Earn 1268 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/a07e5b67-74b4-4a69-b3f0-378b51940e32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1310 money",
+      "trophyDetail": "Earn 1310 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/4c31c62b-ef8c-4552-a64f-dcbeaedef1ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1352 money",
+      "trophyDetail": "Earn 1352 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/89d81b6e-7f1a-4eb3-a22c-94d7d72ea47d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1394 money",
+      "trophyDetail": "Earn 1394 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/793017b9-b63b-4a65-b247-be477e43c57d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1436 money",
+      "trophyDetail": "Earn 1436 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/a186f54a-73c4-4e97-9d48-821b86b3690f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1478 money",
+      "trophyDetail": "Earn 1478 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/c2cfd541-be5f-422c-a8d7-717eaa6cf5aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1520 money",
+      "trophyDetail": "Earn 1520 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/47141769-83a1-4a9c-b670-ecdbcd33851b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1562 money",
+      "trophyDetail": "Earn 1562 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/180a0a9b-5101-41c7-9f99-4d10dd461c5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1604 money",
+      "trophyDetail": "Earn 1604 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/56d275ab-a94f-4837-b718-95f9903783ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1646 money",
+      "trophyDetail": "Earn 1646 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/93c7a29c-dc34-4e35-b873-b03215d272b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1688 money",
+      "trophyDetail": "Earn 1688 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/0d000325-680e-48a1-b945-c128e9316449.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1730 money",
+      "trophyDetail": "Earn 1730 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/9981684d-36d3-42ec-804c-818eb595213a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1772 money",
+      "trophyDetail": "Earn 1772 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/802a4117-8023-4868-806a-81c877102e84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1814 money",
+      "trophyDetail": "Earn 1814 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/dcbdf222-2fbd-489d-90f6-9b5b4b944221.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1856 money",
+      "trophyDetail": "Earn 1856 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/0948c201-47d5-4390-bf6a-eedfc1de5cf8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1898 money",
+      "trophyDetail": "Earn 1898 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/9eabd829-ce5f-4ed7-ab95-1afc1dbd0065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1940 money",
+      "trophyDetail": "Earn 1940 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/69df9ea5-85e9-48b2-b57a-3aab2681fe1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 1982 money",
+      "trophyDetail": "Earn 1982 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/f91ab6c9-082e-417f-a1f2-be0a478b3a4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2024 money",
+      "trophyDetail": "Earn 2024 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/30eae03f-6512-4e46-bfa4-4624a798207b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2066 money",
+      "trophyDetail": "Earn 2066 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/96adc73c-957b-4e45-af8e-3f4ed8cbc28f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2108 money",
+      "trophyDetail": "Earn 2108 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/7f10637b-e1f1-44eb-a76e-a09be59defc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2150 money",
+      "trophyDetail": "Earn 2150 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/9c37f07d-1a83-4aec-8926-764215c0dcbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2192 money",
+      "trophyDetail": "Earn 2192 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/ac90a20c-e65d-4d73-aab6-e1deeaa72dd6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2234 money",
+      "trophyDetail": "Earn 2234 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/c502fcef-b076-4723-b777-e24fbae7927d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2276 money",
+      "trophyDetail": "Earn 2276 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/77b367bd-039a-44df-ac16-c91ca9695f22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2318 money",
+      "trophyDetail": "Earn 2318 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/430c3c1f-dd68-491b-9083-454ccc5c7122.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2360 money",
+      "trophyDetail": "Earn 2360 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/77972463-5e7e-4524-b308-38dab8425f4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2402 money",
+      "trophyDetail": "Earn 2402 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/9fe9ff07-c1d2-4a83-baf3-c54707eaa02c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2444 money",
+      "trophyDetail": "Earn 2444 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/ee62edf7-bc9b-4a23-a890-b668da16f30a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2486 money",
+      "trophyDetail": "Earn 2486 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/6b760380-f140-43f7-a6be-052738be9fb2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2528 money",
+      "trophyDetail": "Earn 2528 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/f2af561b-5664-41de-bc85-cf1daf1ada3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2570 money",
+      "trophyDetail": "Earn 2570 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/9a210586-36fb-4dd8-87ad-48837c03399b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2612 money",
+      "trophyDetail": "Earn 2612 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/4a384832-f96c-41a8-a0ed-83731047f44b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2654 money",
+      "trophyDetail": "Earn 2654 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/d14d79a4-5191-498e-a399-2f6f24e4c489.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2696 money",
+      "trophyDetail": "Earn 2696 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/a959b257-df6d-4ff6-b490-136c444566d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2738 money",
+      "trophyDetail": "Earn 2738 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/be3590d4-a9b4-4542-988d-eda2bfdaaff5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2780 money",
+      "trophyDetail": "Earn 2780 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/5a24d840-afd4-41ca-a60f-9c3de6c9949b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2822 money",
+      "trophyDetail": "Earn 2822 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/30242715-bbe6-4128-be67-a494a2d0be2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2864 money",
+      "trophyDetail": "Earn 2864 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/df287483-daae-4aca-a397-6c92a33dec0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 2906 money",
+      "trophyDetail": "Earn 2906 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/352e2224-e4e6-4247-ba3a-cabee7d19c09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earn 3000 money",
+      "trophyDetail": "Earn 3000 money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50761_00/04ada23f-1ba4-4e86-9a9a-0758a95eab51.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

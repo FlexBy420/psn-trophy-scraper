@@ -1,0 +1,55 @@
+{
+  "npCommunicationId": "NPWR45034_00",
+  "title": "Roman City Tycoon Trophies",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 5,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Beginner Leader",
+      "trophyDetail": "Unlock at Day 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45034_00_0052323E45B190566AE6B93AF2AA2C0D2C6AAFFC92/2BC0CFC3A819032A033BF22029750F78309962D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trainee Leader",
+      "trophyDetail": "Unlock at Day 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45034_00_0052323E45B190566AE6B93AF2AA2C0D2C6AAFFC92/7EB4C8FE840A09F123CD800928863BFAB4F48894.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Virtuoso Leader",
+      "trophyDetail": "Unlock at Day 7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45034_00_0052323E45B190566AE6B93AF2AA2C0D2C6AAFFC92/22B14617D8921B105BF31C2A68957BCA2F1FCA1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Expert Leader",
+      "trophyDetail": "Unlock at Day 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45034_00_0052323E45B190566AE6B93AF2AA2C0D2C6AAFFC92/73A43BD9AC7FFD77A6DABA479CE05C7F6154D1E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professional Leader",
+      "trophyDetail": "Unlock at Day 15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45034_00_0052323E45B190566AE6B93AF2AA2C0D2C6AAFFC92/CF11779A1536F1FDC5E2F14A48FC894FC0E1D1CB.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

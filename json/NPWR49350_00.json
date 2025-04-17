@@ -1,0 +1,64 @@
+{
+  "npCommunicationId": "NPWR49350_00",
+  "title": "Happy Hotel",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 6,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Checking In",
+      "trophyDetail": "Encountered your first floor variant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/bceba039-ce32-4165-a7e8-df016b7cf046.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Checking Out",
+      "trophyDetail": "Died for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/414f487e-8e21-4513-ac6b-265ce588056b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "No Vacancy",
+      "trophyDetail": "Escaped the hotel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/6c9733b4-1ca1-4ea3-9408-630939c9da02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Happy's Favorite Guest",
+      "trophyDetail": "Encountered all floor variants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/c01fcc11-a8ff-4bd1-b63b-327b0206d222.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Happy's Keeper?",
+      "trophyDetail": "Encountered Ami",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/a71769d1-8f89-4548-96cd-6406b19a90ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Window Hopper",
+      "trophyDetail": "Happy appeared in the window.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49350_00/25d2e29c-9203-40e9-89f2-c9b668c666ad.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

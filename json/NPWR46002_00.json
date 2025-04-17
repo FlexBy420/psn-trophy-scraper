@@ -1,0 +1,654 @@
+{
+  "npCommunicationId": "NPWR46002_00",
+  "title": "FossilTrophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ultimate Fossil Hunter",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/4ee18fb2-34b8-42ce-8737-18352f381aad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daddy, I drew a dino!",
+      "trophyDetail": "Draw a dino in the flashback sequence.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/0b04f7df-965a-4411-8b76-3ce45bd21eff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Truly passionate",
+      "trophyDetail": "Complete tutorial minigames",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/f872080d-d6f9-4cf6-8c6b-488894be6042.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Searching like a boss",
+      "trophyDetail": "Inspect rocks with fossils.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/4dc85386-8ee2-4edd-8400-2ed91c92c6df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "True predator",
+      "trophyDetail": "Complete T-Rex skeleton.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/7fdc13af-2e15-484b-b13d-0807cf7037cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let the adventure begin",
+      "trophyDetail": "Finish Prologue part of the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/63fb691c-33fd-4e74-b93a-95ef4b3064e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trust me, I’m interior decorator",
+      "trophyDetail": "Change floor, wall and ceiling material.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/bdd12f2a-ac5f-4052-a37b-ca4e3ffe252f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never ending exploration",
+      "trophyDetail": "Drive until the fuel runs out.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/62997144-012a-49b9-a03e-06795ad962db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patience you must have",
+      "trophyDetail": "Clean all fossils manually.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/f7012ef5-2867-4107-94e6-669f99f8fb7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodwork addicted",
+      "trophyDetail": "Assemble all wooden dino figurines for a second time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/6e23048c-a8ab-4821-b4c6-2735d750459f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lazy bones",
+      "trophyDetail": "Have an employee clean all the fossils in the Prologue for you.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/39b3a224-7c57-48b7-a001-857546ec9423.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the tyrant lizards",
+      "trophyDetail": "Discover remnants of giant lizard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/022c764d-2e3c-4439-ac9c-b92bafe91849.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long headed",
+      "trophyDetail": "Discover remnants of Edmontonia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/6f3a97dd-f3f6-46b2-bb7a-257d3358ec8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lizard from Edmonton",
+      "trophyDetail": "Discover remnants of Edmontosaurus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/cd9ce995-bf86-40b5-9e73-6c31ed347ac6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three-horned face",
+      "trophyDetail": "Three-horned face Discover remnants of Triceratops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/6b6e0709-c61d-42fc-aff3-6adcd6220a73.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreadful lizard",
+      "trophyDetail": "Discover remnants of Gorgosaurus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/f0442e19-8c7f-4959-b022-5f45b0266098.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Near crested lizard",
+      "trophyDetail": "Discover remnants of Parasaurolophus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/988337dd-3186-4a39-80bf-6fb3881d1432.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spiked lizard",
+      "trophyDetail": "Discover remnants of Styracosaurus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/3c222c06-f0f9-4f5b-a3db-44bed6826f8a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Horned roof",
+      "trophyDetail": "Discover remnants of Stegoceras.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/cc4568ae-b0f9-422d-8778-a628a1c09b06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swift running lizard",
+      "trophyDetail": "Discover remnants of Dromaeosaurus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/06a038ad-c37c-4c4a-9ace-c9d0584bf36d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paleo Soul",
+      "trophyDetail": "Assemble all the skeletons available in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/65917864-b7bc-445b-a229-afb47d2f2a8e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sophisticated dinosaur",
+      "trophyDetail": "Unlock the State Museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/d6823cc2-133d-4c10-951a-48d6dfa8825e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect management",
+      "trophyDetail": "Unlock the National Museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/680efaeb-4dd8-435c-9bba-869c52852397.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bookworm",
+      "trophyDetail": "Unlock and read all the newspapers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/0726496a-f976-4726-a548-ca7648854b89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It can't get any better!",
+      "trophyDetail": "Get all your tools to the max level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/af75849f-35fc-44ff-9509-cf37ba8d63ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle Eye",
+      "trophyDetail": "Find all the small fossils.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/80e86925-75e3-4cd4-9da7-993769af26af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I can go anywhere",
+      "trophyDetail": "Unlock access to all the locations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/5c8b20e6-066e-4b26-83c8-5409018d694d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Fossil Hunter",
+      "trophyDetail": "Find and excavate all dinosaur skeletons available in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/6b70b558-c940-4c5c-bb3b-9fccefd47955.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There's plenty of them!",
+      "trophyDetail": "Find and excavate 1 skeleton of each dinosaur species.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/c20dcc5d-1156-4379-ad80-bf2bd3fd2fa2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get your hands dirty",
+      "trophyDetail": "Clean 75 bone sets manually.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/b736515b-0b2d-4cfd-85f3-025af83ceab9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "75"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All by myself!",
+      "trophyDetail": "Perform manual cleaning of all bone sets of every dinosaur skeleton at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/ead815b5-6726-4ed2-a807-12520724074e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The One True King",
+      "trophyDetail": "Assemble T-Rex skeleton.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/72315adc-2e49-425a-b179-4957f3c5b8da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dino with a long skull",
+      "trophyDetail": "Assemble Edmontonia skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/b70ed6c4-0114-4ed0-9673-2b73d45f1ea1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "T-rex's lunch",
+      "trophyDetail": "Assemble Edmontosaurus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/f1955f73-fafb-415b-bda0-8fd9ae50901a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The famous one",
+      "trophyDetail": "Assemble Triceratops skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/b0f85e6c-f978-4880-966e-089b902d43fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Count my teeth…",
+      "trophyDetail": "Assemble Gorgosaurus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/e3b1f230-86b3-4d95-9ad7-86d4821ad6b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The rare one",
+      "trophyDetail": "Assemble Parasaurolophus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/65bb4ea6-5a6c-48b0-b68f-60e3b6ba3cc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As seen on TV",
+      "trophyDetail": "Assemble Styracosaurus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/9480f040-fb31-421c-bdcc-a9e123e97dd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Short paws, but not t-rex",
+      "trophyDetail": "Assemble Stegoceras skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/0b250643-ebd8-43aa-86f5-38958d236e73.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is it a bird? Is it a lizard?",
+      "trophyDetail": "Assemble Ornithomimus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/4010a423-de1e-4b7d-9957-1bd6b86a8254.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The cutest one",
+      "trophyDetail": "Assemble Dromaeosaurus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/1b852a6b-2553-4576-8d20-0bfd218c78e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You really outdid yourself!",
+      "trophyDetail": "Showcase 100% of available dinosaur skeletons at museum exhibition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/da8f69e9-53be-42fa-8906-b9f0ec9004a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I know how to use it",
+      "trophyDetail": "Use every table in the garage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/719ace9f-f1c3-4446-a341-ff4cb261f0f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pimp my ride",
+      "trophyDetail": "Change the color of 1 car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/872d6815-e854-4955-86ed-ef90f444e1dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look at these beauties!",
+      "trophyDetail": "Showcase 50% of available dinosaur skeletons at museum exhibition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/e8ad08ed-1725-4037-b36a-0e61e61eb395.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Shovel",
+      "trophyDetail": "Use a digging tool 1000 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/7209a004-ecf9-423c-b0bd-3652dd61c6af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pimp my tool",
+      "trophyDetail": "Change the color of 1 tool.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/674e63d9-2687-4798-a5c4-efc5c1697c8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Show your story",
+      "trophyDetail": "Place all small fossils in glass cases in the museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/0b546046-d3db-4f28-9dc4-10052e2dbc74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Landscape Hunter",
+      "trophyDetail": "Take a photo with a flying drone in one of available locations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/cf25cbd1-0788-407e-a725-06587d6bbabb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#MuseumSelfie",
+      "trophyDetail": "Take a photo with a flying drone in the museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/c8d1843d-2bce-4068-980a-735025fe3c3e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excavation at Night",
+      "trophyDetail": "Arrive at the excavation site during the night.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/161fcaa2-a7d2-4a2e-9f1c-fef059c0a0b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I work with the best",
+      "trophyDetail": "Max out the Employees Tree level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/63328c67-b575-4c75-82c2-3f9c302753b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Explorer - Grizzlies East Mountains",
+      "trophyDetail": "Set up all possible excavation sites in the Grizzlies East Mountains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/8645919d-298f-4498-8820-32813cf6a591.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Explorer - Dinosaur Canyon",
+      "trophyDetail": "Set up all possible excavation sites in Dinosaur Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/de4a90a3-8495-46e1-b233-1140fb57292a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Explorer - Quarry",
+      "trophyDetail": "Set up all possible excavation sites in Quarry.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/d7731780-ce96-42fd-9fcd-260e44fa1b9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What a wonderful world!",
+      "trophyDetail": "Visit a viewpoint #1 in Dinosaur Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/1c00d9b6-d1ac-487a-aa88-99fb7585d41c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#whataview",
+      "trophyDetail": "Visit a viewpoint #2 in Dinosaur Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/62e9a4b0-86d9-4e60-9b18-2a9435064ae7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everything is soaking wet.",
+      "trophyDetail": "Go under the waterfall in Dinosaur Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/c872255f-c5ae-4022-97f5-d8fc6a5994d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Looks like we got a connection!",
+      "trophyDetail": "Get close to the antenna in Dinosaur Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/a92513fb-f9ed-4595-b7a2-326e2810dcd0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just relax",
+      "trophyDetail": "Enter the bower on an island in the Grizzlies East Mountains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/67360e4a-02be-484f-832e-7247d3171fe3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I found all the antennas!",
+      "trophyDetail": "Get close to all the antennas in the Grizzlies East Mountains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/df15f2c6-13aa-4ea3-9a39-23e211ee546d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rockbreaker gold",
+      "trophyDetail": "Destroy 500 rocks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/27d044c5-bbb2-4a44-889d-559bd923aaca.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a good start",
+      "trophyDetail": "Clean 25 bone sets manually.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/b0ff1270-ac2c-457c-a19f-f5d3c1198029.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My best friend brush",
+      "trophyDetail": "Clean 50 bone sets manually.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/926370b3-873b-474f-91b7-b4ab66a06782.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Almost like on Mars",
+      "trophyDetail": "Find the Mars rover",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/417fe98d-6396-4252-96c4-5809419b0d98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Botanical discoveries",
+      "trophyDetail": "Find all unique plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/e2c2c644-88a3-4291-82fc-d5644827a05d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New life",
+      "trophyDetail": "Place all dinosaur eggs on exposition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/b6c09c12-dccf-439b-afbc-a7161bde90b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Helmeted lizard",
+      "trophyDetail": "Discover remnants of Corythosaurus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/10e741c8-9210-489f-95ed-4474dbbdc9aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toothless wing",
+      "trophyDetail": "Discover remnants of Pteranodon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/6b7ab746-c189-4216-b1a5-0e30e1018ee9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fly high!",
+      "trophyDetail": "Assemble Pteranodon skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/63b7e742-7371-4a91-8211-b62f8ad41198.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavyweight",
+      "trophyDetail": "Assemble Corythosaurus skeleton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46002_00/1584b45e-2818-412d-b9d1-09060ccb701e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

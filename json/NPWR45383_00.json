@@ -1,0 +1,55 @@
+{
+  "npCommunicationId": "NPWR45383_00",
+  "title": "Anime Girls MMA Tournament Trophies",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 5,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Beginner MMA Player",
+      "trophyDetail": "Win 2 games.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45383_00_0088BEB0E746731AB73825468212906C0D8A489F59/35D981E901AA5485E2BDBE3901F6BA25737E4CFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trainee MMA Player",
+      "trophyDetail": "Win 5 games.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45383_00_0088BEB0E746731AB73825468212906C0D8A489F59/7DA3B6A67B72FE54194F56F0ABAEE5B9D12872EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Virtuoso MMA Player",
+      "trophyDetail": "Win 7 games.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45383_00_0088BEB0E746731AB73825468212906C0D8A489F59/417CD59726262C414416378FB5552EC9B06BE925.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Expert MMA Player",
+      "trophyDetail": "Win 10 games.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45383_00_0088BEB0E746731AB73825468212906C0D8A489F59/4F835E87BF2067B6FDE1E317EB235415D8DD20B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professional MMA Player",
+      "trophyDetail": "Win 15 games.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45383_00_0088BEB0E746731AB73825468212906C0D8A489F59/24907E3B84407DC980992A89410D61F86359B1A1.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

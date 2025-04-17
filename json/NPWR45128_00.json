@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR45128_00",
+  "title": "2048 Boys",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Unlock All Trophies",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/fee905c7-91d5-410e-a9d0-78a1ba5f603a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Boot",
+      "trophyDetail": "Reach Score 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/1877bc0f-5b74-4189-986c-f2a59810ea17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hat Trick Hero",
+      "trophyDetail": "Reach Score 100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/e1d3675c-c299-4232-a834-1c144a30829a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Scorer",
+      "trophyDetail": "Reach Score 150",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/2b1e5c3e-3413-4bc7-a8c8-e4b54932913a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Striker Supreme",
+      "trophyDetail": "Reach Score 200",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/85a95341-37e2-4ded-b056-d8acfef1eb7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal Pro",
+      "trophyDetail": "Reach Score 250",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/0478597f-8bdd-408b-9c0b-dfce7e09f7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scoring Sensation",
+      "trophyDetail": "Reach Score 300",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/956b1bb5-0b84-4119-8ac2-4b28df86c185.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Offensive Maestro",
+      "trophyDetail": "Reach Score 350",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/6f1ecd22-4dbc-443e-a0ce-91697454f3e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Match Winner",
+      "trophyDetail": "Reach Score 400",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/16e2260b-70cb-4afe-a9ef-9883cebae2e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game Changer",
+      "trophyDetail": "Reach Score 450",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/7bc69910-3271-4e98-bf76-0152df31de40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Striker",
+      "trophyDetail": "Reach Score 500",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/3377f947-0bdd-4e0b-8f0b-ea9bb6719215.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite Scorer",
+      "trophyDetail": "Reach Score 550",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/9b5a1d9c-2b4e-4129-8fe4-71504d5a14db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Marksman",
+      "trophyDetail": "Reach Score 600",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/3ae9d9e1-d1af-4ed7-904f-d319ddddbd2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Master",
+      "trophyDetail": "Reach Score 650",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/70f7e15b-bb8b-4055-a9ce-110ec142af36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Scorer",
+      "trophyDetail": "Reach Score 700",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/7bd1459b-6019-44fe-a4fe-2b1091c2c0ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Forward",
+      "trophyDetail": "Reach Score 750",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/c5985189-744e-4471-8f49-89595f8a43f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dynamic Duo",
+      "trophyDetail": "Reach Score 800",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/c1a5fab7-731c-4019-8d02-d3f42d54bec3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dream Team",
+      "trophyDetail": "Reach Score 850",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/d51cb78d-303a-4ade-92fb-b40eff5fc314.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Star Player",
+      "trophyDetail": "Reach Score 900",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/46b0e244-68ad-4cd6-9539-f981d8eb43f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion Striker",
+      "trophyDetail": "Reach Score 950",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/273dce20-b261-4640-a3cb-c159a37b92fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unstoppable Force",
+      "trophyDetail": "Reach Score 1000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/157f2fa0-79a6-400c-a5d9-b9457125ec96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal God",
+      "trophyDetail": "Reach Score 1050",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/fafb1add-6cfb-4161-b61e-5931d54dd745.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top of the League",
+      "trophyDetail": "Reach Score 1100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/7fa4c234-e209-408b-8f1f-a021ad507c5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prolific Scorer",
+      "trophyDetail": "Reach Score 1150",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/f6561f35-dbb7-496b-ab54-8fb4215bbe78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Record Breaker",
+      "trophyDetail": "Reach Score 1200",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/cfc18cc1-2fe2-4c59-86db-896d3cdafff8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Legend",
+      "trophyDetail": "Reach Score 1250",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/fbd2c1c9-c767-4c75-99be-87863b4608b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Striker",
+      "trophyDetail": "Reach Score 1300",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/a49955f9-d9a5-42d1-999e-a3f3df2b2214.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Phenom",
+      "trophyDetail": "Reach Score 1350",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/260cbaac-a5d6-4493-bca8-0276f32b1d34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Savant",
+      "trophyDetail": "Reach Score 1400",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/176ad37f-26e6-4ecf-a056-dab9783a02b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Player",
+      "trophyDetail": "Reach Score 1450",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/f061cd71-e7b7-4dd9-be26-cfed55c81017.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal King",
+      "trophyDetail": "Reach Score 1500",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/a0456977-0a8f-4a46-be3e-8b91aed1ca4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Genius",
+      "trophyDetail": "Reach Score 1550",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/abe45d9d-40b1-4a5e-9797-748f81e8f1e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Player",
+      "trophyDetail": "Reach Score 1600",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/c1b25a08-739c-4fea-9929-b6d81d2bcc14.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MVP",
+      "trophyDetail": "Reach Score 1650",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/c232fef9-48ab-43b0-bc9f-fad2f69836e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mega Soccer",
+      "trophyDetail": "Reach Score 1700",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/757f36e7-d28c-4b7e-943e-f4ce4c75f2b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Time Great",
+      "trophyDetail": "Reach Score 1750",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/82f0a5c0-a867-41c7-8b2e-45f88e721cd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Icon",
+      "trophyDetail": "Reach Score 1800",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/bfa83366-5512-40d4-92f7-ee84ea681eb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matchday Hero",
+      "trophyDetail": "Reach Score 1850",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/e18edb80-0dc6-42d5-aaad-cd1fb265261a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Soccer Prodigy",
+      "trophyDetail": "Reach Score 1900",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/3198b276-b08e-4733-8b96-f3b9bd37588c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scoring Pro",
+      "trophyDetail": "Reach Score 1950",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/4bf72cb3-1e37-4b7c-8374-b4e39476f067.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Dynamo",
+      "trophyDetail": "Reach Score 2000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/416662fe-cc0f-46ae-b158-592dbe0ab533.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Champion",
+      "trophyDetail": "Reach Score 2050",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/4738e4a5-aa25-4bd9-bd95-74bf636eb6a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mega Striker",
+      "trophyDetail": "Reach Score 2100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/15df9e8c-4a54-4c69-849f-245b19c37194.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal Maestro",
+      "trophyDetail": "Reach Score 2150",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/50229f63-acd0-4922-b186-330185f5da78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Masterful Player",
+      "trophyDetail": "Reach Score 2200",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/b3a4cad1-e7fa-49be-84ae-075dba8c4e9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Striker",
+      "trophyDetail": "Reach Score 2250",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/6f92ca0d-7671-4196-9f87-d3b9b7d01484.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Prodigy",
+      "trophyDetail": "Reach Score 2300",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/d82b4f27-7d7b-4b13-b6a5-938036c386fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Titan",
+      "trophyDetail": "Reach Score 2350",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/54034d33-757b-451c-96c7-2760ceea6b12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Goal Scorer",
+      "trophyDetail": "Reach Score 2400",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/91e6bded-5b18-40c9-ab8e-bd0dfe8e8e6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Virtuoso",
+      "trophyDetail": "Reach Score 2450",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/ad104b9a-69b0-4d67-bd83-38cf15eb8109.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal Machine",
+      "trophyDetail": "Reach Score 2500",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/8c25fa2f-ad9e-468c-802d-58eea8c9f071.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Scorer",
+      "trophyDetail": "Reach Score 2550",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/b4c4a045-6acb-493b-b363-757dfecfc1d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Maestro",
+      "trophyDetail": "Reach Score 2600",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/9703244d-3da1-40aa-88c9-00c529be1121.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Forward",
+      "trophyDetail": "Reach Score 2650",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/7cef421b-2be8-4dd6-91c0-912ca43618ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Wizard",
+      "trophyDetail": "Reach Score 2700",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/688fa9bb-5b48-4cdc-8a04-c4fd6c44902f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Dynamo",
+      "trophyDetail": "Reach Score 2750",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/2a563c2c-2a3e-47f9-9f09-217c2d474b98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Striker",
+      "trophyDetail": "Reach Score 2800",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/f661e496-5eca-4f45-8941-add355abf733.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Titan",
+      "trophyDetail": "Reach Score 2850",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/b619ef69-b547-4570-812f-0ffd62cbdeab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scoring Phenom",
+      "trophyDetail": "Reach Score 2900",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/87e33074-3191-48d9-a71c-e78881be67cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Star Forward",
+      "trophyDetail": "Reach Score 2950",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/996376da-1a1f-4084-9e3e-573339120dfa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Champion",
+      "trophyDetail": "Reach Score 3000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/a36d9a66-215c-4a6a-8fe3-e535a54ddd06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite Forward",
+      "trophyDetail": "Reach Score 3050",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/74c178df-9957-4847-bcbb-77447bf85e15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal Virtuoso",
+      "trophyDetail": "Reach Score 3100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/53845a39-fff6-44c7-a772-7c92435634c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer Pro",
+      "trophyDetail": "Reach Score 3150",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/cb5a82a4-b20b-4450-9850-70764623cb0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Hero",
+      "trophyDetail": "Reach Score 3200",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/78c5e3f0-d897-41ee-9f25-7e8c2f3e7b61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superstar Player",
+      "trophyDetail": "Reach Score 3250",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/95eb6a96-fe4f-4d1d-a3cd-bb0c43460d53.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soccer King",
+      "trophyDetail": "Reach Score 3300",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/415af224-76ee-43c8-9144-a85708bdb5eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Soccer Star",
+      "trophyDetail": "Reach Score 3350",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/42492c77-7680-4ebb-873f-d71bf368248f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goal Legend",
+      "trophyDetail": "Reach Score 3400",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/1e1e25b8-3bfb-4882-bc8c-271fdf04c196.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Soccer Player",
+      "trophyDetail": "Reach Score 3450",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/d3d509a9-a34a-4c32-bc40-707dce0ea108.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Football Legend",
+      "trophyDetail": "Reach Score 3500",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45128_00/fc88d812-626b-415c-a10e-a70d4146f2e7.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

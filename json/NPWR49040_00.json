@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR49040_00",
+  "title": "The Jumping Onion Ring",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "King of the Onion Ring",
+      "trophyDetail": "Collect all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/6b4d4c97-a56e-4d99-b6fc-dafc8a66becb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gatekeeper 1",
+      "trophyDetail": "Open 30 gates.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/e7aae55a-277c-4004-9b26-84e95fe15233.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gatekeeper 2",
+      "trophyDetail": "Open 60 gates.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/163bab68-d8cd-4d68-a655-47f22d9fdbae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gatekeeper 3",
+      "trophyDetail": "Open 90 gates.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/43132d6b-09d4-466e-93e5-261b626c4668.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edgy Edges 1",
+      "trophyDetail": "Touch 20 edges.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/1c854034-2e38-49d1-8b7b-5a552310df49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edgy Edges 2",
+      "trophyDetail": "Touch 40 edges.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/b2c52fdf-5d40-4de1-9bcc-703343429314.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Edgy Edges 3",
+      "trophyDetail": "Touch 60 edges.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/846a9cc4-e8b6-416a-838d-053984c22e17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From the…",
+      "trophyDetail": "Pass the Onion Ring from the bottom 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/a5fb4509-0139-4bd6-8a71-14579df89433.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "… bottom…",
+      "trophyDetail": "Pass the Onion Ring from the bottom 20 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d442377d-8c4f-412e-a767-3a525846a06f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "… to the top!",
+      "trophyDetail": "Pass the Onion Ring from the bottom 30 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/b47ffb6b-287c-4042-af0b-ae34d85d3a8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump around 1",
+      "trophyDetail": "Jump 200 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/0287092e-9cb1-4f05-8bdb-f1abafd0082f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump around 2",
+      "trophyDetail": "Jump 400 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d905f964-c058-4b73-a1f8-d9e36baddf41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jump around 3",
+      "trophyDetail": "Jump 800 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/9fe6843f-0212-4aa9-8be3-43de580c4255.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Astronomy Aficionado 1",
+      "trophyDetail": "Collect 5 stars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/9a65aa2c-d7e2-4d9b-bef5-61148a120f2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Astronomy Aficionado 2",
+      "trophyDetail": "Collect 10 stars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d46137a4-2293-4a59-b17d-58662d5335b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Astronomy Aficionado 3",
+      "trophyDetail": "Collect 20 stars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/14c4f3ae-cbea-4b1e-8438-b3e4586a4675.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deadly death 1",
+      "trophyDetail": "Die 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d51bbef5-5a1a-4e3e-916b-0aabee546fb9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deadly death 2",
+      "trophyDetail": "Die 20 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d4a75570-d746-4496-a0f8-cc2363d1c14b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Deadly death 3",
+      "trophyDetail": "Die 30 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/a82e2be2-4e87-44a9-ab11-533874ae6393.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big time 1",
+      "trophyDetail": "Score 500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/7838e665-7b5d-4024-a872-3920109a5e06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big time 2",
+      "trophyDetail": "Score 1.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d049a129-43e5-4859-a10d-83745ef38089.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Big time 3",
+      "trophyDetail": "Score 1.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/7fe48bb1-78fd-4e4d-a782-b2b08c949184.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MVP 1",
+      "trophyDetail": "Reach player level 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/f28dc317-70f3-43c4-9245-33510e46c921.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MVP 2",
+      "trophyDetail": "Reach player level 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/54f1d986-bf32-4623-9435-0a7ae34872b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "MVP 3",
+      "trophyDetail": "Reach player level 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/8ee07107-d332-47b9-9528-61c9d35000a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Bagel",
+      "trophyDetail": "Play as The Jumping Bagel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/c63e3099-618d-4fc5-85aa-463d30f0101d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Brownie",
+      "trophyDetail": "Play as The Jumping Brownie.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/5e0db56c-8eec-42f8-bd0e-5e0fad073168.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Burger",
+      "trophyDetail": "Play as The Jumping Burger.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/b15490ed-3226-43b5-b364-6742d5152753.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Burrito",
+      "trophyDetail": "The Jumping Burrito",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/24053153-c94b-4c16-8264-758c457819f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Chicken Wings",
+      "trophyDetail": "Play as The Jumping Chicken Wings.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/7fa9e311-9b11-4ae9-9ba5-adfaecbcc6bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Chocolate",
+      "trophyDetail": "Play as The Jumping Chocolate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/a1da4205-3771-49b0-87c7-09ce1b8f24dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Churros",
+      "trophyDetail": "Play as The Jumping Churros.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/15578dec-979a-4f51-8bdb-1d2561d387b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Coffee",
+      "trophyDetail": "Play as The Jumping Coffee.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/cecae0c9-587a-4299-a7d8-d16126f5d6ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Cookie",
+      "trophyDetail": "Play as The Jumping Cookie.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/1215c437-7e29-4da4-a7b5-4c7aa1c924c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Donut",
+      "trophyDetail": "Play as The Jumping Donut.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/be53de86-4135-4487-911b-230a377673cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Falafel",
+      "trophyDetail": "Play as The Jumping Falafel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/51014153-a3b9-4419-b0f7-834ec389cf06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Fries",
+      "trophyDetail": "Play as The Jumping Fries.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/1de3c93a-22d0-406b-811c-4bbf48680800.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Hot Dog",
+      "trophyDetail": "Play as The Jumping Hot Dog.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/839e3b8b-49d6-44e0-9d8d-0f3bcf2969d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Ice Cream",
+      "trophyDetail": "Play as The Jumping Ice Cream.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/996315c4-9fd8-48ac-b71e-200b56433478.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Ice Cube",
+      "trophyDetail": "Play as The Jumping Ice Cube.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/3c594c77-967c-4c46-b70e-29cb35adb95b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Kebab",
+      "trophyDetail": "Play as The Jumping Kebab.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/962cc9ec-6262-4df6-b8a7-225635b0213c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Lasagne",
+      "trophyDetail": "Play as The Jumping Lasagne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/c0f529a5-ae29-4ce0-a6de-22ce38c66f02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Muffin",
+      "trophyDetail": "Play as The Jumping Muffin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/9008b241-7802-4948-a80c-59e46967d3f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Noodles",
+      "trophyDetail": "Play as The Jumping Noodles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/cd3b5e92-d992-4366-b6e6-c8a0abf183b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Nuggets",
+      "trophyDetail": "Play as The Jumping Nuggets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/c4a2a61d-455a-4e9f-964d-b476e8c7647f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Onigiri",
+      "trophyDetail": "Play as The Jumping Onigiri.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/0ceaff42-7cb1-4ff8-999c-b6aa7fb289c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Pasta",
+      "trophyDetail": "Play as The Jumping Pasta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/6e589c10-a7e9-4540-8d4c-9a633e28dac1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Pizza",
+      "trophyDetail": "Play as The Jumping Pizza.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/fd2a1b75-9678-4cca-8b77-3017eaf47409.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Pumpkin",
+      "trophyDetail": "Play as The Jumping Pumpkin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/6b67ecfa-9628-4d4b-86a7-6012cb2adff0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Quesadilla",
+      "trophyDetail": "Play as The Jumping Quesadilla.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/370216ab-5111-4f04-850e-9b80daf8f18c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Salad",
+      "trophyDetail": "Play as The Jumping Salad.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/08fc725f-45cd-4fd9-8a8e-631ca97234cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Sandwich",
+      "trophyDetail": "Play as The Jumping Sandwich.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/017a545e-6cd5-4b3f-99a7-19be5191c587.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Soda",
+      "trophyDetail": "Play as The Jumping Soda.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/3199d253-6cca-44b1-88d9-3f8b4b0d0ec3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Sushi",
+      "trophyDetail": "Play as The Jumping Sushi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/2a4b90d3-cb33-417d-8fa8-2501bdb17462.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Taco",
+      "trophyDetail": "Play as The Jumping Taco.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/d8ee7ae1-e9e8-43af-9f20-0f69f507b57d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Tofu",
+      "trophyDetail": "Play as The Jumping Tofu.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/a6d1f0bf-2a6c-4b20-8ef7-94338b522252.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jumping Wrap",
+      "trophyDetail": "Play as The Jumping Wrap.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/edc287f6-c7c4-488f-b0bb-1aadf00abf93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Food Tycoon",
+      "trophyDetail": "Buy everything.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49040_00/684f0966-34a7-4566-9f70-10377b690434.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR45630_00",
+  "title": "Rolling Wheels",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Wheel of Wonders",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/ba023fbb-a5e7-45bd-aa06-415d6191d441.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gemstone Tread",
+      "trophyDetail": "Collect 1 gem",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/47b4c85a-9941-4674-9c00-8b6fd15df508.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Contact",
+      "trophyDetail": "Hit 1 person",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/8dc4b75f-4429-474d-9526-ee6bd98e375c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock and Roll",
+      "trophyDetail": "Collect 10 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/b659ab95-ff86-4fba-ae0f-a20058c7f6e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bump in the Road",
+      "trophyDetail": "Hit 5 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/030672d7-5d2a-4c11-a534-25e814d0a3ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Crusher",
+      "trophyDetail": "Collect 20 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f140c499-6f93-42ad-aa3b-cb1130128fca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rolling Rampage",
+      "trophyDetail": "Hit 10 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/fc7fd496-8387-40a4-b6b5-7305eff8d12a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Trail",
+      "trophyDetail": "Collect 30 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f4cf9b76-cb10-44ad-ab8f-43643cf2bee4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd Cruncher",
+      "trophyDetail": "Hit 15 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/1c7fda12-ea0f-45b6-96b6-0f5790a21e36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamond Dynamo",
+      "trophyDetail": "Collect 40 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/1cdd747e-62a3-44a9-bed3-731eac4bfbba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dirt Pounder",
+      "trophyDetail": "Hit 20 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/82a03346-3ed3-48cc-92d0-120e5d43be20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sapphire Surfer",
+      "trophyDetail": "Collect 50 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/35d3b4d3-9f44-4da7-9b46-d0fdebc8eb88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pedestrian Punisher",
+      "trophyDetail": "Hit 25 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/2333ccb9-1283-499b-9924-b8ad6b624e85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emerald Enthusiast",
+      "trophyDetail": "Collect 60 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/137140ef-7d89-4348-9181-adfed598087c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Street Smasher",
+      "trophyDetail": "Hit 30 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/3993b0bd-1aaa-4001-95f2-2918eb81aaa4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ruby Rambler",
+      "trophyDetail": "Collect 70 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/d244c9c4-27e1-41cc-aa55-e5f1f594a6ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Human Harvester",
+      "trophyDetail": "Hit 35 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/ef95ec83-3ae8-4e16-b6a8-0fd80efc739b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amber Annihilator",
+      "trophyDetail": "Collect 80 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/8b723ab4-e387-4352-8f95-7fe016e7aece.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dirt Predator",
+      "trophyDetail": "Hit 40 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/c836f457-d4a2-48e6-a90b-2174c50f1f2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topaz Thunder",
+      "trophyDetail": "Collect 90 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/4d193553-2867-4e69-b4b6-cb880cc1557d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road Reaper",
+      "trophyDetail": "Hit 45 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/a10e9f70-5c0b-4875-a8a8-80e48b2a7576.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obsidian Obliterator",
+      "trophyDetail": "Collect 100 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/2775dc81-801c-4375-bca5-35728d2c3fc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tarmac Terror",
+      "trophyDetail": "Hit 50 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/5784a817-52f7-453c-986e-f7a59d0e2911.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quartz Quaker",
+      "trophyDetail": "Collect 110 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/54de3b47-6edd-476a-bb52-156be8980edb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Demon",
+      "trophyDetail": "Hit 55 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/0a7eefa0-8b4f-4849-9365-7ba93868fdff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Opal Overlord",
+      "trophyDetail": "Collect 120 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f901dcc6-2b39-4ef7-9ffd-d2cb895ba106.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 60 people",
+      "trophyDetail": "Hit 60 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/2181a374-1631-4c2d-a409-fcd43c8e161f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garnet Gladiator",
+      "trophyDetail": "Collect 130 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/0da0dae0-b4ac-4252-bc78-50db18c1af4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stomp Champion",
+      "trophyDetail": "Hit 65 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/fd001bcf-f2cd-4adc-bc55-7d8e140eeff7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peridot Pounder",
+      "trophyDetail": "Collect 140 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/6692cbe1-6db2-4479-bbd4-8de44ea1fd1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Urban Unstoppable",
+      "trophyDetail": "Hit 70 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/dad61ae8-3f8d-4e47-832d-b9b7d83f3b02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lapis Luminary",
+      "trophyDetail": "Collect 150 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/b30b23b3-50d3-4aa7-b5de-4e02370ae18b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pavement Plunderer",
+      "trophyDetail": "Hit 75 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/a5103ee5-091b-48a1-9f87-fabefe35d6bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jade Juggernaut",
+      "trophyDetail": "Collect 160 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/9e07389a-5b2d-46dc-8f2a-69b9826baac0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fearless Freewheeler",
+      "trophyDetail": "Hit 80 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/7d5339fb-409c-4361-af2e-7ef23fae8ffb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moonstone Menace",
+      "trophyDetail": "Collect 170 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/00f3ebb3-655d-42bf-ac76-c2c49db4b0a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pavement Predator",
+      "trophyDetail": "Hit 85 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f1529208-6632-44e2-8eca-e636f1358fdf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Citrine Crusher",
+      "trophyDetail": "Collect 180 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/d5fb11a9-c74f-4066-a55e-fe769bae7986.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rampage Renegade",
+      "trophyDetail": "Hit 90 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/9ee3d0ee-4ec2-4a85-b2ea-99fa50c4e8ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agate Avenger",
+      "trophyDetail": "Collect 190 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/c3c9f5f0-c5de-46b1-bc6d-f459d32dc2dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Street Sweeper",
+      "trophyDetail": "Hit 95 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/c89db879-771e-4f45-84ac-f8262630209d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bloodstone Boss",
+      "trophyDetail": "Collect 200 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/9d96161c-cb2d-4361-b144-3460612dbf70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 100 people",
+      "trophyDetail": "Hit 100 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/1dd52a66-889c-4884-bd09-912c49b859b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Malachite Mauler",
+      "trophyDetail": "Collect 210 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/5e6677eb-cb9a-4a32-b373-177ee6611d4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crash Conqueror",
+      "trophyDetail": "Hit 105 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/d898f127-fdf7-4fb9-b594-8dcd3fff722d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turquoise Terror",
+      "trophyDetail": "Collect 220 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/d90ec04b-c568-486a-8a3e-a0238d468f49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 110 people",
+      "trophyDetail": "Hit 110 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/6159759b-7bac-4c0f-928a-cf7b5705f350.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect 230 gems",
+      "trophyDetail": "Collect 230 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/8a612468-66ee-4d1f-a23d-2dd89707cd66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 115 people",
+      "trophyDetail": "Hit 115 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/e38fb68c-71bd-49b8-ba8d-e2f7f3313037.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Onyx Overlord",
+      "trophyDetail": "Collect 240 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f11add0e-4fe9-4d13-9456-9065a4ec4ef6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Urban Uprooter",
+      "trophyDetail": "Hit 120 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/5318df50-fcca-41f8-9d46-4fcdfc6e5223.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pearl Plunderer",
+      "trophyDetail": "Collect 250 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/92e74f23-e7c7-4107-bb67-0539e4872f6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pavement Plow",
+      "trophyDetail": "Hit 125 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/26ce9587-3e4e-4e8a-9d87-0ad351cc517e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rhodonite Rampager",
+      "trophyDetail": "Collect 260 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/9bfea225-9073-4758-92e6-d5c31d64caed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stomp Superstar",
+      "trophyDetail": "Hit 130 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/bb2dab1d-6e21-4f63-9b47-13959cb9f3de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunstone Smasher",
+      "trophyDetail": "Collect 270 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/34dc242c-4beb-44d6-9736-4ccc9056f79b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Street Smiter",
+      "trophyDetail": "Hit 135 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/b1de550f-3037-4867-8598-a139d99f73f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect 280 gems",
+      "trophyDetail": "Collect 280 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/c7a14901-c4c4-4a6b-9c81-444115be6f59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 140 people",
+      "trophyDetail": "Hit 140 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/561d1322-0839-4e9c-9bb2-5c7796bb1899.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tourmaline Treader",
+      "trophyDetail": "Collect 290 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/1a2e2eb7-33e1-48b3-98d5-f7b5293aa74e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road Ruler",
+      "trophyDetail": "Hit 145 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/045f42a4-8253-4cbf-a971-25e2095125b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect 300 gems",
+      "trophyDetail": "Collect 300 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/87eac74b-3172-4c53-bed6-86cc92684eef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 150 people",
+      "trophyDetail": "Hit 150 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/20f9c71c-ec91-433e-87a5-04a0368ab72e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agate Assassin",
+      "trophyDetail": "Collect 310 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/06b1de25-2a3f-40b5-a4be-09e374246670.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "City Slicer",
+      "trophyDetail": "Hit 155 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/154d5ed8-82f3-444e-9a4a-3bf0cc7f235f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fluorite Fury",
+      "trophyDetail": "Collect 320 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/5999eaa6-5a4e-4a6f-b83b-a41ee7e9f3c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sidewalk Scourge",
+      "trophyDetail": "Hit 160 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f79833fd-3bc2-42c0-a2c1-b0cdd803d889.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gypsum Goliath",
+      "trophyDetail": "Collect 330 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/f95392c4-0deb-4da2-947c-86f9daa318a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 165 people",
+      "trophyDetail": "Hit 165 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/cff38bf3-3aa3-4e4b-a9e2-613a593ff003.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect 350 gems",
+      "trophyDetail": "Collect 350 gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/6ce9c40b-77d5-4546-9856-d7e96c5f8d70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 170 people",
+      "trophyDetail": "Hit 170 people",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45630_00/b8e0b468-f6a8-45f1-8469-699be3356dcf.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "npCommunicationId": "NPWR50540_00",
+  "title": "Hole Digging Master",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 31,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Get all the trophies in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/1c4b5e03-6556-4cea-8efa-bf7e45f88b0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Collector",
+      "trophyDetail": "Collect all the artifacts.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/c5c4b71f-73ea-457e-b191-9056d3cf5592.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ancient Bones",
+      "trophyDetail": "Collect all the skeleton pieces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/486ebb77-f3f1-44eb-ba0d-683f256f5dbb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Refined Craftsmanship",
+      "trophyDetail": "Make 1 upgrade using a rare mineral.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/08393de8-11f6-4279-ba52-96fd48f73a86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Upgrade Enthusiast",
+      "trophyDetail": "Make 15 upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/58c38adb-5474-4f9f-ab7f-a33c2ce47aad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mine Explorer",
+      "trophyDetail": "Discover 2 hidden mines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/66590ce9-4cde-4b2c-bbc2-95918910c17a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Stone Hoarder",
+      "trophyDetail": "Collect 100 ores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/9c3f3f31-3dd7-4b26-913e-e0591c8aa1a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Explosive Expert",
+      "trophyDetail": "Use dynamite 15 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/db73b666-05e6-4ced-af20-ab98bfbd6187.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bright Path",
+      "trophyDetail": "Use lamp 15 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/d2f55f65-436c-42cf-bd80-dec913173b5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Relic Finder",
+      "trophyDetail": "Collect 3 artifacts.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/696da744-38be-4360-ab2c-b0c0c65879d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Archaeologist",
+      "trophyDetail": "Collect 3 pieces of skeleton.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/19621249-0727-4ffb-9835-3f43b9f04723.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rare Find",
+      "trophyDetail": "Find 1 rare mineral.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/fd214fa8-facc-4aed-baf0-397e4fd22131.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Efficient Repairs",
+      "trophyDetail": "Recover health 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/2f536fe7-352e-44ce-bb9f-d442421cbc60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Battery Saver",
+      "trophyDetail": "Recharge battery 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/67ebe32f-2415-43b8-9300-f09a80d6ce4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Secret Tunnel",
+      "trophyDetail": "Discover 1 hidden mine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/43561ae2-73d1-4da2-af40-7b2fd376b74d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Demolition Rookie",
+      "trophyDetail": "Use dynamite 5 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/e51d7939-d580-4fe8-b93f-3d5898bca4d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Light User",
+      "trophyDetail": "Use lamp 5 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/d0b3a6a6-dae1-4e19-8b22-9cdcd7ebd439.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Upgrade",
+      "trophyDetail": "Make 1 upgrade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/4184c616-83b0-4d88-a631-83dd23230c40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Apprentice",
+      "trophyDetail": "Make 5 upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/f3885c35-bdec-443a-8e84-fd0d289440c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battery Charger",
+      "trophyDetail": "Recharge battery 1 time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/de280b4b-b248-4a75-a843-59206b584628.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boom Time",
+      "trophyDetail": "Buy 1 dynamite.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/d86e5fd0-14e5-4e5a-925d-71da3c986dd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stockpile Explosives",
+      "trophyDetail": "Buy 10 dynamites.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/200996eb-829f-4188-8071-e467d923ffa1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Light the Way",
+      "trophyDetail": "Buy 1 lamp.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/c4cd3d1d-6146-4b03-857d-78a903fafc2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shining Collection",
+      "trophyDetail": "Buy 10 lamps.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/07c434c4-3708-4f5a-9498-3a344f879e9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Aid",
+      "trophyDetail": "Recover health 1 time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/57286571-b509-47ff-bcdd-f2b42bdc7aa6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stone Gatherer",
+      "trophyDetail": "Collect 1 ore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/bb26cf33-6beb-4cca-b209-d9510838d5c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stone Collector",
+      "trophyDetail": "Collect 10 ores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/22be7a24-1da6-4998-8eae-dab5d1486e74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artifact Hunter",
+      "trophyDetail": "Collect 1 artifact.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/f404a926-c052-4410-b29c-335a6e29ebfb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bone Collector",
+      "trophyDetail": "Collect 1 piece of skeleton.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/3f2a6616-49c7-4799-bf50-ee63a8c0866d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taking Off",
+      "trophyDetail": "Use jetpack for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/277d33ba-b475-4e69-acd6-ead949028df4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steady Flight",
+      "trophyDetail": "Use jetpack for 10 seconds without stopping.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50540_00/61def0d0-da48-4100-a6a2-848600696c36.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

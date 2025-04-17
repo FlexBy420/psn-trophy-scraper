@@ -1,0 +1,76 @@
+{
+  "npCommunicationId": "NPWR39207_00",
+  "title": "DOG® Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 7,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Return to Sender",
+      "trophyDetail": "Capture a total of 20 game pieces",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/87ee3b4d-8d1c-4994-bb61-fd3de2fa4b60.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hat-trick",
+      "trophyDetail": "Capture 3 pieces in one move.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/c4d81435-1ee7-4889-8ed1-3d520d4a612e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "There is no 'I' in team but there is in win",
+      "trophyDetail": "Move a team member's piece into the finish to win the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/bc52a083-d413-4fc8-9ac1-d4f1456d94b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winner",
+      "trophyDetail": "Win your first game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/87ee3b4d-8d1c-4994-bb61-fd3de2fa4b60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion",
+      "trophyDetail": "Win 10 games",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/bc52a083-d413-4fc8-9ac1-d4f1456d94b5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master",
+      "trophyDetail": "Win 20 games",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/c4d81435-1ee7-4889-8ed1-3d520d4a612e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In the nick of time",
+      "trophyDetail": "Swap or capture an opponent's piece that is no more than 4 steps away from the finish.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39207_00/bc52a083-d413-4fc8-9ac1-d4f1456d94b5.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

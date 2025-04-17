@@ -1,0 +1,487 @@
+{
+  "npCommunicationId": "NPWR49474_00",
+  "title": "Barista Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 53,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "A Real Barista",
+      "trophyDetail": "Prove yourself.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/e5e22c58-7b9f-46a5-9c7d-f4e868e7ff1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Milk Frother",
+      "trophyDetail": "Buy your first milk frother.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/5ce37d25-2f9f-4aad-b130-eedb9fd30bcf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Kettle",
+      "trophyDetail": "Buy your first kettle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/b82e75dd-6b1d-44d0-9773-da12d420254d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Sale Fridge",
+      "trophyDetail": "Buy your first sale fridge.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/aced5276-76d4-462e-87a6-8108e01677de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Whip Creamer",
+      "trophyDetail": "Buy a whip creamer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/2e185f23-5768-451f-8e49-8b7722853f00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Ice Maker",
+      "trophyDetail": "Buy your first ice maker.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/5845476c-1c1b-4f8b-9878-a4da93b60a96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steam The Milk",
+      "trophyDetail": "Buy a milk steamer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/62e956f5-a6f1-4c3b-9084-e25a4cdea4d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Tutorial",
+      "trophyDetail": "Complete the tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/a00ab6a5-ee29-4bc8-be88-d5bdb79e1ca1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tenth Shot",
+      "trophyDetail": "Prepare 10 espresso shots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/72198c12-0f44-4992-bdfc-a08c125034a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hundred Shots!",
+      "trophyDetail": "Prepare 100 espresso shots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/f223cfb9-220b-4ff4-be6f-91e9fd55f8fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Thousand Shots",
+      "trophyDetail": "Prepare 1000 espresso shots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/179e9044-00b1-4d08-bbe9-fa6cc27f83ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Head Shot",
+      "trophyDetail": "Prepare 9999 espresso shots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/28498362-a793-4e0a-914c-66f39d4ce67f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salesperson",
+      "trophyDetail": "Sell 10 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/3e528951-38a7-4130-b043-9f0bc1ce7c0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sale Master",
+      "trophyDetail": "Sell 100 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/87cfac90-93b2-46a9-9bd1-7b13c10396a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foamer",
+      "trophyDetail": "Froth milk for 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/a54fbed8-879c-4097-8b6a-9c44fe69aa04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foam Party",
+      "trophyDetail": "Froth milk for 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/5552a74e-4a04-4e75-ae7a-59c6fbb9c40d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foam Everywhere",
+      "trophyDetail": "Froth milk for 999 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/98b5faf6-5fde-43ed-8d1e-4de40bb1a8e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barista!",
+      "trophyDetail": "Unlock All Coffee Recipes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/7cb11607-f859-407d-8682-b477ffe7409b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Is Money!",
+      "trophyDetail": "Earn 10.000$",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/553981cb-c597-4e8b-82b6-7e8f2deae4d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Entrepreneur",
+      "trophyDetail": "Earn 100.000$",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/f6a96a0d-ae71-4abf-aa5e-f88badb7f981.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "CEO",
+      "trophyDetail": "Earn 1.000.000$",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/82c8d2e9-7385-4f45-866c-7a36ed8e9d28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Customer Satisfaction",
+      "trophyDetail": "Argue a customer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/ee97cb64-2233-4041-a200-ad9bdb1a09bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Visionary",
+      "trophyDetail": "Upgrade Your Cafe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/6f1acaa6-f09a-4b5e-8a3f-321c96788413.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Builder",
+      "trophyDetail": "Upgrade Your Cafe 5 Times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/425e0769-c55a-42f3-a2a8-6500e638353c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Builder",
+      "trophyDetail": "Unlock The Second Floor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/e2444d79-9208-4844-8cb6-530e42c8069b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand Master Builder",
+      "trophyDetail": "Unlock The Roof.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/42dfa35b-ece3-464b-9b30-0085e67c1516.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hoarder",
+      "trophyDetail": "Unlock All Warehouse Upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/d421ca44-61bc-4d0b-a8b8-bb91a292c7f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooming",
+      "trophyDetail": "Clean the floor for 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/96a03830-1f18-4485-a125-de479f13c219.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broom Harder!",
+      "trophyDetail": "Clean the floor for 500 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/70088362-757a-400d-b0c8-fac4e82dbbab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Day",
+      "trophyDetail": "First Day Of You Cafe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/53841822-0a92-498b-94fe-f4440d707cc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Week",
+      "trophyDetail": "First Week Of Your Cafe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/90643e33-8fcf-4e84-94f6-b127458aa261.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Month",
+      "trophyDetail": "First Month Of Your Cafe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/3ad10114-bce2-4e63-9006-a5aaeeaf43cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Hot!",
+      "trophyDetail": "Prepare 50 Hot Drinks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/e9ac60b4-0960-43b3-b671-45f36c1946a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Cold!",
+      "trophyDetail": "Prepare 50 Cold Drinks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/79144aa1-c735-4dd4-a65c-5a36bfcf5717.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happy Customers",
+      "trophyDetail": "Deliver 10 Orders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/4629046a-24cc-419f-8c1a-6154c71bf611.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happier Customers",
+      "trophyDetail": "Deliver 50 Orders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/10bac2e2-611c-4950-94d8-4b0b62e6c751.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Happiest Customers",
+      "trophyDetail": "Deliver 250 Orders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/78ca1b16-672d-4bae-973c-db1721341d4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Time For A Coffee Chain",
+      "trophyDetail": "Unlock All Upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/20a576da-deaf-4a8f-a922-1b43a1bec784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cargo Noob",
+      "trophyDetail": "Order Your First Cargo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/1698d109-0881-4092-b844-ee0bda9dd82e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cargo Master",
+      "trophyDetail": "Order 50 Cargos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/b67e6793-8ed0-4a34-aac1-c1c7fa24927f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cargo Grand Master",
+      "trophyDetail": "Order 250 Cargos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/50be2d10-c958-4770-9723-016a87437a39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pour Over",
+      "trophyDetail": "Prepare 10 Filter Coffee Drinks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/098244ef-5149-4c11-afa2-085b213e3b1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best For White Collars",
+      "trophyDetail": "Prepare 50 Filter Coffee Drinks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/98acdb43-99fc-4a93-b63e-2e3be9b83c15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In Coffee Dust",
+      "trophyDetail": "Grind Coffee 10 Times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/9a6092d5-7292-4623-bcb5-f450ca1bba96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grind Master",
+      "trophyDetail": "Grind Coffee 50 Times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/7a3e4e58-74c6-4e05-b887-ae78fbfe31dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bite The Dust",
+      "trophyDetail": "Grind Coffee 250 Times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/f32860d3-26b3-401d-ae36-7ee43f37eec0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grind Grind",
+      "trophyDetail": "Grind Coffee 1000 Times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/807371a9-7088-42fb-8611-0d19fd7ea1c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy A Jug",
+      "trophyDetail": "Buy a milk jug.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/4bfbabe2-55fe-4f0e-8e0c-0c17a07a477c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Master",
+      "trophyDetail": "Argue 100 customers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/5c4d8672-8a9d-4bc8-baea-b243af40874b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Shaker",
+      "trophyDetail": "Buy a Shaker.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/63d8aebc-1b7c-45fc-9767-1a8014e11e0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Blender",
+      "trophyDetail": "Buy a Blender.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/fde2013c-b9cc-4daa-bb9a-cef1fc06796e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Espresso Machine",
+      "trophyDetail": "Buy your first espresso machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/58b35c38-dea4-41e1-8dc4-4e4e54679d03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buy Filter Coffee Machine",
+      "trophyDetail": "Buy your first filter coffee machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49474_00/4ae60b75-8ee0-4b26-b7fd-1b7304db8d36.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

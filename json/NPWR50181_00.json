@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR50181_00",
+  "title": "Slide Defenders",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Slide Defenders Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/ce424839-073a-4321-b981-acaeb18083fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 1",
+      "trophyDetail": "Complete Level 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/5cad51fb-d832-491f-bd50-692ff44ce80d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 1 Enemy",
+      "trophyDetail": "Take Down 1 Enemy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/f210cc95-a4af-4fff-aac5-49c15e0c6ba0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 2 Enemies",
+      "trophyDetail": "Take Down 2 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/6e8d207e-4136-458c-82b2-261ab58972df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 3 Enemies",
+      "trophyDetail": "Take Down 3 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/8aaf8381-7782-4dda-b6d2-94b87ec11240.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 4 Enemies",
+      "trophyDetail": "Take Down 4 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/f677b057-e176-4a37-9249-1ccd9c0e8189.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 5 Enemies",
+      "trophyDetail": "Take Down 5 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/d5197b00-758e-4d76-acc0-193da53ac0af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 2",
+      "trophyDetail": "Complete Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/c5e029d1-9a80-4e54-a9d3-6d0980ddcf3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 6 Enemies",
+      "trophyDetail": "Take Down 6 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/0e640a9c-2620-45ec-880f-8061b2db069e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 7 Enemies",
+      "trophyDetail": "Take Down 7 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/f9aa8fab-a5d4-446b-b664-1ef2a9d881cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 8 Enemies",
+      "trophyDetail": "Take Down 8 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e1b84e69-bb94-48bf-b128-5b4250d3449d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 9 Enemies",
+      "trophyDetail": "Take Down 9 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e4db1701-e5de-4c17-be2a-a1dad52e9166.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 10 Enemies",
+      "trophyDetail": "Take Down 10 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/ec4f509e-0fde-4f90-9177-0bbd1db1b417.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 3",
+      "trophyDetail": "Complete Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e5ef50d7-0818-47b6-84c7-4bd4880eb37a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 11 Enemies",
+      "trophyDetail": "Take Down 11 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/ebbea340-1534-40aa-86ee-18573c839c08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 12 Enemies",
+      "trophyDetail": "Take Down 12 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/811f8c3f-ccd9-449b-b927-ed45dfcddfaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 13 Enemies",
+      "trophyDetail": "Take Down 13 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/3697ac53-a952-46bd-ad8f-4f81af81fe47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 14 Enemies",
+      "trophyDetail": "Take Down 14 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/dc0f977b-fbd9-4257-a02f-e71cc114c8ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 15 Enemies",
+      "trophyDetail": "Take Down 15 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/d7bf1f7b-1716-4cab-ad3e-2c084df7b390.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 4",
+      "trophyDetail": "Complete Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/0a096414-1673-473c-890b-4ede7c3e6f04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 16 Enemies",
+      "trophyDetail": "Take Down 16 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/714a36a3-552d-499d-b09b-03ffa0c4ac62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 17 Enemies",
+      "trophyDetail": "Take Down 17 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/bad487bc-f490-4539-b3b5-458ff57e642a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 18 Enemies",
+      "trophyDetail": "Take Down 18 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/2ab37022-40e4-471a-a622-0c38d1a792db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 19 Enemies",
+      "trophyDetail": "Take Down 19 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/9c64eecb-13f8-447f-a67b-6327418be12a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 20 Enemies",
+      "trophyDetail": "Take Down 20 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/98b65604-3326-4672-923c-52af7fde60e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 5",
+      "trophyDetail": "Complete Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/4df046bb-1fd1-47b2-9138-c9380e3dd6c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 21 Enemies",
+      "trophyDetail": "Take Down 21 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/bb81cdf8-966b-4cd6-8511-b608ae02ec50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 22 Enemies",
+      "trophyDetail": "Take Down 22 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/8583b0d1-c576-4fba-a7ed-483ab2c37405.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 23 Enemies",
+      "trophyDetail": "Take Down 23 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/ac0ce925-3a95-4e27-9300-802ca0abb980.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 24 Enemies",
+      "trophyDetail": "Take Down 24 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/37fb480c-bd94-4bba-b581-f67122ff8342.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 25 Enemies",
+      "trophyDetail": "Take Down 25 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/4d241203-6c2c-4b97-b130-1ff6646c9cda.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 6",
+      "trophyDetail": "Complete Level 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/3e6cc031-1912-4477-a40b-c5b9f1a4ed5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 26 Enemies",
+      "trophyDetail": "Take Down 26 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/284c6f77-302b-4fd1-8ae0-7685353d900d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 27 Enemies",
+      "trophyDetail": "Take Down 27 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/c996dd0a-5d3f-43b2-90d9-e1b9d7b1d396.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 28 Enemies",
+      "trophyDetail": "Take Down 28 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e840374c-8399-439b-8830-483fcd811f3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 29 Enemies",
+      "trophyDetail": "Take Down 29 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/ad4b2efd-2022-454e-9cd1-8ec92eb3f5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 30 Enemies",
+      "trophyDetail": "Take Down 30 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/70cbfe46-59b8-4d9d-b551-a65e4db82258.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 7",
+      "trophyDetail": "Complete Level 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/47d751c0-75c2-4728-ba5b-1c64db19d298.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 31 Enemies",
+      "trophyDetail": "Take Down 31 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e3ead989-1eff-436e-bbbe-eae726a0b6ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 32 Enemies",
+      "trophyDetail": "Take Down 32 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/9fa09156-ec5e-4723-b5fc-de32943ac923.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 33 Enemies",
+      "trophyDetail": "Take Down 33 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/a7ae90a2-f9b2-4303-a6a7-3c17b659db07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 34 Enemies",
+      "trophyDetail": "Take Down 34 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/f2c5bd24-932a-4694-aa46-ad1fd0ce8239.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 35 Enemies",
+      "trophyDetail": "Take Down 35 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/f9c46721-f7e7-4acb-92ff-190d9402e655.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 8",
+      "trophyDetail": "Complete Level 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/3e32c4ca-c20d-4950-92e0-3c8beabe370c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 36 Enemies",
+      "trophyDetail": "Take Down 36 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/0e94933a-9c82-41c1-8796-ee154fe3abca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 37 Enemies",
+      "trophyDetail": "Take Down 37 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/1e197f0a-2f9f-4c0d-b98c-37548c40a499.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 38 Enemies",
+      "trophyDetail": "Take Down 38 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/2df9ce33-cc4a-4f42-8fba-09634f6f63a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 39 Enemies",
+      "trophyDetail": "Take Down 39 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/24aeb3b3-e170-4ae6-a290-edaf0ba9c06a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 40 Enemies",
+      "trophyDetail": "Take Down 40 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/fec1ad02-67eb-4139-8f07-6ffbf778de8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 9",
+      "trophyDetail": "Complete Level 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/65de70da-57cf-4144-b3a8-1457eade3e13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 41 Enemies",
+      "trophyDetail": "Take Down 41 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/95dc94ab-abb0-4809-9510-66264e1c1077.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 42 Enemies",
+      "trophyDetail": "Take Down 42 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/12911b86-6b8d-417f-bee0-834f82050f70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 43 Enemies",
+      "trophyDetail": "Take Down 43 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/c1134797-fc9e-4606-8b26-250a81b6f5d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 44 Enemies",
+      "trophyDetail": "Take Down 44 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/627b6969-1ab7-4719-a208-5b6178cd4bab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 45 Enemies",
+      "trophyDetail": "Take Down 45 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/867aab59-bacd-45cd-babd-3f1b5eeb695c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Complete Level 10",
+      "trophyDetail": "Complete Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/8a109151-f32f-4ae7-bf72-4aa3289ea50c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 46 Enemies",
+      "trophyDetail": "Take Down 46 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/e32588ba-4353-4bf4-a257-b0552c7dad14.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 47 Enemies",
+      "trophyDetail": "Take Down 47 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/08811186-237f-4cbb-92c5-f816c9310234.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 48 Enemies",
+      "trophyDetail": "Take Down 48 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/12cf0059-b1ee-400f-b693-11bbd4f7deae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 49 Enemies",
+      "trophyDetail": "Take Down 49 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/8f0ac1a2-5500-47bd-9d54-9e04331577ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 50 Enemies",
+      "trophyDetail": "Take Down 50 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/1e465227-701e-4839-94dd-4a9e9c816952.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 51 Enemies",
+      "trophyDetail": "Take Down 51 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/0c10c43b-ec90-47d8-ad94-6bc9f89018e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 52 Enemies",
+      "trophyDetail": "Take Down 52 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/2f2e5b3f-8cff-42ee-a7c6-7515b6d277f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 53 Enemies",
+      "trophyDetail": "Take Down 53 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/580f7b41-5e9f-4318-90d5-4a53dea94b91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 54 Enemies",
+      "trophyDetail": "Take Down 54 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/0f55ac7d-236d-4229-be27-10d60964edb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 55 Enemies",
+      "trophyDetail": "Take Down 55 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/b89d4121-cd1f-4ea2-8155-51abcb702320.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 56 Enemies",
+      "trophyDetail": "Take Down 56 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/94b78e2f-3bd6-49f4-90d3-0e99616d3ca1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 57 Enemies",
+      "trophyDetail": "Take Down 57 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/74d2d75d-a635-45aa-a7b1-4b137143a574.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 58 Enemies",
+      "trophyDetail": "Take Down 58 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/cdb43daf-b8fc-4b69-a1dc-898dba81cbc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 59 Enemies",
+      "trophyDetail": "Take Down 59 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/1525a295-684e-497e-844d-87b64ee41db4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take Down 60 Enemies",
+      "trophyDetail": "Take Down 60 Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50181_00/c1595704-0726-4572-a5c9-d217286145c2.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

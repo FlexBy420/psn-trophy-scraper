@@ -1,0 +1,514 @@
+{
+  "npCommunicationId": "NPWR45362_00",
+  "title": "Touhou Spell Carnival",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 56,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Touhou Spell Carnival Complete",
+      "trophyDetail": "Obtain every trophy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/fa2e9f7b-5c3b-45bd-8dfd-b8c2c5daba01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 1 Clear",
+      "trophyDetail": "Complete Stage 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/595a6541-9ece-41d9-aea6-add82b7e9980.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 2 Clear",
+      "trophyDetail": "Complete Stage 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/d284a254-5284-4020-8803-d45899b35dc9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 3 Clear",
+      "trophyDetail": "Complete Stage 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/df1a8c47-30d3-49f0-af78-4624518ed45b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 4 Clear",
+      "trophyDetail": "Complete Stage 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/029ae5c0-b94d-4abe-b7d7-4b9e2fca4fa3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 5 Clear",
+      "trophyDetail": "Complete Stage 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/9d06bbc4-1001-479d-a6f0-73704bf62b4e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 6 Clear",
+      "trophyDetail": "Complete Stage 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/55253ac3-320e-4c08-9948-f7a754bb79de.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 7 Clear",
+      "trophyDetail": "Complete Stage 7.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/c747e17a-c59f-4b4e-acf7-b78257219a97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 8 Clear",
+      "trophyDetail": "Complete Stage 8.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/4302c720-bd56-4625-92bb-6ab782f1c79d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 9 Clear",
+      "trophyDetail": "Complete Stage 9.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/095071e4-38a6-4571-bdd8-c3ffc108c690.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 10 Clear",
+      "trophyDetail": "Complete Stage 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/896ac4af-441e-4092-8c4e-9485233318b8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 11 Clear",
+      "trophyDetail": "Complete Stage 11.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/8de5a05b-4e65-4a6d-873b-81baa1c91786.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 12 Clear",
+      "trophyDetail": "Complete Stage 12.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/d199687f-e55f-4fd8-93ed-3ace3c6e7c20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 13 Clear",
+      "trophyDetail": "Complete Stage 13.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/62c74252-5a6a-4ab4-bb13-a0733c7e53e5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 14 Clear",
+      "trophyDetail": "Complete Stage 14.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/4c2ac534-53e7-4959-9a54-4750ab7e7139.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 15 Clear",
+      "trophyDetail": "Complete Stage 15.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/3f0486f4-b976-4b3a-a5e9-8c553ae78b83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 16 Clear",
+      "trophyDetail": "Complete Stage 16.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/566002ad-4175-43b3-b379-91849797061b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 17 Clear",
+      "trophyDetail": "Complete Stage 17.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/4ed62a21-4dc5-4afb-8291-c87b4f2c3120.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 18 Clear",
+      "trophyDetail": "Complete Stage 18.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/07cc2cca-19de-486d-9bc2-ea61f6222933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 19 Clear",
+      "trophyDetail": "Complete Stage 19.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/9c76a44c-46fc-4fac-886f-89b189868155.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 20 Clear",
+      "trophyDetail": "Complete Stage 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/44e1c006-db3d-4178-b6b5-fdb81d4690fe.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 21 Clear",
+      "trophyDetail": "Complete Stage 21.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/18632e64-6469-4024-b483-0983a06d333a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 22 Clear",
+      "trophyDetail": "Complete Stage 22.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/aa94695b-50c4-4488-b242-6e63caaa64ad.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 23 Clear",
+      "trophyDetail": "Complete Stage 23.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/43b9c112-9753-451d-a37c-ddb5501cf94a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stage 24 Clear",
+      "trophyDetail": "Complete Stage 24.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/0ab78784-e788-4835-bd18-0003f532db78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Main Story Clear",
+      "trophyDetail": "Complete the Final Stage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/1e89c7ce-aa12-4788-a39a-d51171985ad6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spell Card",
+      "trophyDetail": "Use an Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/3b536e73-13c7-4d60-981d-3d02f15068b1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Play Pretend Bullet Hell",
+      "trophyDetail": "Use an Ace Spell Card five or more times in one battle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/640a0a18-2b8f-4d0f-87aa-21f3aa51ed46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spiritual Attack",
+      "trophyDetail": "Use a Bomb.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/cadc9f21-cf36-4688-a135-936194034cf2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Resort",
+      "trophyDetail": "Activate a Death Bomb.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/5920b3cf-2fb3-4e64-9f3f-b80f0ace0373.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Economical",
+      "trophyDetail": "Clear a stage without using a Bomb.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/7898916a-b1c5-4a8f-9a4f-a94740618c91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attack Prevention",
+      "trophyDetail": "Cancel the charging of an Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/08657066-0b6e-4cab-af05-ed5c44ec4115.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Evasion",
+      "trophyDetail": "Use grazing and charge a total of three bars of the Spell Gauge.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/3b056905-dc1c-4571-89e5-9923cb224cfb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supervision",
+      "trophyDetail": "Defeat an enemy using Quick Bullets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/47533a0b-f421-4181-b9ee-74b98ba8ffee.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Hidden Star in Four Seasons",
+      "trophyDetail": "Defeat Okina Matara in Stage 25 after she has used [Hidden Cherry Blossom].",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/11e422f4-642f-4888-8014-f40f9f7e592d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Embodiment of Scarlet Devil",
+      "trophyDetail": "Clear a stage with at least two of the following characters in your party: Remilia, Sakuya, or Flandre.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/56ee0868-caf7-4ed0-b53f-95f716875ef5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Cherry Blossom",
+      "trophyDetail": "Clear a stage with at least two of the following characters in your party: Yuyuko, Youmu, Alice, or Yukari.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/33b39289-b46f-4370-8f8b-a263396b3237.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Imperishable Night",
+      "trophyDetail": "Clear a stage with Reisen and Mokou in your party.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/d5494c3f-1dde-48bb-b3bc-26956fe7e9c7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Subterranean Animism",
+      "trophyDetail": "Clear a stage with at least two of the following characters in your party: Satori, Koishi, or Utsuho.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/19161799-8b53-4f2d-9d6e-0096fcba8652.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Phantasmagoria of Flower View",
+      "trophyDetail": "Clear a stage using Aya's Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/4a269455-03b0-4da5-8561-d3378255f4bb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mountain of Faith",
+      "trophyDetail": "Clear a stage using Sanae's Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/9c8bde51-eca1-441f-af05-2be507080cca.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Scarlet Weather Rhapsody",
+      "trophyDetail": "Clear a stage using Tenshi's Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/57c08772-2e20-403c-8c38-c8709bc6b22a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Undefined Fantastic Object",
+      "trophyDetail": "Clear a stage using Byakuren's Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/ca271141-30ce-4116-95c8-9277e13ef261.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wily Beast and Weakest Creature",
+      "trophyDetail": "Clear a stage using Saki's Ace Spell Card.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/19363f55-9d98-46c2-952f-2527fcca7fe8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interview",
+      "trophyDetail": "View one sub-event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/e1b63e2d-0cb3-4320-977c-d1fb4bc8f127.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Residents of Gensokyo",
+      "trophyDetail": "View all sub-events.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/70d344de-3d3e-482c-b57f-1bf9022ce1af.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Job of a Shrine Maiden",
+      "trophyDetail": "Complete five missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/60d29d24-67c7-4b06-bb13-c8db72cdafed.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nickname",
+      "trophyDetail": "Reach Level 50.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/6825dfdf-f058-4760-8547-0f24365b928f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Test Your Luck",
+      "trophyDetail": "Draw a fortune.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/6d46ff3f-9e64-4105-8034-123dc9b9ddbb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Special Equipment",
+      "trophyDetail": "Obtain character-unique equipment.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/50988829-1a85-4a7b-9cef-3a9ce1254bc0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Piece of Memory",
+      "trophyDetail": "Take a photo in Photo Mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/1c392313-feaa-44c1-99ad-b79ad788e87c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Sign Millionaire",
+      "trophyDetail": "Obtain a total of 100,000 yen from battles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/c8957b04-1b8a-46db-8bd2-7a00f82b2154.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Powerful Strike",
+      "trophyDetail": "Deal more than 1,000 damage with one bullet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/c022f075-dd2e-49da-adc0-fd84a8f7830a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Regular",
+      "trophyDetail": "Buy more than 20 items at the shop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/0ef509e8-8e8b-4b39-a269-1b4eda857325.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ingenious Scheme",
+      "trophyDetail": "Clear a stage without taking any damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/48e5e6be-d064-46c6-a94e-c03ab525769d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collector",
+      "trophyDetail": "Obtain more than 30 types of items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45362_00/2f82dc68-dace-4137-aeaf-6791369901fa.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

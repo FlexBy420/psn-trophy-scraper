@@ -1,0 +1,213 @@
+{
+  "npCommunicationId": "NPWR45388_00",
+  "title": "City Builder",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 21,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "City Builder",
+      "trophyDetail": "Collected every other trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/e396fc6f-d45b-4585-a83f-46a7ee8deaa8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lay the foundation",
+      "trophyDetail": "Build 200 small 1x1 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/c2f1e242-4a43-4b5a-81fd-39765840857d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Under construction",
+      "trophyDetail": "Build 100 small 2x2 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/a2cc9f24-2fc9-4835-b234-77a536833b5b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brick by brick",
+      "trophyDetail": "Build 100 medium 1x1 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/d1e1519d-2c71-478c-9478-708bcf72677d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "From the rooftops",
+      "trophyDetail": "Build 50 medium 2x2 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/1b2cc7e1-7aab-4d04-8cd1-6b49a489dbe3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expanding",
+      "trophyDetail": "Build 200 large 1x1 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/c5cca3ec-e998-4d08-bb48-889da1cccba3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Through the ceiling",
+      "trophyDetail": "Build 100 large 2x2 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/6d016dee-b3f0-44e6-bf0b-9f0717439aa2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Built to Last",
+      "trophyDetail": "Build 50 large 3x3 buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/177a964d-a5c7-4f63-a898-4c471919ae87.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hard Hat",
+      "trophyDetail": "Place 200 road tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/e685eb73-98e6-40e9-b6a5-926d53d54059.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Plumber",
+      "trophyDetail": "Place 200 pipe tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/5788e65f-be8d-4fe5-bb75-116b5db65cbb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Electrician",
+      "trophyDetail": "Place 200 power line tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/2d2840df-2baf-4503-aa03-e7e18760254b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contractor",
+      "trophyDetail": "Complete a bonus level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/98f059d1-98b2-4bb9-94e9-243347d8d93d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice",
+      "trophyDetail": "Build a city",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/b20370eb-37c3-4125-9f11-9324d2c0b8c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expert",
+      "trophyDetail": "Build 10 cities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/d0921af7-ebb8-4369-af19-804b72256144.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Veteran",
+      "trophyDetail": "Build 25 cities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/07a3f24d-ae84-4001-9e43-605e549ead4e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master",
+      "trophyDetail": "Build 50 cities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/10c0afac-e8ad-4c4b-a1d3-7a187b2c7414.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Noobland",
+      "trophyDetail": "Complete Noobland",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/4f9f9774-e647-41f5-bf08-a56f4c050409.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Midland",
+      "trophyDetail": "Complete Midland",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/973f3c64-2a0b-4fac-950a-ce56a5d32938.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Toughland",
+      "trophyDetail": "Complete Toughland",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/08777da8-135b-4f56-8176-5a71ed0aa9f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hardland",
+      "trophyDetail": "Complete Hardland",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/a0f57baa-03f0-4d0a-ad82-b829a5c7853f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Nightmare",
+      "trophyDetail": "Complete Nightmare",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45388_00/3a707c61-a775-4c3c-b825-097500b384b1.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "npCommunicationId": "NPWR48030_00",
+  "title": "Professor Doctor Jetpack",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 31,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master of Jetpacks",
+      "trophyDetail": "Unlock all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/b2d77551-7487-4bcb-947b-d7fdaa73afaf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Small Step",
+      "trophyDetail": "Finish the first level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/edd1b8dc-ddde-4eb0-bbce-3e4cf108d7a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Piece by Piece",
+      "trophyDetail": "Find a new item part",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/fc45594e-6b3b-4b16-bf85-13f2d0e8bf69.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder",
+      "trophyDetail": "Find a hidden stage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/67926148-e8d6-496d-909d-6c3713292424.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jetpack Gymnast",
+      "trophyDetail": "Do a summersault using the default jetpack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/16685369-d253-4b4d-bdea-3cef2c87e7e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maxed Out",
+      "trophyDetail": "Fully upgrade an equipment item",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/fc719c45-31ac-45e7-ad6e-8c9a6ce75dcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exhausted Yet?",
+      "trophyDetail": "Equip an alternative exhaust",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/ce9a71c3-378e-41b2-b4a1-560920b5ce0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gear Hoarder",
+      "trophyDetail": "Collect all campaign equipment items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/d6a4f4d0-25c6-4761-816f-2bfea80931cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "CAN Touch This",
+      "trophyDetail": "Touch a mine and survive",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/fffd8cb0-f4fa-424c-b9e2-72c87e0f5684.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Pilled",
+      "trophyDetail": "Dash through a bullet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/285ad02a-3b11-4a55-b351-383405c451f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Over Matter",
+      "trophyDetail": "Break a wall using a transportable mine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/ae253b1a-e62a-467c-9ae3-f0d0c33b9118.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "X Marks the Spot",
+      "trophyDetail": "Collect all campaign treasure chests",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/0a933663-b9a8-41c9-a262-82f37bf61046.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Junior Capitalist",
+      "trophyDetail": "Collect 123 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/e653e0cf-3ae3-4df8-a714-f18aae13c9cb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "123"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coin Connoisseur",
+      "trophyDetail": "Collect 1500 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/714c8447-c3e6-43d4-aacd-b28059f79492.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1500"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Supreme Collector",
+      "trophyDetail": "Collect 3500 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/fcc8efdc-7caa-4aa7-b965-19d31724d494.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3500"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuelish Endeavour",
+      "trophyDetail": "Collect 500 liters of fuel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/b2ce5ce2-6e28-43f9-8e50-c5f2f604b060.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fuel Me Once",
+      "trophyDetail": "Collect 1500 liters of fuel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/b2bb4dfe-263b-4c70-9e97-eb71ec2b6f6e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1500"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Fuel Can't Get Fueled Again",
+      "trophyDetail": "Collect 3000 liters of fuel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/94e080a1-d67e-4257-889e-28dddb6f3785.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3000"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "And I would walk 500 more...",
+      "trophyDetail": "Travel 500 meters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/457b2ff3-6ab6-4d24-8880-ab8b19dac64a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Getting There",
+      "trophyDetail": "Travel 10,000 meters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/ea5cbb9b-fb46-44f0-9ffb-31aaecc15d7c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professor Doctor Marathon",
+      "trophyDetail": "Travel 42,000 meters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/42c6c216-d010-4e05-aa97-ca27cb1763d3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "42000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Connection Lost",
+      "trophyDetail": "Beat The Internet with its own weapons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/a0577cc2-6e73-4641-b86b-cb7aa18e54d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huitzilopochtli Who?",
+      "trophyDetail": "Beat Huitzilopochtli",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/8128f361-7651-4311-bdcf-640a5e7d14d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tipi for my Bunghole",
+      "trophyDetail": "Hehe. He. Hehe. He.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/52c269eb-0ca1-40f2-887f-dc9879801381.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unleash the Kraken!",
+      "trophyDetail": "Beat Sir Inksac Newton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/b0a66706-f3a4-42cb-9d74-c979b33eb3e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mission Accomplished-ish",
+      "trophyDetail": "Finish the Campaign",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/21cf6d16-9187-4b15-8e38-54439f7ff543.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mine All-Star",
+      "trophyDetail": "Collect all golden stars in The Mine in challenging difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/cfe8c04a-9853-495b-be44-314d742a4d1e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "66"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jungle All-Star",
+      "trophyDetail": "Collect all golden stars in The Jungle in challenging difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/be17d43b-6fb1-4e76-b096-31b0372c8be1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "72"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Core All-Star",
+      "trophyDetail": "Collect all golden stars in The Core in challenging difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/fdf5f75c-0ddc-46a8-9e49-e11625c47c91.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "69"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Kingdom All-Star",
+      "trophyDetail": "Collect all golden stars in The Kingdom in challenging difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/e0e644ed-9861-4671-b57d-4015e9a01b3c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "66"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Billy Gonzales",
+      "trophyDetail": "Finish the campaign in under 60 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48030_00/3af7e1a8-ec94-42f1-b04a-f4788456bf79.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

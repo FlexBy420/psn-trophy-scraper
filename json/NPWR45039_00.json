@@ -1,0 +1,55 @@
+{
+  "npCommunicationId": "NPWR45039_00",
+  "title": "Knight Sim Life Trophies",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 5,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Beginner Farmer",
+      "trophyDetail": "Unlock at Day 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45039_00_00F6C11BC09D50972DEA2E06FDB4DE0BAB8626B8D0/2B9682AA1F9E4040779338BAA53A666EF4502E8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trainee Farmer",
+      "trophyDetail": "Unlock at Day 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45039_00_00F6C11BC09D50972DEA2E06FDB4DE0BAB8626B8D0/8CC549A963DD16E04595B7C1EBE8EB85B348E438.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Virtuoso Farmer",
+      "trophyDetail": "Unlock at Day 7.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45039_00_00F6C11BC09D50972DEA2E06FDB4DE0BAB8626B8D0/6069450A634B4A1CF63BDA4197A9853DB693C679.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Expert Farmer",
+      "trophyDetail": "Unlock at Day 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45039_00_00F6C11BC09D50972DEA2E06FDB4DE0BAB8626B8D0/3B870EBC81EB1FFC31C5E5D101E045298D51CB4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professional Farmer",
+      "trophyDetail": "Unlock at Day 15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45039_00_00F6C11BC09D50972DEA2E06FDB4DE0BAB8626B8D0/31357F0E52EB8C4BD6BE7A4F8471E4EBFC088C2B.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

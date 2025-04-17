@@ -1,0 +1,451 @@
+{
+  "npCommunicationId": "NPWR47013_00",
+  "title": "MasterChef: Learn to Cook!",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 49,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master",
+      "trophyDetail": "Obtain all other trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/00ED94DA496BDECC585E45A55B8C0FF21B593765.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professional",
+      "trophyDetail": "Finish 1st in Prime Time 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/86456F40E9FE9B6FCEC4B3E72F85BB36E5C1F3C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Confectioner",
+      "trophyDetail": "Upgrade 25 recipes to the maximum level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/6F0B0E43F84159638844DDD40C7928933DB61F50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprentice",
+      "trophyDetail": "Finish 10 recipes in solo mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/35976676516346ABF59DFFBDA2F1AAAA96346274.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Competitor",
+      "trophyDetail": "Finish 10 Clash of Chefs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/DAE7ECACB92169EC2F03AA74AE3F6E250E2F0EB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bounty Hunter",
+      "trophyDetail": "Finish 10 daily quests",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/E39C1E8DB42BC3D5A32B181073E52375D028FFD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Challenger",
+      "trophyDetail": "Finish 1st in a match 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D75E882A5C2E685258BFF595A580175287FD4E7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Faster than Light",
+      "trophyDetail": "Finish 10 matches as the fastest contestant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/1D87DDA1A74FCD3101EFD83F854C4A118C5B3383.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alchemist",
+      "trophyDetail": "Make 5 Assemblies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/F3EC021877C3CB31282D4C2F44E43255512F3196.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blend It Up!",
+      "trophyDetail": "Blend 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/79EE493174ED0F47A4B0CC1D19E2186A93DAFFDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Is Fine",
+      "trophyDetail": "Make 5 Broths",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/9E36505D68FB20D95A7DEC12FDEAD46B9D7D6D60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chop Chop!",
+      "trophyDetail": "Make 5 Cleaver Cuts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/B798C4146366EFA6A23852E0E92EA08C101802AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Serial Cutter",
+      "trophyDetail": "Cut 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/F23FCD3C8BF60C4BF2AD5E544CCD49E3CE67E932.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artist",
+      "trophyDetail": "Decorate 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/E7915F8C5D31B245ABED562EF5CFF1E7FF42AF25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rolling in Dough",
+      "trophyDetail": "Make 5 Flat Doughs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/571A1602264D797F215C3042DADAC3E7EB40266E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Work Smarter, Not Harder",
+      "trophyDetail": "Use the Electric Mixer 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/2CBE5687A26B974AC82596983E71440F69807EBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On Fire!",
+      "trophyDetail": "Grill 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/0801073B3CD5679EAD52B2ADD93CD8F9BADA89A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slicing Virtuoso",
+      "trophyDetail": "Use the Mezzaluna 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/2FA1D4040B8A5480DB62142B8C3C1C4F1F24E26A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Homogenous",
+      "trophyDetail": "Mix 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/9639802DD10B8036CC4D76AAE14AC8CB9497CF9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ovenlord",
+      "trophyDetail": "Use the Oven 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/4BE5ED9B40C3EA81D80954A6305AB37490F3E9FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pantastic",
+      "trophyDetail": "Use the Pan 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D008319890CEA1154ECE4601A82EA2B09B1CD48E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfectionist",
+      "trophyDetail": "Peel 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D9E7A1D9D1B96734E3C3E34214EE63A4DF26F191.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock 'n' Roll!",
+      "trophyDetail": "Make 5 Roulades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/1BA3F395B68C6E4887698A9F4296F7CB3EB239D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spreading the Flavor",
+      "trophyDetail": "Spread 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/75BAF4077FCD98144ECCBCB2ACCE79284C12ACB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fine Art",
+      "trophyDetail": "Weight 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/CDBE4DD446D82FC2C399DFC40141CCB46C5D9DB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gratest of All Time",
+      "trophyDetail": "Use the grater 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/A4F3963505821EF3EC4CA59B1B9D53EA6496E4BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squeezed Like a Lemon",
+      "trophyDetail": "Use the lemon juicer 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/B5C0726623FB139B4B33EFDFE2600107912DAE15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frying High!",
+      "trophyDetail": "Use the deep fryer 5 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/32FBB16CCCB518F49EE7DF9426C6E66EFA71516F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shine Bright!",
+      "trophyDetail": "Make 10 Spotlight recipes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D98E7520C5BC0FCD334A2D92C10C4E29561C082E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burgerlicious",
+      "trophyDetail": "Make 5 Burgers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/09E0E0A3692183888FF04D25320B1D1A456503A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Say Cheese!",
+      "trophyDetail": "Make 5 Cheesecakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/93F9CED2EA70EB4D73E39E7C4DF087C5193AA96A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Treat",
+      "trophyDetail": "Make 5 Cakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/E80AD4796D10A23B41789BA3473E90BEA726F943.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spice Up Your Life",
+      "trophyDetail": "Make 5 Curries",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D436EB7EE21C3EC9716C77B1CA4F809EF271247E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking Bread",
+      "trophyDetail": "Make 5 Flatbreads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/4681D2CA34BB72770190086727AC51F7EC3DA49A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "French Touch",
+      "trophyDetail": "Make 5 Macaroons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/33442BE63D2B2AEBAADDC6C1765CADDAD1D00FB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make 5 Sushi Rolls",
+      "trophyDetail": "Make 5 Sushi Rolls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/B3D29A4D35727CFFDDCB88126F3C6C99C05AACD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barrel Roll",
+      "trophyDetail": "Make 5 Rolls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/15959913FAB9CA960CC0BBB44D4EBD9E8B37BE65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Roads",
+      "trophyDetail": "Make 5 Tiramisus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/2D3111DEF845B24570272D50DC310C61A5DD2EB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frostbite",
+      "trophyDetail": "Make 5 Ice Creams",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/8A1601826811819BF2869F01EC0D7ABAAEA91751.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cloudy Dream",
+      "trophyDetail": "Make 5 Cream Desserts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/C1A3A75E64807C9963D1B0603B16B60E9202B765.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morning Delight",
+      "trophyDetail": "Make 5 Pancakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/82D06676E40C2163D59B9CD26B051516D7C5DDD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pasta La Vista",
+      "trophyDetail": "Make 5 Pastas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/43CC15BD9497F90F7DA5F0AF74815EF53227355A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doodle Noodle",
+      "trophyDetail": "Make 5 Noodles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/B5D88B5AE83ED5DD3435CF397CC5335BEA7E53FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cutie Pie",
+      "trophyDetail": "Make 5 Pies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/4E75D28BC9ABBF0CD0C3CEDC7E0D62E9B7441D7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rest in Pepperoni",
+      "trophyDetail": "Make 5 Pizzas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/4CD97EE9979434F637A8C5C5DE4FB911140DB29A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savory Treat",
+      "trophyDetail": "Make 5 Quiches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/71EA8BE779BB7A9249154AB06D7ED5C58A4FD76F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Healthy and Wealthy",
+      "trophyDetail": "Make 5 Salads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/2F37D6814BAA3EE89B56709F9DD3D9195A57AC86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stewards",
+      "trophyDetail": "Make 5 Stews",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/C79CA30EE5DAD5F83DDD34040467D3F2A03A3BDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Butcher",
+      "trophyDetail": "Make 5 Butcher's Cuts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47013_00_006F157E15ED7F4EA27AF66164EED5E476282D4A23/D803C44CDCA25EBABF708C0003618082E986E4EE.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "npCommunicationId": "NPWR22724_00",
+  "title": "Genshin Impact",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 105,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Path of Discovery",
+      "trophyDetail": "You have collected all the trophies for Genshin Impact in the current version. May you always maintain the courage and spirit to traverse the world and conquer all its challenges!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/3637cd02-875b-47db-b42e-91b6c52d7f02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Geo: Of Mountains High",
+      "trophyDetail": "Obtain the power of Geo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/32e60c72-0516-44a3-aaa2-c6cbfcd9c84b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Onward and Upward (I)",
+      "trophyDetail": "Ascend a character to Phase 2 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/6ade6b7c-d403-4a7d-ab1a-971be4ba4909.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Onward and Upward (II)",
+      "trophyDetail": "Ascend a character to Phase 4 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/58d7f491-56ef-4283-9106-e1732f9bfbcb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Onward and Upward (III)",
+      "trophyDetail": "Ascend a character to Phase 6 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ca515c73-ea04-47e6-8359-9a429863ba77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Re-Armed, Re-Forged (I)",
+      "trophyDetail": "Ascend a weapon to Phase 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/85af63b2-ad5a-4081-bd4d-8e9c448503f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Re-Armed, Re-Forged (II)",
+      "trophyDetail": "Ascend a weapon to Phase 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/c2a9aa1a-4038-4f08-a51e-686c39881817.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Re-Armed, Re-Forged (III)",
+      "trophyDetail": "Ascend a weapon to Phase 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/80da8d61-70da-40e9-a213-0de13097968f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wind-Chasing Treasure Hunter (I)",
+      "trophyDetail": "Open 100 chests in Mondstadt (excluding the Dragonspine area).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/2d262236-a599-4fb6-928c-c9c575be22bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wind-Chasing Treasure Hunter (II)",
+      "trophyDetail": "Open 200 chests in Mondstadt (excluding the Dragonspine area).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ab6a6c92-5b72-4875-85cd-f2e420b2d55c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wind-Chasing Treasure Hunter (III)",
+      "trophyDetail": "Open 400 chests in Mondstadt (excluding the Dragonspine area).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/74874830-6a44-4ee2-94de-f68783a704f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock-Steady Treasure Hunter (I)",
+      "trophyDetail": "Open 200 chests in Liyue (The Chasm and Chenyu Vale are counted separately).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/d863f233-e3d8-4e28-b7c8-cf2ed303b02c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock-Steady Treasure Hunter (II)",
+      "trophyDetail": "Open 400 chests in Liyue (The Chasm and Chenyu Vale are counted separately).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/5de455e9-aaa9-4eec-be03-7e755cc1272b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock-Steady Treasure Hunter (III)",
+      "trophyDetail": "Open 800 chests in Liyue (The Chasm and Chenyu Vale are counted separately).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/a40124bf-6dd6-45b5-87ac-d2fdf5587517.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Explorer: Unswerving",
+      "trophyDetail": "Open the chest in the middle of the heart-shaped rock formation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/eff0fc24-b135-4303-bc1e-515d365925d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Explorer: Beloved of the Anemo Archon",
+      "trophyDetail": "Take a seat in the hands of the God Statue in Mondstadt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/eac69cb8-03e4-4808-a871-6b559353f12d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksmanship: Nothing Special, Just Practice",
+      "trophyDetail": "Hit a falcon mid-flight with your bow.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ebc85b2a-226c-42b4-b222-04e1dba9a9e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Journey: The End of the Beginning",
+      "trophyDetail": "Complete the Mondstadt Archon Quests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/49c6ea59-52e0-4d9b-a2e1-5fb386d8a817.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain of Treasure (I)",
+      "trophyDetail": "Open 40 chests in Dragonspine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/34b32558-d77b-4d12-ae4e-de876bc6c0f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain of Treasure (II)",
+      "trophyDetail": "Open 80 chests in Dragonspine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/4ea7030b-1c7f-4e1a-916a-26267aa5b1e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain of Treasure (III)",
+      "trophyDetail": "Open 160 chests in Dragonspine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/3d5ac769-4677-4a50-a3eb-5f5b3769c562.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scarlet Sprouts (I)",
+      "trophyDetail": "Raise the Frostbearing Tree to Lv. 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/6a392481-79f4-401a-82f0-9d4a0435e1db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scarlet Sprouts (II)",
+      "trophyDetail": "Raise the Frostbearing Tree to Lv. 8.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/714e2330-2988-4da5-ae64-bbf9f95f5e76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scarlet Sprouts (III)",
+      "trophyDetail": "Raise the Frostbearing Tree to Lv. 12.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/66566b28-60e8-4e8c-a730-9136d0878b7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Journey: A New Star Approaches",
+      "trophyDetail": "Complete \"A New Star Approaches.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/b50383cf-fc99-44ec-9adf-d8d5565151e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mondstadt: Continental Explorer",
+      "trophyDetail": "Light up the entire Mondstadt map (excluding the Dragonspine area).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/5284f099-328f-4c45-ae0a-03ea17afc149.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mondstadt: Brush of a Thousand Winds",
+      "trophyDetail": "Unlock all Teleport Waypoints in Mondstadt (excludes the Dragonspine area).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0d8c5d30-aa01-4125-a11f-1713c2953f26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mondstadt: Let the Wind Lead",
+      "trophyDetail": "Upgrade the Statues of The Seven in Mondstadt to their maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/84f424a6-0024-4261-ba0d-b2be1406e1e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonspine: Skyfrost Nail",
+      "trophyDetail": "Raise the strange column.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/fee7b6c6-05d7-4777-9f34-b0ef7f92de20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mondstadt: Megastar in Mondstadt",
+      "trophyDetail": "Reach Reputation Lv. 8 in Mondstadt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/1c94aa50-0b67-4ab4-a199-a7c27a8fb4a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liyue: Continental Explorer",
+      "trophyDetail": "Light up the map in the following zones: Bishui Plain, Qiongji Estuary, Minlin, Lisha, Sea of Clouds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/adc3aad9-2329-459c-9bde-e66ee87f6544.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Liyue: Surveyor of Stone",
+      "trophyDetail": "Unlock all Teleport Waypoints in Liyue (The Chasm and Chenyu Vale are counted separately).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/3a0a090e-5340-4021-a882-5c4a372d150d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Liyue: Unmovable Mountain",
+      "trophyDetail": "Upgrade the Statues of The Seven in Liyue to their maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/17eab8ca-7c55-4046-9438-f34c7950f8ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Liyue: Legend in Liyue",
+      "trophyDetail": "Reach Reputation Lv. 8 in Liyue.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/f04d8107-fb0c-4b75-a3a0-3147f8c1ce54.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Down We Go (I)",
+      "trophyDetail": "Clear Floor 4 of the Spiral Abyss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0721fefe-09c0-4b3a-871e-0d2cfe1772a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Down We Go (II)",
+      "trophyDetail": "Clear Floor 8 of the Spiral Abyss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/085f51ea-010e-44bd-afbe-75723079026f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Down We Go (III)",
+      "trophyDetail": "Clear Floor 12 of the Spiral Abyss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/710b7128-618d-48d0-9f78-4657c2efa936.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Abyss: Abyssal Crusader",
+      "trophyDetail": "Obtain all Abyssal Stars in the Spiral Abyss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0ed87b6c-8f89-4ad0-977f-dea1ef9368d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Continental Explorer: Land of Surging Thunder",
+      "trophyDetail": "Light up the Narukami Island, Kannazuka, and Yashiori Island areas of the Inazuma map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/bdab5517-9501-44e8-a524-8531a7a9d61e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Thunderbolting Across the Land",
+      "trophyDetail": "Unlock all Teleport Waypoints in the Narukami Island, Kannazuka, and Yashiori Island areas of Inazuma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/a55181ef-9d11-4f17-aa24-c7664a9a39f1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Inazuma: Eternal Thunder",
+      "trophyDetail": "Upgrade the Statues of The Seven in Inazuma to their maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/fce7859d-637c-4042-bad3-3d68e3e11891.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightning-Riding Treasure Hunter (I)",
+      "trophyDetail": "Open 100 Chests on Narukami Island, Kannazuka, and Yashiori Island in Inazuma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/992537b8-647a-46eb-bb59-1713da447554.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightning-Riding Treasure Hunter (II)",
+      "trophyDetail": "Open 200 Chests on Narukami Island, Kannazuka, and Yashiori Island in Inazuma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/74930e78-3e7f-4421-894e-80562467a5fc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightning-Riding Treasure Hunter (III)",
+      "trophyDetail": "Open 300 Chests on Narukami Island, Kannazuka, and Yashiori Island in Inazuma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e6c5b4e9-e689-4bb8-946d-6cd78dc9d882.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Inazuma: Divine Roots",
+      "trophyDetail": "Reach the Max Level of Sacred Sakura's Favor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/40dbbc88-df7f-4e13-b362-4d70a759c109.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Inazuma: Illustrious in Inazuma",
+      "trophyDetail": "Reach Reputation Lv. 10 in Inazuma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/f1d72b9c-236f-460f-8bd9-19cea70abc89.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Exploration: Tales of Monstrous Madness",
+      "trophyDetail": "Collect the entire \"Toki Alley Tales\" series.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/f7e84aae-7196-4908-81be-f9b46b903427.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Inazuma: Yamada Go's Wooden Mallet",
+      "trophyDetail": "See through the illusions of the Tanuki several times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/d9d710e6-6ac6-4a29-9c39-e5b9a403e746.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Inazuma: Second Blooming",
+      "trophyDetail": "Obtain Hanayama Kaoru's gift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/c8020f0b-5029-43ab-81a1-f3d0b6d6cd0b.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Inazuma: Jackpot",
+      "trophyDetail": "Use the Kamuijima Cannon to reveal a treasure trove.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/93c3a5a5-ffd0-4e3f-9303-1a7007c35b11.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Electro: Unlimited Power!",
+      "trophyDetail": "Obtain the power of Electro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/b4a223b7-2d9f-405e-bf38-d8e01b7f1c73.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sumeru: Forest Roamer",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Sumeru: Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/486e6946-6eae-405b-9160-7ac8512bb333.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Journey: \"The Forest Will Remember\"",
+      "trophyDetail": "Complete \"Aranyaka.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ecabe484-ac59-4826-a037-50447f6619ba.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sumeru: Continental Explorer (I)",
+      "trophyDetail": "Light up the maps of the following areas in Sumeru: Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/5a57690a-d84c-4f4d-a026-945fd45b0204.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greenwood Treasure Hunter (I)",
+      "trophyDetail": "Open a total of 100 treasure chests in Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/67271300-809b-407c-b090-2241cfcf10fc.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greenwood Treasure Hunter (II)",
+      "trophyDetail": "Open a total of 200 treasure chests in Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/94953656-c7d2-496a-b4dc-698e6869bdda.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greenwood Treasure Hunter (III)",
+      "trophyDetail": "Open a total of 400 treasure chests in Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e313541a-bcf5-4a3a-9678-0dfd4e3454e4.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dendro: The Essence of Flora",
+      "trophyDetail": "Obtain the power of Dendro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/f70239b6-389b-4220-adf0-18833dbba4ff.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"...Let Me Fade With Memory\"",
+      "trophyDetail": "Complete \"Vimana Agama.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"The Jasmines Whisper, the Pomegranates Are Glad\"",
+      "trophyDetail": "Complete \"Agnihotra Sutra.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/323685ae-2d07-4f99-9576-06c1d5aede45.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"The Rain Seeps Into the Soil\"",
+      "trophyDetail": "Complete \"Varuna Gatha.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ec62edab-1b2c-4060-8a7b-1edf444a0601.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sumeru: Nature's Infinite Wit",
+      "trophyDetail": "Reach Reputation Lv. 10 in Sumeru.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/832be9c4-12e7-48a5-b533-01761b5f008d.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sumeru: Continental Explorer (II)",
+      "trophyDetail": "Light up the maps of the following areas in Sumeru: Hypostyle Desert, Land of Upper Setekh, and Land of Lower Setekh.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/a4e3eb00-9401-445b-b395-2ec4692d0645.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sumeru: Over Sandstorms and Mirages (I)",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Sumeru: Hypostyle Desert, Land of Upper Setekh, and Land of Lower Setekh.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ca829cb1-b594-47ce-bb32-aa9e7bf33745.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicksand Treasure Hunter (I)",
+      "trophyDetail": "Open a total of 60 treasure chests in Hypostyle Desert, Land of Upper Setekh, and Land of Lower Setekh.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/21c1d7ac-6657-4887-bc29-7acc8c2dd84a.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicksand Treasure Hunter (II)",
+      "trophyDetail": "Open a total of 120 treasure chests in Hypostyle Desert, Land of Upper Setekh, and Land of Lower Setekh.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0d7d87aa-4490-4f4e-8edf-52a93fcdd9f9.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicksand Treasure Hunter (III)",
+      "trophyDetail": "Open a total of 240 treasure chests in Hypostyle Desert, Land of Upper Setekh, and Land of Lower Setekh.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/62a39f64-5434-4e62-88ee-594af7caca30.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Journey: Slumber, the Brother Of...",
+      "trophyDetail": "Complete \"Golden Slumber.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/d092a855-9101-4018-8a5c-10182a4c6595.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: Fata Morgana",
+      "trophyDetail": "The way to the throne has finally been revealed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/26772079-f102-4fc6-bd1a-c40db766404b.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: The Path to Enlightenment",
+      "trophyDetail": "No one knows how these great monuments were built or why they were lost to time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/4708a05c-4f6a-40c0-998d-d3dd46b9bb37.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sumeru: Fluorescent Bloom",
+      "trophyDetail": "Upgrade the Statues of The Seven in Sumeru to their maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/80a8e18a-0456-48d2-a4f6-5739bf93d342.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sumeru: Culmination of the Great Dream",
+      "trophyDetail": "Reach the Max Level of the Tree of Dreams in Vanarana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/80a8e18a-0456-48d2-a4f6-5739bf93d342.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fontaine: Continental Explorer (I)",
+      "trophyDetail": "Light up the maps of the following areas in Fontaine: Court of Fontaine Region, Belleau Region, and Beryl Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fontaine: Font of All Waters (I)",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Fontaine: Court of Fontaine Region, Belleau Region, and Beryl Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (I)",
+      "trophyDetail": "Open 60 chests in the Court of Fontaine Region, Belleau Region, and Beryl Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (II)",
+      "trophyDetail": "Open 120 chests in the Court of Fontaine Region, Belleau Region, and Beryl Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (III)",
+      "trophyDetail": "Open 240 chests in the Court of Fontaine Region, Belleau Region, and Beryl Region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"Ann in Wonderland\"",
+      "trophyDetail": "Complete the tale of the Narzissenkreuz Adventure Team.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"Limner, Dreamer, and Robotic Dog\"",
+      "trophyDetail": "Discover the secret to be found within Elynas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hydro: Land of Fair Springs",
+      "trophyDetail": "Obtain the power of Hydro.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/f4f41a10-79e1-412d-a36c-93a5053f87be.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"Aesthetics of Ugliness\"",
+      "trophyDetail": "And thus does Fontaine take two steps further toward beauty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"These Are a Few of My...\"",
+      "trophyDetail": "...Favorite Things.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"Truly Mouthwatering!\"",
+      "trophyDetail": "Help Henri change his fate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fontaine: In Search of Frittered Time",
+      "trophyDetail": "Reach Reputation Lv. 10 in Fontaine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fontaine: Continental Explorer: Land of Harmonious Springs (II)",
+      "trophyDetail": "Light up the maps of the following areas in Fontaine: Morte Region and Erinnyes Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fontaine: Font of All Waters (II)",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Fontaine: Morte Region and Erinnyes Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (IV)",
+      "trophyDetail": "Open 40 treasure chests in the Morte Region and Erinnyes Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (V)",
+      "trophyDetail": "Open 80 treasure chests in the Morte Region and Erinnyes Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waveriding Treasure Hunter (VI)",
+      "trophyDetail": "Open 160 treasure chests in the Morte Region and Erinnyes Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: Semnai Sans Shadow",
+      "trophyDetail": "Meet a mysterious fairy on Erinnyes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Journey: Narzissenkreuz Notes",
+      "trophyDetail": "What left its name behind? What lies spread all over the valley? What reflects itself in the mirror-water? What symbolizes the lonely, world-saving sacrifice?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/ed0c281b-d91b-4728-aa33-52ead89c21b1.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Journey: An Immortal Emperor in a Mundane Universe",
+      "trophyDetail": "Defeat Narzissenkreuz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fontaine: Like Waters Clear",
+      "trophyDetail": "Upgrade the Statues of The Seven in Fontaine to their maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fontaine: Dew Song",
+      "trophyDetail": "Reach the Max Level of the Fountain of Lucine in the Court of Fontaine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/e9442494-9f38-4f1b-9d8e-fd9ff2dd8418.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Natlan: Continental Explorer (I)",
+      "trophyDetail": "Light up the maps of the following areas in Natlan: Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scaling the Scorching Sacred Mountain (I)",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Natlan: Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignited Treasure Hunter (I)",
+      "trophyDetail": "Open 80 chests in the Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignited Treasure Hunter (II)",
+      "trophyDetail": "Open 160 chests in the Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ignited Treasure Hunter (III)",
+      "trophyDetail": "Open 320 chests in the Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, and Toyac Springs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"The Feat of Ancestral Reminiscence\"",
+      "trophyDetail": "Helped Titu liberate the souls of the tribe's ancestors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"The Ancient Phlogiston Code\"",
+      "trophyDetail": "Failed to find the \"panacea.\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: \"The Relic Left by the Sage\"",
+      "trophyDetail": "Obtain the token needed for the pilgrimage to the volcano in the ruins of the Sage of the Stolen Flame.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/539da03a-2470-491b-ae5c-6195831eefb0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"Offering to Nothingness\"",
+      "trophyDetail": "Collect all the Shattered Night Jade and combine it into the sacrificial \"Night Jade\" offering.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"Into the Painting...\"",
+      "trophyDetail": "Enter the world behind the mural.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "\"For the Fairest One\"",
+      "trophyDetail": "Help the roots of the Flamegranate Tree absorb enough liquid phlogiston such that the Mountain King Flamegranates ripen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22724_00/0b2fb8d8-81bd-44d9-8723-bd3a2d7a3c0a.PNG",
+      "trophyGroupId": "009"
+    }
+  ]
+}

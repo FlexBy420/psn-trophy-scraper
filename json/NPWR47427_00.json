@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR47427_00",
+  "title": "Island Trouble",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "King of the Island",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/14CB6DCD7D9D0CE37CC69A19DEBFE0D2E7ED530D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgrade Master",
+      "trophyDetail": "Buy 10 upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/48FF31E85D6CF4B0466B4A4C8C9A38E6F9D4313E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feeling better",
+      "trophyDetail": "Buy 5 upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/923309B6AA8E739B5E7990D9676E464894726265.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level UP!",
+      "trophyDetail": "Buy your first upgrade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/1847F813B6AEB3698C3A732720E399B1F597185C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Help is on the way!",
+      "trophyDetail": "Rescue your first helper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/6A02EE1AAD15479E1E93961EABA8C6AEAA1D6D8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Jamgus",
+      "trophyDetail": "Buy a Big Jam upgrade",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/B75680536E46B8BB4BB06FF16849EBC56004F25C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Executive Chef ",
+      "trophyDetail": "Cook 25 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/A452FF86F217FBBD2887DF5E251A2AE437CA19DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chef de Cuisine",
+      "trophyDetail": "Cook 20 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/21B81F407AE08E0320F3BDD539AB0800B037CB5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sous Chef",
+      "trophyDetail": "Cook 15 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/075009A34273FF543605BB1DC17AE0348E5B36B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poissonier",
+      "trophyDetail": "Cook 10 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/4D1229CE0C870FA480EA405771C5287AA42F58A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plongeurs",
+      "trophyDetail": "Cook 5 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/B57ABFB73A04D497E46F543DD282CC756B6E26F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poseidon",
+      "trophyDetail": "Collect 20 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/22CF67387D453FB543124F2AC7736533597D6C63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I hope they do not stink",
+      "trophyDetail": "Collect 15 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/3997B20B12B61D5ED0DB775F2C4AA1E636589F8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keep them coming",
+      "trophyDetail": "Collect 10 fish in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/AFC527CF222051C244E97FF194FDBF1AD5FA5705.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maybe they like me",
+      "trophyDetail": "Collect 5 fish total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/AB68158335E1632C3F59D74A9B65A02635EFFC7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mmmmm fish",
+      "trophyDetail": "Collect your first fish",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/EA06B2869D5F2C4AF510F7C04EFD6269C87C34BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "CEO of Bricks",
+      "trophyDetail": "Craft 50 bricks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/3F6163B889A9FCD9C7721607401C76D6B2E863BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "VP of Bricks",
+      "trophyDetail": "Craft 40 bricks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/C0A3D2E679A9F548D67829108CF3183ADE5E5B47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get me a lorry",
+      "trophyDetail": "Craft 30 bricks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/136636E3C3CFD311041DE99D6438D25FEF51762A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I need a wheelbarrow",
+      "trophyDetail": "Craft 20 bricks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/9121933D7348DDABC5B05679BDF671BEECA65A98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I like bricks",
+      "trophyDetail": "Craft 10 bricks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/210EE397633550936F9AD3BA0032C69942D9F848.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "with them?",
+      "trophyDetail": "Collect 100 leaves in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/1B7B30E9842AE333686FF9EAE82AC3BB5A9DD742.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "do",
+      "trophyDetail": "Collect 75 leaves in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/AC377E067A1417E8F954C76E149F06CE55532DE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I",
+      "trophyDetail": "Collect 50 leaves in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/A32B03D64A3D317671ABCF6199F75A9BB8B58BDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "should",
+      "trophyDetail": "Collect 25 leaves in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/BC9EC9551CA4A7923C4D9C6B8C14D43CBD030431.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What",
+      "trophyDetail": "Collect 10 leaves in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/4AC9932779D148F06736CA7F5E3B6857CDEC1CFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Builder",
+      "trophyDetail": "Build 12 structures",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/A4198277967391E7FD1EA2CF46D1907FA9B3E68A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skilled",
+      "trophyDetail": "Build 9 structures",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/A01AA787BDA9FE393F9CF00F3B65010DDA8DDFCA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You are probably smart",
+      "trophyDetail": "Build 6 structures",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/89FF0ABDD8A913516676EAFD1D2A279873A91233.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Okay, maybe not",
+      "trophyDetail": "Build 3 structures",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/A2ED07813F2A199EAAB5A73EA238B861E2144A41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That was a coincidence, right?",
+      "trophyDetail": "Build your first structure",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/F73FEA97928265382F2A73C73F23842B62A0C2B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where is the safe?",
+      "trophyDetail": "Earn 200 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/0DB3B4AB48E84F164988F563D21BFDEE0CDBED6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My money",
+      "trophyDetail": "Earn 180 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/AECD0818930C814BE4380F90C351F6AB7B47E0DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Should I donate to charity?",
+      "trophyDetail": "Earn 160 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/5B8555E4F782F4EE7EB2DFEBB623D4E95A8E4C3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What is 140?",
+      "trophyDetail": "Earn 140 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/5700CDBB207A9E8214999CE5E179D1A46512C859.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I want more",
+      "trophyDetail": "Earn 120 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/FD0FA597A736686B48B11BB5DE810E32BB4929F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 is not 1000",
+      "trophyDetail": "Earn 100 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/F9CD749278B088A6A3CCB6DDD71D1A2F16643E56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 more",
+      "trophyDetail": "Earn 80 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/50A92B88A4DA77680BC88AA7D6DA7AC219E576EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My grandma is 60",
+      "trophyDetail": "Earn 60 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/22AC21D223B7F6EB540F6003DD1E88B646797EF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy money",
+      "trophyDetail": "Earn 40 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/0A5EF374AF66DF35627DF6A223B78A84743D0C6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "one more?",
+      "trophyDetail": "Earn 20 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/8A3B1B941BA62836D04540A7EC9687A31D1DCFBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "NUT",
+      "trophyDetail": "Collect 100 coconuts in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/986E33A6A021876FCA3C0825E894E8FAE0385F01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "GIANT",
+      "trophyDetail": "Collect 75 coconuts in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/AC45E76330EF2BBAF8A83E8A1C162B9AA26183C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "a",
+      "trophyDetail": "Collect 50 coconuts in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/809BCB35454300F7E22B68E31712590783AAE3C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "is",
+      "trophyDetail": "Collect 25 coconuts in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/43076EF588294DDE9A6A2E46DEA25F553310CB31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coconut",
+      "trophyDetail": "Collect 10 coconuts in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/346102E028B6A8BA5B00DE0271922BA1DD1D5E64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jamming",
+      "trophyDetail": "Craft 50 jam jars in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/02AB0AC9BE88D0E04E123D26469DB3B2864809BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I am getting used to it",
+      "trophyDetail": "Craft 40 jam jars in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/B23B634464AEFB286B7F2B3EE25049648E0FD61C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yeeee...",
+      "trophyDetail": "Craft 30 jam jars in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/9BF8D5E20189BE26CE565A2BC5978DE376E7BAF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No more flavors?",
+      "trophyDetail": "Craft 20 jam jars in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/31C1A499436199B9D2086A3E547F29DB99BBC2B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I hope there are more flavors...",
+      "trophyDetail": "Craft 10 jam jars in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/2B2A57947A9FDE9D2447915B6E7561D0ECDEDF6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scissors King",
+      "trophyDetail": "Craft 100 scissors in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/13E024C079F8BF735943C1A29AAEF41A91217754.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What am I doing?",
+      "trophyDetail": "Craft 75 scissors in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/8B751814A84C0F38B88BB11CC6A992C911A03F18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharper",
+      "trophyDetail": "Craft 50 scissors in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/FB58570163A97A055DEB4B690B83AF65AA1C6C57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's make them sharp",
+      "trophyDetail": "Craft 25 scissors in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/20E6D6E204A37991C70942F46D2397C351C43A8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Be careful",
+      "trophyDetail": "Craft 10 scissors in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/4FE346F85E01BD111D057B8AF97E4132812227FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I got them all in my basket",
+      "trophyDetail": "Collect 50 berries in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/D6647CE32595A3549E3914843EEF10843D4C98F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just berries",
+      "trophyDetail": "Collect 40 berries in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/CAE7A77BF77CE3ABFD178B83E76709A169974A15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No other color?",
+      "trophyDetail": "Collect 30 berries in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/DAB39E4AC3C1B5AC8E2BEED580E352BC0A9371EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purple Berrieees",
+      "trophyDetail": "Collect 20 berries in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/0E91C1A75298D1FA73E0AACC86DF1D62A8D0CE6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Berrieees",
+      "trophyDetail": "Collect 10 berries in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/804BAAFBA119853B8698AD5A50278668D2F36EE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I came to play with stones",
+      "trophyDetail": "Collect 100 stones in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/3D0831397DCF6596E0CDFAB1DDD681ADA53F21A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is this some block game?",
+      "trophyDetail": "Collect 75 stones in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/5D318A6E21984EE56F3D2A7DF7873B2FAC601A16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I think that should be enough",
+      "trophyDetail": "Collect 50 stones in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/50A7833701C8345B3911DF7A5FD3BA5135C94A15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I like stones",
+      "trophyDetail": "Collect 25 stones in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/8BD88D43C56259D0003B8FF3CB7453BE921A1932.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stones",
+      "trophyDetail": "Collect 10 stones in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/B7BFCAF65277CEFED54815109B6D32F63AE9B0AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No wood can escape me!",
+      "trophyDetail": "Collect 100 wood logs in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/954B7D8B5E1795C009BFCB8F47F9AE0AED4AE6FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I need a saw",
+      "trophyDetail": "Collect 75 wood logs in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/0B50DB3051B892B4AE814D1FB9CF6378EBE2A6D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wood? No Problem",
+      "trophyDetail": "Collect 50 wood logs in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/99666512995AA723F02A46168923B6F2002979AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "More wood needed",
+      "trophyDetail": "Collect 25 wood logs in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/E1C363C66AE89772586BA93514D46F6C29CCC5A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My wood",
+      "trophyDetail": "Collect 10 wood logs in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47427_00_00D88D34F363284478426CE712AF90928AFAFFD095/10E0CCD6BB74DADA84209315339FAE1F70158C85.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR49923_00",
+  "title": "Spin Around",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Spin Around Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/ed5f68cf-876a-43bd-a9b3-f59f0b3a13c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 1 obstacle",
+      "trophyDetail": "Avoid 1 obstacle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/32e40578-4cbb-4dc8-b315-402b95f9be01.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 2 obstacles",
+      "trophyDetail": "Avoid 2 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/150893e3-83cc-4854-9692-51f2acd09490.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 3 obstacles",
+      "trophyDetail": "Avoid 3 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/c055577a-4eca-4117-9fb2-afd25ff4f05d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 4 obstacles",
+      "trophyDetail": "Avoid 4 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/5a7f01fa-3f9b-4acb-a628-d3adce953c0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 5 obstacles",
+      "trophyDetail": "Avoid 5 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/30cecf12-dcb3-4722-aacf-e70aea1f3844.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 6 obstacles",
+      "trophyDetail": "Avoid 6 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/729b9152-b603-4317-8f49-3d9c3d3693b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 7 obstacles",
+      "trophyDetail": "Avoid 7 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/48b4c926-ca88-4512-a99c-7385038d1e5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 8 obstacles",
+      "trophyDetail": "Avoid 8 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/db2e7db6-c2f1-45b4-97a6-dd2ad147591e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 9 obstacles",
+      "trophyDetail": "Avoid 9 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/32a3c397-f777-4555-a518-2f7e0c37b34e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 10 obstacles",
+      "trophyDetail": "Avoid 10 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/f612caf5-3dc2-465c-a880-0ae69788cb92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 11 obstacles",
+      "trophyDetail": "Avoid 11 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/0a4a0784-0b7b-4f87-96d5-b775b0e4f0de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 12 obstacles",
+      "trophyDetail": "Avoid 12 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/713c01f3-cfc2-4436-ab2a-ce7fb97aada5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 13 obstacles",
+      "trophyDetail": "Avoid 13 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8f407aa7-d693-46cc-98dc-2ea399247c24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 14 obstacles",
+      "trophyDetail": "Avoid 14 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/3dd82714-3955-42fd-bce2-a7de9e2ad758.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 15 obstacles",
+      "trophyDetail": "Avoid 15 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/318c285e-626e-412e-948f-5197df746c57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 16 obstacles",
+      "trophyDetail": "Avoid 16 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/c9be6023-758a-486e-88f0-46275977bd76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 17 obstacles",
+      "trophyDetail": "Avoid 17 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/d79aa3de-6e04-4456-959b-e46f6f5e34b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 18 obstacles",
+      "trophyDetail": "Avoid 18 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/3479dd80-375a-4ac5-aaaa-ee20ec2af540.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 19 obstacles",
+      "trophyDetail": "Avoid 19 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/bed80851-d4cc-481f-9b76-af480270e1f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 20 obstacles",
+      "trophyDetail": "Avoid 20 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/23d8aabd-f7e0-475d-bd39-2b6358f82ae7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 21 obstacles",
+      "trophyDetail": "Avoid 21 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/0cdbd69d-9bdc-4fe2-b61f-aa847a7c0ce1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 22 obstacles",
+      "trophyDetail": "Avoid 22 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/a907c287-3b98-42ab-b940-18c4422eb9ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 23 obstacles",
+      "trophyDetail": "Avoid 23 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8ed9cb20-ab95-4f02-9690-f27d7b329b01.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 24 obstacles",
+      "trophyDetail": "Avoid 24 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/102b93d1-5ff9-4b66-899d-46162bf39eb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 25 obstacles",
+      "trophyDetail": "Avoid 25 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/b63a09ec-e9cf-4452-9022-200592f3d682.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 26 obstacles",
+      "trophyDetail": "Avoid 26 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/d7c13d2c-9900-418b-b15d-87f5dc02a034.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 27 obstacles",
+      "trophyDetail": "Avoid 27 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/89bab0a6-929f-4307-ad23-2f79e3ffe384.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 28 obstacles",
+      "trophyDetail": "Avoid 28 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/f7498272-0e5c-40e7-9456-13f15960635c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 29 obstacles",
+      "trophyDetail": "Avoid 29 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/79904ea1-de4f-4737-85f4-617c90407a9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 30 obstacles",
+      "trophyDetail": "Avoid 30 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/05f015fc-11bd-4bf5-a8a9-c2f76c7b6cea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 31 obstacles",
+      "trophyDetail": "Avoid 31 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/bdb80496-c901-4fa0-97aa-88d35a0190aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 32 obstacles",
+      "trophyDetail": "Avoid 32 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/e17500dd-6d33-4f15-908a-efd1504f3674.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 33 obstacles",
+      "trophyDetail": "Avoid 33 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/665fc225-833f-4acf-9eb8-02f01310ea5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 34 obstacles",
+      "trophyDetail": "Avoid 34 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/1970779b-6ec4-435e-aaf5-786cbf508509.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 35 obstacles",
+      "trophyDetail": "Avoid 35 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/63a3b245-16ed-4dc3-88c4-88644391e271.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 36 obstacles",
+      "trophyDetail": "Avoid 36 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/ddcb20be-e82f-40a7-ad2a-40236aec3a0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 37 obstacles",
+      "trophyDetail": "Avoid 37 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/35ac7ef0-44ea-475a-99eb-b1fb5b577e25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 38 obstacles",
+      "trophyDetail": "Avoid 38 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/87125604-294f-40be-bdb1-1ea9b98f9e44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 39 obstacles",
+      "trophyDetail": "Avoid 39 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/baf7f989-9f5f-4022-bff1-053b7c8ea091.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 40 obstacles",
+      "trophyDetail": "Avoid 40 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/f9031f3f-acb9-44f8-a8b2-0e3839044a6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 41 obstacles",
+      "trophyDetail": "Avoid 41 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/6d8cdd93-eeb7-459d-aff9-f985b4a658ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 42 obstacles",
+      "trophyDetail": "Avoid 42 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8955dcad-74f0-44b7-9436-9f775b38df1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 43 obstacles",
+      "trophyDetail": "Avoid 43 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/22fc60a6-e2f4-4f74-b784-5393ff8f9e62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 44 obstacles",
+      "trophyDetail": "Avoid 44 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/ff622780-323d-4e91-9c3d-b3f5ab9d1830.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 45 obstacles",
+      "trophyDetail": "Avoid 45 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/dfe96a50-3fca-40ce-b37a-5ef000a24b53.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 46 obstacles",
+      "trophyDetail": "Avoid 46 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/190fb8ed-af09-444d-ac3b-a6fa47386c1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 47 obstacles",
+      "trophyDetail": "Avoid 47 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/c4f3f8aa-dba3-42f6-915f-a55d7edd7409.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 48 obstacles",
+      "trophyDetail": "Avoid 48 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/befda6b1-a7a5-41f9-814b-6255b4512f25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 49 obstacles",
+      "trophyDetail": "Avoid 49 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8f3d2d54-3230-4a0b-be2c-bb1fdef35748.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 50 obstacles",
+      "trophyDetail": "Avoid 50 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/46068ffd-7a9d-4b89-a5fd-db5aaa22c129.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 51 obstacles",
+      "trophyDetail": "Avoid 51 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/a9577701-2839-43ca-8893-1d8348bdc3f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 52 obstacles",
+      "trophyDetail": "Avoid 52 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/b3d42e83-8623-4fa6-a82e-501be59985f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 53 obstacles",
+      "trophyDetail": "Avoid 53 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/f26d0f5d-406f-45d6-8ba5-f2991445fcae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 54 obstacles",
+      "trophyDetail": "Avoid 54 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8441a8dd-9210-458d-91dc-2f733b3f0a12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 55 obstacles",
+      "trophyDetail": "Avoid 55 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/7f9e8b1b-c3ea-4e3a-a6c1-0fa07e7f1aac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 56 obstacles",
+      "trophyDetail": "Avoid 56 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/ba970d1e-59b7-4115-8e33-22824bd2d08f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 57 obstacles",
+      "trophyDetail": "Avoid 57 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/94f94616-d64f-4ae8-991a-b6b5c8e4dc0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 58 obstacles",
+      "trophyDetail": "Avoid 58 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/344df17f-7934-4f55-80f5-65282ad189f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 59 obstacles",
+      "trophyDetail": "Avoid 59 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/50cf2f39-f21e-4de0-bd4a-c348f1fff0e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 60 obstacles",
+      "trophyDetail": "Avoid 60 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/af1f13e6-ba95-4987-a883-6ff7603718a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 61 obstacles",
+      "trophyDetail": "Avoid 61 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/3388f000-42bf-4cbf-ab8a-d56b165f8332.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 62 obstacles",
+      "trophyDetail": "Avoid 62 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/a3fcc47b-eb73-465f-a62c-07927c6a209a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 63 obstacles",
+      "trophyDetail": "Avoid 63 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/00111027-af93-4723-aaa2-08ae5a08f71f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 64 obstacles",
+      "trophyDetail": "Avoid 64 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/490f7f9c-9512-483e-814d-26d8a2d03b3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 65 obstacles",
+      "trophyDetail": "Avoid 65 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/8d4138d2-a8fd-4b04-a21c-3105aeba5af6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 66 obstacles",
+      "trophyDetail": "Avoid 66 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/f6f90d3b-6686-4a78-b265-33a180081e39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 67 obstacles",
+      "trophyDetail": "Avoid 67 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/7f199539-667f-4344-85c0-5ec8bd989d8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 68 obstacles",
+      "trophyDetail": "Avoid 68 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/c9b0dd77-3c07-4751-823b-0275fe9c808b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 69 obstacles",
+      "trophyDetail": "Avoid 69 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/186baa79-f152-4c3b-9f68-81f7d7f87581.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avoid 70 obstacles",
+      "trophyDetail": "Avoid 70 obstacles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49923_00/d78a924f-3930-4e97-9359-5e0538e5c2f7.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

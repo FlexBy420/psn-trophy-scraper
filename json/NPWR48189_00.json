@@ -1,0 +1,386 @@
+{
+  "npCommunicationId": "NPWR48189_00",
+  "title": "Subside",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 41,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Legend",
+      "trophyDetail": "Collect all the trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hoop Master",
+      "trophyDetail": "Swim through all the hoops in Training Area",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Shiny",
+      "trophyDetail": "Find a coin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunken Supplies",
+      "trophyDetail": "Open a chest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gear Up!",
+      "trophyDetail": "Purchase your first item",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What’s This?",
+      "trophyDetail": "Find a collectible",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Close Call",
+      "trophyDetail": "Almost drown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Happens...",
+      "trophyDetail": "Drown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Training Complete",
+      "trophyDetail": "Complete Training Area",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beacon, Not Bacon",
+      "trophyDetail": "Use the beacon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost and Found",
+      "trophyDetail": "Find a lost camera",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Far From Land",
+      "trophyDetail": "Reach the red buoy in Cobalt Cove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swarmed",
+      "trophyDetail": "Swim through the jellyfish cluster in Cobalt Cove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Echoes of the Deep",
+      "trophyDetail": "Hear the whales sing in Cobalt Cove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "X Marks the Spot",
+      "trophyDetail": "Find a glove skin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm Not Aftaid of the Dark",
+      "trophyDetail": "Reach the red buoy in Cobalt Cove night",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Living Fossil",
+      "trophyDetail": "Spot the giant sturgeon in Ocari Gorge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Cooling Off",
+      "trophyDetail": "Swim under a waterfall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cutting Edge Tech",
+      "trophyDetail": "Cut a lock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Water You Doing Down There?",
+      "trophyDetail": "Spend 2 hours underwater",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holo-Yes!",
+      "trophyDetail": "Activate a hologram",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buoy, You’re Brave!",
+      "trophyDetail": "Reach the buoy in Shark Enclosure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Contact",
+      "trophyDetail": "Touch a whale",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look to the Skies",
+      "trophyDetail": "Spot the airplane in Whale Encounter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Into the Abyss",
+      "trophyDetail": "Dive deep in Whale Encounter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost at Sea",
+      "trophyDetail": "Swim to the red buoy in Whale Encounter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Chest Can’t Stop!",
+      "trophyDetail": "Open 10 chests",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dive, Cut, Repeat",
+      "trophyDetail": "Cut 10 locks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Picture Perfect",
+      "trophyDetail": "Find 10 lost cameras",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fully Equipped",
+      "trophyDetail": "Purchase all the items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dive in Style",
+      "trophyDetail": "Find 3 glove skins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Show-Off",
+      "trophyDetail": "Activate all the holograms",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Supreme Collector",
+      "trophyDetail": "Find all the collectibles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Deep Pockets",
+      "trophyDetail": "Find 150 coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Making Waves",
+      "trophyDetail": "Swim 5 miles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sea-rious Business",
+      "trophyDetail": "Complete Cobalt Cove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gorge-ous Achievement",
+      "trophyDetail": "Complete Ocari Gorge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flood-tastic Feat",
+      "trophyDetail": "Complete Flooded Caverns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Breath-taking Accomplishment",
+      "trophyDetail": "Complete the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Elite Diver",
+      "trophyDetail": "Complete the game in four hours or less",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hydro Hero",
+      "trophyDetail": "Complete the game in two hours or less",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48189_00/ac3fd624-5a8e-4bd0-81d5-efe2df59c1d5.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

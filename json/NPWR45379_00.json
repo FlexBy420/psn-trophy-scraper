@@ -1,0 +1,423 @@
+{
+  "npCommunicationId": "NPWR45379_00",
+  "title": "Viking Heroes V",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 43,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Hero",
+      "trophyDetail": "Collect every trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/1e1d48fe-d105-443d-a5e7-a011ebadaced.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strategist",
+      "trophyDetail": "Assigned 5 tasks at the same time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/bad2a501-0391-41c7-aee9-d4d12c1d22bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Farmer",
+      "trophyDetail": "Collected 100 units of food",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/e3bab9de-4484-4fc8-aa95-4f95c50777b5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Farmer",
+      "trophyDetail": "Collected 1000 units of food",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/5e95778b-7988-4110-ba8e-14d9379d610f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Miner",
+      "trophyDetail": "Collected 100 units of stone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/1e979f73-5d11-4d8b-a68d-4355b4e06692.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Miner",
+      "trophyDetail": "Collected 1000 units of stone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/c95ce8b7-1639-490b-a6ad-7191cf0d6ed9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Woodcutter",
+      "trophyDetail": "Collected 100 units of wood",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/30e217d1-a823-499c-b9ac-b6e098bb2373.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Woodcutter",
+      "trophyDetail": "Collected 1000 units of wood",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/147c4a02-163b-4d78-a2fa-9a456bbc2e15.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Gold Digger",
+      "trophyDetail": "Collected 100 units of gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/de67185c-4f4e-4335-b26b-d6e8fe88c36d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Gold Digger",
+      "trophyDetail": "Collected 1000 units of gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/32a4e919-b74b-4f40-b582-56a5aa0f4134.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Wizard",
+      "trophyDetail": "Collected 100 units of gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/df2d67f0-e586-4141-b6e2-1aa11c53f557.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Wizard",
+      "trophyDetail": "Collected 1000 units of gems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/27334b28-d11a-4907-b0c7-8dc11d911a38.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Eyes",
+      "trophyDetail": "Dispelled 15 illusions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/82e4be8e-46af-4711-8e8c-c54f816474d0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chef",
+      "trophyDetail": "Cooked soup 30 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/7f85b224-6ec5-4720-a539-e48ff760c5ea.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Changed My Mind!",
+      "trophyDetail": "Canceled a task",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/dda1c0fe-9d02-4391-8a4b-11df157c782e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Indecisive",
+      "trophyDetail": "Canceled 30 tasks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/dc580937-28e7-4d61-a313-1a36d90e7653.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Face to Face",
+      "trophyDetail": "Met an enemy patrol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/f0710928-8122-44ef-87e2-4cf3f75acbdf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dangerous Trails",
+      "trophyDetail": "Met an enemy patrol 15 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/3d060f46-33a2-41de-803f-150bd3130315.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's faster this way!",
+      "trophyDetail": "Used the booster.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/0ded8cfa-de73-4f94-8427-67d65fa682d6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Acquired Taste",
+      "trophyDetail": "Used the booster 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/c1159ebc-a314-4493-8d7d-4e8986c84595.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alchemist",
+      "trophyDetail": "Made 100 transformations at the Stonehenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/90d488ce-2814-45b8-8632-c9ef4ded60c8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gardener",
+      "trophyDetail": "Grew 100 tree gardens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/79a6b3c3-f00a-49a9-93be-48907f131aba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conservative",
+      "trophyDetail": "Completed a level without boosters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/e07e799e-71ed-4d42-b517-5a4fc3fe4c36.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Star",
+      "trophyDetail": "Completed a level with 3 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/24dff26a-6329-45e0-ae07-090291050012.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Finest Hour",
+      "trophyDetail": "Completed 10 levels with 3 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/5cbc6820-fa31-4153-81db-9efe109b8cc9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Professional",
+      "trophyDetail": "Completed 30 levels with 3 stars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/085edda4-444e-4317-9375-2fdac2ee1dd4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well-Deserved Rest",
+      "trophyDetail": "Got access to a tavern",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/88218813-fe37-4a81-b978-caa167404845.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Frequenter",
+      "trophyDetail": "Got access to five taverns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/d20f712b-a6e5-44f3-8628-9879d603a86c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Goat for Asgard",
+      "trophyDetail": "Crafted the Yule Goat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/3da8a4f7-59f4-4fff-b6b7-d3992dbcc6b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Decorator",
+      "trophyDetail": "Decorated the Yule tree",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/ce3be720-8388-4667-978d-11e14e680c39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wheel of Time",
+      "trophyDetail": "Restored the Altar of Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/6b0e2079-1d1b-4b7f-9f73-1afc68bdbeab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bad Reputation",
+      "trophyDetail": "Met the Yule Cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/92dcd07a-96c1-4768-b6fd-d73fa22ede5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Clocksmith",
+      "trophyDetail": "Repaired the Asgard clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/c7d481a7-fa20-427f-afc2-43e31a2fdc65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Butterfly Effect",
+      "trophyDetail": "Rescued the dinosaurs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/66979b7d-a977-4d34-81db-617326a7d574.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Old enemies are better than new ones",
+      "trophyDetail": "Met Nidhogg",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/3c34105e-9695-44b0-a6fc-8f7852a4e58f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Time Loop",
+      "trophyDetail": "Got the oblivion water",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/423454b7-3976-4b87-a88e-807abede25f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Golden Bridge Rings",
+      "trophyDetail": "Crossed the Gjallarbru Bridge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/52f814bd-92e7-4c89-9c10-ce67202d81ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Summer Solstice",
+      "trophyDetail": "Saved the Jotunheim midsummer festival",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/b461e7a2-7867-46c6-9d1b-850fc09b696f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Elements",
+      "trophyDetail": "Restored the Circle of Elements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/107d798f-a440-4b4a-b5d1-82fffc3a9d29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Collector",
+      "trophyDetail": "Collected all gifts for the gods",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/e920a892-af47-47f0-ac0b-c6449966c7df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lost Illusions",
+      "trophyDetail": "Defeated Valravn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/a5c1e08a-0008-44fa-89b7-4c295846b90a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Great Balance",
+      "trophyDetail": "Found the Rune of Balance",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/09df4e7f-e054-476c-a61a-aecbc683fad7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Happy Yule",
+      "trophyDetail": "Celebrated Yule",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45379_00/bed69be7-6ef2-4b90-876a-b1d3fd12bffd.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

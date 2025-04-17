@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR29174_00",
+  "title": "Cyber Pool",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Normal mode",
+      "trophyDetail": "Start first normal mode game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29174_00_0004255D45BDCA976FB477DAEC594539A6FCF0AD44/2238C97D08AE08AECAAEB90E10D72C8776929C28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Classic mode",
+      "trophyDetail": "Start first classic mode game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29174_00_0004255D45BDCA976FB477DAEC594539A6FCF0AD44/9D6835E828A3B5886030CC87898B0187C80F5738.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Challenge mode",
+      "trophyDetail": "Start first challenge mode game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29174_00_0004255D45BDCA976FB477DAEC594539A6FCF0AD44/A54AB847C7DA1BFB3CAA0F171894A3F4FD9D5EB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Complete level",
+      "trophyDetail": "Complete any level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29174_00_0004255D45BDCA976FB477DAEC594539A6FCF0AD44/42C6415D1E49D03C9D72564B5CD8C2469D2690F5.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

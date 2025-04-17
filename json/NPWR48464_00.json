@@ -1,0 +1,82 @@
+{
+  "npCommunicationId": "NPWR48464_00",
+  "title": "Baseball Trophies",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 8,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Big Inning",
+      "trophyDetail": "Any team scores 5 runs in a single inning.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/88ACC9A3D4682333351D2CD66DF3AC5A64DA5D43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gentle Touch",
+      "trophyDetail": "Hit the ball with a power of less than 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/00D0FAC252BDAB050F5A3AFD0B6F59D13C00CC3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Monster Swing",
+      "trophyDetail": "Smash the ball with a power of 150 or more.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/B62A78A6DC7A906737A6B05373450D27AB5ADF5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Outta Here!",
+      "trophyDetail": "Hit a home run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/3185362FEF51C0EAE2E162EE8A49EA8D5B2D12F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Champion",
+      "trophyDetail": "Complete the game on Easy difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/513FAC47EC1C74032525AB4D8DCDAC0D64DCC4D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seasoned Pro",
+      "trophyDetail": "Beat the game on Medium difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/B0E724B9598982E55B518BD7A36F8EB8199244DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hall of Famer",
+      "trophyDetail": "Conquer the game on Hard difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/D0B7CCDAD27A88124BC43FFBBD2C6A7C32BA598E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three Strikes",
+      "trophyDetail": "Get an out after striking out three times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48464_00_000386257ACAA4E8047AEDE7B29889526A37ABC9D7/03AD9F316CC4A94B5C6FAD4C5F9213B174E182C1.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

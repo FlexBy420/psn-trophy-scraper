@@ -1,0 +1,64 @@
+{
+  "npCommunicationId": "NPWR49481_00",
+  "title": "Spot The Difference Sports",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 6,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Champion",
+      "trophyDetail": "Reach 1st place on the leaderboard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/37E3777E61DE65F0CBEBD62404E2B4C2479A08F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Three",
+      "trophyDetail": "Reach 3rd place or higher on the leaderboard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/03BE843227B09B5DAEE63BA702649806736A7B19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Five",
+      "trophyDetail": "Reach 5th place or higher on the leaderboard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/5298FA4BF8B67602330804FA6A1A74EB9274DD81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Eight",
+      "trophyDetail": "Reach any place on the leaderboard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/B2F92292250ED22A7EA8AB9C59CA06E311EE59CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friends",
+      "trophyDetail": "Play a multiplayer match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/FC776D19069778B5F03C53E6FF62BEA465BFC4AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best friends",
+      "trophyDetail": "Play 10 multiplayer matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49481_00_003C4524C22CF307472F5AC0BE32FF6970EDF82EB3/92067A2EDB7407E577E0DA80F804AC323D481C8A.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

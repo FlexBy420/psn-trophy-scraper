@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR45880_00",
+  "title": "Police Shootout Trophy Set",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Medal of Valor",
+      "trophyDetail": "Collected all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/01e7863f-fa33-4c79-9284-e94c337e5942.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Negotiate like a champ",
+      "trophyDetail": "Get the max Negotiations skill level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/28e43801-6984-471d-9111-296c370f90a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sneak like a champ",
+      "trophyDetail": "Get the max Stealth skill level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/db890d5f-0e9c-4419-b94d-192314314a99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shoot like a champ",
+      "trophyDetail": "Get the max Combat skill level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/217925bf-c474-40a4-9ab7-8e3d38fe7087.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Money for talking",
+      "trophyDetail": "Pay Lola for the information",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/5ecf574b-e5ee-4f73-aeda-599f84b07100.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Confrontation avoiding",
+      "trophyDetail": "Enter the workshop owner office through the window",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/6744bf4a-7d00-4d16-ba3a-b4970ab14669.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Real deal commando",
+      "trophyDetail": "Enter the warehouse through the window",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/a9fd8c6f-f8cd-407f-9f2f-50c79a0a5ab4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Happy End is overrated",
+      "trophyDetail": "Finish mission Abandoned car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/9e1e55bb-25fd-46fc-868f-ed52aa34c51a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dedicated to service",
+      "trophyDetail": "Complete all missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/93f0896b-e068-4851-8750-81126de21e5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stealing is not ok",
+      "trophyDetail": "Arrest the workshop owner",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/c41003df-c49d-4413-b268-9a8e1fc2d8ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Drugs under the pillow",
+      "trophyDetail": "Collect drugs at the motel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/ac98c5af-9ee3-459c-afe1-dee55f81c2be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Wolf in sheep's clothing",
+      "trophyDetail": "Finish mission Screaming at the warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/806397ce-87cf-41b6-9d64-6bc69b531f6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "New colombian treasure",
+      "trophyDetail": "Finish mission Suspicious transport",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/3de1cbaa-00ee-44ab-b354-2977f90786c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fight about the clutch",
+      "trophyDetail": "Finish mission Brawl at the garage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/5e0879c6-50e6-415f-974d-6e66b50cf156.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Three stoned Musketeers",
+      "trophyDetail": "Finish mission Fight at the bar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/332e0221-4725-465d-84dd-88abdf70fd2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Save it for the judge",
+      "trophyDetail": "Arrest the informant in the warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/f5e64d41-e062-40be-8961-e7cd5f281670.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cavalry on the way",
+      "trophyDetail": "Call for backup in an abandoned factory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/d5ff1405-61ad-487b-8f2c-cf914fb205bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fazer will make you dance",
+      "trophyDetail": "Use fazer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/cf5de074-fcd0-4aae-8ac9-a4f529e3315d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No deals with criminals",
+      "trophyDetail": "Arrest the tank cleaning center manager",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/16f70ca3-c529-4f86-bb30-f0326895587a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Do it with a bang",
+      "trophyDetail": "Use shotgun in a gunfight",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/5504b898-76dc-4c53-a385-8d57a04d0be4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distraction is the way",
+      "trophyDetail": "Make noise in the warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/f8c91cf0-aa7a-4248-8fe5-63fbfd222994.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mad Harry's case",
+      "trophyDetail": "Finish mission Stealing fuel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/5a6513ff-acc7-43aa-a8dc-3d2c43eca045.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No drugs, no guns, but moonshine!",
+      "trophyDetail": "Finish mission Stealing merchandise",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/e8d9fbd2-109f-4f91-a1f4-461bcbc3d5fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's your call",
+      "trophyDetail": "Arrest the informant in the supermarket",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/7dda43d2-c34e-4d40-88cf-d0e9fb560cb2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Over and out",
+      "trophyDetail": "Finish mission No contact with security",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/5d41ccea-b92f-4136-98eb-e781e2fc6815.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's make some noise",
+      "trophyDetail": "Use the car alarm at the gas station",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/4799eb7a-a855-4c1b-a428-0287b52c7eec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent incapacitator",
+      "trophyDetail": "Enter the gas station through the window",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/f1236464-fb76-4574-b3cc-acf7d071a2c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mr. Stalker sleeps next door",
+      "trophyDetail": "Finish mission Stalker at the motel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/7d9c9662-07ca-4dba-9eb1-79f3cdf72b9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revenge can be bitter",
+      "trophyDetail": "Finish mission Gas station hostage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/152d50c5-4f18-4c63-9a5d-4638efbdf84d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's find this kid",
+      "trophyDetail": "Save a child in the supermarket",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/ce88d202-6ba0-4af9-a461-ea336a7f7027.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drugs or just candy",
+      "trophyDetail": "Collect drugs at the supermarket",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/f651fb13-f942-42b5-a28c-d7d634c2daae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basics negotiations",
+      "trophyDetail": "Finish second tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/1d7a8d72-6230-46cd-868a-20be41df70ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basics",
+      "trophyDetail": "Finish first tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/15623220-e2c9-4a87-a7c8-90e673b0338b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're good to go",
+      "trophyDetail": "Take the civilians out of the supermarket",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/f153d8c9-0f97-411d-a47c-66288b3351b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to San Adrino",
+      "trophyDetail": "Finish mission Parking lot brawl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45880_00/461119ae-e28d-4bbd-ba2d-b4fea94a7134.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

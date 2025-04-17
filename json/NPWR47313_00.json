@@ -1,0 +1,370 @@
+{
+  "npCommunicationId": "NPWR47313_00",
+  "title": "Fly Corp",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 40,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Sky Ace",
+      "trophyDetail": "Collect all the Throphies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/86b01262-7f8a-4540-a65b-da454e7b753b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basic Controls",
+      "trophyDetail": "Finish Tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/da3b9efc-d6ec-4e8c-8ca2-c5bdaf954539.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game Started",
+      "trophyDetail": "Complete the first Regular Scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/3a13d1e0-81c7-429d-92c8-a155ec00bc79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ten!",
+      "trophyDetail": "Unlock 10 territories in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/cd7a996e-cfaa-4c09-87a3-bf30c3aef580.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That Was Close!",
+      "trophyDetail": "Save an airport from being overloaded in the last second of the timer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/8d964c68-199c-4b0b-90f4-a18149288557.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expensive Plane",
+      "trophyDetail": "Buy a Level 6 plane",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/39a6b79f-88e5-485b-b079-fda06555473a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Large Airport",
+      "trophyDetail": "Upgrade an airport to maximum level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/80a04b40-cb19-433e-b7f0-499963cc1e38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Management Master",
+      "trophyDetail": "Complete all the Extreme Scenarios",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/048551ac-a459-4560-a616-01dab7a3f21e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fast Response",
+      "trophyDetail": "Complete all the Quick Scenarios",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/e26668bc-a249-4866-8b3b-dce11cb5d7e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Experienced Manager",
+      "trophyDetail": "Complete all the Regular Scenarios",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/a88cc23f-f2d1-411f-bd56-3f93bca0f62a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Hundred",
+      "trophyDetail": "Unlock 100 territories in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/12a1ebd3-f65a-42c5-8652-23185785f265.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Incredible!",
+      "trophyDetail": "Unlock all territories in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/214fd1e0-2bf7-4096-b82c-6314fcb038d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reliable Transporter",
+      "trophyDetail": "Transport more than 100,000 passengers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/429d8657-0271-4829-b7ef-930be75c2e79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary transporter",
+      "trophyDetail": "Transport more than 1 000 000 passengers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/4e962af6-cbbd-4bb4-be9e-5ecc5da4ab40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fifty",
+      "trophyDetail": "Unlock 50 territories in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/92b49249-fbd9-4217-9dbe-148645fa501b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Own Way",
+      "trophyDetail": "Unlock all territories in Free Play mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/3300491d-b778-40a4-bbf4-f64ba99bf443.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edge of the World",
+      "trophyDetail": "Unlock the Antarctic in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/5ed0328f-8c46-4aa3-a709-5732ea2b4839.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Great Luck",
+      "trophyDetail": "Get 3 supersonic jets in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/932ffcaf-3fcf-4ccc-8bec-1aa7ed49487c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maximum Upgrade",
+      "trophyDetail": "Get the maximum number of planes per route and fully upgrade them all",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/f4455406-c912-48e7-b1a8-140b10dd00f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Millionaire",
+      "trophyDetail": "Get more than 1 million credits on your balance in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/37c4e0e0-6fd7-45eb-91d4-2aaf42a672d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Distances",
+      "trophyDetail": "Create a route over 7,000 km long",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/807fb655-1463-47e7-a383-99f88580103c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transport Hub",
+      "trophyDetail": "Create more than 20 routes from one city.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/9be177f2-41f3-473f-a412-627d12f8df7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lack of Time",
+      "trophyDetail": "Successfully complete a scenario with less than 10 seconds left before the end",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/a9fb1c1e-d977-4b36-be3b-6e7e48492bdb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Race Against Time",
+      "trophyDetail": "Unlock territories earlier than expected in Discover the World mode and get more than 40 minutes to unlock the next one",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/95a315a6-0bae-4ce0-8e9f-7f70755b50f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Restructuring",
+      "trophyDetail": "Remove more than 7 routes in one game session.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/8df3e43c-1585-4e04-b7ed-2d5582887f88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Debtor",
+      "trophyDetail": "Get less than -5,000 credits on your balance",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/07a5c608-62d4-480a-b8ff-d7870feb9875.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calculated",
+      "trophyDetail": "Launch the second plane so it ends up at the opposite point of the first plane",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/e10092a6-48fb-42b0-ac65-c269cc914562.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time for Management",
+      "trophyDetail": "Complete more than 10 actions when on an active pause",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/0a154b2c-1005-4537-8a38-ef27cc480ed7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Wasn't Part of the Plan...",
+      "trophyDetail": "Unlock a territory that wasn't supposed to be next in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/840bfd60-d46d-4b3f-97e1-294e362f6030.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Large Territories",
+      "trophyDetail": "Unlock Canada, Russia, and China among the 30 first territories in Discover the World mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/2f634ab5-c38d-4359-9764-55df4b6efea0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Completion",
+      "trophyDetail": "Complete 100% of the game. You can see your progress in the Menu",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/e1e91211-8278-445c-ad23-d24d42bec490.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Way Back",
+      "trophyDetail": "Complete any scenario without saving",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/5c175697-7392-4dc1-b719-2570abd5128b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Linear Network",
+      "trophyDetail": "Complete any official scenario (except for Daily Scenarios) using no more than two routes per city",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/69552204-1a4c-44fb-8ee0-b8ca54d6010f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Active Pause",
+      "trophyDetail": "Successfully complete a scenario while the game is on active pause",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/6b384d29-7745-49bd-8b1f-b3db502dc24a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Budget Flight",
+      "trophyDetail": "Complete any scenario without upgrading planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/0d477c38-c39a-475a-bfa2-8445416b3bc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Resource Economy",
+      "trophyDetail": "Complete any scenario with a maximum of 1 plane per route",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/a2a519cf-646d-4ea0-8ecd-f15f6e43c689.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Time for Modernization",
+      "trophyDetail": "Complete any scenario without upgrading airports",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/9343614d-0b81-4a4c-95a2-c2c24b29ed43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Public Figure",
+      "trophyDetail": "Publish your Custom Scenario to make it available to other players",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/f4455406-c912-48e7-b1a8-140b10dd00f9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scenario Expert",
+      "trophyDetail": "Complete 10 scenarios from the Custom Scenarios list made by other players",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/807fb655-1463-47e7-a383-99f88580103c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Record",
+      "trophyDetail": "Improve your Leaderboard score in a previously completed scenario",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47313_00/5c175697-7392-4dc1-b719-2570abd5128b.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

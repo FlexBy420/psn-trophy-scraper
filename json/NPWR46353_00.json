@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR46353_00",
+  "title": "Flippy Jump",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Flippy Jump Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/FCDC3BF778BC4F3C7850DD82967C84C6124301DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 5 stars",
+      "trophyDetail": "Collect total amount of 5 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/D5516BF67BFF600819328BA5650B942CCA6BC89A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 6 stars",
+      "trophyDetail": "Collect total amount of 6 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/60A32EA1A9F01B4CE91DB3E74B360E32EFCFF7EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 10 stars",
+      "trophyDetail": "Collect total amount of 10 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/BEFBFC4D4219170A7F032D25A9014E0EC3C2A470.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 12 stars",
+      "trophyDetail": "Collect total amount of 12 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/C4B90FFE43D2BDC330327F7753C40B93F1D54796.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 15 stars",
+      "trophyDetail": "Collect total amount of 15 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/4D860688BBC33FF9F7804B77D2783DCFD8884677.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 18 stars",
+      "trophyDetail": "Collect total amount of 18 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/B170A64E1BD65705309196C2C0DFB4150D31E2FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 20 stars",
+      "trophyDetail": "Collect total amount of 20 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/A524317D6A0110725F314C72FBA5A46DCBCDD31D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 22 stars",
+      "trophyDetail": "Collect total amount of 22 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/3DE4109D7564C87ADE4C916C59DE0BB11BB24137.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 24 stars",
+      "trophyDetail": "Collect total amount of 24 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/F88703F1E9C4BF7701032D35364E5124CCF202EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 25 stars",
+      "trophyDetail": "Collect total amount of 25 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/9DCBE3BF99F648DC3B0BE4495781E91F3BD49E3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 30 stars",
+      "trophyDetail": "Collect total amount of 30 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/67B53AF7210420819114048285C0CF3C265ECB86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 33 stars",
+      "trophyDetail": "Collect total amount of 33 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/F14E00D58F4B87AB4414727B40B00B656B7B4167.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 36 stars",
+      "trophyDetail": "Collect total amount of 36 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/5E6097177CE7EAD2677BCA756075C448A71FFD82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 42 stars",
+      "trophyDetail": "Collect total amount of 42 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/A31F83F5996AADB061935B080A17D4AEB2C0B3F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 45 stars",
+      "trophyDetail": "Collect total amount of 45 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/BEF5C61A462F4620088C3A6ED224E5745AB6DC50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 48 stars",
+      "trophyDetail": "Collect total amount of 48 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/8A7B125EC20C9D3A0D0D64713DA973E3BA44BF5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 50 stars",
+      "trophyDetail": "Collect total amount of 50 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/CF3337561EA1CCA34C498F9DF0F134008A1F9BA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 54 stars",
+      "trophyDetail": "Collect total amount of 54 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/43446552A62E50558094FD2170E25E29BDC2ED7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 55 stars",
+      "trophyDetail": "Collect total amount of 55 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/68EA7048E681EA0009A513B276E71660C089222B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 60 stars",
+      "trophyDetail": "Collect total amount of 60 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/A0D66C36F6575D8F69D37E627BF504A98D645A3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 62 stars",
+      "trophyDetail": "Collect total amount of 62 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/FF31C402556DCD3B3962C443F895D3F0D95F44B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 65 stars",
+      "trophyDetail": "Collect total amount of 65 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/EE2487FFD0E3517B74A330A23D942177B562C656.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 70 stars",
+      "trophyDetail": "Collect total amount of 70 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/EFC0E7BA05FAE3C1D8604D74D4ED21787F9EA292.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 72 stars",
+      "trophyDetail": "Collect total amount of 72 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/AC3D657E30F2D41231132B466173C097F5E926CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 75 stars",
+      "trophyDetail": "Collect total amount of 75 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/44AFA921B759DA8F8823B8ECFB5A39DFEB8CD650.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 80 stars",
+      "trophyDetail": "Collect total amount of 80 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/0960A29005C169B37C3FBD056A939E485424915D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 85 stars",
+      "trophyDetail": "Collect total amount of 85 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/28C30C4C7BA25FC740CFD27254E4829B5015D606.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 90 stars",
+      "trophyDetail": "Collect total amount of 90 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/2169A51B0B78263D081E74D29E8D111482A07153.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 95 stars",
+      "trophyDetail": "Collect total amount of 95 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/E761043BB3AD09FEB2419987106209E896073E57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 100 stars",
+      "trophyDetail": "Collect total amount of 100 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/E37D3E06602B83ADEFEBCE48F87D2377082BDD73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 105 stars",
+      "trophyDetail": "Collect total amount of 105 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/0EF357563DA57708C4DB77CA0EA6C0CB2B1B8223.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 110 stars",
+      "trophyDetail": "Collect total amount of 110 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/A514DC03E15291BFB5C9E917A9C950E2BDF9B954.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 115 stars",
+      "trophyDetail": "Collect total amount of 115 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/676B3ED637DABE52CFB8432FC17BD9E7D771E19B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 120 stars",
+      "trophyDetail": "Collect total amount of 120 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/0E4888D43E4A9A36BFB58EE4E0FBC5996EC9BC27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 125 stars",
+      "trophyDetail": "Collect total amount of 125 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/78CE8EDA736BD9159B42934F24BBAE7474F89EFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 130 stars",
+      "trophyDetail": "Collect total amount of 130 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/31965D2C79C992E8F02A79F8138080B94752A17E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 135 stars",
+      "trophyDetail": "Collect total amount of 135 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/2C46B76677455A6311DA4B5BA25CD54ACAA0E1C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 140 stars",
+      "trophyDetail": "Collect total amount of 140 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/56D70416073C5E118C2F2A201CA62E132EBDD1DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 145 stars",
+      "trophyDetail": "Collect total amount of 145 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/86894E0150E27B9DE8C222D492AB2EB92AA4B6FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect total amount of 150 stars",
+      "trophyDetail": "Collect total amount of 150 stars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/5990480EFB034EAD77290F31611150B6478A93BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 3 times",
+      "trophyDetail": "Rotate 3 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/0099F208EED7FD8D9301A4221CBDDF268C068836.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 6 times",
+      "trophyDetail": "Rotate 6 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/3710469EA3E520D4AA82E468EC8DD924F12E7A11.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 9 times",
+      "trophyDetail": "Rotate 9 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/49A79278F6B44FD2480D332919CB0CE841532407.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 12 times",
+      "trophyDetail": "Rotate 12 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/C2BB98C9515155186B41AD61BA9BBB386D5AA1CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 15 times",
+      "trophyDetail": "Rotate 15 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/C7BDF4BB43458CCB99346B6A3622C7B772F28518.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 18 times",
+      "trophyDetail": "Rotate 18 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/5A2FBF486694E9CCAF5CEFD596832BE764978CF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 21 times",
+      "trophyDetail": "Rotate 21 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/B6E82B38076E474A01CD76158C3725591FA71091.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 24 times",
+      "trophyDetail": "Rotate 24 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/008472A9CE18D24098615B83F815E9F503D7FEF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 27 times",
+      "trophyDetail": "Rotate 27 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/B26FAAE4A95A33455AF57E6948A8CE4F421F6AF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 30 times",
+      "trophyDetail": "Rotate 30 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/F1FE21F9CC5FCFDD9B780D1034630359DAE26DFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 35 times",
+      "trophyDetail": "Rotate 35 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/A19E06A3D257E4AE829D403DD27980511B6E7D7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 40 times",
+      "trophyDetail": "Rotate 40 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/FD1BBEB5CB8B0165573E393DD66A9C2CD8E27B04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 45 times",
+      "trophyDetail": "Rotate 45 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/028580805B1AE65D080C4E3A1C92518F79100094.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 50 times",
+      "trophyDetail": "Rotate 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/4787353427D0948B09256822F880FCF57F5E9781.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 55 times",
+      "trophyDetail": "Rotate 55 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/66ACD2596AE47FAA18D4175CBAC1B1358C68E653.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 60 times",
+      "trophyDetail": "Rotate 60 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/E57324FDC98F64CA8FAD672040D63181984B87BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 65 times",
+      "trophyDetail": "Rotate 65 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/7B0EBCC5DF0B52070C1520DF4DDC6DD386D70326.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 70 times",
+      "trophyDetail": "Rotate 70 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/54EF1D1A35A75581E8B16457AD7907FD89C48870.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 75 times",
+      "trophyDetail": "Rotate 75 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/25DFDC1ECB7277588EFE2E0C6C9F468ABDAA93FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 80 times",
+      "trophyDetail": "Rotate 80 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/C4A6187B78D07F7A560788E9EF441514A9F417E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 85 times",
+      "trophyDetail": "Rotate 85 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/D85F878F61216489B8493D75BCE49640A4035441.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 90 times",
+      "trophyDetail": "Rotate 90 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/3808A3B50B77D36D4C5E568FA261D416E621E9D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 95 times",
+      "trophyDetail": "Rotate 95 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/5E7609252BD27F68A9989A2DCE48724FDB212FE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 100 times",
+      "trophyDetail": "Rotate 100 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/B442A1B9E560476D7D9D0B828AD9528643D08DAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 105 times",
+      "trophyDetail": "Rotate 105 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/F6A7F7A1148AE8344E76AF67893935F25A42480A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 110 times",
+      "trophyDetail": "Rotate 110 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/FB136B7D3ACCA086406235527D0470A6056D4622.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 115 times",
+      "trophyDetail": "Rotate 115 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/C8B1BEB040B6119E98262AEFCA560D0BBC49638E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 120 times",
+      "trophyDetail": "Rotate 120 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/6A326FEF49F6A1A8EC938E5D59F59645C204134A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 125 times",
+      "trophyDetail": "Rotate 125 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/3BF2F6C0565C74F5B53AFB2055FB4D6B3533E975.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotate 130 times",
+      "trophyDetail": "Rotate 130 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46353_00_00ACBBF12093CF7DD6AC5D3FE8ACF9B36C37011B7E/E87A5A19DE86719CCD58C7B6B484AAFE1A071BFF.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

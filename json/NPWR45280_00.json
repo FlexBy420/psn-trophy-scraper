@@ -1,0 +1,451 @@
+{
+  "npCommunicationId": "NPWR45280_00",
+  "title": "Snake Seeker",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 49,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Anaconda",
+      "trophyDetail": "Earn all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/48c19c67-04fb-48c4-8350-0841a9f787aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Level 3",
+      "trophyDetail": "Complete level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/3b2c77a5-4a1a-4047-894f-6a33a78a898a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Level 2",
+      "trophyDetail": "Complete level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/347b8dc9-e4d0-45ec-96a0-14c639fbe7d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Level 1",
+      "trophyDetail": "Complete level 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/1b5389fe-5d40-4d47-af2c-99e131edd350.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "14 Campfires",
+      "trophyDetail": "Ignite 14 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/78ded0af-3d95-489b-839c-755aef2b8855.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "12 Campfires",
+      "trophyDetail": "Ignite 12 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/ac04e132-bd9c-4562-af2a-c95fb61d317b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "10 Campfires",
+      "trophyDetail": "Ignite 10 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/7de72083-ae2a-49af-ad6f-8adfda38e215.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "8 Campfires",
+      "trophyDetail": "Ignite 8 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/b345d4e5-8458-44d5-9dc0-9e1d13a78959.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "6 Campfires",
+      "trophyDetail": "Ignite 6 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/52116610-65c0-4ce6-b37b-2f4f81b3cdc2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "4 Campfires",
+      "trophyDetail": "Ignite 4 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/6934a9b4-dbcd-4e1a-9eb8-8c641c5b20b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "2 Campfires",
+      "trophyDetail": "Ignite 2 campfires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/0a53a538-7ae3-430d-9b1e-d038248819c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "75 Plants",
+      "trophyDetail": "Eat 75 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/99292e32-3463-4052-940f-6b3e11d156ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "73 Plants",
+      "trophyDetail": "Eat 73 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/0607257e-0c51-4bd9-8eff-00caf153cc72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "71 Plants",
+      "trophyDetail": "Eat 71 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/161fd7eb-07bf-4299-843b-4c32ef30b69c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "69 Plants",
+      "trophyDetail": "Eat 69 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/1d259c12-7919-41b2-bbe1-6f002648b2c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "67 Plants",
+      "trophyDetail": "Eat 67 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/9b6e8d53-bb06-474f-833b-74ef3aabd4e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "65 Plants",
+      "trophyDetail": "Eat 65 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/5b7d53a5-9e84-4447-8516-ed85709ab6c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "63 Plants",
+      "trophyDetail": "Eat 63 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/0b27a97b-5d32-41a1-9c8f-3d2361a3bc93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "61 Plants",
+      "trophyDetail": "Eat 61 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/70be86a2-e95f-4e1e-bc6b-5dba63aedaa6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "59 Plants",
+      "trophyDetail": "Eat 59 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/168904d2-b95c-4fd7-bf5c-035a67cc66bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "57 Plants",
+      "trophyDetail": "Eat 57 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/15d3cebd-98ca-4c48-a135-cf63a0328241.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "55 Plants",
+      "trophyDetail": "Eat 55 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/f3f7bb01-4445-41ab-9fee-9a099eb0dc4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "53 Plants",
+      "trophyDetail": "Eat 53 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/18c5b7aa-2e5f-40ae-9049-140550e03d4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "51 Plants",
+      "trophyDetail": "Eat 51 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/84144486-b38b-4b16-8ca1-5da64c72d4b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "49 plants",
+      "trophyDetail": "Eat 49 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/04c5271e-0184-4f83-8f78-016c333db938.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "47 Plants",
+      "trophyDetail": "Eat 47 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/976eae53-8624-41a3-a540-0d6a4cbb1dd0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "45 Plants",
+      "trophyDetail": "Eat 45 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/a3a15e77-2822-407d-a713-e365accd7648.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "43 Plants",
+      "trophyDetail": "Eat 43 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/feba807e-1493-4f0b-96ee-14141c3f685e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "41 Plants",
+      "trophyDetail": "Eat 41 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/2a998ebc-cde1-4e4b-92d3-ea14ebf7cdbf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "39 Plants",
+      "trophyDetail": "Eat 39 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/ad5d496d-5a93-4333-b5d8-aaf54360d86c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "37 Plants",
+      "trophyDetail": "Eat 37 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/e27719fb-4098-4696-83c5-561353170e9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "35 Plants",
+      "trophyDetail": "Eat 35 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/ff20e67e-d377-4b20-884a-e94c653382e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "33 Plants",
+      "trophyDetail": "Eat 33 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/905a6e32-97b5-4024-bfcb-88c294d77565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "31 Plants",
+      "trophyDetail": "Eat 31 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/7f643448-af3c-4805-8651-6421e159e63b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "29 Plants",
+      "trophyDetail": "Eat 29 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/3d702b47-29af-4cd9-854e-69a6c07545d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "27 Plants",
+      "trophyDetail": "Eat 27 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/31978c0d-3246-4f6b-a292-0782bf1695d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 Plants",
+      "trophyDetail": "Eat 25 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/5339b7b2-9a8f-4634-ae38-93b28aae0eeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "23 Plants",
+      "trophyDetail": "Eat 23 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/4b7a0bb8-290a-4d98-8f5a-dbc74e0a303a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "21 Plants",
+      "trophyDetail": "Eat 21 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/dc7a7f7d-62cf-4d58-9e9c-1ffd2f9ac228.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "19 Plants",
+      "trophyDetail": "Eat 19 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/24658710-ba53-4776-a975-df83ccb9b628.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "17 Plants",
+      "trophyDetail": "Eat 17 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/977f0958-fc5c-4b1c-aa9d-21d6bdcae07f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "15 Plants",
+      "trophyDetail": "Eat 15 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/4fd4cc5a-f472-43b6-891a-ab322b098112.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "13 Plants",
+      "trophyDetail": "Eat 13 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/7307b474-e634-4a65-be04-2abb94729a60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "11 Plants",
+      "trophyDetail": "Eat 11 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/838b1b54-6ae3-46ca-8d18-f9e100cddfee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "9 Plants",
+      "trophyDetail": "Eat 9 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/4088ac71-40cc-47c1-aed5-bbb3be197d58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "7 Plants",
+      "trophyDetail": "Eat 7 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/d8b9b2cb-6f56-48b8-8943-cd8a02dc4a1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Plants",
+      "trophyDetail": "Eat 5 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/445f5dd4-f6f5-41a3-9624-1afa9384a4e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "3 Plants",
+      "trophyDetail": "Eat 3 plants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/82db8cfc-dc8a-43a1-9ae5-887d712f12d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1 Plant",
+      "trophyDetail": "Eat 1 plant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45280_00/f80305f4-1009-4593-a90b-5359b03c0bbd.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

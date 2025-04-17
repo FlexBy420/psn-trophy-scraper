@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR48416_00",
+  "title": "On The Stairs",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Top Of The Stairs",
+      "trophyDetail": "Earn all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/9f4ae024-df3a-4e6c-b2a3-912ec5cc8400.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 40",
+      "trophyDetail": "Collect 40 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/3b7dd563-9acb-44a7-a3b2-63ea9a8e2aef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 38",
+      "trophyDetail": "Collect 38 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/0ae16fee-7189-43cb-8610-96c2e21cde13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 36",
+      "trophyDetail": "Collect 36 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/c2f11a99-9cc5-4b4c-a90a-121b752e8bc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 34",
+      "trophyDetail": "Collect 34 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/55bbca16-583c-4447-a926-6c44bb2ea84a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 32",
+      "trophyDetail": "Collect 32 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/42fdeb91-4fd9-4cde-a4fd-c5b6ed2d7c50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 30",
+      "trophyDetail": "Collect 30 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/9c70a7d4-3a81-4c69-ad27-bf560a48580a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 28",
+      "trophyDetail": "Collect 28 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/b4afa142-0d4d-44ac-bd24-e1fc7832ddac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 26",
+      "trophyDetail": "Collect 26 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/1bb02eb4-cf82-4935-b1a4-4e0d9a077050.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 24",
+      "trophyDetail": "Collect 24 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/b9d5f80a-3ed2-4c96-bebf-1d3d584e49da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 22",
+      "trophyDetail": "Collect 22 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/0721424e-6d66-49c2-a1e8-2b106d0d6785.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 20",
+      "trophyDetail": "Collect 20 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/598964c8-cfbd-4bff-8d28-5fc0a665fd1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 18",
+      "trophyDetail": "Collect 18 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/838224cc-396a-40ca-88a5-5c8332091808.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 16",
+      "trophyDetail": "Collect 16 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/969c507c-9dd0-4070-95c8-623cf246bd4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 14",
+      "trophyDetail": "Collect 14 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/9d31fbd8-671f-4baa-9eda-97615ab2e1e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 12",
+      "trophyDetail": "Collect 12 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/1e2f516a-727e-4c0b-a9c4-ecc618245d65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 10",
+      "trophyDetail": "Collect 10 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/d8292726-7835-41e3-b643-8bc3633e84af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 8",
+      "trophyDetail": "Collect 8 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/7bc2cd97-3f4e-4a41-a843-236ddcd76c8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 6",
+      "trophyDetail": "Collect 6 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/c622a21a-8349-4e6f-a6dd-088a49b1f029.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 4",
+      "trophyDetail": "Collect 4 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/0759f2fc-f4ce-409a-955a-bcc1f50854f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds 2",
+      "trophyDetail": "Collect 2 diamonds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/38f7bdb6-4c3f-493d-8120-be29d23c2751.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 250",
+      "trophyDetail": "Earn 250 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/dc0d4921-de5f-417f-b6b6-d4da69cb8652.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 245",
+      "trophyDetail": "Earn 245 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/59bcc2b9-80fa-4f7d-8c99-5bd01e71549e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 240",
+      "trophyDetail": "Earn 240 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/0560831e-f1b6-4784-9b3e-185a971448b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 235",
+      "trophyDetail": "Earn 235 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/68832536-d883-4863-8c86-aa9d6f11a1f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 230",
+      "trophyDetail": "Earn 230 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/9c53ce26-ac02-493b-ae64-899df88dd4ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 225",
+      "trophyDetail": "Earn 225 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/a3b42a97-2088-456b-b536-5ad4cd61c12d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 220",
+      "trophyDetail": "Earn 220 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/afcd90b7-c3a7-49cf-8ace-0e47bb8c00c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 215",
+      "trophyDetail": "Earn 215 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/cda8facb-fc7e-43e6-b2f5-7e3f2310738f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 210",
+      "trophyDetail": "Earn 210 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/81a4a857-62f6-4e4c-b023-d917bd61012c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 205",
+      "trophyDetail": "Earn 205 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/03f43f82-d6b9-4436-9b3c-c15979018d89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 200",
+      "trophyDetail": "Earn 200 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/7ca1267f-6bc7-4210-bb70-34b602d62111.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 195",
+      "trophyDetail": "Earn 195 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/7ea03809-f26e-4c3b-abea-9e70df8ec43e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 190",
+      "trophyDetail": "Earn 190 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/eed2039f-06bc-4090-afe2-15f5e9c86dd1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 185",
+      "trophyDetail": "Earn 185 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/16956bcb-bc06-484e-8ce5-64b127d8444c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 180",
+      "trophyDetail": "Earn 180 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/324e7463-6422-447c-8e4a-cc9fe4437a79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 175",
+      "trophyDetail": "Earn 175 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/23d62d12-52ea-4c35-b9eb-a5c8d33e561c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 170",
+      "trophyDetail": "Earn 170 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/6d34caf2-6cd0-4e6d-9288-17e664391115.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 165",
+      "trophyDetail": "Earn 165 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/7d72e114-9889-4e48-9413-e5d199f20c41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 160",
+      "trophyDetail": "Earn 160 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/79c6f223-09e2-4a1c-872c-a39e639fa2c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 155",
+      "trophyDetail": "Earn 155 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/93d5c964-72d5-4c4a-aea0-51f1d3aee7ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 150",
+      "trophyDetail": "Earn 150 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/f473a01f-6d1c-4799-95c9-17a667de161a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 145",
+      "trophyDetail": "Earn 145 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/651e8d3c-82e8-4deb-bb5a-e6e4cd5705cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 140",
+      "trophyDetail": "Earn 140 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/8aa7fd50-9193-4ea4-9cd2-63fb22ef0a6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 135",
+      "trophyDetail": "Earn 135 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/d2462022-a039-4223-857d-67d702bab3c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 130",
+      "trophyDetail": "Earn 130 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/f9ea51a3-876c-4498-bf36-c2bba7f41334.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 125",
+      "trophyDetail": "Earn 125 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/1f9a6e38-875e-4126-b8c6-01989c20ebd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 120",
+      "trophyDetail": "Earn 120 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/c650c4ef-853e-4cf2-949e-8090a9275db2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 115",
+      "trophyDetail": "Earn 115 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/216c7806-4fc4-412c-9c72-30ba756b0999.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 110",
+      "trophyDetail": "Earn 110 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/41ba68e9-43bc-4179-9f4e-c96f11a0a4be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 105",
+      "trophyDetail": "Earn 105 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/c62a71b7-44d8-4779-a3c5-808f2bf58243.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 100",
+      "trophyDetail": "Earn 100 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/232190d7-dd6d-42ee-8e04-273de98e64cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 95",
+      "trophyDetail": "Earn 95 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/878354c9-b168-40a7-950d-ef723dbe377a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 90",
+      "trophyDetail": "Earn 90 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/47678d05-7dd1-405d-9f3a-d0b071539b74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 85",
+      "trophyDetail": "Earn 85 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/af69e975-25e0-44f7-a4a1-e2c2275d9c5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 80",
+      "trophyDetail": "Earn 80 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/d4e9ed09-754f-44df-8095-49a4a509aeed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 75",
+      "trophyDetail": "Earn 75 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/65007c4d-5a21-4a8f-9adf-d2b527422b1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 70",
+      "trophyDetail": "Earn 70 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/d5cd9485-0b0e-4bd0-a554-53ae67055a06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 65",
+      "trophyDetail": "Earn 65 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/4ca7088a-340c-4c06-8081-677eea6aa051.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 60",
+      "trophyDetail": "Earn 60 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/05317789-bb7d-4ecc-9e08-2abb58932cc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 55",
+      "trophyDetail": "Earn 55 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/53d09aaa-f0f3-4b87-adf8-8083a4c85e4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 50",
+      "trophyDetail": "Earn 50 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/98c9c06b-7cf6-443d-a044-246faeee7ca6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 45",
+      "trophyDetail": "Earn 45 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/d3cb2033-1653-488e-accc-2b47e0e5e782.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 40",
+      "trophyDetail": "Earn 40 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/290bb4d7-0625-4d38-b0b1-7b3b1676009d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 35",
+      "trophyDetail": "Earn 35 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/5fb44f92-dde1-404b-8710-0c289110e115.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 30",
+      "trophyDetail": "Earn 30 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/c646a55a-d882-409a-8407-8bf67301c1ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 25",
+      "trophyDetail": "Earn 25 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/6faf0d69-599e-4b16-b65f-4a289875d330.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 20",
+      "trophyDetail": "Earn 20 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/5ab6fe27-c773-4146-878f-96a5f4a70784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 15",
+      "trophyDetail": "Earn 15 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/8b527dce-920b-4f21-a3ec-29da31e408ff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 10",
+      "trophyDetail": "Earn 10 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/75d35123-77b8-4591-b6c5-115b7c3ee45b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 5",
+      "trophyDetail": "Earn 5 score",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48416_00/641eab86-fae6-41ab-8b5a-45a98d9c2efa.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "npCommunicationId": "NPWR49072_00",
+  "title": "Whisker Squadron: Survivor",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 23,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Survivor",
+      "trophyDetail": "Unlock all other Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/670b76c0-06fc-4680-ae78-32d6940d0a7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Victory",
+      "trophyDetail": "Win a run",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/da0af392-b781-47e0-b2c3-9c8b706a9ea3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vengeance",
+      "trophyDetail": "Destroy 500 Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/877249fe-b8c8-49d6-afdb-9ecafd10b105.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Destructive",
+      "trophyDetail": "Destroy 5,000 Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/f7a43281-dbab-4f9c-9cf4-e680c8f75bd1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trigger Finger",
+      "trophyDetail": "Destroy 50,000 Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/94baa636-3f88-4275-8019-05a20e50640e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Insect Repellent",
+      "trophyDetail": "Take down an Elite Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/774ddc84-e472-4f98-b66e-c0ab31734c3a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bug Exterminator",
+      "trophyDetail": "Take down 4 Elite Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/5a600b5b-db00-4451-ab9f-fef46f0e54f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Explosive",
+      "trophyDetail": "Use Homing Missiles 100 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/297a2587-641d-47ad-a71f-2ec992d44e47.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In The Groove",
+      "trophyDetail": "Get a combo level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/c13eec56-6e0c-416d-b9b9-e1aac5287c57.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "On a Roll",
+      "trophyDetail": "Get a combo level 150",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/f64b3267-fac5-47af-bab6-55ac35158779.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unstoppable",
+      "trophyDetail": "Get a combo level 300",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/54ffe303-457b-43eb-a0a9-322e61891ccc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High Roller",
+      "trophyDetail": "Score 50,000 VP in a Run",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/4d303578-8bf6-4121-b7fe-797b1905bb5a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Keep Your Finger on the Pulse",
+      "trophyDetail": "Win a Run with the Pulse Laser",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/96985e0a-fde3-4fe7-ae8b-869cf95f5f6d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pacifist-ish",
+      "trophyDetail": "Clear an Action Zone without firing a weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/faf80a9e-9535-4e9b-98b9-cb1b7fdf1ce6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ghost",
+      "trophyDetail": "Finish a Zone without taking any hits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/8f4d952f-6158-4334-97ee-572783172b35.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "White Knuckler",
+      "trophyDetail": "Complete 50 Tight Boosts in a Run",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/77630978-5612-4d2c-bb54-933c41cb18dd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Smooth Sailing",
+      "trophyDetail": "Finish an act without colliding with the environment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/db8394bf-bcc5-4d46-ac58-3bc3092fe5e5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Upgraded",
+      "trophyDetail": "Purchase all perks for any ship",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/15cc12e9-7adb-4069-90f8-f26c0edf2a96.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Skeleton Key",
+      "trophyDetail": "Unlock and purchase all ships, perks, weapons, and pilots in the hanger",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/d76d64b8-8909-426a-acaf-9f4d8dd1ec51.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Knife Or Death",
+      "trophyDetail": "Unlock the Dagger ship",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/edd4c7d2-e792-4091-b166-987f80726603.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sharp Shooter",
+      "trophyDetail": "Destroy 20 swarm in a zone without any shots hitting the environment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/7e271e4a-7098-44bb-a728-659200f94513.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Getting Started",
+      "trophyDetail": "Destroy 100 Swarm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/1d65beb8-8321-49a1-8d44-b0f01fe10ce4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sticking it to A.R.E.S.",
+      "trophyDetail": "Complete Act 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49072_00/c8253908-3d6f-4f89-a0dc-96e259443bc6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    }
+  ]
+}

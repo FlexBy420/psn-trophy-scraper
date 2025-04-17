@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR36095_00",
+  "title": "Super Kids Racing - Theme Park Edition",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "BEGINNER",
+      "trophyDetail": "To unlock this trophy player has to complete 3 levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36095_00_005D6FCA678CD9528EC414E306EB4ED8A75E4D8A94/5044552C8DA59C02F3468FF979C8EC359692B57E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "INTERMEDIATE",
+      "trophyDetail": "To unlock this trophy player has to complete 6 levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36095_00_005D6FCA678CD9528EC414E306EB4ED8A75E4D8A94/FFDB57A424817943E9BCD16F93E4711EAE9C3D27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "CHAMPION",
+      "trophyDetail": "To unlock this trophy player has to complete 8 levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36095_00_005D6FCA678CD9528EC414E306EB4ED8A75E4D8A94/5EFD694F10E43A8091AE6C858D06556DE0C0916E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "MASTER BLASTER",
+      "trophyDetail": "To unlock this trophy player has to complete 10 levels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36095_00_005D6FCA678CD9528EC414E306EB4ED8A75E4D8A94/EFC70B5075B9D6590E849CF327E2DF196DB0A432.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

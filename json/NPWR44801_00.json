@@ -1,0 +1,289 @@
+{
+  "npCommunicationId": "NPWR44801_00",
+  "title": "ITFOS",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 31,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The One",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/1106d403-0f1e-467b-91a5-6756a69c77f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill Adze",
+      "trophyDetail": "Defeat Adze 2 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/68eb784d-cc06-4b40-85e9-5260851f4448.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill Asma",
+      "trophyDetail": "Defeat Asma 2 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/04435080-01a6-4491-88d1-3bd3b1783190.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill Champ",
+      "trophyDetail": "Defeat Champ 2 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/6cdd101c-d95d-4df7-b47c-26d7156e6de6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kill Eva",
+      "trophyDetail": "Defeat Eva 2 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/d10783cb-3759-42a8-ba3c-6d088ea1dbe3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Newbie",
+      "trophyDetail": "Win 1 deathmatch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/9164709f-aba3-4d43-a9e5-aebab6a06659.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Petrified",
+      "trophyDetail": "Stun the same opponent 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/62df0d15-60a4-4e24-a5f0-a3e620dfee38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flawless Victory",
+      "trophyDetail": "Win 1 Standard Match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/6e4eccf7-1df8-4055-937c-4017cdfc719c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rogue Soul",
+      "trophyDetail": "Beat 5 opponents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/cf87c225-5bda-4166-97f3-c4e319f5f7e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avenger Soul",
+      "trophyDetail": "Beat 25 opponents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/3c2ff674-4e5d-4e24-becc-b7bcc7fac558.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprentice",
+      "trophyDetail": "Cause 25 negative effects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/2db30bf3-cbdb-4c27-90c6-9dde01ae0e1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Mage",
+      "trophyDetail": "Cause 50 negative effects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/59524471-28b5-4876-823a-3f74c368a516.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Energy",
+      "trophyDetail": "Win 10 matches with Adze",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/e2f40ec2-a816-4385-b139-a0d2718ff947.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goddess Arise",
+      "trophyDetail": "Win 10 matches with Asma",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/115324ed-e211-4ff8-86d7-1d6bd392f516.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Greatest",
+      "trophyDetail": "Win 10 matches with Champ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/9a2bdfe2-718a-4ded-a149-0dafdb8aef70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holy Knight",
+      "trophyDetail": "Win 10 matches with Eva",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/6350fed8-61fd-437d-a6f1-ac5e2354e29d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bullseye",
+      "trophyDetail": "Deal 100 hits with range attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/758fd30e-497b-4fdb-827a-194b89092eaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unrivalled",
+      "trophyDetail": "Defeat each character 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/c0b64778-e8be-4ca2-8e9f-3888a86435e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not Today",
+      "trophyDetail": "End a deathmatch without your health goes below 10%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/a65348aa-128e-41f5-afc9-4cfe76fdda35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brave Heart",
+      "trophyDetail": "Attack Eva while she is in divine state 15 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/12be616d-7a98-4cc1-a273-95964a977636.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heroic Combat",
+      "trophyDetail": "Defeat 10 opponents by using basic attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/863b0a17-9281-46b2-8963-f33f4544dfe9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Assassin Soul",
+      "trophyDetail": "Beat 50 opponents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/091f871b-bbf3-4898-9ce5-e9f15dce22ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Archmage",
+      "trophyDetail": "Cause 75 negative effects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/dc632343-2d03-43a6-af0a-a4cf81662a99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Colosseum Champion",
+      "trophyDetail": "Win 25 matches in Olympia",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/f23ca708-7561-4c3e-9243-9842a7e66d17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Volcano Dweller",
+      "trophyDetail": "Win 25 match in Alaz map",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/1bbe00cb-52ac-4f2d-833a-7fb2558bfa4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fire Dancer",
+      "trophyDetail": "End a game without taking damage from level fireballs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/da118aaf-56ba-4124-b7a5-de7d8f50c321.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Conqueror",
+      "trophyDetail": "Win 100 matches",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/8ec14ff4-9698-4750-be77-fb3e03273eab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Steel Commander",
+      "trophyDetail": "Reduce 1000 damage with your damage reduction",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/d363172d-48e0-4d68-87e1-2df5b4d9e350.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hand of God",
+      "trophyDetail": "Defeat each character 30 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/5b3bfb32-4c7f-46ff-a048-4e6ae8e79455.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Slayer Soul",
+      "trophyDetail": "Beat 100 opponents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/0d2bd7c6-689a-45cf-85cd-c82b9b23e610.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Nightmare Sage",
+      "trophyDetail": "Cause 100 negative effects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44801_00/07b0a27f-fdb4-454e-9696-88dcac35aa44.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

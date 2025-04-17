@@ -1,0 +1,415 @@
+{
+  "npCommunicationId": "NPWR47409_00",
+  "title": "Rogue Flight Trophy Set",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 45,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Everything",
+      "trophyDetail": "Unlocked all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/bea85fb0-6ae0-4b84-917f-495f27ac3863.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Customized",
+      "trophyDetail": "Customized the ARROW's trim.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/d18e448e-ca02-4df2-be8c-4714ae3ddd7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tagged",
+      "trophyDetail": "Changed the mission badge.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/4aa0703b-7552-47c9-9a3a-02e1fc05023e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinkerer",
+      "trophyDetail": "Changed the tactical loadout.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/bab9b219-81e3-4e15-9fb7-44d8fd96be72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aerodynamic",
+      "trophyDetail": "Changed the aero package.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/497fcd05-3947-46ac-889f-343d3165bcf5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutorial",
+      "trophyDetail": "Completed the tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/68cb1f34-5e5d-40bd-a59a-47e3d8e88b1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Earth Escape",
+      "trophyDetail": "Fought through the skies above New Alberta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/70629b40-0768-4d4c-ac6f-2f4c95f10d12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Badlands: FleetCom",
+      "trophyDetail": "Braved the badlands in Earth orbit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/d3a451f3-f507-407e-a015-c90054012285.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Badlands: SDF Graveyard",
+      "trophyDetail": "Braved the badlands in Earth orbit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/726ecf84-6e95-490c-a589-b2a762f8c783.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saturn",
+      "trophyDetail": "Fought through Saturn's A-Ring.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/fbf695b8-6218-4a01-947d-859d09e3fecb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Io: Molten Plain",
+      "trophyDetail": "Braved the molten plains of Io.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/ef0e55fd-f36a-4c50-b098-444bbdce35c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Io: Molten Rift",
+      "trophyDetail": "Braved the molten rift on Io.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/664d524c-8f22-463d-8232-6e8e98bc41fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Umbriel Caverns",
+      "trophyDetail": "Fought through the caves of Umbriel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/e676fc26-d0c6-4723-b76e-cbeb8b88f416.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titan",
+      "trophyDetail": "Survived the storms of Titan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/496ad565-eb66-4c90-83ff-07c291a65e0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreadnought",
+      "trophyDetail": "Fought through the ARGUS core cruiser.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/7f736a33-e22a-442f-824d-fffe06ba7085.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Stratos",
+      "trophyDetail": "Defeated the Stratos supercarrier.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/02059aed-c443-41b0-99c9-d201bc4c5c80.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Reclaimer",
+      "trophyDetail": "Defeated the Reclaimer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/8ea24fd2-9b01-4be0-b3d3-588ea500da95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Daduchos",
+      "trophyDetail": "Destroyed the Daduchos array.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/cac0d2de-0cf0-417c-8cd7-9685140b6d21.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Kerberos",
+      "trophyDetail": "Destroyed the Kerberos forge.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/3f02a03a-bb45-470b-a58e-7622dd1bcfae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Anemone",
+      "trophyDetail": "Found and destroyed the Anemone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/c248a4c0-a96d-4d70-bd3e-b7c679f35664.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Stratos-V",
+      "trophyDetail": "Defeated the upgraded Stratos unit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/76499bb7-148f-4394-b28e-96e031c0909b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "ARGUS",
+      "trophyDetail": "Destroyed the ARGUS system.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/a91a2575-5aa2-421f-bf8e-09f727cd3f8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Terminus Gamma",
+      "trophyDetail": "Completed ending gamma",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/74e4c15b-5d8f-4bed-a520-d3833861677c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Terminus Beta",
+      "trophyDetail": "Completed ending beta",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/438ab455-9673-477f-9f53-9f7d0e196893.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Terminus Alpha",
+      "trophyDetail": "Completed ending alpha",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/28ec94bc-04c9-460b-88cc-907862dee543.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Terminus Plus",
+      "trophyDetail": "Completed NewGame+",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/b329080c-dc3f-4b46-a25e-dd156720c704.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave",
+      "trophyDetail": "Acquired the WAVE CANNON.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/e0031de8-06c0-412f-bdd5-23bc87b6a8ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laser",
+      "trophyDetail": "Acquired the LASER CANNON.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/3399382c-306c-4cea-8015-d8767f3f14c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightning",
+      "trophyDetail": "Acquired the LIGHTNING CANNON.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/c62bf614-e6be-48c8-827c-c9dde4fb79f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seraph",
+      "trophyDetail": "Unlocked the Seraph upgrade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/18329528-051a-4063-b9d8-c99286287212.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Alpha",
+      "trophyDetail": "Chose path Alpha.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/65bf963c-bcfc-495c-8680-624ec61d0ad9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Beta",
+      "trophyDetail": "Chose path beta.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/e62cc15c-fa32-4478-bac1-b1ff0506e095.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gamma",
+      "trophyDetail": "Chose path gamma.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/9d9fbd94-a5fd-46c5-ac0e-3cdc7a769856.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C-C-Combo!",
+      "trophyDetail": "Achieved your first combo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/2134d4a0-ea9a-4002-8b12-1ba51e43ea22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultra",
+      "trophyDetail": "Achieved an ultra combo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/08872dc1-add6-4fea-9b46-fdbd5a396552.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fifteen Seconds",
+      "trophyDetail": "Kept a combo active for 15 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/6c009b01-b570-40dd-b80a-a12f53e69d66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thirty Seconds",
+      "trophyDetail": "Kept a combo going for 30 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/4e940b7a-b174-49f3-93bb-1ea669111835.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sixty Seconds",
+      "trophyDetail": "Kept a combo going for 60 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/80e619a8-7339-4123-85ca-53b7f1e10c7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Flawless",
+      "trophyDetail": "Beat the Newgame+ with 4 lives.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/b0a67cc1-61a8-444e-b518-cd89477f407e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Score",
+      "trophyDetail": "Achieved score of 25,000 or more.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/f5188da5-62d9-40c2-aaec-7e49ff365ed5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Highest Score",
+      "trophyDetail": "Achieved score of 50,000 or more.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/48d85728-4662-4a39-8e0e-3752e4c4fa57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Motion",
+      "trophyDetail": "Enabled full motion for cockpit view and completed a stage using cockpit view",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/f846af01-4c15-4f5b-8949-75fc6c996912.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rogue Flight",
+      "trophyDetail": "Completed a full run in Rogueflite mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/2e175b62-533a-4c2c-858a-3827617bf674.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's in a name?",
+      "trophyDetail": "Changed your call sign and completed a stage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/9c3928d8-b072-4b6f-a175-4c64ab58fff1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Retroactive",
+      "trophyDetail": "Beat any route in Retro mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47409_00/0d140734-324e-47ab-8742-7eb65477048b.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

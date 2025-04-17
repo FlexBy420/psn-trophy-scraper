@@ -1,0 +1,316 @@
+{
+  "npCommunicationId": "NPWR45948_00",
+  "title": "Alchemist The Potion Monger",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 34,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "THE ALCHEMIST",
+      "trophyDetail": "Obtain all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/12ab7ebb-a616-4fbf-822f-a162f517d579.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The whole world to discover",
+      "trophyDetail": "Break through the vines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/8169153b-e27c-409b-840e-fb246a8613af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vines Slayer",
+      "trophyDetail": "Destroy all vines next to your house",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/7c65ee05-12dc-4743-ae20-90dbf4b29ecb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rich Alchemist",
+      "trophyDetail": "Earn 10.000 gold from Contracts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/e3292f4d-3b1f-4d12-a0c3-aaaf3aa8634f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Earth",
+      "trophyDetail": "Discover all Earth Aspects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/cba3ff57-ac8b-42ca-aa73-2a12a091a34d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Fire",
+      "trophyDetail": "Discover all Fire Aspects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/29deb7b0-23de-4c1a-b3ca-354c0c256bc9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Air",
+      "trophyDetail": "Discover all Air Aspects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/d6bc7915-025e-4c48-b3e7-bd798d8fb52a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Water",
+      "trophyDetail": "Discover all Water Aspects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/6e3596d5-1b99-4db9-94e3-8b00a19891f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cat Owner",
+      "trophyDetail": "Adopt a Cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/9214707b-0819-4470-a3cb-85ce39579517.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Salamander Owner",
+      "trophyDetail": "Adopt a Salamander",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/0bccb4db-1ba5-4e6f-bac8-c651083a6c4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Turtle Owner",
+      "trophyDetail": "Adopt a Turtle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/c20f2708-5e76-43be-81d0-2b17406224bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cartograph",
+      "trophyDetail": "Discover the whole map",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/0bb4e33d-7ddd-442f-b885-af8c724f51b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Viva la revolución",
+      "trophyDetail": "Defeat the Slime King",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/3177b2ec-e815-47e1-9175-b2be14283854.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Snake Nuggets",
+      "trophyDetail": "Defeat the Snake King",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/48690279-af2a-407b-a29c-0150162cd02d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Finders Keepers",
+      "trophyDetail": "Unlock the Black Market",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/c61f4c07-73bb-48fb-9a26-745ca6380731.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Air Alchemist",
+      "trophyDetail": "Brew a Potion with Air Aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/2dadd7a9-9f57-44ed-86b0-35df4bc537fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fire Alchemist",
+      "trophyDetail": "Brew a Potion with Fire Aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/34174a44-3920-411b-abc9-f807bef8aff7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Water Alchemist",
+      "trophyDetail": "Brew a Potion with Water Aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/c7b184b8-29c2-4e01-948c-24362da05f66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect Potion",
+      "trophyDetail": "Create a 3 star potion with 4 tier aspect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/62ec168d-70ed-468a-89ca-aa88696c4f24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "BBQ",
+      "trophyDetail": "Defeat the Herbalist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/9771b127-4808-46b2-b453-096bb87d0174.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The End",
+      "trophyDetail": "Complete the main quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/a827738a-a175-419e-a1ed-ff4f7829899d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tank",
+      "trophyDetail": "Acquire all additional Hearts from special Potions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/f085f611-46dc-4fd4-88a5-9c28d8dbe13b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Potion Factory",
+      "trophyDetail": "Craft 100 potions using Enchanted Paper",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/714e19aa-0eee-4498-96cf-30d7e73fd0b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Knowledge is the key",
+      "trophyDetail": "Discover 50 Potion Recipes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/f10c4069-8eff-46bd-ba16-36a0945d3963.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Monopoly",
+      "trophyDetail": "Earn 10.000 gold from your Shop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/db443cd4-f274-4594-9e0a-d1af15013b69.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Who needs carts",
+      "trophyDetail": "Unlock all Portals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/392949cf-c074-4d2b-948f-c0bb8714500e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Magic Paper",
+      "trophyDetail": "Save 10 Auto Potion Recipes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/e82f4146-6b7c-498b-927b-41134a392fe2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experienced Alchemist",
+      "trophyDetail": "Get level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/44579808-61fa-48fd-a4f8-ac2025698fe3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Very experienced Alchemist",
+      "trophyDetail": "Get level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/e8588a24-a882-4b95-b61a-32289ab7190d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cozy house",
+      "trophyDetail": "Have 10 furnitures in your house",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/df1981b0-af06-4161-9d84-ce9f1713713c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Live Laugh Love",
+      "trophyDetail": "Have 20 furnitures in your house",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/597c44a6-55da-4856-ac1f-a6efca90110e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "IKEA enjoyer",
+      "trophyDetail": "Have 30 furnitures in your house",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/83dc9b4e-8e82-4e4a-9052-299ccc20fe88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "...so that we can learn to pick ourselves up",
+      "trophyDetail": "Cheat death with Resurrect Potion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/c97b8fc3-f687-461e-a05f-8d490ef393dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Why do we fall?",
+      "trophyDetail": "Loose all hearts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45948_00/bed8b9e0-4bce-42f4-ab0f-837c4a820048.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "npCommunicationId": "NPWR38806_00",
+  "title": "SpellForce: Conquest of Eo",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 64,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Master Of The Circle",
+      "trophyDetail": "Collect all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/ca19b9ca-e308-4bef-9743-0ebb113ade8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alchemist's Apprentice",
+      "trophyDetail": "Brew your first potion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First to the post",
+      "trophyDetail": "Level up your first unit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fly the friendly Sky",
+      "trophyDetail": "Fly with your tower for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A kind of Magic",
+      "trophyDetail": "Cast your first spell",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Connected",
+      "trophyDetail": "Meld with your first Allfire node",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Circle",
+      "trophyDetail": "Unlock the Circle page in your grimoire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slave to the rhythm",
+      "trophyDetail": "Enslave a unit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad JuJu",
+      "trophyDetail": "Turn a unit into a zombie",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get out of here!",
+      "trophyDetail": "Defeat an enemy occupying your tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harvest Time",
+      "trophyDetail": "Harvest your first plant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine!",
+      "trophyDetail": "Mine your first ore",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home Sweet Home",
+      "trophyDetail": "Establish yourself as the owner of your tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enough rooms to swing a cat",
+      "trophyDetail": "Build your first room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redecorating",
+      "trophyDetail": "Add your first room extension",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expansion",
+      "trophyDetail": "Build your first lodge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Artificer",
+      "trophyDetail": "Win the game as an Artificer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Alchemist",
+      "trophyDetail": "Win the game as an Alchemist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Necromancer",
+      "trophyDetail": "Win the game as an Necromancer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking the circle",
+      "trophyDetail": "Finish the Triumph over all Circle Mages goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Monopoly of Might",
+      "trophyDetail": "Finish this goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mage Teacher",
+      "trophyDetail": "Finish this goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroes",
+      "trophyDetail": "Finish this goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Friends!",
+      "trophyDetail": "Finish this goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Master of Magic",
+      "trophyDetail": "Finish this goal on your Circle Page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elynn's Tale",
+      "trophyDetail": "Finish Elynn's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lore's Tale",
+      "trophyDetail": "Finish Lore Grimm's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lytra's Tale",
+      "trophyDetail": "Finish Lytra's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Philo's Tale",
+      "trophyDetail": "Finish Philo's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yngrid's Tale",
+      "trophyDetail": "Finish Yngrid Firemead's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Gor",
+      "trophyDetail": "Destroy Gor's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Hokan",
+      "trophyDetail": "Destroy Hokan's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Ianna",
+      "trophyDetail": "Destroy Ianna's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Isgrimm",
+      "trophyDetail": "Destroy Isgrimm's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Raith",
+      "trophyDetail": "Destroy Raith's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Rohen",
+      "trophyDetail": "Destroy Rohen's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Undergast",
+      "trophyDetail": "Destroy Undergast's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Uram",
+      "trophyDetail": "Destroy Uram's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defeat Yria",
+      "trophyDetail": "Destroy Yria's tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Castle Meldec",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crypt of the Revenant",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Misty Coast Dragonbones",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Forge of Regan Gor",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Silver Drift Hollow Mine",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stormwatch Faste",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sevenkeeps Seat of Kings",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tuscari Sea Portal",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fireforge",
+      "trophyDetail": "Finish this Adventure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Get to the Airship!",
+      "trophyDetail": "Get the dwarven Airship",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "A Joke",
+      "trophyDetail": "An elf, a dwarf, an orc and a human walk into a bar...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/b50a37ca-dc60-44a4-be1b-ffa262e84150.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Necromancer's Apprentice",
+      "trophyDetail": "Craft your first undead unit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artificer's Apprentice",
+      "trophyDetail": "Craft your first glyph",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Morgak’s Tale",
+      "trophyDetail": "Finish Morgak's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demonologist's Apprentice",
+      "trophyDetail": "Craft your first demon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cult Leader",
+      "trophyDetail": "Establish your first Cult",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Demonologist",
+      "trophyDetail": "Win the game as an Demonologist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mugwa Numba One!",
+      "trophyDetail": "End the game with a pile of Mugwa trash in your tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demonslayer",
+      "trophyDetail": "Defeat a Demonlord in battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Succumbed to Envy",
+      "trophyDetail": "Lose your apprentice to the Demonlord Sâ'Hrul",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Succumbed to Greed",
+      "trophyDetail": "Uphold your deal with the Demonlord Mrask Dur",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Succumbed to Wrath",
+      "trophyDetail": "Uphold your deal with the Demonlord Azra'Zil",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Succumbed to Sloth",
+      "trophyDetail": "Uphold your deal with the Demonlord Krahz Al'Guh",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cult-ivator",
+      "trophyDetail": "Establish a cult in twelve major cities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/106ff301-fa34-45e6-8d74-5a5d9453a5b3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Galtrak’s Tale",
+      "trophyDetail": "Finish Galtrak's story page",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR38806_00/22efbdf3-8cff-4430-bac5-d3b280b33c0e.png",
+      "trophyGroupId": "002"
+    }
+  ]
+}

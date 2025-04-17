@@ -1,0 +1,388 @@
+{
+  "npCommunicationId": "NPWR47255_00",
+  "title": "Cozy Claw Machine",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 38,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Cozy Gamer",
+      "trophyDetail": "Receive all other achievements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/d4f94852-7de3-4f00-bc24-258a42fe6ce6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master of the Claw",
+      "trophyDetail": "Accumulate 1000 score points",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/041a01f4-cc0e-4530-a073-b80e8ff5d0db.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Power Surge",
+      "trophyDetail": "Use power ups 25x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/4cf6280d-762d-48cd-894e-68edb7f7a7fc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bounce Master",
+      "trophyDetail": "Retrieve Ball 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/f704b353-f01a-4ad9-a316-c40f7e962598.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All-Star Shot",
+      "trophyDetail": "Retrieve Basketball 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/17c0e651-9e1c-4cd1-baec-f6d31f363080.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beach Pro",
+      "trophyDetail": "Retrieve Beach Ball 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/38178efa-15a6-4760-b419-867682643d40.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Queen of the Hive",
+      "trophyDetail": "Retrieve Bee 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/1b26a374-7ff6-434f-918f-78939efb92d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Captain Claw",
+      "trophyDetail": "Retrieve Boat 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/5a64ff7d-0818-4786-9ef0-2e98ede4682a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bunny Brigade",
+      "trophyDetail": "Retrieve Bunny 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/ccad3cbb-4444-4567-b99c-99207fef9044.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Speed Demon",
+      "trophyDetail": "Retrieve Car 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/08b9dd2e-7fb9-40b5-b851-b0304c7e6fa1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dino Collector",
+      "trophyDetail": "Retrieve Dinosaur 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/9d360c00-d421-4c15-8ba5-b8c710f4adc0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shades of Gray",
+      "trophyDetail": "Retrieve Doll Gray 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/429fb956-9a3f-46e9-8a9b-c9508512df9e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pink Parade",
+      "trophyDetail": "Retrieve Doll Pink 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/b9c3e71e-68b0-4a9e-8ccd-170f11084434.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sky High",
+      "trophyDetail": "Retrieve Doll Blue 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/2164f0d9-003b-4434-94fc-262ad7d507b9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Duck Squad",
+      "trophyDetail": "Retrieve Duck 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/90ba1c1b-9d8c-47d3-9dce-d314b1de75c7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gallop King",
+      "trophyDetail": "Retrieve Horse 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/810d0271-7869-4a46-ad79-40a51cc6e668.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shepherd’s Delight",
+      "trophyDetail": "Retrieve Sheep 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/e94ec74c-2e04-4a95-a210-914e8bbf892e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Snuggle Squad",
+      "trophyDetail": "Retrieve Teddy 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/db30841e-bd82-4182-9f7f-69e9315f841b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Express Delivery",
+      "trophyDetail": "Retrieve Train 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/7707cbf0-b798-40d7-b207-c1cf0aa441c5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ocean Explorer",
+      "trophyDetail": "Retrieve Whale 10x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/b92d8a06-3c0b-4ded-9d5d-ca277da7086f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Bounce",
+      "trophyDetail": "Retrieve Ball 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/11caa5c1-6d2c-4330-a758-fe0bf76d2e6b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hoop Dreams",
+      "trophyDetail": "Retrieve Basketball 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/2a2351b5-c808-44fd-a2f8-c3c2284e4c17.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunny Days",
+      "trophyDetail": "Retrieve Beach Ball 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/df9321ae-2de5-4662-8cc0-45bd81210da8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buzz Catcher",
+      "trophyDetail": "Retrieve Bee 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/c8b6f330-3cc1-4a0a-85b5-c06fe7fb1bc5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sail Away",
+      "trophyDetail": "Retrieve Boat 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/be235851-71ca-4932-8950-0e0fec4a5a11.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fluffy Friend",
+      "trophyDetail": "Retrieve Bunny 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/c7641193-1f34-4518-bc0a-3df179f03bb4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mini Racer",
+      "trophyDetail": "Retrieve Car 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/6aab3144-fed9-4e94-94c7-939b81a03363.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiny T-Rex",
+      "trophyDetail": "Retrieve Dinosaur 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/bb623425-7334-40f7-a13c-2a68529642a5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gray Days",
+      "trophyDetail": "Retrieve Doll Gray 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/41733266-88e6-410d-ade3-50d96d373d20.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pretty in Pink",
+      "trophyDetail": "Retrieve Doll Pink 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/881a38fd-c762-486c-bacd-d4f5d92e474e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Skies",
+      "trophyDetail": "Retrieve Doll Blue 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/93daeb94-c024-49ad-bef2-8d2a7a9c37f0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quack Attack",
+      "trophyDetail": "Retrieve Duck 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/f7c2d7f0-f816-4997-a9dc-29a748c6c326.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giddy Up",
+      "trophyDetail": "Retrieve Horse 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/fbb68f26-92ba-4108-911d-d2ab3ff10822.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Counting Sheep",
+      "trophyDetail": "Retrieve Sheep 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/d6662949-328c-46fd-9f88-d8f08e1443a3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cuddle Champion",
+      "trophyDetail": "Retrieve Teddy 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/94bc2f4f-abd6-4d1a-a5bd-eeeb108d29a2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Aboard",
+      "trophyDetail": "Retrieve Train 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/d925f4ff-bec6-416b-98e0-37d621193921.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whale of a Time",
+      "trophyDetail": "Retrieve Whale 1x",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/8d37c7d8-743d-4923-81d0-74c9c590ca3c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Claw School Graduate",
+      "trophyDetail": "Tutorial Complete",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47255_00/b06b444c-5275-4eff-b91c-72f86e40b7ef.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

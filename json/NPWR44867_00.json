@@ -1,0 +1,487 @@
+{
+  "npCommunicationId": "NPWR44867_00",
+  "title": "Astrea: Six-Sided Oracles",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 53,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Arch-Oracle",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E3257DAFF9CFBC4027A50C18E2A4FA5D5B213F4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meissa’s Savior",
+      "trophyDetail": "Save Meissa, the Antiquarian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/75BFF67CAE3107735FB9F6775AFE915E2EC9E940.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mechanical Buddy",
+      "trophyDetail": "Acquire a sentinel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/925072E081409504551D0D33AE9780E926FB21B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dicesmithing Time!",
+      "trophyDetail": "Forge a die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/B9EC3AC3AFB0B676D29EE165705731597BB7F6F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loyal Partner",
+      "trophyDetail": "Have a sentinel at max level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/6AEB616A48667B68E396825412979FB60F9B998C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sanctuary Guardian",
+      "trophyDetail": "Defeat Sanctuary Parasite.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/F530693BE0E756FD3602671921C44E9417A56A99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wild’s Keeper",
+      "trophyDetail": "Defeat Smoldering Beast.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/C427B4D8D0A6706F80B6483BEB8B3E1A5603C3A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mind Illuminator",
+      "trophyDetail": "Defeat Doomed Astronomer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E40FB291706F487852A53ADE88723B988442A0DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stellar Dismantler",
+      "trophyDetail": "Defeat Corrupted Assembler.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/F3EA1BB69B6872DA7CB866EF92B981030AEE6B4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Killer",
+      "trophyDetail": "Defeat Decayed Star.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/B23FAD95B4F33CB1710ADDC586C4C387E9087798.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anomaly Destroyer",
+      "trophyDetail": "Defeat Uncaged Anomaly.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/CB5FFCC9BE8830122DCE4F97270593DF9D86EA6C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stellar Haste",
+      "trophyDetail": "Defeat a boss on the first turn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E6951E6FC9B68CF0F8817992A7CAF6D26CC4841C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Astral Seeker",
+      "trophyDetail": "Score at least 3500 points in a run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E56B928BE9D7EA88888190D2D94D40D6F9B7AF57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heavy Purger",
+      "trophyDetail": "Make a creature receive at least 100 Purification at once.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/D87B093CD7AAA291AFE99ABB4DE15C71E983F8E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unbeatable",
+      "trophyDetail": "Win a run without losing Hearts during battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/5A9FDAD4F5A3A0FC47951F9CCC21C88FA6EB23BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sentinelphobic",
+      "trophyDetail": "Win a run without having any sentinels.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/21EE2751C69FEBF4CF920684FEEF6C5266801F12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Skeptical",
+      "trophyDetail": "Win a run without having any Blessings.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/340A4517B17C572E919DCF3B35310139212149EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Heart Gate",
+      "trophyDetail": "Open Astrea’s Heart.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/81B125309A2F5CF741BC3833A97637116F2CD6E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "If I Had Failed...",
+      "trophyDetail": "Defeat the Corrupted version of yourself.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/6BB04CEAA3175C6202C41C7CF3ACEF3807BE4276.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Dark Moon",
+      "trophyDetail": "Defeat Corrupted Moonie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/18A5FE18A52D1AC5AC2A6B33A66E6CCEDED6B2F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Abyssal Terror",
+      "trophyDetail": "Defeat Corrupted Cellarius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/0CC10CE44511DB0B0CD34A0AD44D4E1BFCCCF546.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Chaos Artisan",
+      "trophyDetail": "Defeat Corrupted Hevelius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/09CAE645CB462F403FC1B565EE779D35C9331C43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Raging Skies",
+      "trophyDetail": "Defeat Corrupted Austra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/F3EC21C07196999964F17A3CC407368EF1CEBD22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Ardent Prince",
+      "trophyDetail": "Defeat Corrupted Sothis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/6F088C2E781179361D72BFA98C97EE9A5F17CC9D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Distorted Sage",
+      "trophyDetail": "Defeat Corrupted Orion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/2E15B9C9847CDDBF8397CD6EB7A8DDB0F11059E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Goddess Avatar",
+      "trophyDetail": "Defeat Astrea Avatar.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/9A7514F9C5780A1C7F4C266EB9A269259DDC4573.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Corruption Goddess",
+      "trophyDetail": "Defeat Astrea.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E0976D20FAFADFD3EC79E9B2A9DC4CE1D878AC43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Astrea’s Saviors",
+      "trophyDetail": "Defeat Astrea with all Oracles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/27FE6E44618BA35FCF81C78EA45F057161F91D05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Six-Sided Mastery",
+      "trophyDetail": "Reach max level with all Oracles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/0FFA86D018EFC1BD816ED8E8FB9C99B907539F4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Noctuan Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Moonie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/B9531478F3C435B1BDC7F8E1282B707D8845BD85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Noctuan Hero",
+      "trophyDetail": "Defeat Astrea with Moonie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/433E1E5966F7B92D031CDCA10C32072DFF07B331.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Noctuan Mastery",
+      "trophyDetail": "Reach max level with Moonie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/F35E0F0B58920B69C8CC18B7902D396881BB0778.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sadistic Plan",
+      "trophyDetail": "Make an enemy defeat themselves.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/AEB6605695D8DEF25F42EC0F8729A038B127FC98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eridanian Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Cellarius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E78ECDD78BE520ABA340BB74BD0116DAC717AE2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eridanian Hero",
+      "trophyDetail": "Defeat Astrea with Cellarius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E1F4E1AE89F95A2BE94D53C4FBFD1222C924FEDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eridanian Mastery",
+      "trophyDetail": "Reach max level with Cellarius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/A9278227777707AEABD7D91AC087EE2431285462.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave Bender",
+      "trophyDetail": "Prevent a Heart loss using Wave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/B77B918B9CA4C5799AC26C059ADC5E4C38502E52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lacertian Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Hevelius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/8AE129688E6A736D8E08DECA1D645E0895B9C798.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lacertian Hero",
+      "trophyDetail": "Defeat Astrea with Hevelius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/B56BFB25CA54C6921408C7B3F9640676AEBF4D73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lacertian Mastery",
+      "trophyDetail": "Reach max level with Hevelius.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/20EF37C4E67234ADEA6E64C5102A78B552039B25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Tinker ’Em All!",
+      "trophyDetail": "Acquire 12 different types of sentinels in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/1A6D33B76FC0FD2BB73FD72DF5F9D22DC9122CA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apian Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Austra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/983557A707157C3648987816B0F189AFF2362333.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apian Hero",
+      "trophyDetail": "Defeat Astrea with Austra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/BAD08E1CF4CE0821A20F5C92C3DEF2DC5AABC3D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Apian Mastery",
+      "trophyDetail": "Reach max level with Austra.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/0FB0D2492F7240110A25E14FFFE00013DD9E4AEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critical Twist",
+      "trophyDetail": "Deal 50 Purification with a Safe Die.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/9D911095D320AA1514C64B25CBCE893BD88C03FE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behenian Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Sothis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/9AD8C7E9A897157831495E33549D5EE799532BE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behenian Hero",
+      "trophyDetail": "Defeat Astrea with Sothis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/6F1C622C24A16444551BB06685E1CEC5E1832B16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Behenian Mastery",
+      "trophyDetail": "Reach max level with Sothis.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/5481AF40D852396BE0540A9D4BA156C1F099FF03.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Royal Choir",
+      "trophyDetail": "Have at least 30 Chanting.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/DCE8D3E5B3E8DC7ECF4F29BF9631786BEF297451.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aquarian Champion",
+      "trophyDetail": "Reach Astrea’s Heart with Orion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/8DCC4F6601773446F8953C9578810A76EE28D20E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aquarian Hero",
+      "trophyDetail": "Defeat Astrea with Orion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/E994DC4344A92C643F047ADC2E68CC629B84F449.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aqurian Mastery",
+      "trophyDetail": "Reach max level with Orion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/CFB18C9FAF05A2195762B29BA4E8888FCDA97A64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Reflexive Mind",
+      "trophyDetail": "Win a Ground Zero battle without moving your Orbs.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44867_00_008F3BC6E54DD9A02A2827B1E9C39814867DB2F707/9512680316505CB70B04036EAF6F10575CD8AA90.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

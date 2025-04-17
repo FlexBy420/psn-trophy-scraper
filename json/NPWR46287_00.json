@@ -1,0 +1,586 @@
+{
+  "npCommunicationId": "NPWR46287_00",
+  "title": "Vagrus - The Riven Realms",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 64,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "All Trophies",
+      "trophyDetail": "Have all the trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/0aa3f897-f9e3-4125-a704-5ecf7dae0788.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liberator",
+      "trophyDetail": "Reach the highest standing with the Abolitionists.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/f0c9a51c-987d-404b-b46f-14665ecb51cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making Contact",
+      "trophyDetail": "Unlock access to the Abolitionist faction's headquarters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/0d448cc2-fe74-4eea-8ec0-c692ce1b0604.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For the Cause!",
+      "trophyDetail": "Unlock access to 10 different Abolitionist cells in a single playthrough and report your success to the faction.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/17249b15-0b5c-4c5f-9b67-1c350c973643.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death Denied",
+      "trophyDetail": "Receive the Disdain of Ahskul during the first three in-game weeks and win the game without ever removing it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a02d318a-2659-47c2-ab9b-f9a6dedb791a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bounty Hunter",
+      "trophyDetail": "Complete all bounty hunting storylines in a single playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a1c03b93-a292-44b6-99f9-2421d99023c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "And the Sky Full of Stars",
+      "trophyDetail": "Complete the 'Sealed Beyond' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/b335a0f9-0418-4f8b-8b2d-8cdb49bb6394.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conciliator",
+      "trophyDetail": "Successfully appease the foe during a crew combat encounter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/fa1cbdf1-028d-426e-9a1f-62c665566ebf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beloved by Irafons",
+      "trophyDetail": "Win the game without ever loading a manual savegame in the playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a8bc37b0-2cc2-4f46-b530-48714154a140.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deceptions Disclosed",
+      "trophyDetail": "Receive the Treachery of Bal Ur Kaal during the first three in-game weeks and win the game without ever removing it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/7c13eea0-85ec-42bf-a43a-86adae7d78fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carpenter",
+      "trophyDetail": "Reach the highest standing with the Carpenters' Guild.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/512babf3-f3bc-4772-9bd2-5cdf1e9bbd55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watcher",
+      "trophyDetail": "Reach the highest standing with the Church of Ahskul.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/6fde1b40-cac2-428f-b76f-507831060216.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Executor",
+      "trophyDetail": "Reach the highest standing with the Church of Sergorod.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/c1151bf4-3a09-430a-b385-81fe537687d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loremaster",
+      "trophyDetail": "Unlock 215 codex entries in a single playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/113b0d59-f0af-45ea-bbe3-eff01afc9eb7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Company of Heroes",
+      "trophyDetail": "Reach Prowess 9 with at least 6 Companions in a single playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/95759c15-4e92-4d31-af87-d06a9294b277.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Embellished",
+      "trophyDetail": "Complete all side-stories in 'Pilgrims of the Wasteland'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/ebf96c81-69ba-4f24-befe-93b5ff048eb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huntress Unbound",
+      "trophyDetail": "Complete Criftaa's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/9c822fa3-ae38-414a-aa94-4efde64570f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Xevarian Gambit",
+      "trophyDetail": "Listen to Daneram Xevaris announce his intentions at his feast.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/05ee9bb8-423e-4420-8069-b5cc7de152e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conquered",
+      "trophyDetail": "Die for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/155063bc-35e9-466a-b9fe-7a4cea7715e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accomplished Explorer",
+      "trophyDetail": "Discover all accessible named locations and regions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/81cb2ddc-14a8-4316-b0bc-d575bd986b96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prepared For Anything",
+      "trophyDetail": "Own at least 45 unique Equipment.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/f9aca180-6c15-4697-b8ed-d618c681c24d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ever After",
+      "trophyDetail": "Complete Eylani's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/506ac22a-2da5-4840-ba34-a1327b5d27f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Voice of Hereafter",
+      "trophyDetail": "Complete Finndurarth's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/9a74b91b-73b1-44ed-933d-69e35bb64b40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror",
+      "trophyDetail": "Win the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/1f9f847d-0a8f-4f10-a8e3-cca201bd5852.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fight Another Day",
+      "trophyDetail": "Successfully flee from a crew combat encounter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/61be690f-3ca7-473a-9ec4-30d5aa0026fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Been There, Done That",
+      "trophyDetail": "Complete the 'To the Four Corners' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/aa9d6f54-9c8f-4a55-9e3d-8b519a2cc6ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business As Usual",
+      "trophyDetail": "Complete Garrik's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/6489b8e0-7c45-403f-9dfc-aac345719c91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Geared Up",
+      "trophyDetail": "Own at least 40 unique Gear.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/12df5c44-9ed8-4154-a538-6f79ec2193c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forged in Battle",
+      "trophyDetail": "Complete Gor'Goro's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/10eeebfa-668f-4755-940b-776718ecc73a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legacy of a Mercenary",
+      "trophyDetail": "Complete Harvek's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/44d3c3d7-cbe6-4505-902b-963a60321ba4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Captain",
+      "trophyDetail": "Reach the highest standing with House Darius.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/57f24846-b8de-459d-ae92-0bd779f941f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trailblazer",
+      "trophyDetail": "Reach the highest standing with House Oquo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/963a09b5-4eb2-4498-9c56-f8a976219899.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manticore",
+      "trophyDetail": "Reach the highest standing with House Venari.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/ae9e4181-cfa4-49e6-8531-8f4e9c549706.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeker",
+      "trophyDetail": "Win the game through the Knowledge Ambition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/9fa4ee60-07b3-4318-8151-af60ab6b730f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chromatic Collector",
+      "trophyDetail": "Own one of each Dragonstone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/009547ba-fc21-4afc-b058-1d20c5fcf67b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loader",
+      "trophyDetail": "Reach the highest standing with the Loaders' Guild.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/9e768b34-8677-4de1-8904-abf763ca6ccd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moving At Odd Angles",
+      "trophyDetail": "Start an in-game day with a total of MP plus MMP higher than 28.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/57440d86-6c84-4a2c-af68-907b9b5761a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Terrible Will",
+      "trophyDetail": "Complete Nedir's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/60999401-f24a-40ba-b6cf-d324c93679e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Settler",
+      "trophyDetail": "Build your own outpost and develop it to its full potential.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/64e18511-32da-492e-887c-b8db552d66f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Press-ganged",
+      "trophyDetail": "Reach Avernum in 'Pilgrims of the Wasteland'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/ee5bbbc1-4046-4358-bcd4-026b5e3fe965.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Despoiler",
+      "trophyDetail": "Reach the highest standing with the Ratharnak Alliance.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/95d80d31-ecbe-4bb3-8bc6-c962e0ad1021.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Real Battle",
+      "trophyDetail": "Defeat a foe with at least 1000 Combat Strength in a crew combat encounter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/1b30b070-a31e-4ebe-80d8-2620e06220d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Darkness Within",
+      "trophyDetail": "Complete Renkailon's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/cc91a526-aada-449e-9962-8b99adfd6076.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Celebrity",
+      "trophyDetail": "Win the game through the Renown Ambition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/4c65488f-9c4f-400c-8e1a-9884a3ba5055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ruiner",
+      "trophyDetail": "Have Velarias, Fort Larius, and the Omphalat Outpost destroyed in a single playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/1ea14ecd-2be9-4644-839e-3229459d40db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spiritual Journey",
+      "trophyDetail": "Gain access to the upper village in Sadirar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/ccc7ba5d-2a8a-40de-95aa-d429d9f2fcbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arcanite",
+      "trophyDetail": "Reach the highest standing with the Scythichnis Covenant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/f0ad0820-f312-4f4e-9841-52da7e88f0b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Second Chance",
+      "trophyDetail": "Leave Scrapheap in ‘Pilgrims of the Wasteland’.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a44f55b0-65ee-43a5-9359-82204dc36d91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Lies Below",
+      "trophyDetail": "Learn the truth about the Great Machine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/4f879323-9069-461a-9d07-bf990dc389ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rage Repressed",
+      "trophyDetail": "Receive the Wrath of Sergorod during the first three in-game weeks and win the game without ever removing it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/d497b648-2630-4f16-82df-16c4b9a1159c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Voyage",
+      "trophyDetail": "Complete Skornar's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/aeb0ea5c-edd1-4a70-9b88-914bccffd468.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life... Finds a Way",
+      "trophyDetail": "Gain the Spirit Idol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/0d1d6e5d-0ce6-4710-96f5-f376ed069195.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Theory to Practice",
+      "trophyDetail": "Complete 'the Golden Theory' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/977c044e-27d8-4348-b334-5c2bf8d178d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Package",
+      "trophyDetail": "Deliver Narbo’s package to Skornar in ‘Pilgrims of the Wasteland’.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a35c61cf-31ff-4f67-9dd7-f8cfc33584c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pilgrimage's End",
+      "trophyDetail": "Complete the main story in 'Pilgrims of the Wasteland'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/eeaaf3f4-e08a-43ae-80e2-17ed9a083b99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wyrmslayer",
+      "trophyDetail": "Complete the 'Return of the Wyrms' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/1bcc2901-06dc-4384-b9b9-710ad7ac79bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inquisitions of Discord",
+      "trophyDetail": "Complete 'the Source of Discord' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/7778086a-10c0-47a5-a22f-293621e3a925.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defiant",
+      "trophyDetail": "Receive the Wrath of Sergorod, Disdain of Ahskul, and Treachery of Bal Ur Kaal during the first three in-game weeks and win the game without ever removing them.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/3386a003-a1ee-443c-8ebd-caca2cad4491.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Vagrus Supreme",
+      "trophyDetail": "Receive the Wrath of Sergorod, Disdain of Ahskul, and Treachery of Bal Ur Kaal during the first three in-game weeks and then win the game without ever loading a manual savegame in the playthrough.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/a7a11e4c-1ca0-48cc-8769-a3698f6b302b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trouble at Fort Larius",
+      "trophyDetail": "Complete 'the Trouble at Fort Larius' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/21430928-3201-4b85-aab5-311d76fbf42c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unseen Patterns",
+      "trophyDetail": "Listen to the strangest sounds of the wasteland.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/5a9f061e-c061-4910-9824-69c7b2ce7ab2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voracity Confronted",
+      "trophyDetail": "Complete Vorax's personal storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/deb430af-d0a4-4362-b3d7-c0431c5e705b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enterpreneur",
+      "trophyDetail": "Win the game through the Wealth Ambition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/b8a2b1e9-902b-4dcc-b9c1-264c41cb91ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Insectoid Propagator",
+      "trophyDetail": "Complete the 'Insectoid Propagation' storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46287_00/6035f464-dc86-4e08-acfe-dec1f422fd78.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

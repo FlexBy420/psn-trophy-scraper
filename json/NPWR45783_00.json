@@ -1,0 +1,316 @@
+{
+  "npCommunicationId": "NPWR45783_00",
+  "title": "Futbol Plus",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 34,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Futbol Plus master",
+      "trophyDetail": "Collect all trophies in the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/75BFAB4AD18C0C3DDACCABDA7F5969C947C3673D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect laser",
+      "trophyDetail": "Collect laser power up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/B2052E1ABFB625A35DABCFB1473201ECC040DCB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect wide paddle",
+      "trophyDetail": "Collect wide paddle power up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/53EB757F34E2CC399FFCD59EC2D71C867092E4D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect fireball",
+      "trophyDetail": "Collect fireball power up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/D76E71E6C2FC56978ADD33E9AF9C7D411435C16D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect multi ball",
+      "trophyDetail": "Collect multi ball power up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/7FF99D07A2B6C53A00CDF03AE59254F7F74126B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect a coin",
+      "trophyDetail": "Collect a coin in break game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/81D4F110C5CA0C6130EDB29498D2572C0DF65CFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sticky player",
+      "trophyDetail": "Catch ball with sticky paddle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/9B9A0460B711DAF5669E58B5DEB8CA8480E3A84A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shielded player",
+      "trophyDetail": "Hit ball with shield (bottom wall).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/40CF5EBFB6657DF00C12D30C09D61850F032CB3B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invincible player",
+      "trophyDetail": "Survive a mini boss attack through invincible paddle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/1665C6F3E6A8D0861BC1A3E1833A7558DE45E7B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mega bomb",
+      "trophyDetail": "Destroy items with a bomb.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/031BC21B485A7C3A0039589B631C6D8780751EE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High 5 player",
+      "trophyDetail": "Destroy items at 5x speed.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/01BF26080D4F549128AD7BD88D57C2B055F6DA9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defeat a mini boss",
+      "trophyDetail": "Defeat a mini boss.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/F0BEC72DF4D2FFCE0348EA23AEF8463A0687EBA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Score 10K points",
+      "trophyDetail": "Score 10000 points in single player mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/B3D8807B46487DA2B7E428E933C7844BE121E3DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Score 20K points",
+      "trophyDetail": "Score 20000 points in single player mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/7AFB8BFBD023AA95314D6A8CA8FEF1C814E809E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Complete a level",
+      "trophyDetail": "Complete a level in single player mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/6779933E073F85E31CDC9DBE26ABC15AEAD945A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect laser in multiplayer mode",
+      "trophyDetail": "Collect laser power up in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/FC1A3E2257B2289F2740F8490B3CA3D35EE2B059.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect wide paddle in multiplayer mode",
+      "trophyDetail": "Collect wide paddle power up in multiplayer mode.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/738AA3C9ED991784EFE7EB830522FDCEBFCD31C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect fireball in multiplayer mode",
+      "trophyDetail": "Collect fireball power up in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/148FB646E00AD12BEDFB32F7E98DCBBB58982C6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect multi ball in multiplayer mode",
+      "trophyDetail": "Collect multi ball power up in multiplayer mode.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/2BB9B044A1C7BC47B052DD59ABA1E5BA641928D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sticky player in multiplayer mode",
+      "trophyDetail": "Catch ball with sticky paddle in multiplayer mode.\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/B69D4EAE621FCB65613A62776B1AD0A006A13C60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shielded player in multiplayer mode",
+      "trophyDetail": "Hit ball with shield (bottom wall) in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/8C9DBA06A55908E0F1088CB02B9CF1E6936E6F73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invincible player in multiplayer mode",
+      "trophyDetail": "Survive a mini boss attack through invincible paddle in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/61ECBEB9253EF9F68EB20C1C9658484A63E8D04E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mega bomb in multiplayer mode",
+      "trophyDetail": "Destroy items with a bomb in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/174BA8836562EB002B303DFEA2E217D841E8D3F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High 5 player in multiplayer mode",
+      "trophyDetail": "Destroy items at 5x speed in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/80BBC8DED6E686DDF601B90185F5319684746CF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Defeat a mini boss in multiplayer mode",
+      "trophyDetail": "Defeat a mini boss in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/73461EDD66B338E3FEFA9B4FBF822C47A2AB992A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Score 15K points in multiplayer mode",
+      "trophyDetail": "Score 15000 points in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/973C8380CF8A035CBCA3DD01F5DBB549BCE711D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Score 30K points in multiplayer mode",
+      "trophyDetail": "Score 30000 points in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/49A2217A6AA729344B04DE70017616456FB28481.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Defeat CPU",
+      "trophyDetail": "Defeat CPU in multiplayer mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/3D182F5B91663015E1B94992C0C06E209C5F73C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boost Run",
+      "trophyDetail": "Run with boost.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/9E9D9564F47648358C6062D55822F1892060A72F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect a coin in runner mode",
+      "trophyDetail": "Collect a coin while running.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/FE70EB31B431268BF754AC7D82DB3285ED064023.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collect a star in runner mode",
+      "trophyDetail": "Collect a star while running.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/6EBA88041BEB0165F4A487775B7ABC0E34530AAF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destroy an obstacle in runner mode",
+      "trophyDetail": "Destroy an obstacle while running.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/4B426F460225F2D36EB794700FB3E0D7C2DA1A1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Run 30 seconds",
+      "trophyDetail": "Run for 30 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/8555A4878E656139B9E4D532FB9637AADB9990E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Complete a runner level",
+      "trophyDetail": "Complete a level in runner mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45783_00_006EFA9E2E4C3E4EE6265B1D1BCA2C50162F6C43A6/F1CEC177A917BBE2D6F86E8535C770D788599763.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

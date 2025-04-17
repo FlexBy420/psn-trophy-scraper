@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR45848_00",
+  "title": "The Jumping Burger Rush",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Now I'm hungry again!",
+      "trophyDetail": "Collect all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/a1dd3cd5-f41f-4825-8885-18211b3bc81e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Baron",
+      "trophyDetail": "Reach 100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/f2e13c39-6609-44ef-bbba-2de10b69193b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheese Champion",
+      "trophyDetail": "Reach 200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/ff71100e-affe-466d-a801-ab0d089d41c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patty Prodigy",
+      "trophyDetail": "Reach 300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/85bc87c0-8cb0-4447-945a-602f4e942e7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Burger Biter",
+      "trophyDetail": "Reach 400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/09337311-b19f-4f94-be51-61c50f45ce5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grillmeister Gainer",
+      "trophyDetail": "Reach 500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/f5ced924-3dcf-4ff5-9cd4-8c0855b54881.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beefy Boss",
+      "trophyDetail": "Reach 600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/2450d3ca-68b7-4532-bd94-42395c31fb2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topping Titan",
+      "trophyDetail": "Reach 700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/bb963a90-7ea3-4a28-81f1-667407081da0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sauce Supreme",
+      "trophyDetail": "Reach 800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/266fd057-aa5f-48ca-aa6b-9da3797e848b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bun Baron",
+      "trophyDetail": "Reach 900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/74602b00-3bee-472a-832a-5e878b9a5a96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Eater",
+      "trophyDetail": "Reach 1.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/d40d836f-1fa3-4051-bf31-7938bb725e9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savory Scorer",
+      "trophyDetail": "Reach 1.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/8bbb0de2-53df-4602-b6d5-b6dd8a90a641.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flavorful Finisher",
+      "trophyDetail": "Reach 1.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/474b0ad5-1564-4fea-8c55-6f5816c61b25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicious Dominator",
+      "trophyDetail": "Reach 1.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/716ce5b8-795d-4c9a-b4a5-3940b325be08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Guru",
+      "trophyDetail": "Reach 1.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/7962cbf5-f280-44e1-bb77-3da704090a1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Bounty Hunter",
+      "trophyDetail": "Reach 1.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/f3c275a8-172d-4e2e-a1ad-19c27f76fae7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culinary Conqueror",
+      "trophyDetail": "Reach 1.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/5a388aa1-9522-40d5-b0f4-0a1abc2d715a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mighty Meat Master",
+      "trophyDetail": "Reach 1.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/eb476c26-a500-42d2-afba-3ca9b139e9bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Patty Pursuer",
+      "trophyDetail": "Reach 1.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/5fead050-db5c-4ae5-a693-afcd3a3011a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bite Baron",
+      "trophyDetail": "Reach 1.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/77d67888-da0a-4c74-92e4-bfc423ab04b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Brawler",
+      "trophyDetail": "Reach 2.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/7837cdbe-0d1e-47be-83bf-c3d94caa48f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patty Pioneer",
+      "trophyDetail": "Reach 2.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/a0896162-6944-4663-8414-92c875523d4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheese Connoisseur",
+      "trophyDetail": "Reach 2.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/fdfe5e40-4ad4-43e4-9a48-1d2ac8b15371.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Gladiator",
+      "trophyDetail": "Reach 2.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/0eea293b-5fa1-4d81-866c-8e72694520cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beef Brilliance",
+      "trophyDetail": "Reach 2.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/a19932f1-772a-43ab-b61e-aeb7b8ff4c7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sauce Sizzler",
+      "trophyDetail": "Reach 2.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/21454060-c333-4fbf-828f-11fa264f358a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topping Tactician",
+      "trophyDetail": "Reach 2.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/43021a75-3041-41c9-ba93-bcf6394f934c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bun Boss",
+      "trophyDetail": "Reach 2.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/7e7984a3-7401-4297-aae3-cf4b5a53bc12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Edible Expert",
+      "trophyDetail": "Reach 2.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/a4b24bb0-e4b6-409a-bb02-05d432d30687.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savory Strategist",
+      "trophyDetail": "Reach 2.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/bce40e6a-444f-4658-a2e6-7e2ab6635177.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flavor Fanatic",
+      "trophyDetail": "Reach 3.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/2ab6ff64-a75b-4e2f-92b2-455350a952e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicious Deity",
+      "trophyDetail": "Reach 3.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/bee12762-add6-4de4-ae54-da3169aae0f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Genius",
+      "trophyDetail": "Reach 3.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/e03e6722-aba8-4ec7-8dd9-a8e83930b452.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Beast",
+      "trophyDetail": "Reach 3.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/6f783303-5811-45da-a558-41a0b677dcf9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culinary King",
+      "trophyDetail": "Reach 3.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/2df6fd61-e9d0-4567-9a5c-5ca6eef433be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Maestro",
+      "trophyDetail": "Reach 3.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/02ba1946-791f-4149-afcc-be64b6c52439.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Patty Partner",
+      "trophyDetail": "Reach 3.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/01007c13-1ae8-40e9-9565-c78c16afe3de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheese Commander",
+      "trophyDetail": "Reach 3.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/0b8813fb-f5b3-4780-a0f4-104c917f72e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill God",
+      "trophyDetail": "Reach 3.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/43e8b47c-622a-40b2-9d49-c68b50e7b2fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beef Baron",
+      "trophyDetail": "Reach 3.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/b191e4ca-1c63-4b6f-9088-1ad344536b3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sauce Sorcerer",
+      "trophyDetail": "Reach 4.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/23477ee2-1376-4ebc-9bea-51928ef697c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topping Technician",
+      "trophyDetail": "Reach 4.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/ce99d803-789c-4a16-a990-7523f1215345.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bun Bandit",
+      "trophyDetail": "Reach 4.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/fe9aa4e6-13f5-4072-b693-dc6bd9d30301.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Eating Expert",
+      "trophyDetail": "Reach 4.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/00bf39fe-a01b-4bfc-8b9e-8e215e637c0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savory Sage",
+      "trophyDetail": "Reach 4.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/4020c074-6f0b-4954-8da1-543eee5de46c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flavor Fiend",
+      "trophyDetail": "Reach 4.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/a0e07260-a78b-4b3a-a2f1-29d9a61379d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicious Dynamo",
+      "trophyDetail": "Reach 4.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/2c476e0a-7d51-42b9-b386-96cde1694315.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Grandmaster",
+      "trophyDetail": "Reach 4.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/4e31c723-a7cd-4b42-a80b-80b70ba61a5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Bossman",
+      "trophyDetail": "Reach 4.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/75cdaabb-d21b-4706-85bc-f81420568a6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culinary Captain",
+      "trophyDetail": "Reach 4.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/4c457b6d-ea5a-4346-a45a-cb0eaafc1f70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Monarch",
+      "trophyDetail": "Reach 5.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/f651d842-58db-4c2e-b3bf-2d9a49cfa8c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Patty Performer",
+      "trophyDetail": "Reach 5.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/ce8ba63d-4224-4605-b52f-a284c9a60ac1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheese Chief",
+      "trophyDetail": "Reach 5.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/cc5b8abf-1751-482f-9794-3180d81876e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Guardian",
+      "trophyDetail": "Reach 5.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/77ab8e09-f1c8-4ce8-89b0-4aab3f7b0aa5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beef Benefactor",
+      "trophyDetail": "Reach 5.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/210dcdaa-56c5-4707-b56f-31d6213d6fed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sauce Specialist",
+      "trophyDetail": "Reach 5.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/ced00d84-83b8-4567-bdc4-2e4d3a606330.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topping Boss",
+      "trophyDetail": "Reach 5.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/5fdafd7d-7a32-45c0-aa13-ac1e15b26f8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bun Buff",
+      "trophyDetail": "Reach 5.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/d88622ac-6a35-4be4-93d8-5399e0774c0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Epic Eater Extraordinaire",
+      "trophyDetail": "Reach 5.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/01db8551-ba50-4e09-990d-4dbb6dfb3da1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savory Superstar",
+      "trophyDetail": "Reach 5.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/9107c330-96a6-4d62-b171-9ae423201bdd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flavor Freak",
+      "trophyDetail": "Reach 6.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/b2611790-c82e-4096-a734-de508bd10f19.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delicious Devotee",
+      "trophyDetail": "Reach 6.100 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/b7332c83-7393-40ac-83ec-bbc1c4646b5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill Boss",
+      "trophyDetail": "Reach 6.200 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/97db47ff-f45a-4184-b5a3-9e33155821a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burger Bravado",
+      "trophyDetail": "Reach 6.300 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/d1cb8bef-88c1-4a93-8410-405862b231a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Culinary Champ",
+      "trophyDetail": "Reach 6.400 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/1ef9963a-bddc-4475-a7ce-23ce298914ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Mastermind",
+      "trophyDetail": "Reach 6.500 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/bac5cce8-e732-4639-931a-a7829610d261.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Patty Pro",
+      "trophyDetail": "Reach 6.600 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/07b80c96-7f45-4797-9a33-464f1ec983dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cheese Czar",
+      "trophyDetail": "Reach 6.700 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/728152da-d373-48a9-8bb2-b35218afc19f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grill General",
+      "trophyDetail": "Reach 6.800 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/2ac019b4-5710-4ff7-9f25-d1d99aef2e47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beef Boss",
+      "trophyDetail": "Reach 6.900 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/4e4d3c80-b9f2-4be8-af10-bcb9ee670524.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sauce Savior",
+      "trophyDetail": "Reach 7.000 points in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45848_00/85601597-223a-4b68-af71-4c478a29468e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR45965_00",
+  "title": "The Jumping Ice Cube",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Cold as ice",
+      "trophyDetail": "Collect all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/EC251780659CA622CD4BD966022865F1950B13F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cube King",
+      "trophyDetail": "Reach 20 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/8FEC842FAF7A8E20F3E4A9DC99AE78724128E61C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Champion",
+      "trophyDetail": "Reach 40 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/35F4C9400BD2181EFCF13DFD4BBC0BF45652D078.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Finisher",
+      "trophyDetail": "Reach 60 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/3782D3249933038976BDB1CB2374D573255AFB7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Fiend",
+      "trophyDetail": "Reach 80 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/BD13ACEDCC6E4C03505C4BEF1C5EC80F6CC577A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacial Guru",
+      "trophyDetail": "Reach 100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/E01F85370700A122D0C670CB69A3E01FE752801E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iceberg Invader",
+      "trophyDetail": "Reach 120 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/8A5FE6DD7DD697A2D6A507B435D39A8991ED174F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Conqueror",
+      "trophyDetail": "Reach 140 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/36C6EA0DBD5715D17878A2208384DE70649D7AD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arctic Ace",
+      "trophyDetail": "Reach 160 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/5E56D065E453418CD8116508A4A04F16D1426400.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Innovator",
+      "trophyDetail": "Reach 180 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/B0CECA25F900D2EB07F33BD7611D73B154551553.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frost Master",
+      "trophyDetail": "Reach 200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/811446DF5E4B18D57E13259045DE62A3BD0BC3FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Prodigy",
+      "trophyDetail": "Reach 220 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/EE04DA8D6655C26DB035F25A3103B06CFB4207E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowflake Sage",
+      "trophyDetail": "Reach 240 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/604AAED7CB0274263055BC6C1FDBBBD9F49171AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Cube Commander",
+      "trophyDetail": "Reach 260 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/25F80AAE3ECDC05FCE5035A85FC6EE6CEFC1B87D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Crystal Crusader",
+      "trophyDetail": "Reach 280 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/888A3BFFDD639AF8C19B660E843F00555521430C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacier Gladiator",
+      "trophyDetail": "Reach 300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/BB68D3597E001831544AF89FAF9C4247F304121C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frostbite Finisher",
+      "trophyDetail": "Reach 320 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/096FFF51096587E2609417D584CD160E2945A81D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Fortune Finder",
+      "trophyDetail": "Reach 340 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/FEF7F0A15D6FF00568ED6E94EB70C9399B5F297D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Chaser",
+      "trophyDetail": "Reach 360 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/A3869D5029CC3096DD9EDC65DB183901F150DBDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arctic Achiever",
+      "trophyDetail": "Reach 380 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/1BE27D45BAB383AF92BAE6FB68489420FF64450E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Idol",
+      "trophyDetail": "Reach 400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/FA2095936944CD8E1222B6BBD5FA3511709E70AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Fanatic",
+      "trophyDetail": "Reach 420 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/7E476AE6B69E7DD3044317973E9036C4DBD66E95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacial Giant",
+      "trophyDetail": "Reach 440 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/BD1E9D46CADC9FC0C91E183381B779AB3B69B578.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cube Connoisseur",
+      "trophyDetail": "Reach 460 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/B212C9459F32EB70420E7F6BA1AF4DBF54FACCAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Pioneer",
+      "trophyDetail": "Reach 480 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/7DDE4364E4A89CF503E94985ED9A7AE89F31CE27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowbound Scorer",
+      "trophyDetail": "Reach 500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/57FEBC72855A803B59C2E303F147AE8399809432.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Collector",
+      "trophyDetail": "Reach 520 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/E2F926A81879798BE903686F3525549B20757A92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Finesse",
+      "trophyDetail": "Reach 540 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/9149CE31DCE1BFB9EBEBBBCF2633F2C90D86B72F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Cube Champion",
+      "trophyDetail": "Reach 560 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/8422C0CFC6238574FFA353A478CA9993A2167816.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Crystal Keeper",
+      "trophyDetail": "Reach 580 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/240CB69157F7320D4B0520AAC62C7EC3108CFCDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacier Guardian",
+      "trophyDetail": "Reach 600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/7AAA78733859C79626C9ECC2CFDB4FC06FDCB854.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frostbite Fighter",
+      "trophyDetail": "Reach 620 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/C481943B820FC2ACE1C745C699E96AC315EA69D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Fervor",
+      "trophyDetail": "Reach 640 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/57F782FA1EB302E857651667E51D6F27B78CD4C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Chieftain",
+      "trophyDetail": "Reach 660 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/169F5EA5918280B9905D94C82419E240C6BC4051.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arctic Advocate",
+      "trophyDetail": "Reach 680 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6A24FFA75DB3AD36E113F463E66476BDEAC2DD48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Icon",
+      "trophyDetail": "Reach 700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/A77D5C87645C6F3A55908713636E7BE5627CE812.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Front-runner",
+      "trophyDetail": "Reach 720 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/20DC7196159107F6A1949AEFC965CA346C128668.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cube Curator",
+      "trophyDetail": "Reach 740 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/5025840488FC331BD66FD30AADD0501714B22EE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Performer",
+      "trophyDetail": "Reach 760 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6E38DA770E7748B8D9BADB54CA9F02D1858AB50C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowflake Specialist",
+      "trophyDetail": "Reach 780 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/BBB4B75DB6D0501D95EA7BB8AE9E101DE27679C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Contender",
+      "trophyDetail": "Reach 800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/1399D123E12332D671B9430C9AE0BCB9EB2AD089.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Force",
+      "trophyDetail": "Reach 820 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/55D3587627084A3A50DCF323951EDFB7992D23C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Cube Czar",
+      "trophyDetail": "Reach 840 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/7397B3355A25F8B52A8E38467CC806458E3FEC26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Crystal Contender",
+      "trophyDetail": "Reach 860 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/0C3586547E960B2AE230C6D3C0FC3871B0274655.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacial Guide",
+      "trophyDetail": "Reach 880 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/772710060944688367D7C17E7B4C333442123463.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frostbite Fanatic",
+      "trophyDetail": "Reach 900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/0FC216A3DF4637260B710F5CA53EF092019DBCAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Fortune Hunter",
+      "trophyDetail": "Reach 920 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/51922957417C8193D5789F7EB7CD1F77C7C8B8F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Chief",
+      "trophyDetail": "Reach 940 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6E70D3080302C8F091F2FF76787255220D77F9A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arctic Artist",
+      "trophyDetail": "Reach 960 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/892AFCECA6D9061CD3F4A743AEB03A6EA5094951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Inspirer",
+      "trophyDetail": "Reach 980 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/8DC02AC43E82884DC3005F8792D46A2FBDE60DDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Figure",
+      "trophyDetail": "Reach 1.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/71DF2FD29DD0303D646E1695A8D7167DECBE7F62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Giant",
+      "trophyDetail": "Reach 1.020 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/01EDFEB16D75015F745AEBD8D12C543B3732E9FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cube Enthusiast",
+      "trophyDetail": "Reach 1.040 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/CF27A79ADC42630C99A497293BC7AF032F7902E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Powerhouse",
+      "trophyDetail": "Reach 1.060 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/E65A6466BD7C444B5B6CC8E2E84CEAC15B4C0D7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowflake Superstar",
+      "trophyDetail": "Reach 1.080 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/73A665F6DE99615862299E3F3232A42928E6AEBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Connoisseur",
+      "trophyDetail": "Reach 1.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/BFE8FE91001E388661321A050B0A85B85D0EFCE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Flame",
+      "trophyDetail": "Reach 1.120 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6B6C63B73A1AA75E213FAAA3080E44A73150F0CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Cube Collector",
+      "trophyDetail": "Reach 1.140 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/C6FDAEC336224BDAADA89E9F584FDFDAE212E229.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Crystal Commander",
+      "trophyDetail": "Reach 1.160 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/A784B97C4345DC11AA7AF30FF81C2055128C840B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Defender",
+      "trophyDetail": "Reach 1.180 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/0DCFBE254D5F3CDFC6D5246A6C70E2E3B17885DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Flash",
+      "trophyDetail": "Reach 1.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/91FE578AF1BE9367C0B5B91D5FDDE5C87403E42A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Captain",
+      "trophyDetail": "Reach 1.220 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/AD5E911359F4DFC018DA1E84DF55D7EC76B95387.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arctic Adventurer",
+      "trophyDetail": "Reach 1.240 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6D6E2969EE7DA890B9AC702E55CF9BE8B839473B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Icy Illuminator",
+      "trophyDetail": "Reach 1.260 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/DB08C42CA4C3DA1101A40CFF42B10B2860305CD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frosty Founder",
+      "trophyDetail": "Reach 1.280 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/B465A8903495AAF11C88AF5572606C248BF1FE0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glacial Guardian",
+      "trophyDetail": "Reach 1.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/6069FDA21B6E1A0170A944FAE9B5E7B040BA2F63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Cube Hero",
+      "trophyDetail": "Reach 1.320 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/73536261CE5C45391DCAF9BFE50269912425C37A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Protector",
+      "trophyDetail": "Reach 1.340 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/7645FE29D9C822F78350531E24F0C3315EABA7AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowflake Seeker",
+      "trophyDetail": "Reach 1.360 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/971CB2CF6991B863310D80E461CB637C25B66BFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iceed Champion",
+      "trophyDetail": "Reach 1.380 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/81C669A62FAD7F8435859EBD4BB6C7FDD3743572.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frozen Fanatic",
+      "trophyDetail": "Reach 1.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45965_00_00E7F8D0136C5BD5BFBE381BE6330BFC2321515209/3BD39097EB0B78D20D8CB5562344440FA398A46F.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

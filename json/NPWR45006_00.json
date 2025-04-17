@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR45006_00",
+  "title": "Antiquia Lost",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Omniscient Traveler",
+      "trophyDetail": "Obtained all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/5abe880b-e570-4e0b-bc14-cb1bb745ffac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Start",
+      "trophyDetail": "You have watched the opening.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Maid Association",
+      "trophyDetail": "You have arrived at Amethyst Port.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sailing",
+      "trophyDetail": "You have gained a ship.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Feelings of Trust",
+      "trophyDetail": "You have to head to Amber Fortress on your own.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Day of Maneuvers",
+      "trophyDetail": "Preparations for launching the Mega-magic are complete.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Antiquia Reminiscence",
+      "trophyDetail": "You have reached the Normal Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Antiquia Forever",
+      "trophyDetail": "You have reached the True Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/91384346-cd9d-435c-89af-3c61460ca873.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Picnics",
+      "trophyDetail": "You have walked 10000 paces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hiking",
+      "trophyDetail": "You have walked 100000 paces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Walking World Map",
+      "trophyDetail": "You have walked 250000 paces.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Lover",
+      "trophyDetail": "You have collected 50 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "You have collected 100 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Litoes' Shock",
+      "trophyDetail": "You have collected 300 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Collaboration",
+      "trophyDetail": "You have achieved 10 consecutive hits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quantity over Quality",
+      "trophyDetail": "You have achieved 50 consecutive hits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hit Maker",
+      "trophyDetail": "You have achieved 200 consecutive hits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incredible Blow",
+      "trophyDetail": "You have inflicted 10000 damage with 1 attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death Blow",
+      "trophyDetail": "You have inflicted 100000 damage with 1 attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Strength is Power",
+      "trophyDetail": "You have inflicted 999999 damage with 1 attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapon Craftsman",
+      "trophyDetail": "Maximum weapon amalgamate level is 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Physical Fight!",
+      "trophyDetail": "Maximum weapon amalgamate level is 100.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Supreme Blow",
+      "trophyDetail": "Maximum weapon amalgamate level is 999.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/3e860c07-9050-46ad-92cb-55a3ac14d87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snack",
+      "trophyDetail": "You have eaten 50 gems.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/19ab7eb5-a289-4c8c-8012-347afaf6a443.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gourmet",
+      "trophyDetail": "You have eaten 500 gems.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/19ab7eb5-a289-4c8c-8012-347afaf6a443.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cosmos Stomach",
+      "trophyDetail": "You have eaten 3500 gems.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/19ab7eb5-a289-4c8c-8012-347afaf6a443.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Careful Harvester",
+      "trophyDetail": "You have harvested from plant pots 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/46e1d822-b114-4b28-a854-1c49588401b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fruitful Fall",
+      "trophyDetail": "You have harvested from plant pots 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/46e1d822-b114-4b28-a854-1c49588401b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Great Harvest",
+      "trophyDetail": "You have harvested from plant pots 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/46e1d822-b114-4b28-a854-1c49588401b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Great Helper",
+      "trophyDetail": "You have completed all the Sub-quests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/407b2f4c-a865-4beb-85b7-155a8a3d32b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting Stronger",
+      "trophyDetail": "You have gained the Bronze Cup in the Arena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/43c3bf3f-c830-4d27-9beb-fac0ba210ace.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pretty Strong",
+      "trophyDetail": "You have gained the Silver Cup in the Arena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/43c3bf3f-c830-4d27-9beb-fac0ba210ace.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arena Champion",
+      "trophyDetail": "You have gained the Gold Cup in the Arena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/43c3bf3f-c830-4d27-9beb-fac0ba210ace.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Invincible",
+      "trophyDetail": "You have gained the Maid Cup in the Arena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/43c3bf3f-c830-4d27-9beb-fac0ba210ace.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fatal K.O.",
+      "trophyDetail": "You have cleared the most difficult level in the hidden Arena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45006_00/43c3bf3f-c830-4d27-9beb-fac0ba210ace.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

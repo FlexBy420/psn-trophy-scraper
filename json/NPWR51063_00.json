@@ -1,0 +1,316 @@
+{
+  "npCommunicationId": "NPWR51063_00",
+  "title": "Undivine",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 34,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Undivine",
+      "trophyDetail": "Collect all trophies!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/c5f422f4-5b3a-480a-9574-b77558130b0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pest Control",
+      "trophyDetail": "Kill 10 flies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/e6cca3f9-5b0b-458e-801f-bda5ab28cde1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just the Beginning",
+      "trophyDetail": "Die for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/4a843486-c6cb-4db4-b2af-e9ef63fe26f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fool's Victory",
+      "trophyDetail": "Kill a weakened God.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/32535e68-e76b-4d47-bb97-b9978648f4fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Supreme Union",
+      "trophyDetail": "Become one with a God.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/92cef64d-8f6d-419b-a485-3fa2708cab8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cycle Breaker",
+      "trophyDetail": "Kill an almighty God.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/65c8cd88-9ce4-446d-9096-92e3da5391af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Novice Collector",
+      "trophyDetail": "Find 10 mementos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/b9dbdfbb-8c1e-4364-86dd-5230dde786d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Collector",
+      "trophyDetail": "Find 20 mementos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/b9e91f94-ced4-48a1-b87f-dbed23fe8c3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Summa Blasphemia",
+      "trophyDetail": "Get the Bloodied Hilt Memento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/babf0ffb-872a-4224-b0dd-aa24f9c41c0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Void Heart",
+      "trophyDetail": "Get the Hollow Mask Memento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/af4795ed-4d35-4202-8c5e-48df6cbc6e9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prime",
+      "trophyDetail": "Get the Strange Helmet Memento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/e9457b5d-809b-462b-83ae-9a99c83ebf8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Symphony of the Night",
+      "trophyDetail": "Get the Vampire Killer Memento.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/7cea9adb-392e-4467-bebc-29f596f74717.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "All Mighty",
+      "trophyDetail": "Collect all Relics.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/100d9c58-d647-43fd-845a-06a449475478.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "U.F.O",
+      "trophyDetail": "Summon a visitor from another world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/1f1b4211-c7b3-47a4-a605-7fd696b06e1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Focus",
+      "trophyDetail": "Master a Talent.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/5832b147-3348-49cd-9dc1-3fafa0317129.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mantra",
+      "trophyDetail": "Reach the Praying Room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/1a1689c7-d16f-4c18-b60a-45f48c34fd17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Worm Slayer",
+      "trophyDetail": "Defeat Elkhor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/83dd08f0-8601-4c99-a750-2ef7c06bf001.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "8 Legged Problem",
+      "trophyDetail": "Defeat Szish'ie.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/4b59c12b-b6c9-4ef3-9264-d004f60eae42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Emerald",
+      "trophyDetail": "Defeat Carvantes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/bf4a7ad4-0744-4f2d-bee2-1afcd0bcc735.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watch No More",
+      "trophyDetail": "Defeat Xelophos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/7c1159e1-39a8-49db-a2d1-74fc92bb970b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I See Everything",
+      "trophyDetail": "Defeat Mirelurk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/33c2f1f4-f772-4414-a3e7-0b48d9709555.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Cursed Challenge",
+      "trophyDetail": "Defeat Zeneleth.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/e018dead-4ecf-474b-9d3e-73cbe7cf49af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Corrupted Path",
+      "trophyDetail": "Obtain The Book of I.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/4a15386e-4de8-485c-a451-a73c8efa84a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "True Explorer",
+      "trophyDetail": "Finish all quests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/dc8c2f12-34fb-456a-98fa-5f40072eec91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honor of the Dead",
+      "trophyDetail": "Complete the quest 'Honor of the Dead'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/1c5b8e46-d06b-4ffb-b8c6-04195be1872d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Man's Freedom",
+      "trophyDetail": "Complete the quest 'A Man's Freedom'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/3af3e1d8-6611-46bc-bcac-8a0faa059e9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Brewing Request",
+      "trophyDetail": "Complete the quest 'A Brewing Request'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/a1855237-4785-4f76-8dc0-bf1b7ee95f7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Seed, New Hope",
+      "trophyDetail": "Complete the quest 'New Seed, New Hope'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/c3687648-b8d9-4529-8469-b817e056dc58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Missing Piece",
+      "trophyDetail": "Complete the quest 'The Missing Piece'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/98b56173-9e40-49ce-a33b-7ff66c307e9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Man's Fate",
+      "trophyDetail": "Complete the quest 'A Man's Fate'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/94529c84-a2d2-48c6-8bb4-774b063cab10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rite of Initiation",
+      "trophyDetail": "Complete the quest 'Rite of Initiation'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/cb0deeca-083d-4c1a-a342-1945f4100c0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trial of the Ancestors",
+      "trophyDetail": "Complete the quest 'Trial of the Ancestors'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/5ce830cf-07dd-4072-aa0e-1cc93fb46436.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Peculiar Visitor",
+      "trophyDetail": "Complete the quest 'A Peculiar Visitor'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/3a06bb8c-855d-434e-a8cd-686edb02f88a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I Can Breath Again",
+      "trophyDetail": "Defeat Oth'raal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51063_00/2378e912-d080-4118-9fe3-6e9824f41f14.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

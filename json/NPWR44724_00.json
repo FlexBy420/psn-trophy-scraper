@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR44724_00",
+  "title": "Darksiders II Deathinitive Edition",
+  "platform": "PS5",
+  "trophySetVersion": "01.03",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "BFA",
+      "trophyDetail": "Unlock Everything",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/ac2830f2-bd68-497f-8ff7-c453497ad4a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crow Carrion",
+      "trophyDetail": "Defeat the Crowfather",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/17d797c6-f2fc-477f-a9d7-9821c57d0990.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dust to Dust",
+      "trophyDetail": "Defeat the Guardian",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/383ee2b9-4862-4d66-8ee5-bbc96a335738.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Clipped Wings",
+      "trophyDetail": "Defeat Archon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/45d7beb5-70c6-4c18-b97c-af9b15947940.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's Not Over",
+      "trophyDetail": "Defeat Samael",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/7cd0f8c1-d3df-4719-8d6f-2580247f4ee6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Soul Crushing",
+      "trophyDetail": "Defeat The Wailing Host",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/65a9ca70-6d61-4049-8ac9-79fb9db2aae9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Big Boss",
+      "trophyDetail": "Defeat Absalom",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/2d19e48c-acd8-4083-9d28-d33cc063cd8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Stroll In The Demonic Park",
+      "trophyDetail": "Complete the game on any difficulty setting",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/c92ff21a-61f2-4905-b2cf-1bca27ef095a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Four My Brother",
+      "trophyDetail": "Complete the game on NORMAL",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/7e8b7080-1172-41b2-ba76-de1697e996a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A True Horseman",
+      "trophyDetail": "Complete the game on APOCALYPTIC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/4a666ffc-018c-43a8-a77f-cfe050a4c4d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder",
+      "trophyDetail": "First use of Fast Travel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/9af2ebe2-2523-4976-97fb-a089fee20647.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Spectral Touch",
+      "trophyDetail": "Collect Deathgrip",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/fbc1317b-d871-44d3-a160-856d3fb86a8e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I Can Has Cake?",
+      "trophyDetail": "Collect the Voidwalker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/52c85aa3-891d-41d7-9635-7d9762e4cda6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tearing Time A New One",
+      "trophyDetail": "Collect the Phasewalker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/d20c7e05-c363-4262-b9c5-9965700e42e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Looks Familiar",
+      "trophyDetail": "Collect Redemption",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/d93d0149-eeee-4011-b440-c7008c1fecf7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Death Will Tear Us Apart",
+      "trophyDetail": "Collect the Soul Splitter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/22f05cdd-8889-4db5-99c4-ea913c7d037a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "By Your Command",
+      "trophyDetail": "Collect the Interdiction Stone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/16f6c576-a58e-42a2-a13f-30f1f0e87040.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Triple Lindy",
+      "trophyDetail": "Complete 3 different high dives in the Foundry",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/76c0e041-8bda-4ffb-8911-41a6160807f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fire of the Mountain",
+      "trophyDetail": "Complete Fire of the Mountain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/ec8e1c2e-b764-46ca-b27b-bf84b6dcd0fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tears of the Mountain",
+      "trophyDetail": "Complete Tears of the Mountain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/4936cc37-9ae2-4617-a706-7857360b2f5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Gnomad",
+      "trophyDetail": "Complete GnoMAD",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/765c159e-cf2a-40ab-9540-17eeb3e05159.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To Move a Mountain",
+      "trophyDetail": "Complete To Move a Mountain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/337fa8ca-0e38-4a19-af85-4a3df2c7b35f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heart of the Mountain",
+      "trophyDetail": "Complete Heart of the Mountain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/f59c6d4d-4334-4637-960b-c9950a8f7872.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tree of Life",
+      "trophyDetail": "Complete Tree of Life",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/79e07ca4-654d-48be-a47f-57483db4103e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Lord of Bones",
+      "trophyDetail": "Complete The Lord of Bones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/c8f3b486-ebd3-4c94-ba48-9d1f59666e03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Toll of Kings",
+      "trophyDetail": "Complete The Toll of Kings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/b868e45c-4f4a-4f90-9668-1f6890744fed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Court of Bones",
+      "trophyDetail": "Defeat Basileus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/9c216104-a301-4e0f-9221-c466f1d22e70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Book of the Dead",
+      "trophyDetail": "Complete The Book of the Dead",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/2befdee8-7dee-401a-b25e-06fde665abca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "City of the Dead",
+      "trophyDetail": "Complete City of the Dead",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/6b7209cd-0367-437b-b225-856bdda08592.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Root Of Corruption",
+      "trophyDetail": "Open The Well Of Souls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/92bc1769-9663-4d3e-bb31-799b1d91486d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Rod of Arafel",
+      "trophyDetail": "Complete The Rod of Arafel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/5010c4b1-3ba8-4563-97b8-48364e1182dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Diamond Geezertron",
+      "trophyDetail": "Unlock the final skill in either skill tree",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/aeeb2c3f-7695-4594-b77a-2bad54cb9dd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mass Ruckus",
+      "trophyDetail": "Equip elite items to all slots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/3f32a521-0130-45b4-8db8-978cacf00e27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stains of Heresy",
+      "trophyDetail": "Complete Stains of Heresy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/cf8231f3-0c87-4d1b-925d-8484690f2c93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Mad Queen",
+      "trophyDetail": "Complete The Mad Queen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/d1f97611-050b-470b-b668-6571de2ad076.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lord of the Black Stone",
+      "trophyDetail": "Complete Lord of the Black Stone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/254675ea-3946-445c-987d-37baa28e5d63.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Secondary Adventure",
+      "trophyDetail": "Complete all Secondary Quests",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/42f3f57d-87d8-44fe-bec5-bbf6942a971f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grim Reaping",
+      "trophyDetail": "Unlock Reaper Form",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/aa4898f8-0f1b-4ae7-a006-276d5a5ee950.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bravo Old Chap",
+      "trophyDetail": "Defeat Wicked K",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/679ee9b0-f7f2-4a02-82d4-473dedfe04e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Respec Yourself",
+      "trophyDetail": "Your First Respec",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/b16b78f3-391c-47c2-914d-5c9ba1dee833.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Is There Anyone Else?",
+      "trophyDetail": "Complete The Crucible",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/659498e8-5c35-4d19-9628-a381e3b34ff4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Like a Noss",
+      "trophyDetail": "Defeat the four creatures named by Thane",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/0bd5940e-6fce-4522-81e0-75785c6389ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Abracadabra",
+      "trophyDetail": "Open all Death Tombs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/699e221b-355c-431b-82f8-e43e47dd8681.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Antiquing",
+      "trophyDetail": "Complete Lost Relics",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/9f59d46d-8691-4611-b777-2cdd2fb54f8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I've Brought You A Gift",
+      "trophyDetail": "Defeat the Soul Arbiter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/fdd2516a-77f9-4c3b-bca5-8ef851383d56.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Epic!",
+      "trophyDetail": "Death Reaches Level 30",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/fb6bddef-a988-46ad-89af-8471558d2f44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feeding Time",
+      "trophyDetail": "Level Up Your 1st Possessed Weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/da2b932d-0d64-4e75-bd82-43b11d170790.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "It's Definitive",
+      "trophyDetail": "Complete the game on DEATHINITIVE",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/a4285d62-9ae6-4231-9e47-e2c937aaf07a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All You Can Eat Buffet",
+      "trophyDetail": "Complete Sticks and Stones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/018f2bba-2d2f-494c-9711-5dba1d3d0dab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Potential",
+      "trophyDetail": "Unlock All Combat Moves & Upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR44724_00/05ebeeb8-2edb-4f3e-bbd0-1b6130c5bf3a.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

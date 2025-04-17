@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR51201_00",
+  "title": "Gym Lifting Hero",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reach 200K health",
+      "trophyDetail": "Get 200K health - just by clicking!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51201_00_00612764307561A136844BD5F2E42ED91281F4E412/5D74494DB410341EDDA9018CB93874290B30059C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reach 50K strength",
+      "trophyDetail": "Get 50K strength- just by clicking!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51201_00_00612764307561A136844BD5F2E42ED91281F4E412/38C9BDDC25DCF4431564A39A168447300664E6B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reach 10K coins",
+      "trophyDetail": "Get 10K coins - by participating in duels!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51201_00_00612764307561A136844BD5F2E42ED91281F4E412/8847AF8C0B557DC115970055363F88BDC4CF288E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reach 500 energy",
+      "trophyDetail": "Reaching 500 energy is incredibly difficult!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51201_00_00612764307561A136844BD5F2E42ED91281F4E412/52E6AB13B65D37C0D68E3B5C892BC3B0A5171D95.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

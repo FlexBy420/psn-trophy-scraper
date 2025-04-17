@@ -1,0 +1,46 @@
+{
+  "npCommunicationId": "NPWR22113_00",
+  "title": "e2e trophy set name",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 4,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "e2e trophy 1 name",
+      "trophyDetail": "e2e trophy 1 description",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22113_00/8d32249d-1d1f-45d2-8629-c96dff03ef4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "e2e trophy 2 name",
+      "trophyDetail": "e2e trophy 2 description",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22113_00/d6845090-fc6a-4677-9f68-fab73896b1bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "e2e trophy 3 name",
+      "trophyDetail": "e2e trophy 3 description",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22113_00/508bc1d2-609d-491d-8793-1aac8a90c2ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "e2e trophy 4 name",
+      "trophyDetail": "e2e trophy 4 description",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22113_00/a2ca23b8-b453-4dba-851d-0ac684784bbb.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

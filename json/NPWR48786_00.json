@@ -1,0 +1,406 @@
+{
+  "npCommunicationId": "NPWR48786_00",
+  "title": "A Bibelot: Y-Type",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 44,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Type",
+      "trophyDetail": "You've earned every trophy!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/6008947426AB5527F32BBFAA8A2CC12147252759.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Time",
+      "trophyDetail": "Start a game in any difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/C51C09C9D91B4FC174969A8633269F4133936CE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No See?",
+      "trophyDetail": "Died once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/7A9511B1B8A043155DD2D31919C3525EB6F63939.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy Check",
+      "trophyDetail": "Start the game on Easy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/02B71D7E59FC9F94A3EA726BD444BEE235CDB4ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Normal Check",
+      "trophyDetail": "Start the game on Normal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/CE6755128CD1E976D8E107DC49385695EC17AF78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hard Check",
+      "trophyDetail": "Start the game on Hard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/AD818BA3E608840D2BC061DA2E22E238A3277496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Boss Rush Easy",
+      "trophyDetail": "Start Boss Rush on Easy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/1419A0548F17DD33158B0D5E9C2EF91EF268803B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Boss Rush Normal",
+      "trophyDetail": "Start Boss Rush on Normal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/EAD8DA2BB455586DED3AEFEDC11D6AD3F174D3E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Boss Rush Hard",
+      "trophyDetail": "Start Boss Rush on Hard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/DD76A051523C81CDDA22FDAD083D17BE8C7E790E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Endless Easy",
+      "trophyDetail": "Start Endless on Easy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/F19927DA31BA2440BFFBC179EEB10467881C9B13.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Endless Normal",
+      "trophyDetail": "Start Endless on Normal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/D6CF137E0645FA0175AA1225B6A1EFCA8D88A624.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Endless Hard",
+      "trophyDetail": "Start Endless on Hard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/0E5DEE469A74D91FD7874F0CAB258BDCC66847A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy 9",
+      "trophyDetail": "Play 9 times on Easy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/25F6367E25F1432F21B56D69623BA326C5669F53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Normal 6",
+      "trophyDetail": "Play 6 times on Normal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/3AD77AC502B10BB6C423C351503B9A79E62C576D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hard 3",
+      "trophyDetail": "Play 3 times on Hard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/1DB1C95CAA7D3FAAC8AF28647951CF61EA5AC155.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "21 Types",
+      "trophyDetail": "Play 21 times (you can rage quit)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/20C2B2979B87F095743D87F1EB583DB06C187A79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Focused",
+      "trophyDetail": "Killed the first enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/AFE215A6ED79A523B03264EA1E25D892D93CE3E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Focused Shooter",
+      "trophyDetail": "Killed the second enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/FB33A36E2F7D702778178B61948D1BFCA0210F1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Zig Zag",
+      "trophyDetail": "Killed the third enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/A70C0691AE7CA7B390FB6867F1E2F3171CF7AC36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Not So Precise Shooter",
+      "trophyDetail": "Killed the fourth enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/EF59C720B84716EDB349450ACD642F772D0CC28A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Sharp Shooter",
+      "trophyDetail": "Killed the fifth enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/04AAF89CA0958B1FF4040D29FF20D76F5575A7E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Cheater",
+      "trophyDetail": "Killed the sixth enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/35AF2F92FA8E07917CCB7A80913F673CC9CABF52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The… What?",
+      "trophyDetail": "Killed the seventh enemy once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/20579724110250CF3E8F06D58E5C83D4D1DC5C43.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 1",
+      "trophyDetail": "Killed the first Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/31BFFC86B34EC1F9A8E1BC1107CA0A3C2C0B2CB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 2",
+      "trophyDetail": "Killed the second Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/33106D295116BA87CA05425753CE83A0301F4B99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 3",
+      "trophyDetail": "Killed the third Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/6B419929383695285C251645C7B88348741AF907.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 4",
+      "trophyDetail": "Killed the fourth Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/3BC469A5D62A80B4419D022E80F15F96918F47A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 5",
+      "trophyDetail": "Killed the fifth Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/C8A1187CD35432A63D61626F36FA5712D0F2DAFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 6",
+      "trophyDetail": "Killed the sixth Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/5BCD43148A995383B6CEBE4074010B5601FA857C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "BOSS 7",
+      "trophyDetail": "Killed the seventh Boss",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/B3F78F1BF29DF1B1BE361B2B63C86301731AB9AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Aid Kit",
+      "trophyDetail": "Pick up a Life powerup",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/780D77A7973F29C56463EF03497E7678BB341256.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire Up",
+      "trophyDetail": "Pick up a Fire rate powerup",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/546CC9C8F241C8A86E756AF2F6719F2759A05D40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Life Critical",
+      "trophyDetail": "Pick up a Life powerup when you’re almost dead",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/D4CCA34F6D0D2286B0A3A71090AFBB6E528F5051.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Fire at will",
+      "trophyDetail": "Maxed the fire rate of your ship",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/5B93404F1D026E0E50825F7DAE5510050EFCD28D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "You sneaky…",
+      "trophyDetail": "Go behind a Boss (except Boss 1 & 3)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/12BF52D06D8EFDB4CB11ED3C54D8934A50755C3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "77",
+      "trophyDetail": "Killed a Boss 77 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/A9E5B2D2F7DD16513DFDBDFD4FEDD0CF07BA54C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "777",
+      "trophyDetail": "Killed 777 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/9D2FF3DE1FA0D659A8B6C4A66D3036CB8297A47F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "7777",
+      "trophyDetail": "Shot 7777 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/CAD32DAF3A722C0116A40C01B19D0AC4700124BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "PAR Time",
+      "trophyDetail": "Finished the game under 777 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/2EF7C6909043F45E448C6CC4FCB9FDDF062EA5A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Boss Rush under PAR",
+      "trophyDetail": "Finished Boss Rush under 77 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/FBA88243C34487570E9A8CB4C5B99447E27B28F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "You're right",
+      "trophyDetail": "Finished Boss Rush in at least Normal difficulty while only aiming right",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/346390F95FF0596706387D735ABF8DCB60186222.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "It’s not over yet!",
+      "trophyDetail": "You’ve finished the game once, but there’s more to see!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/B848862C396A1D16FE014A76F646C07D6B27CC57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Not yet! It’s not over yet!",
+      "trophyDetail": "You’ve finished Boss Rush once, but there is still more to see?!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/8830AD4AADC1E8FA6C419771DA8D4C63E2243C16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Put an end to the infinite",
+      "trophyDetail": "Quit Endless mode after Stage 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48786_00_00122A1F189920DA0508D917DB5E6DA3EFB13D8BC1/88D3EF7440B39C22EC52733C74E33F94A04CF4F0.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
