@@ -167,6 +167,7 @@ function renderTable() {
     });
 
     document.getElementById('trophy_count').textContent = `Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} games`;
+    updateTrophyCounts();
 }
 
 function loadTrophyIcons(trophyDetailRow) {
@@ -187,6 +188,25 @@ function groupTrophiesByGame(games) {
         platform: game.platform,
         trophies: game.trophies
     }));
+}
+
+function updateTrophyCounts() {
+    const filteredGames = filterGames();
+    const counts = { p: 0, g: 0, s: 0, b: 0 };
+
+    filteredGames.forEach(game => {
+        game.trophies.forEach(trophy => {
+            const type = trophy.t.toLowerCase();
+            if (counts[type] !== undefined) {
+                counts[type]++;
+            }
+        });
+    });
+
+    document.getElementById('count_p').textContent = counts.p;
+    document.getElementById('count_g').textContent = counts.g;
+    document.getElementById('count_s').textContent = counts.s;
+    document.getElementById('count_b').textContent = counts.b;
 }
 
 function renderPagination() {

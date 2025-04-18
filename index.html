@@ -14,6 +14,7 @@
         .nav-link.active-filter { background-color: rgba(var(--bs-primary-rgb), 0.2); font-weight: 500; border-radius: 4px; }
         .nav-link.active-filter { background-color: rgba(var(--bs-primary-rgb), 0.3);}
         .trophy-icon { width: 50px; height: 50px; object-fit: contain; }
+        .trophy-icon-mini { width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin: 0 4px; }
     </style>
     <title>Trophy Database</title>
 </head>
@@ -50,6 +51,12 @@
                             </li>
                         </ul>
                     </div>
+                        <span id="trophy_summary" class="nav-link disabled">
+                          <img src="img/platinum.png" alt="Platinum" class="trophy-icon-mini"> <span id="count_p">0</span>
+                          <img src="img/gold.png" alt="Gold" class="trophy-icon-mini"> <span id="count_g">0</span>
+                          <img src="img/silver.png" alt="Silver" class="trophy-icon-mini"> <span id="count_s">0</span>
+                          <img src="img/bronze.png" alt="Bronze" class="trophy-icon-mini"> <span id="count_b">0</span>
+                        </span>
                     <button id="darkModeToggle" class="btn btn-outline-secondary ms-2" type="button" title="Toggle dark mode">
                         <i class="bi bi-moon"></i>
                     </button>
@@ -88,7 +95,7 @@
         </div>       
         <footer>
             <div class="row">
-                <span id="version" class="text-body-tertiary text-end">v1.0</span>
+                <span id="version" class="text-body-tertiary text-end">v1.1</span>
             </div>
         </footer>
     </div>
