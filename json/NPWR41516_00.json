@@ -1,0 +1,412 @@
+{
+  "npCommunicationId": "NPWR41516_00",
+  "title": "Firefighting Simulator: Ignite",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 41,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Collect All Trophies",
+      "trophyDetail": "Collected all trophies in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b1cac6ab-ed80-4b63-9f5f-655e5d5cb598.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Missions",
+      "trophyDetail": "Complete 10 different missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9a275993-d5d2-4fd1-b12c-65cb0aec4e85.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Missions",
+      "trophyDetail": "Complete 20 different missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/02b85eaa-152e-4f80-9786-bfe32349c171.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "30 Missions",
+      "trophyDetail": "Complete 30 different missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/8f988875-0ade-46ef-94ca-f5de87cbf964.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Side Missions",
+      "trophyDetail": "Complete 10 side missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7687285f-786f-4839-a89f-26c3aaa385ba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "20 Side Missions",
+      "trophyDetail": "Complete 20 side missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/c81f3217-34f3-4cd6-a21d-79a5243224e9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I've seen it all",
+      "trophyDetail": "Complete all missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/984285ea-9166-4737-a6a9-ae502dd31077.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rising Star",
+      "trophyDetail": "Complete all missions with at least silver-star rating",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/6b1a60f3-fc5f-4134-83bd-e5d9fa2222f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shining Star",
+      "trophyDetail": "Complete all missions with gold-star rating",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/da9cfc4a-6f5b-4c1c-8240-5f8f5856f136.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Preparation",
+      "trophyDetail": "Complete all modules in the training area",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9622309e-d254-47cc-9f2a-6ba66fc3bd76.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Part of the Station, Part of the Crew",
+      "trophyDetail": "Become part of the team",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/da9321cf-c15f-4830-a181-9904205a42b1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lieutenant",
+      "trophyDetail": "Become a Lieutenant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/a9531e60-771d-4021-b3b4-a7c1125cdcf7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Captain",
+      "trophyDetail": "Become a Captain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/31052c27-dd95-4c3c-a7c1-0fc4f2ece016.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battalion Chief",
+      "trophyDetail": "Become a Battalion Chief",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7c3ba282-d710-4b88-83f9-b6e412f05f76.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Deputy Chief",
+      "trophyDetail": "Become the Deputy Chief",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b1cac6ab-ed80-4b63-9f5f-655e5d5cb598.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Full Garage",
+      "trophyDetail": "Unlock 7 vehicles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/c88b5865-2b77-4221-99cd-b50cc1fa9028.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Whole Fleet",
+      "trophyDetail": "Use 7 different vehicles for approaches",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/79bade0a-0478-4f9d-8ef9-d9850c374ffd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Approaches",
+      "trophyDetail": "Drive approaches for 10 individual missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/be3daa16-b32c-4fde-a644-5b5d84c45365.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Seen Every Corner",
+      "trophyDetail": "Drive approaches for all missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9107fd75-420b-4ead-be15-0733477a5576.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "39"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safety First",
+      "trophyDetail": "Complete 5 approaches without accidents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/28db29d3-b1f9-4529-af9e-b211baaf09bb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Locked Doors",
+      "trophyDetail": "Force open 50 doors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/742f9426-cc1b-4305-90d7-bac9a9ee5701.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Locked Windows",
+      "trophyDetail": "Force open 25 windows",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/2f03f272-8172-43e9-9819-98663fe49d8f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garage Doors",
+      "trophyDetail": "Cut open 15 garage doors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/db9be574-0815-4f23-a488-cf2983930ea2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breakable Walls",
+      "trophyDetail": "Tear down 20 breakable walls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9af8507c-21ba-4ec0-b617-67919799b100.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supply Lines",
+      "trophyDetail": "Lay 20 supply lines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1ad92dd6-4c8f-4cff-85e6-7d96b827e6fc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ventilation",
+      "trophyDetail": "Cut 40 ventilations holes in roofs and ceilings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/5bd5105e-320b-4c64-a89c-d4f888fc728c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tool Master",
+      "trophyDetail": "Use every handheld tool at least once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/a4de0bce-8543-4a75-aa79-9b9f7a2046f6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master and Commander",
+      "trophyDetail": "Give 100 commands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d4558348-63ff-4b7f-bc03-08a44de1923a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bossy",
+      "trophyDetail": "Give 30 commands in one mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/e6c5ce4c-4279-4c93-9aa2-ee9ddf93943c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friend",
+      "trophyDetail": "Rescue an unconscious firefighter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/f6207df9-4a68-4973-b8c5-e0cc2ea45c4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Still Standing",
+      "trophyDetail": "Get back up after being downed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d4422ae9-9f84-4dc1-9f47-646d5ac7efb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grease Fires",
+      "trophyDetail": "Extinguish 10 grease fires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/dec5487c-2938-4fd6-91d3-96b1a3961352.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flammable Liquids",
+      "trophyDetail": "Clear 15 flammable liquids",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1031e734-a5f7-4b9c-bc43-eba56d692cfe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guide",
+      "trophyDetail": "Save 30 conscious victims",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/7f05bead-97c6-46b4-96b3-9ad0dd9ee956.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero",
+      "trophyDetail": "Save 30 unconscious victims",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/1091c59e-83ea-474c-9747-7d74a8d313a8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Things Fall Apart",
+      "trophyDetail": "Fall through a collapsed floor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/4818ef73-fd52-4a45-b13c-5a967e3a6168.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Footwork",
+      "trophyDetail": "Lay 2 km of hose in one mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b78ebc78-b445-4b08-bade-afb086df866c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foam Party",
+      "trophyDetail": "Spray someone in the fire station with foam",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/d3ddcdbd-a5fb-4cd4-8513-33aea79995d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reckless Driver",
+      "trophyDetail": "Reach high speeds while driving",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9edcc511-4353-41f1-ba96-f4e80588ef42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scenic Route",
+      "trophyDetail": "Explore the world for 5 minutes after finishing a mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/b642d919-b203-40ce-9ef8-993c71e139ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Big Boss",
+      "trophyDetail": "Complete a mission without extinguishing fire or rescuing victims yourself",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR41516_00/9dc3a364-24c3-4fbb-8f9d-707e3044dff2.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

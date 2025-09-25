@@ -1,0 +1,316 @@
+{
+  "npCommunicationId": "NPWR54677_00",
+  "title": "Miden Tower",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 34,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Sword Lies Beyond the End of the Cycle",
+      "trophyDetail": "Obtained all the trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/26fc3ee1-1166-43d5-9e51-89990ce09f0b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heart of Vengeance",
+      "trophyDetail": "Watched the opening.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/1dff3d75-5317-4572-ba34-0a2d6488d107.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Facing the Wall",
+      "trophyDetail": "First character joined the party.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/26c1e62d-aedc-40e6-b2db-c7c54341f02c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Elder Power",
+      "trophyDetail": "All characters joined the party.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/2aa33580-99b2-4a02-8f8a-dc2acb914ace.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Guild's Bear",
+      "trophyDetail": "Took the upper tower back.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/603a694c-fd6e-426e-957d-d4b3feb3c98f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cruel Reunion",
+      "trophyDetail": "Confronted Rianne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/3a623413-22b2-416a-9b2a-2e3559c79fc2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Catherine's Confession",
+      "trophyDetail": "A sudden goodbye with Catherine...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/f1d2b011-0970-42cf-aedc-5c2241b15a0e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Resistance",
+      "trophyDetail": "Formed an alliance with the Resistance.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/e074e220-ec2e-44d5-a1e7-495266a4d9b3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Promise with Neena",
+      "trophyDetail": "Brought peace to Neena.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/e8c75e36-f160-4c49-9818-d47e1a444aef.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cycle of Death",
+      "trophyDetail": "Obtained the normal ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/8744746d-14b8-4884-b288-448803a9115f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "A Path to the Future",
+      "trophyDetail": "Obtained the true ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/1083bc24-c334-4748-b43e-f505c13b7b1e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tower Adventurer",
+      "trophyDetail": "Walked 50,000 steps.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/3b80e779-3915-4f68-b2b7-c11b88c0fbbb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tower Seeker",
+      "trophyDetail": "Walked 250,000 steps.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/89349124-b896-49f0-b810-45b5bc503d19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tower Explorer",
+      "trophyDetail": "Walked 500,000 steps.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/455b8af4-a7f3-4602-96f5-5a52773cf9f2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Collector",
+      "trophyDetail": "Collected 50 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/74a5d471-d58d-4cf4-b01c-1d81e952ab46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chief Collector",
+      "trophyDetail": "Collected 100 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/74a5d471-d58d-4cf4-b01c-1d81e952ab46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veteran Collector",
+      "trophyDetail": "Collected 200 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/74a5d471-d58d-4cf4-b01c-1d81e952ab46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginner Hitter",
+      "trophyDetail": "Reached 30 combos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/983f7c50-36c7-44b9-8644-f75bc9dd95ab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amateur Hitter",
+      "trophyDetail": "Reached 100 combos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/983f7c50-36c7-44b9-8644-f75bc9dd95ab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Hitter",
+      "trophyDetail": "Reached 200 combos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/983f7c50-36c7-44b9-8644-f75bc9dd95ab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best Blow",
+      "trophyDetail": "Dealt 5,000 max damage to enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/48d509c6-ce06-4340-b284-619b8ac975ec.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dangerous Blow",
+      "trophyDetail": "Dealt 10,000 max damage to enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/7e597a88-8685-4039-9f9a-c4c81eabf456.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Blow",
+      "trophyDetail": "Dealt 30,000 max damage to enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/cee5581d-4e37-47c3-9f29-080ebd27342a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tower Tactician",
+      "trophyDetail": "Defeated 100 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/77110c0d-a02e-458b-8d7e-a03db0d38908.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tower Exterminator",
+      "trophyDetail": "Defeated 500 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/2e0e657f-997f-4e17-be42-0d043364d21e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tower Destroyer",
+      "trophyDetail": "Defeated 1,500 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/0853c809-d2fa-4f9e-be9f-17a9c2e6152f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warming Cauldron",
+      "trophyDetail": "Obtained 50 items with the magic cauldron.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/7f6088f4-5cec-4236-a338-7160e8aa011b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boiling Cauldron",
+      "trophyDetail": "Obtained 100 items with the magic cauldron.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/7f6088f4-5cec-4236-a338-7160e8aa011b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Burning Cauldron",
+      "trophyDetail": "Obtained 200 items with the magic cauldron.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/7f6088f4-5cec-4236-a338-7160e8aa011b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Super Helper",
+      "trophyDetail": "Cleared all subquests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/ec007e7e-5cb9-493d-be5f-1df5564766c9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze Master",
+      "trophyDetail": "Cleared the Bronze Cup.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/d43a2716-015b-4d58-b1a9-4c648f823527.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver Master",
+      "trophyDetail": "Cleared the Silver Cup.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/561db99e-537c-4644-8e14-148076c68dca.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gold Master",
+      "trophyDetail": "Cleared the Gold Cup.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/c36421d6-b9a4-443f-bb4e-b037e78dcc9a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bear Master",
+      "trophyDetail": "Cleared the Bear Cup.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54677_00/0da8b150-528b-478d-8a86-8297b9c7f390.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

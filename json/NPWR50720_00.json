@@ -1,0 +1,384 @@
+{
+  "npCommunicationId": "NPWR50720_00",
+  "title": "Dustwind: Resistance",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 39,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Overachiever",
+      "trophyDetail": "You achieved everything.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/508973e4-1da3-488f-b5ec-18feedbd90b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Killer",
+      "trophyDetail": "Score 10 kills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/4ee69067-2342-4fb6-bbd4-e65dce50b91f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seasoned Killer",
+      "trophyDetail": "Score 100 kills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/85957ed3-a762-4acb-8113-604b4c01c7ef.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Killer",
+      "trophyDetail": "Score 300 kills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/1ff8697e-5490-4a0b-a0d2-a74402e755e8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bazooka Bachelor",
+      "trophyDetail": "Kill 3 targets in one shot with the Quadraboom.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/bc1aa91f-4e6c-4bb5-abbb-6692b7ae0b23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bazooka Master",
+      "trophyDetail": "Kill 6 targets in one shot with the Quadraboom.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/da3dbf44-f381-4a7f-b554-6109efad2d6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bazooka God",
+      "trophyDetail": "Kill 10 targets in one shot with the Quadraboom.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/0b8bf7f3-8ce8-40e6-b6dd-257525338777.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compute THIS",
+      "trophyDetail": "Kill a robot with a headshot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/1d1e1a4d-c308-41a5-83e4-bdd22ba14275.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Convict",
+      "trophyDetail": "Score 25 kills with the Shiv.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/496f0dbb-0880-4a8c-963a-4140b74110d1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doomsday Plumber",
+      "trophyDetail": "Score 25 kills with the Plunger.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/e70166f1-941b-4a61-ab86-43c2ea5a0e94.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Plunger Sensei",
+      "trophyDetail": "Score 50 kills with the Plunger.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/919a39b3-022b-423f-8b27-3865f3b7c7c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Axe Murderer",
+      "trophyDetail": "Score 25 kills with the Combat Axe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/511fe3b0-d6bd-4e3e-b664-a64654733e77.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boom Bachelor",
+      "trophyDetail": "Score 5 kills using explosives.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/764d28be-35b4-4fa1-8dfb-a0446d6d070a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lord Exploder",
+      "trophyDetail": "Score 100 kills using explosives.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/4d886dd8-8948-43a2-863f-11bfc882db95.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Face Randomizer",
+      "trophyDetail": "Score 25 kills with headshots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/94266537-0390-44b6-8d62-84cb6a89e3a8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pyromaniac",
+      "trophyDetail": "Score 50 kills with fire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/f56fc73c-2833-4a0f-8f83-ee8b7fab92da.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stomper",
+      "trophyDetail": "Die 5 times from stepping on a mine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/62f2a27c-7687-4373-a1e8-2160537b6313.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "EOD specialist",
+      "trophyDetail": "Successfully disarm 50 hostile traps of any kind.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/f54a94e7-fa7c-460f-b8f0-c689d834e733.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roadkiller",
+      "trophyDetail": "Kill 5 enemies by driving them over with a car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/a1d1ffb1-4101-4efa-a337-1d9dcbf27adf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Combat Medic",
+      "trophyDetail": "Heal others for a total of 5000 Hitpoints.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/5ad83097-3b84-4242-8ce4-d83404244771.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DOGtor",
+      "trophyDetail": "Heal others for a total of 1000 Hitpoints with dogs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/93b0706a-d96b-4dae-8e1a-c951a2449ae0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knee Krusher",
+      "trophyDetail": "Break someones leg 25 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/3dab0278-1556-4e8f-9d8d-c2d7a20cc06f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Kick",
+      "trophyDetail": "Perform 100 successfull kicks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/e379abf7-1acc-423b-8027-3de80f15bb92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "K9 unit",
+      "trophyDetail": "Score 100 kills with a Dog.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/025d80a2-5d42-491a-a0b8-901df88680e9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turret Master",
+      "trophyDetail": "Deploy 10 Turrets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/1c598a0e-eb23-489d-a681-a25f8c48527e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barricade Builder",
+      "trophyDetail": "Deploy 10 Barricades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/c1bd0dd1-db29-4c1f-a8f3-89ebf4a02f92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crotch Destroyer",
+      "trophyDetail": "Critically gib someone´s crotch 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/374fb3ca-0591-44aa-9181-ef76b125284e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranged Plunger",
+      "trophyDetail": "Score 50 kills using Plungers as bow ammunition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/a1d87b74-3101-4267-8815-be5b3772305a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smartypants",
+      "trophyDetail": "Complete the tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/9d94749e-673a-4804-bd72-d25f95571833.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Baptism of Fire",
+      "trophyDetail": "Reclaim your farm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/642f3b59-89b1-427b-be31-1281cad614e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Hello, neighbour!",
+      "trophyDetail": "Save the McCoys.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/6dc8c24a-9568-4c53-9b70-b2fe41ae3d83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Evacuator",
+      "trophyDetail": "Help the survivors of Brightcreek.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/17cf20c3-fd86-4707-b6db-fa34a908add3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Exploit and Escape",
+      "trophyDetail": "Sabotage the raiders and save yourself.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/eb0b869c-7e4a-4a33-aa6d-f1899e4daed9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Stand Your Ground",
+      "trophyDetail": "Defend your home and people against an overwhelming assault.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/60f28866-2146-47cd-a1d8-0aef2592e8a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Railway Reckoning",
+      "trophyDetail": "Destroy the invasion force camp.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/60edd967-121d-4068-a561-5d78641af18d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Liberator",
+      "trophyDetail": "Free the prisoners.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/c70f637d-0471-4819-8c91-45ea6aead4c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mountaineer",
+      "trophyDetail": "Get up the mountain.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/f2fd5cbb-9104-4899-bcdc-964c7393b8dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Knocking on Hell's Door",
+      "trophyDetail": "Get into the Warlord's fortress.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/d21bac12-e819-4742-a0c9-b8af7f7c4ed8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Campaign of Resistance",
+      "trophyDetail": "Deliver final justice to the Warlord and secure your people's future.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50720_00/8466383e-1ba6-4087-b3c9-254bf7fb0393.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

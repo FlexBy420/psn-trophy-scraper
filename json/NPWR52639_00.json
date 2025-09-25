@@ -1,0 +1,568 @@
+{
+  "npCommunicationId": "NPWR52639_00",
+  "title": "Achilles: Survivor",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 62,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Fearless Survivor!",
+      "trophyDetail": "You escaped from Tartarus, congratulations!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/9ad6d26e-fac0-4599-8737-4c34c6ef13a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Endless Amateur",
+      "trophyDetail": "Reach the main objective in Endless Mode in any location",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/0f05fa08-11cd-4b0a-9d44-1cdd3a1f7378.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First steps",
+      "trophyDetail": "Start first run",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/607e168b-4416-41d3-9854-c672692b8487.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Barracks",
+      "trophyDetail": "Complete the Outskirts of Troy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3ee5596e-0360-4b18-bae9-49f9ef276206.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Battlefield",
+      "trophyDetail": "Complete the Barracks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/e929f6fd-b41e-4002-932c-6f313b0307d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Market",
+      "trophyDetail": "Complete the Battlefield",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/484b665c-0e54-4db1-9fc7-4d59a243255d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Upper City",
+      "trophyDetail": "Complete the Market",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/11394bae-9be6-49fe-a29d-606c119fe33a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Disputed Land",
+      "trophyDetail": "Complete the Shipyard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/a2e48fdd-fc4b-4920-b1a9-23a1263e1c7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Farm",
+      "trophyDetail": "Complete the Disputed Land",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/f5c794a0-15cc-4cfb-9133-8a0401f852ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Crossroads",
+      "trophyDetail": "Complete the Farm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/5578cbe1-41a4-4c5b-b664-110ff44c0986.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Beast’s Nest",
+      "trophyDetail": "Complete the Crossroads",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/eaaf3aff-0d33-4ad7-b4d0-d3f07f491a5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Forgotten Stronghold",
+      "trophyDetail": "Complete the Cultist Ambush",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/066a2788-86c1-403c-b29b-d802ea7c684f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Cultist Territory",
+      "trophyDetail": "Complete the Forgotten Stronghold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/263cafba-ba54-4bfd-a35c-6ad63563f89e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Chamber of Bridges",
+      "trophyDetail": "Complete the Cultist Territory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/1596dd49-9506-4842-850d-ad9a26053da8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Mountain Heart",
+      "trophyDetail": "Complete the Chamber of Bridges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/0691f6f0-f042-4787-9811-4e9157031bde.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Bandit Encampment",
+      "trophyDetail": "Complete the Torn Temple",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/e72c348d-b6c8-42f0-9f3b-8d2dcbd43c78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Ruined Gardens",
+      "trophyDetail": "Complete the Bandit Encampment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/f2628952-9e88-4f1a-b6b5-82676707c16b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Desecrated Ruins",
+      "trophyDetail": "Complete the Ruined Gardens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/6e369045-1f3e-45cb-b9c3-1825d1000a05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road to the Depths of Tartarus",
+      "trophyDetail": "Complete the Desecrated Ruins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/2f71dc48-dcb1-4552-8907-14e5051d0d79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laureate I",
+      "trophyDetail": "Collect 5 Golden Laurel Wreaths in Troy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3a222c8d-88a2-49b4-95f4-fa788feaa1d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laureate II",
+      "trophyDetail": "Collect 5 Golden Laurel Wreaths in the Greece Coastline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/cbabfe25-4ebd-435f-b357-4be5d44b5ad4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laureate III",
+      "trophyDetail": "Collect 5 Golden Laurel Wreaths in the Mountain Fortress",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3e901075-02e3-4d43-a07c-c192646b90ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laureate IV",
+      "trophyDetail": "Collect 5 Golden Laurel Wreaths in the Dungeons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/fa10baa7-61f3-4a1e-9269-b4ba3fa40804.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Architect",
+      "trophyDetail": "Build 200 structures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/67431d61-964b-4a4a-a770-5efeeec6be9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outstanding strategist",
+      "trophyDetail": "Defeat 10,000 enemies using Structures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/a127def0-ccaa-48ea-bd15-2d1e09c02669.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's transformation time!",
+      "trophyDetail": "Transform your first Power",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/f26f5447-b131-47e4-b7a3-4db6b622d4fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beware of me!",
+      "trophyDetail": "Deal 25,000,000 damage to enemies with your Powers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/42cff44e-8f5a-41c8-bb07-9c39a38aa2ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyromaniac",
+      "trophyDetail": "Deal 10,000,000 damage to enemies with Fire status",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/a1966cb3-e500-4fb3-8af2-965c5ea840ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unforgivable curse",
+      "trophyDetail": "Deal 500,000 damage to enemies with Curse status",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/5b2bdd20-0444-497e-872b-907954b46c39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toxic terror",
+      "trophyDetail": "Deal 3,500,000 damage to enemies with Poison status",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/09cd2d93-fc8e-4dce-8d9d-8a5bc0007420.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a trap!",
+      "trophyDetail": "Close 15 basements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/43d673d4-4e23-4f44-865d-38883b7ec7aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Midas is proud of you",
+      "trophyDetail": "Collect 2,000 gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/87b1e03e-6f4d-424e-a38c-efeffc45c7b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready for battle",
+      "trophyDetail": "Upgrade any Favor to its maximum level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3b565f8d-a86f-4c4f-92af-595c86216142.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experienced marksman",
+      "trophyDetail": "Defeat 30,000 enemies using Shooting type Powers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/04703575-f5b8-4e1f-baac-a949bb3e5c9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enchanter",
+      "trophyDetail": "Defeat 20,000 enemies using a Spell type Powers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/9fb73a9d-3bc0-45ec-a8a8-4f6152740543.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A true warrior",
+      "trophyDetail": "Defeat 30,000 enemies using Melee type Powers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/098e24bf-583a-46a4-9338-8d6508d215db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spear stabs",
+      "trophyDetail": "Defeat 5,000 enemies using Achilles' Power: Myrmidon Spear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/bfc2711c-3cb8-43f3-bbfd-b12226c5a128.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brave and courage",
+      "trophyDetail": "Defeat 5,000 enemies using Hector's Power: Prince of Troy gear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/b2be8566-41c4-4aff-8d9c-2b6b63540091.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bow before my bow",
+      "trophyDetail": "Defeat 5,000 enemies using Paris' Power: Deadeye Arrows",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3ea0a175-2716-4b05-b016-d7fa223eb5ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Oracle of Delphi",
+      "trophyDetail": "Defeat 5,000 enemies using Pythia's Power: Apollo's Light",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/043fce23-a823-4edc-9d82-d4c4b611884e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barbarian things",
+      "trophyDetail": "Defeat 5,000 enemies using Barbaros' Power: Dual Axe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/7c9be168-07d5-47d2-bd50-77f8274bc10b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suffer along with me",
+      "trophyDetail": "Defeat 5,000 enemies using Tantalus' Power: Eternal Rot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/766f54b1-cb30-4432-8dfb-62f5e0a02ea3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock 'n' Roll",
+      "trophyDetail": "Defeat 5,000 enemies using Brontes' Power: Rolling Boulder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3768620c-eaf6-4505-8b2e-b4d8c478a974.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardworking Commander",
+      "trophyDetail": "Defeat 5,000 enemies using Diomedes' Power: Sharp Blade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/b8d1f8b9-68b3-4e05-a0f9-186836bc4c94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kick in the back",
+      "trophyDetail": "Defeat 5,000 enemies using Sciron's Power: Deadly Dagger",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/0ef64652-38d9-48e2-bb1a-88b5f6dc7e75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't understimate a satyr",
+      "trophyDetail": "Defeat 5,000 enemies using Pronomus' Power: Runic Strike",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/9c033296-c079-4299-b29a-b52924da6a86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cock-a-doodle-doo",
+      "trophyDetail": "Defeat 5,000 enemies using Alectryon's Power: Easter Eggs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/40ffc537-cc59-47f7-a6e4-e5f4bf485a7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liver tests",
+      "trophyDetail": "Defeat 5,000 enemies using Prometheus' Power: Fire breath",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/ea6b3dd4-8247-4acd-a224-fb43716b3c2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cyclops SMASH!",
+      "trophyDetail": "Defeat 5,000 enemies using Steropes' Power: Spiked mace",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/f996b3fe-b891-4a27-a04a-5e642be949d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get out of my way!",
+      "trophyDetail": "Defeat 5,000 enemies using Achilles The Kingslayer's Power:",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/676154b9-7858-4692-ad20-e0f89a825d08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power of the Commander",
+      "trophyDetail": "Defeat 5,000 enemies using Agamemnon's Power: Spinning smash",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/00992a9a-e303-4ac8-84cd-26da8c39b45e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Predator instinct",
+      "trophyDetail": "Defeat 5,000 enemies using Phalanx' Power: Spider trickery",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/1de64972-1d40-4d6b-97ec-d988598400d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Born of the Lotus",
+      "trophyDetail": "Defeat 5,000 enemies using Ne Zha's Power: Heavenly Power Spear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/4483ade2-4637-4eff-adcb-c5725f4303b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bones, bones, bones",
+      "trophyDetail": "Defeat 10,000 skeletons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/4dc891a6-a5cc-4d1f-b10d-a12a57b68aa8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Why is it always spiders?!",
+      "trophyDetail": "Defeat 500 spiders",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/441b92cf-5768-4608-9d08-1cb24b65440e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You aren't a chicken, you’re the Rooster!",
+      "trophyDetail": "Complete 20 runs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/1904f199-924a-4fb2-85a5-4bb73088382e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bring me Champions!",
+      "trophyDetail": "Defeat 40 Enemy Champions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/3c1e8a01-dcb4-49f2-8623-b096d2da970d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No more Overlords",
+      "trophyDetail": "Defeat Talos playing as any Rogue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/8e32f6e8-72ab-4469-9163-81373dd42c6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Duty",
+      "trophyDetail": "Defeat the Minotaur",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/289bbef0-a6e9-4447-9cd4-f2eef446fc0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bony Wraith",
+      "trophyDetail": "Defeat the Skeleton King",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/e5038e3f-24db-4b0f-9a95-210f36ef2292.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kings kneel to Achilles",
+      "trophyDetail": "Defeat Agamemnon playing as Achilles The Kingslayer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/b9f2b11b-c633-44d9-b299-400aa2831489.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Lord of Death",
+      "trophyDetail": "Defeat Hades, God of the Underworld",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52639_00/e4ede227-1546-4d2e-b4b4-7b465bebf85e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

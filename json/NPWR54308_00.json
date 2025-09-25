@@ -1,0 +1,383 @@
+{
+  "npCommunicationId": "NPWR54308_00",
+  "title": "Zip's Jumping Adventure",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 39,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/a7868a3b-b6db-469a-b686-08fa8100d027.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Step One",
+      "trophyDetail": "First adventure level finished",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coin-Op Climber",
+      "trophyDetail": "First arcade level finished",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shiny Collector",
+      "trophyDetail": "First level finished with all coins collected",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Sprinter",
+      "trophyDetail": "First level finished while beating gold time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "That One Coin",
+      "trophyDetail": "Finish a level in Adventure mode… but miss one coin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Backtrack Boss",
+      "trophyDetail": "Go back to the bottom after reaching the last platform and finish the level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Testing Gravity",
+      "trophyDetail": "Fall off the first platform 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Backpacker",
+      "trophyDetail": "Finish 5 levels consecutively without returning to the main menu.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Daydreamer",
+      "trophyDetail": "Stay completely still for 30 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Steady Hands",
+      "trophyDetail": "Finish a level without ever stopping movement for more than 1 second",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Encore!",
+      "trophyDetail": "Replay the same level 5 times in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect Form",
+      "trophyDetail": "Your first perfect finish - gold time and every coin!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coin Hoarder",
+      "trophyDetail": "Collect 500 coins across all levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coin Collector",
+      "trophyDetail": "Collect 1,000 coins across all levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Coin Baron",
+      "trophyDetail": "Collect 2,000 coins across all levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/ddcada4e-86fd-4c0a-9739-1b8a9e6ded66.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Airtime Rookie",
+      "trophyDetail": "Be in the air for a total of 1 minute",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cloud Surfer",
+      "trophyDetail": "Be in the air for a total of 5 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Born to Float",
+      "trophyDetail": "Be in the air for a total of 10 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/ddcada4e-86fd-4c0a-9739-1b8a9e6ded66.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "600"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hop to It",
+      "trophyDetail": "Jump 1,000 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Jumps for Days",
+      "trophyDetail": "Jump 3,000 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vertical Vision",
+      "trophyDetail": "Climb 1,000 meters/3,281 ft",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Skyward Soul",
+      "trophyDetail": "Climb 2,000 meters/6,562 ft",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Descent",
+      "trophyDetail": "Fall 200 meters/656 ft",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gravity’s Apprentice",
+      "trophyDetail": "Fall 400 meters/1,312 ft",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/5bf251a4-63d6-4c69-99b2-211d641d06c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "400"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No second chances",
+      "trophyDetail": "Reach the top by touching each platform only once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Demon",
+      "trophyDetail": "Beat a level in less than 50% of its gold time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High score Hunter",
+      "trophyDetail": "Beat your own best time by 10+ seconds in a single level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky’s the Limit",
+      "trophyDetail": "Unlock Autumn Grove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Higher Ground",
+      "trophyDetail": "Unlock Frostvale",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Above the Clouds",
+      "trophyDetail": "Unlock Everchange",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "54"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Seeker",
+      "trophyDetail": "Collect all starts in Springfields",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmic Climber",
+      "trophyDetail": "Collect all starts in Autumn Grove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Voyager",
+      "trophyDetail": "Collect all stars in Frostvale",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "StellarMastery",
+      "trophyDetail": "Collect all stars in Everchange",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Ascent",
+      "trophyDetail": "Finish all adventure levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/073ada35-6152-419b-87c0-2a9685eea055.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Gilded Path",
+      "trophyDetail": "Collect all coins in the adventure levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/ddcada4e-86fd-4c0a-9739-1b8a9e6ded66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Chrono Master",
+      "trophyDetail": "Beat all gold times in the adventure levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/ddcada4e-86fd-4c0a-9739-1b8a9e6ded66.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Peak Performance",
+      "trophyDetail": "Collect all stars in the adventure levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54308_00/ddcada4e-86fd-4c0a-9739-1b8a9e6ded66.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "120"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "npCommunicationId": "NPWR46110_00",
+  "title": "The Throne Trophy Set",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 47,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Throne is mine",
+      "trophyDetail": "You have managed to complete over 100% of the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/68652051-11ee-409c-8d88-0096c72b70af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gold rush",
+      "trophyDetail": "You earned 1000 gold.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/1f517e6f-4f8e-46cf-8c9a-9ba5bc312c23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Do a barrel roll!",
+      "trophyDetail": "You have activated a platform using a barrel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/2fa56b4c-6110-4c75-9a6f-c64c547b017e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Furry... and Dangerous",
+      "trophyDetail": "You found the bat rat companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/927f5c30-7126-4985-8989-3896999a624f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David vs Goliath",
+      "trophyDetail": "You have defeated a giant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/bc1e5e7d-7706-4051-939f-40a3cd5ef68a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Puppet",
+      "trophyDetail": "You have defeated Bodrak.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/c30fc047-b3b3-4cb0-973d-14c5669c5660.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keep Rolling and Everybody Explodes",
+      "trophyDetail": "You found the bombs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/258588ac-c7fd-4f5d-a029-5d2ccc171205.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spinning since 1974",
+      "trophyDetail": "You found the boomerang.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/7c67caf3-788f-4ed1-917d-b5f0709ca956.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Hand",
+      "trophyDetail": "You found the ring.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/6a266810-d31d-4e7d-a5fb-f3099d789b08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Machine Gun!",
+      "trophyDetail": "You saved all the elders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/9da611ed-e508-4def-98dd-5d869557cf8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alone in the dark",
+      "trophyDetail": "You have reached the dark dungeon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/45e9f739-3403-405d-8177-87162d128d6b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Punching Rainbows!",
+      "trophyDetail": "You unlocked the dash gauntlets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/00e835c2-822e-4278-bea0-6393c918b3aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here is Eder!",
+      "trophyDetail": "You activated the elevator for the throne room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/8294a025-f1a4-4457-984b-e9389eb2f361.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Jump",
+      "trophyDetail": "You found the cloak.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/9cfdc25e-74c7-4b99-98bd-6f1f1630bb67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DnD!",
+      "trophyDetail": "You have arrived to the dungeon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/365e583a-5c83-4023-825d-61523e0eb2d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet 15th!",
+      "trophyDetail": "You have reached level 15.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/506912d7-122d-463c-9522-4ea9d90e9711.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot like Summer",
+      "trophyDetail": "You have arrived at the fire zone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/26c4c98e-5488-4037-bf46-a0849c3b989c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Analogical lantern",
+      "trophyDetail": "You found the fire sword.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/5d0faa03-4be0-401e-bd79-8744bfcc5784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yummy!",
+      "trophyDetail": "You have consumed 50 foods.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/775cd2cb-d248-4de3-9d00-13918c8d6916.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hidden Kodamas",
+      "trophyDetail": "You have reached the forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/d9d21a8e-73d7-4b2e-83a6-63ccb612b8be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Traitor",
+      "trophyDetail": "You defeated Babón.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/cac2fc4b-b22e-4d96-8a8e-c31801178cd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get over here!",
+      "trophyDetail": "You have obtained an item using the boomerang.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/c26eb3c3-f5b3-4195-af3e-7cb8b0042ec1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Puppeteer",
+      "trophyDetail": "You defeated the maiden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/01980f69-70a2-4ef2-8f7a-77bc6ff02d70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Precious",
+      "trophyDetail": "You unlocked grabbing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/51161532-b01e-48ec-8904-1e1eb4506cd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Despite everything, it's still you",
+      "trophyDetail": "You have collected all the hearts on the map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/255764d0-f46f-4bbf-a16a-19b617c60453.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Break it Eder",
+      "trophyDetail": "You received the helmet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/eea021ac-e42b-4e22-a9ca-6b1726186a91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let it go",
+      "trophyDetail": "You have arrived at the ice zone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/12848af6-28b1-449b-8b45-7341dcc1068a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ice Sword",
+      "trophyDetail": "Wielded the legendary freezing sword.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/97c3d03f-fd43-4163-a531-6295d7133f45.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Key",
+      "trophyDetail": "You have obtained the key to the throne room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/6b59f45e-1389-4364-8dbe-78c2460cd622.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goblin",
+      "trophyDetail": "You have obtained 5 loot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/a14174e8-2e06-46a2-b18e-8ede8d5b22a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Revolution",
+      "trophyDetail": "You have arrived at the factory.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/0b0f2ecc-d82a-469e-8457-97c0b875c92b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gandalf",
+      "trophyDetail": "You have obtained 5 magic.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/5dbe00bc-dea2-4daa-9264-258fe040b364.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DIAMONDS!",
+      "trophyDetail": "You have obtained all the magic crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/ce322d27-c404-4768-b0bb-78a6b165dc22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steve?",
+      "trophyDetail": "You have arrived to the abandoned mine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/edf61f09-bf6a-4a93-a90c-ef5edc1b4b38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "When Pigs Fly",
+      "trophyDetail": "You found the pig companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/484a2f34-db55-4a34-a624-93f1d744230b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They see me rolling...",
+      "trophyDetail": "You found the boots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/85419da0-e6b7-4945-b43d-c8d03948e6d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Secret Passages",
+      "trophyDetail": "Discovered all the secret passages.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/3864bf5a-f9af-4435-b587-220740dc4947.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loot Seeker",
+      "trophyDetail": "You have obtained the wooden shield before the first boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/c6c68f80-ee61-4bf8-8d79-8dece1d3048e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Awakening the Frozen Serpent",
+      "trophyDetail": "Discover the secret of the red stone and open the path to the ice map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/70fb2e6c-00ab-4108-bec9-2a4705d8fb5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wake up son, we have a city to burn",
+      "trophyDetail": "You have slept in a bed for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/024250ae-2118-46e9-87d7-27c9338a2b63.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eder, smash!",
+      "trophyDetail": "You found the armor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/70f6dc44-61d6-4b61-b090-421602686001.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harder, Better, Faster, Stronger",
+      "trophyDetail": "You found the earrings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/6cf6c3ba-eba2-4bc5-b645-5cf8f97d9be3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Berserker",
+      "trophyDetail": "You have obtained 5 strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/b4bfdbaa-ca0c-4fd0-ae76-d54033b0f468.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Commander",
+      "trophyDetail": "You defeated the commander.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/935d2c01-4a18-4595-8f17-ea8b8db3cd4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like fish in the water",
+      "trophyDetail": "You arrived to the water zone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/e665c73e-f00e-4d5a-ac05-4c4021ae76ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Room of the Wise",
+      "trophyDetail": "You have arrived to the room of the wise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/acf741e3-214c-4875-ac04-3850cc29d295.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Guardian",
+      "trophyDetail": "You defeated the caterpillar boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46110_00/473f3f19-f5e6-4df8-ac05-9976bc242d5e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

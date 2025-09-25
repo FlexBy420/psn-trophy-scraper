@@ -1,0 +1,289 @@
+{
+  "npCommunicationId": "NPWR50411_00",
+  "title": "Herdling",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 31,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Herdling",
+      "trophyDetail": "Attain all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/61ff1b3a-6d8e-46bb-be34-976a59f3654f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "A New Home",
+      "trophyDetail": "Finish the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/4f9db0ca-0405-49e4-8589-61de8fc0d8ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter II: Countryside",
+      "trophyDetail": "Reach the country side",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/df14e570-cf87-4746-b7e4-8f7615c71876.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter III: Autumn Forest",
+      "trophyDetail": "Reach the forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/a860f1aa-1dc6-4b39-b968-9703e5d51065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter IV: Foothills",
+      "trophyDetail": "Reach the ferry",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/219f53a9-cb54-4e61-88db-56120b972118.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter V: Mountain Range",
+      "trophyDetail": "Reach the mountain plains",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/721111fc-0554-4b52-988e-9dcbb51b1626.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter VI: Glacier Valley",
+      "trophyDetail": "Reach the plateau",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/cf70b056-22db-409d-b377-4019b6b08bf3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chapter VII: Snowbound Pass",
+      "trophyDetail": "Reach the snow field",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/f80b0742-ae57-4084-a584-8a10a31c1007.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sparks Flying",
+      "trophyDetail": "Light the campfire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/67c2af89-abc1-4182-8eb8-48a72fb2d4af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fetch!",
+      "trophyDetail": "Throw a ball 3 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/5d58b428-72b0-496f-a21f-40c4d7792723.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Caretaker",
+      "trophyDetail": "Heal 10 Calicorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/f2b6b390-2d40-49e3-b11e-874d4e6fa492.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tidy Up!",
+      "trophyDetail": "Have all Calicorns cleaned at a resting spot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/cd4d3e9d-4b09-4a29-9e4b-fd84bc3c3ab2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fabulous",
+      "trophyDetail": "Decorate a Calicorn with a harness",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/58b36f4f-a452-4a8f-8c44-8905c3ad2fcf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Highly Decorated",
+      "trophyDetail": "Decorate 5 Calicorns with a harness",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/4dd05914-fd02-4ea6-9cf6-b4d564d3819c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can I Keep That Rock?",
+      "trophyDetail": "Decorate a Calicorn with a decoration item",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/275ece18-bd68-49e3-ab7f-893f05e77319.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Revelation",
+      "trophyDetail": "Reveal a painting",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/5a3bda45-1d28-4261-ba4c-b6df146f0bb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making Friends",
+      "trophyDetail": "Tame 3 Calicorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/e058058a-11ff-43c6-8a08-fa662b94d735.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A Good Bunch",
+      "trophyDetail": "Tame 10 Calicorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/5d9270d6-ac92-4da1-9fae-a4e18f03f4fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "The Herd Is Gathered",
+      "trophyDetail": "Tame all Calicorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/dabbd70b-a491-4620-b43a-1f03e1089b94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Herdcore",
+      "trophyDetail": "Reach the end without losing a Calicorn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/6ec78ac2-cb8a-4fd8-93d8-13984dd61b2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Close Call",
+      "trophyDetail": "Save a calicorn from a cliff or crevasse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/ed1af823-f7c2-4611-a970-98b91b5107d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maximum Zoomies",
+      "trophyDetail": "Go through the tunnel right after the train",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/d72a7484-aba0-4e95-a746-21e6009b6a2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collector",
+      "trophyDetail": "Collect all harnesses",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/79eb7336-e2f6-49e7-82aa-25d16d07f31b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ready for Bed",
+      "trophyDetail": "Have all Calicorns come to sit at the fire by caring for their needs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/77bddf5b-dbed-47a4-beca-f5b2fdd571d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Careful Pedestrian",
+      "trophyDetail": "Don't push over any traffic cones in the city",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/eae3e8b6-ebfe-4de1-8527-c66f8b2607ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Walking on Thin Ice",
+      "trophyDetail": "Have no Calicorns fall into a crevasse in the glacier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/de2ab61d-b591-45ab-9845-199ad48cddbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stealthy",
+      "trophyDetail": "Have no Calicorns be attacked by a bird in the forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/82437656-4093-450b-b273-4f128e324b39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road Rage",
+      "trophyDetail": "Wreck 10 cars in the city",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/944223bf-ce75-44d2-bc8c-3cc2684951fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A New Friend",
+      "trophyDetail": "Feed the bird",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/17f2c440-acaf-41a4-a038-1877a64c7883.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Can't Get Enough Pets!",
+      "trophyDetail": "Pet 10 Calicorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/3078c2ff-d108-4a02-b5bd-415e043b9c8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What the Duck",
+      "trophyDetail": "Get close to the ducks in the forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50411_00/3ede40ba-aef9-4a03-a3d6-d64f88328b47.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

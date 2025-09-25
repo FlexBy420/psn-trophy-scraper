@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR48914_00",
+  "title": "剣と魔法と学園モノ。3 Remaster",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "１００％クリア",
+      "trophyDetail": "全部のトロフィーを取得すると、このプラチナトロフィーが自動的にアンロックされます",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/95db0e21-7479-45e5-b8ea-ea507e576354.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "入学おめでとう",
+      "trophyDetail": "転入式を終えた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/56f79ede-f0cb-4a14-8f37-dc091fd66065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "全員集合！",
+      "trophyDetail": "全種族の生徒を作成した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/2cce8814-b93c-481f-8644-5c71e3bbc396.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ミリオン突破",
+      "trophyDetail": "所持金が1000000Goldを超えた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/af6def52-3da4-4493-aa18-549e4b8e2b1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "学園三昧",
+      "trophyDetail": "3つの学校のシナリオをクリアした証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/2a9ad17b-397f-4e80-90e0-439a8f391dba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "英雄誕生！",
+      "trophyDetail": "メインシナリオをクリアした証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/25def54f-9df4-4b6a-b8b1-62fb4a4fb10b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ダンジョンマイスター",
+      "trophyDetail": "すべてのダンジョンフロアに訪れた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/a81316d2-5e2b-4d4f-938b-7fd2efa1b355.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "もうそれぐらいに…",
+      "trophyDetail": "１回の戦闘で合計10000以上のダメージを与えた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/dac0215b-f049-4289-a2eb-d2066c5b6dd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ゴー☆ジャス！",
+      "trophyDetail": "装飾品を50種類以上取得した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/68c903f5-2439-4546-981d-87d3cd1a92f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "逃げちゃダメだ！",
+      "trophyDetail": "モンスターから10回逃げた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/74ed9f06-0683-4f92-8a25-3100264d3faf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "学園無双",
+      "trophyDetail": "すべての学科の履修度を100%にした証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/88b9ec8f-ed22-46ce-bc64-31a5d69b8a02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "大変よくできました",
+      "trophyDetail": "モーディアル学園のサブクエストを制覇した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/f70183b5-bf22-40e9-8188-c9efad63cf28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "トレジャーハンター",
+      "trophyDetail": "ダンジョンにあるすべての宝箱を開けた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/6658124b-ac0c-416c-86a1-4684394678c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "アイテムコレクター",
+      "trophyDetail": "1000種類以上のアイテムを見つけた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/82cf2a50-58db-4faf-8b8d-df045650e615.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "魔物コレクター",
+      "trophyDetail": "魔物図鑑をすべて埋めた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/7fa80cb5-4f25-4a5c-b1aa-4f256cbef503.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ドラッケン学園へようこそ",
+      "trophyDetail": "ドラッケン学園を訪れた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/f686375e-eb6e-41ae-95a1-8c446fb0ea32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "プリシアナ学院へようこそ",
+      "trophyDetail": "プリシアナ学院を訪れた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/91ed0a22-e9c8-488d-a3f4-3cd0673feac7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "タカチホ義塾へようこそ",
+      "trophyDetail": "タカチホ義塾を訪れた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/395a8ccb-678d-4660-9a82-f0331dfe8351.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "旅行好き",
+      "trophyDetail": "特産品をすべて集めた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/9bbf5187-904b-4088-891c-47286186c04a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "諦めたらそこでゲームオーバーですよ",
+      "trophyDetail": "ソフトウェアリセットを3回以上した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/28ecc4b9-3ee8-42fb-9b38-ea32f9c8331a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめてのおつかい",
+      "trophyDetail": "はじめて購買部でアイテムを購入した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/640212e3-873c-4970-bba5-5ee39fd4df32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめての共同作業",
+      "trophyDetail": "はじめて相性技を使用した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/e31e3c03-94df-4aaa-9f89-9e547cb5a51b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめての錬金",
+      "trophyDetail": "はじめて錬金を成功させた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/de8b58e3-6436-4e6f-af6b-c813fa166da9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめての戦闘",
+      "trophyDetail": "はじめて戦闘に勝利した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/ce84a1b4-2c4e-48f6-9096-fe1ccc5df290.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめてのお泊り",
+      "trophyDetail": "はじめて学生寮で宿泊した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/7c2d6302-6b48-4aeb-a908-7cdc8d4034d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "はじめてのダンジョン",
+      "trophyDetail": "はじめてダンジョンに潜った証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/992737f9-93b2-4eb7-a8f4-208a955c98c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "我、神也。",
+      "trophyDetail": "神を倒した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/a26e8f6f-8213-4cac-aadb-a34e060f04c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "サブ学科開放",
+      "trophyDetail": "サブ学科が開放された証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/86acd381-f287-40ab-980f-15bf2445c3a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "もう一つの学園",
+      "trophyDetail": "闇の生徒会の学園を訪れた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/adc173f7-5f02-4a8e-9fb7-887b2b3732ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "みんなともだち",
+      "trophyDetail": "すべての人たちと出会った証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/d070a954-38d5-48d8-9fc6-8d773d4d4b27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "知らない町を歩いてみたい",
+      "trophyDetail": "はじめて中継地点に到着した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/96392a4a-523a-45e8-801b-127b47d5b15b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ひとりでできるもん",
+      "trophyDetail": "ひとりで戦闘に勝利した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/7438e0de-a7ad-4f5a-8347-a4787685320f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "裏の世界へようこそ",
+      "trophyDetail": "裏の世界へ行った証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/162ff77f-669f-4758-896c-6c43254c42ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ドラッケンの留学生",
+      "trophyDetail": "ドラッケン学園で生徒を留学した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/55a6f186-17b1-42dc-83a3-08a36b770c87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "プリシアナの留学生",
+      "trophyDetail": "プリシアナ学院で生徒を留学した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/d80e4b8b-4504-4088-8eb3-3c44a58ba0d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "タカチホの留学生",
+      "trophyDetail": "タカチホ義塾で生徒を留学した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/f75cfa97-de3d-4345-8b3a-99dedf337ac7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "アガシオン撃破！",
+      "trophyDetail": "暗黒校長アガシオンを倒した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/7125df11-e367-444d-9f75-84ef9b3589de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一網打尽",
+      "trophyDetail": "モンスター15体を1ターンで一掃した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/e81d7923-b183-4f09-9960-e97f36a9ad5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "俺が信じるお前を信じろ！",
+      "trophyDetail": "エデンが助けに来てくれた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/cf1aecc6-8e3d-4740-add6-8ff200515517.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "語り部",
+      "trophyDetail": "全学科を取得できた証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/5e78c6d2-ddd9-4c73-b09c-367f9e9e4b48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "惚れてまうやんけ～",
+      "trophyDetail": "相性パネルをはじめて操作した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/6c067688-7917-4544-b731-595abea29aa1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "逃がさない！",
+      "trophyDetail": "うにうにチタンを倒した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/e9964b48-9d12-409f-a666-205dee76d8ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "コマンド成功",
+      "trophyDetail": "はじめてコマンド入力を成功した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/38bd0f20-63fb-4b79-b72b-ac9e91b9c739.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ととスキ",
+      "trophyDetail": "ししゃもを取得した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/c64863ee-978d-4f97-9952-e8469a317e4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "もっと熱くなれよ！",
+      "trophyDetail": "ヒートアップを10回成功した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/8583d151-3edb-4952-93f3-a69029d109de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "健康のため、休憩をとってください。",
+      "trophyDetail": "3時間以上の連続プレイをした証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/1c7b4daa-5dac-4899-8801-f15c4db5e488.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "クロスアウト！",
+      "trophyDetail": "何も装備をしないで戦闘に勝利した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/695057e3-85ea-46c2-8a0e-d08854b72407.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ドラッケン学園優勝！",
+      "trophyDetail": "三学園交流戦でドラッケン学園が優勝した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/e81756cb-db3e-4ab4-be01-d0695485f0c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "プリシアナ学院優勝！",
+      "trophyDetail": "三学園交流戦でプリシアナ学院が優勝した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/fdaedd70-ff05-4e5d-aeca-ad05fe70cca4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "タカチホ義塾優勝！",
+      "trophyDetail": "三学園交流戦でタカチホ義塾が優勝した証",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48914_00/8dbda02b-87bc-4a3a-9378-7878aa86f968.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

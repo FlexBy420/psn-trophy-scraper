@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR47636_00",
+  "title": "City Bus Manager Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Perfectionist",
+      "trophyDetail": "Unlock all City Bus Manager trophies!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/fdd153a8-53bd-4c8c-8f0b-5c9e8479b398.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kickoff",
+      "trophyDetail": "You have placed your first depot!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/ea07ee7d-8997-4165-88bf-ea69525a47c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Employee of the month",
+      "trophyDetail": "You have hired your first employee!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/6eec376d-db01-4306-8ac0-df9df7c413bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tickets please",
+      "trophyDetail": "You have carried 100 passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/8413df34-1c1f-4ec9-8312-496da59efbaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Day ticket",
+      "trophyDetail": "You have carried 1.000 passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/9de0710d-eb99-4390-a607-7fb768299712.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weekly ticket",
+      "trophyDetail": "You have carried 10.000 passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/c5c19347-bff4-42a5-a782-ffc28cc19c91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monthly ticket",
+      "trophyDetail": "You have carried 100.000 passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/16a2f66a-f134-43e9-8de5-afe881148124.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Annual ticket",
+      "trophyDetail": "You have carried 1 million passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/130103ab-d666-4fd8-9e0a-625d64264f82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fully Booked",
+      "trophyDetail": "You have carried 10 million passengers!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/32d40dc3-7480-4137-b201-0ae177c08757.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One small step for me...",
+      "trophyDetail": "You have completed your first research!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/41edc14b-278b-4468-bcb4-1802b4e0773e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "...but a big step for bus technology",
+      "trophyDetail": "You have completed all researches!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/d0a91e9d-1fd4-4cb5-a001-a0c4865e42e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ka-Ching!",
+      "trophyDetail": "You made a profit every day for a week!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/c40b362a-44f3-4c88-a75b-3f48e1c39503.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pre-wash",
+      "trophyDetail": "You have washed 5 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/70e1653f-ebca-4b02-b2e0-2fcdd38813ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glossy wash",
+      "trophyDetail": "You have washed 50 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/76e1ce67-0952-4a86-919a-d31890ba097f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deep cleaning",
+      "trophyDetail": "You have washed 500 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/b0e48cfb-7fd8-46b7-a371-bb18858df87b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fill up please!",
+      "trophyDetail": "You have refuelled 5 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/207e9374-7bb0-459c-bc59-e2a1cd3a3b6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full to the brim",
+      "trophyDetail": "You have refuelled 50 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/61b50489-d53e-4234-b17f-a8c2fa6752d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gas station attendant",
+      "trophyDetail": "You have refuelled 500 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/e003f100-098e-44f2-822e-5bbcf2fddc5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fender bender",
+      "trophyDetail": "You have completed 5 maintenances and repairs!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/c1f4def8-ed89-4094-af0a-1585fdd060f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mechanic",
+      "trophyDetail": "You have completed 50 maintenances and repairs!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/aa171640-0a76-4f63-b074-77d3eb2c95cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus Mechanic Simulator 2",
+      "trophyDetail": "You have completed 500 maintenances and repairs!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/74ce4b1e-0d17-4083-8c25-3abcf1cf690c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus owner",
+      "trophyDetail": "You bought your first bus!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/d1460f04-9450-416a-b197-825856486e59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus fleet",
+      "trophyDetail": "You bought 10 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/5b8b5fe1-9a47-47ba-8d9f-05b3ea469bbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vehicle Pool",
+      "trophyDetail": "You bought 100 buses!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/17cfee84-3b6f-40d7-b753-7a26a6fa66ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Express Delivery",
+      "trophyDetail": "You have received a delivery by drone!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/9fe42b92-0309-4cc4-b4c6-afdfbaf43984.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I quit!",
+      "trophyDetail": "20 employees resigned because of poor working conditions!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/3eb3659a-c68e-4934-95fd-8abfc2a2ba02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "You planted 100 trees!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/cabf52b5-b029-4afd-97ca-8e061b5afcd1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The first of many...",
+      "trophyDetail": "You have created your first bus route!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/e9d2a576-d194-417c-921c-286ecdb7aa24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Line network",
+      "trophyDetail": "You have created 10 bus routes!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/1f5f479e-d95f-4df9-abf9-084744efbb43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "City map",
+      "trophyDetail": "You have created 50 bus routes!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/0e25e5d6-cf2b-4ce8-a0b3-36c5e9dfe6b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All lines lead to Rome",
+      "trophyDetail": "You have created 100 bus routes!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/d27f68e3-7ae5-4d48-97b7-87a253c88299.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "4/5",
+      "trophyDetail": "You have achieved a rating of 4.0 stars!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/51af0e42-94c9-424e-94a8-01bbfedb10ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Excellent",
+      "trophyDetail": "You have achieved a rating of 4.5 stars!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/dfc33509-7a49-409e-8095-b618717ba1f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "It doesn't get any better",
+      "trophyDetail": "You have achieved a rating of 5.0 stars!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/73f21f8c-f91a-4c51-b591-3c49d25924f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Thumbs down",
+      "trophyDetail": "You have achieved a rating of less than 2.0 stars!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/7d56d734-7f7d-42a0-b827-7d463765a3f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now you are ready to go",
+      "trophyDetail": "You have unlocked the entire company premises!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/417b0c0d-ec5c-4262-85de-d584fc7d1784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Full house",
+      "trophyDetail": "Your service center is so overcrowded that no new customers are entering!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/9417c377-8366-4b6a-af11-bddeec6ed300.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What can I do for you?",
+      "trophyDetail": "You served 100 customers in your service center!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/103bc952-8abf-4f3b-b2b2-db036df24202.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Service employee",
+      "trophyDetail": "You served 500 customers in your service center!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/bb4b50c5-279d-4303-8586-9f875e6c82e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Come again soon",
+      "trophyDetail": "You served 1.000 customers in your service center!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/ff40dbd9-ff94-44ae-a24a-1a507f168379.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burnout",
+      "trophyDetail": "You served 5.000 customers in your service center!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/38331e2b-14fb-483f-a8ff-84affd0b3ce6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First tasks",
+      "trophyDetail": "You have earned 10 trophies!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/197a84a9-097e-4219-8724-bb98c5c20f27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get the hang of it",
+      "trophyDetail": "You have earned 100 trophies!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/fb855591-6b2f-4a82-92ed-e9e8fed7fd12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trophy room",
+      "trophyDetail": "You have earned 1.000 trophies!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/442121eb-32f7-4964-a711-605cb28b16f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze",
+      "trophyDetail": "You have earned your first bronze medal!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/96286513-a440-400e-81ff-fb49563578f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze II",
+      "trophyDetail": "You have earned 5 bronze medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/bf3055b5-de61-451c-9d1f-ec57c9991e2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze III",
+      "trophyDetail": "You have earned 10 bronze medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/55fa9d21-0aac-4a5d-8410-15c762036f47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze IV",
+      "trophyDetail": "You have earned 25 bronze medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/0ceb8ea4-4627-40a1-9a0c-0440f7385fab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Advanced",
+      "trophyDetail": "You have earned 50 bronze medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/f7327f00-45f0-4f3a-8d5a-08898e9c21af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver",
+      "trophyDetail": "You have earned your first silver medal!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/5866b337-e64c-4416-8a8e-442c07b8e1db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver II",
+      "trophyDetail": "You have earned 5 silver medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/242db1c0-59bf-4474-b68c-c2efa528dd10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver III",
+      "trophyDetail": "You have earned 10 silver medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/008176b5-89ed-43a8-9bf1-9625c3bc6a78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver IV",
+      "trophyDetail": "You have earned 25 silver medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/a6220eec-7fb0-4715-8f8e-f1aa233dbe38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expert",
+      "trophyDetail": "You have earned 50 silver medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/596f5f12-0dac-4ac5-9fc9-ab466b998486.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gold",
+      "trophyDetail": "You have earned your first gold medal!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/aae95e66-06a9-4910-be1e-7f354457d99c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gold II",
+      "trophyDetail": "You have earned 5 gold medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/d24a8daa-2615-4dbc-8102-e914e2203f27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gold III",
+      "trophyDetail": "You have earned 10 gold medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/204f2f19-8cdf-4bd7-a5cb-e1c13c082d2c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gold IV",
+      "trophyDetail": "You have earned 25 gold medals!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47636_00/af5f42c7-41a4-4f3f-8d0e-dd45200e5a88.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

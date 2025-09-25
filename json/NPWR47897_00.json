@@ -1,0 +1,285 @@
+{
+  "npCommunicationId": "NPWR47897_00",
+  "title": "RollCats Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 30,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "RollCats Champion",
+      "trophyDetail": "Earned all trophies. You are now the Master of the Intergalactic Motocat Championship!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/05e2055b-6edb-4c47-805f-823fb0576cc8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fully Charged",
+      "trophyDetail": "All RollCats are upgraded to maximum crystal power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Galactic Explorer",
+      "trophyDetail": "You've unlocked every planet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Claws Out",
+      "trophyDetail": "The full squad is here — all RollCats unleashed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Purrfect Racer",
+      "trophyDetail": "Win all Gold Medals on every race type across all planets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Points Tycoon",
+      "trophyDetail": "Reach 100,000 Race Points.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mice Hunter",
+      "trophyDetail": "Catch 500 mice in Mousë Catch game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/8250cc0c-196b-41e2-acf9-25d5f53d9d06.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mice Tracker",
+      "trophyDetail": "Catch 100 mice in Mousë Catch mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Point Collector",
+      "trophyDetail": "Reach 20,000 Race Points.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20000"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Tharaxis",
+      "trophyDetail": "Collect all crystals from Tharaxis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Nyra",
+      "trophyDetail": "Collect all crystals from Nyra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Dravon",
+      "trophyDetail": "Collect all crystals from Dravon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Kryxal",
+      "trophyDetail": "Collect all crystals from Kryxal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Vetra",
+      "trophyDetail": "Collect all crystals from Vetra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Thalora",
+      "trophyDetail": "Collect all crystals from Thalora.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Solen 4",
+      "trophyDetail": "Collect all crystals from Solen 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of Ribos Prime",
+      "trophyDetail": "Collect all crystals from Ribos Prime.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystals of NeoTerra",
+      "trophyDetail": "Collect all crystals from NeoTerra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/423d3030-9e64-4aec-98d8-a448b88da3cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tharaxis Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Tharaxis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nyra Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Nyra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dravon Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Dravon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kryxal Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Kryxal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vetra Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Vetra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thalora Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Thalora.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solen 4 Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Solen 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ribos Prime Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on Ribos Prime.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "NeoTerra Racer",
+      "trophyDetail": "Win a medal in all 4 race modes on NeoTerra.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friendly Claws",
+      "trophyDetail": "Complete your first race in Catfight.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rolling Start",
+      "trophyDetail": "Complete your first race.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cat Reflexes",
+      "trophyDetail": "Catch all 7 mice in the first lap of Mousë Catch.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47897_00/a72440fd-bdb0-47b7-af75-fdadb8fbfa1b.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

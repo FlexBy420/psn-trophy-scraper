@@ -1,0 +1,329 @@
+{
+  "npCommunicationId": "NPWR45756_00",
+  "title": "Rust Console Edition PS5",
+  "platform": "PS5",
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": false,
+  "totalItemCount": 32,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Doesn't Rust",
+      "trophyDetail": "Earn all of the Rust trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/3bd2e47b-f042-4575-82fa-591ae366ef29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ex-hemp-lary",
+      "trophyDetail": "Harvest 500 Cloth.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/7ff31d07-2b91-419d-86d1-51ea40a11c83.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can You Smell That?",
+      "trophyDetail": "Harvest 5,000 Sulphur Ore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/d5568dbb-106b-4b47-86a7-a37d3a85d473.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heavy Metal",
+      "trophyDetail": "Harvest 25,000 Metal Ore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/e529417e-b885-4261-becc-2c39e3425953.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25000"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'm A Lumberjack and I'm Okay",
+      "trophyDetail": "Harvest 75,000 Wood.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/554bea4f-754c-488c-87e3-f9c05e0ab5c8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "75000"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Game Of Stones",
+      "trophyDetail": "Harvest 120,000 Stone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/d10dddbe-5f16-4b4c-95e4-8a7e9d099623.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "120000"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Well Travelled",
+      "trophyDetail": "Visit Monuments 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/c03b0b46-c707-4be8-8106-7c2a65650ef3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sleepless Nights",
+      "trophyDetail": "Spend a full night in each biome.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/b8830636-5803-4203-9707-b974f716b71c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting Your Five A Day",
+      "trophyDetail": "Eat five different fruits or vegetables in a single day.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/4ca0f133-cfba-4f18-a564-f7721971ef6e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Barrels O' Fun",
+      "trophyDetail": "Destroy 100 Barrels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/e2dbb39e-6f63-4e82-b638-bef2e9b09e63.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Incoming!",
+      "trophyDetail": "Loot all of the items from an Air Drop event supply crate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/a53e7ea4-a9bc-4383-b59d-36d29e6e3a92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now I Have a Machine Gun",
+      "trophyDetail": "Craft your first firearm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/93cb80f7-6ada-4c70-80fa-1960b95e26df.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "What Would MacGyver Do?",
+      "trophyDetail": "Learn 50 Blueprints.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/3141f049-cd89-479f-b060-e10caabb6c10.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gonna Take Pollution Down to Zero",
+      "trophyDetail": "Use the Recycler 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/155004f8-f368-4321-9a37-abcfe946376a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Am The One Who Knocks",
+      "trophyDetail": "Use a 'Timed Explosive' to destroy a locked door.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/05705452-551b-4ad2-bbb3-a2cb213b53c5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Long, Old Friend",
+      "trophyDetail": "Use a rock to breaking point.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/46d1135a-1d3c-49ed-9f09-41cde27a61af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Covered Up",
+      "trophyDetail": "Get fully clothed (all 7 clothing slots filled).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/3f9ad942-9ff6-4d39-aa1f-c2d0eb35877b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Home, Sweet Home",
+      "trophyDetail": "Build/Upkeep (24hrs) a base with a Workbench, Repair Bench, Research Station, BBQ and Sleeping Bag.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/29f59cb4-05a1-4e0b-9b9d-50c41e679879.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rusty Nightingale",
+      "trophyDetail": "Revive 5 wounded players.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/83ab0004-4e4a-4455-8ebb-fd2d2d7e7ec6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passing Notes In Class",
+      "trophyDetail": "Leave a sleeping player a 'note' in their inventory.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/2ae4aa5f-229e-420a-8a67-1db81ce90857.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That's Gotta Be A Red Card",
+      "trophyDetail": "Solve a medium tier monument puzzle and loot a Red Keycard from the final room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/63f7f64b-e0f8-4563-92a7-f5702c272296.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bear-Knuckle Boxer",
+      "trophyDetail": "Kill a bear without using a firearm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/9a5d26c6-cd21-4285-beb0-97beee861cbc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hunting Season",
+      "trophyDetail": "Kill at least one of every animal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/e1c8d067-582b-4a99-9868-45cc35dfba3b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stone Cold Killer",
+      "trophyDetail": "Kill another player using a rock.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/2f9a1e73-bee6-4890-b25d-bf1a23106028.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "It's Kill Or Be Killed",
+      "trophyDetail": "Kill 10 other players who are not sleeping.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/6b9a7675-c30b-4ffc-a9a9-05c3ad6e53f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yeah, Science!",
+      "trophyDetail": "Kill an AI Scientist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/e141a0e4-d455-4b87-8f79-d760cc9dd1fb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm King Of The World",
+      "trophyDetail": "Climb up to the top of the Dome.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/7ba22a9d-07ad-40b7-8092-fb4202dda079.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Welcome To Rust",
+      "trophyDetail": "Spend 5 days (in game) on an official server.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/14b86359-500a-40b2-9536-53921989f697.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Look On My Works, Ye Mighty, And Despair!",
+      "trophyDetail": "Craft 150 items in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/bcbe16ea-e5b8-4b83-b36a-e1972bd31bf8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'm A Scrapman!",
+      "trophyDetail": "Collect 10,000 Scrap.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/302278c5-b815-44d2-a1bb-b735778cd95b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enter Night, Exit Light",
+      "trophyDetail": "Kill a sleeping player while you are wearing a Metal Facemask.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/8b728d29-f4f9-4ba3-af38-5245b1bcfeb5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Eleven",
+      "trophyDetail": "Play on an official Double Eleven server at 11:11 (AM or PM).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45756_00/ab4d6125-24b5-4247-a801-26ea7222ad53.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    }
+  ]
+}

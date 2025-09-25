@@ -1,0 +1,509 @@
+{
+  "npCommunicationId": "NPWR47175_00",
+  "title": "CarX Street",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Legend of the Streets",
+      "trophyDetail": "Get all the trophies in CarX Street.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/4caf10b1-f665-4859-b2f9-103a4986161b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exploration Beginner",
+      "trophyDetail": "Travel 1,500 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/cb9cd08a-9c89-41fc-90f3-96e9f0339500.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1500"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adventure Seeker",
+      "trophyDetail": "Travel 3,000 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/ec676178-7c30-4ad2-b7e5-2b1165c7fad6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3000"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror of the Roads",
+      "trophyDetail": "Travel 7,000 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/418ddf08-a482-47ad-8d37-8f36cab05ef4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7000"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginner Mechanic",
+      "trophyDetail": "Modify all engine parts to at least sports class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/4f8d5c00-d673-4622-9f64-476c5dab6ed8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tuning Master",
+      "trophyDetail": "Modify all engine parts to at least elite class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/e53fe429-41d7-4451-9573-5a3f43391008.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rebuild Legend",
+      "trophyDetail": "Modify all car components to at least elite class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/3221cdda-d962-439a-b96b-db47f3e298fc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recruit",
+      "trophyDetail": "Win any 10 races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/46eead5a-3cf0-4b43-92d8-87123a681d13.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Competitor",
+      "trophyDetail": "Win any 50 races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/5acd86df-1eac-46c1-939f-7b958b3d99fa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend of the Asphalt",
+      "trophyDetail": "Win any 120 races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/ee3e365a-ea47-4a01-b241-df99b1ffd65b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "120"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#DriftStarter",
+      "trophyDetail": "Drift 150 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/81b74bca-2b6f-43ab-a122-10131cd6f599.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#DriftExplorer",
+      "trophyDetail": "Drift 300 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/d95b36e5-6289-4373-a558-072f62cdbb37.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#ILoveDrifting",
+      "trophyDetail": "Drift 800 km",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/0403e20e-eb5c-49ce-8a4f-d1bc5be4d5d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "800"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#ToTheTop",
+      "trophyDetail": "Score 50,000 in the points counter in races and free rides",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/5f594551-93d1-4057-85de-f769c0429c92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "#Zeal",
+      "trophyDetail": "Score 80,000 in the points counter in races and free rides",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/010bac4f-da13-4908-9753-6277063dd567.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "80000"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "#King",
+      "trophyDetail": "Score 100,000 in the points counter in races and free rides",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/26d28595-88aa-46b0-94dc-7b4b05b932c7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Wild Juniors",
+      "trophyDetail": "Complete the Wild Juniors club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/a29ca278-bb99-4e54-b66b-ac93bcf6a44e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Union Underground",
+      "trophyDetail": "Complete the Union Underground club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/139a85a6-7792-4baa-b0d9-7b6e0813f747.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Kanjo Spirit",
+      "trophyDetail": "Complete the Kanjo Spirit club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/0da11254-ec93-441f-bca2-4a3d6bad25d7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Burnout Rangers",
+      "trophyDetail": "Complete the Burnout Rangers club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/0459e26b-908e-4e97-895d-6ad2d4a5a29b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Street Hunters",
+      "trophyDetail": "Complete the Street Hunters club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/fecc51d4-ca9c-4529-8ee9-fa38d136ad8a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Savage",
+      "trophyDetail": "Complete the Savage club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/849e029c-527b-4787-ac4f-91ccf979fe1a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Falcon Outlaws",
+      "trophyDetail": "Complete the Falcon Outlaws club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/273bfc07-0642-4391-8a9f-71d3719964c9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Drift United",
+      "trophyDetail": "Complete the Drift United club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/0bb1a33f-7172-4e2b-a82f-ad57ab77dd4b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Pythons",
+      "trophyDetail": "Complete the Pythons club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/dfbde4b6-7922-4a39-a0e1-5972b49a1493.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Road Runner",
+      "trophyDetail": "Complete the Road Runner club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/1dfce564-2242-4d2c-90fd-781ecbcc49a3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Speedline Syndicate",
+      "trophyDetail": "Complete the Speedline Syndicate club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/13bce5e5-2edb-49d8-b9fb-088ea2ea3a55.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#21 Tribe",
+      "trophyDetail": "Complete the 21 Tribe club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/8007e601-91b2-4a96-8c08-684c9dd1bb6a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Western Sierra",
+      "trophyDetail": "Complete the Western Sierra club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/574ccb3d-e254-4892-966a-a23f434af011.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#Black Lotus",
+      "trophyDetail": "Complete the Black Lotus club",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/d23ee848-33e2-4d7f-8c2d-a07e3098b7e2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite Initiation",
+      "trophyDetail": "Participate in your first Elite Race",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/d27e8ebc-30fa-43b1-934f-c84617621f54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "First Challenge",
+      "trophyDetail": "Win 5 Elite Races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/d0be9a7c-3c3f-4b44-9393-46592989b4c3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master",
+      "trophyDetail": "Win 20 Elite Races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/51a713ea-d287-40e3-904d-048b1ca6883f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion",
+      "trophyDetail": "Win 60 Elite Races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/4679d583-ba67-4d5d-ab1e-68dc866df74b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite",
+      "trophyDetail": "Win 100 Elite Races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/366a0150-ce31-4108-97d8-ed9d27ae5c1c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On Your Mark",
+      "trophyDetail": "Complete a Single Race on at least R6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/7089067c-3315-44e8-82d9-78f9b2f08754.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get Set",
+      "trophyDetail": "Complete 10 Single Races on at least R4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/66e01529-c371-4eb2-94e7-e21dcea2a298.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Is Money",
+      "trophyDetail": "Complete 10 Single Races on at least R2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/593d63a7-182e-4b90-95f3-2981d644c35d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "High-Level",
+      "trophyDetail": "Complete 100 Single Races on at least R1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/109eefc4-4fce-45ca-ad25-71afc54d848b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Step",
+      "trophyDetail": "Buy 5 cars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/bf9482c1-7d69-41c3-ae81-d4642e7baeb1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Variety Lover",
+      "trophyDetail": "Buy 15 cars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/e2d0b037-5e73-4b9d-bbca-be8475f47c70.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collector",
+      "trophyDetail": "Buy 30 cars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/c2f5dfbd-7067-4a4b-b0f4-7546d7010cc0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Connoisseur",
+      "trophyDetail": "Buy 50 cars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/03cc36dc-65ed-4085-a9fe-52cf0d59b45f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Legendary Collector",
+      "trophyDetail": "Buy 70 cars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/641cd5d9-c689-4f7d-8f3f-cb28971a04a1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "70"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Height Lover",
+      "trophyDetail": "Stay in the air for 8 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/aa7e4cc8-9a27-4f80-aa47-be1b7f38d7eb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "8"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Skies",
+      "trophyDetail": "Stay in the air for 15 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/68c1f0dd-2f0b-40e5-ba07-8aba76402110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flight Master",
+      "trophyDetail": "Stay in the air for 20 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/8cbcbfe2-b8bf-4c69-9632-994943bd475b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Dash",
+      "trophyDetail": "Reach a max speed of 200 km/h",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/5b236b3a-3a66-4470-a3c3-0fe2f50846d8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speedy Maneuver",
+      "trophyDetail": "Reach a max speed of 300 km/h",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/26d1bdea-f6fa-4201-9eaa-498fb7e5cca8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Master",
+      "trophyDetail": "Reach a max speed of 400 km/h",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47175_00/282933f6-f815-4c1d-bde3-5ae33664bf61.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "400"
+    }
+  ]
+}

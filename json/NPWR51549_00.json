@@ -1,0 +1,243 @@
+{
+  "npCommunicationId": "NPWR51549_00",
+  "title": "Simarket Cloth Store Base",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 24,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Fashion Empire",
+      "trophyDetail": "Unlock all achievements and rule the fashion industry!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/cb240ceb-e746-4110-9450-8f3c8580ade1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smart Shopper",
+      "trophyDetail": "Buy 25 boxes of goods",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/7d526dc5-e7eb-4564-915d-8afe621679af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bargain Hunter",
+      "trophyDetail": "Buy 100 boxes of goods",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/d9fdc492-5edb-4467-b6cb-26ce5e8f7a4a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Super Shopper",
+      "trophyDetail": "Buy 250 boxes of goods",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/dc637cee-2f47-4e47-bf69-d6af579bdb65.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Checkout",
+      "trophyDetail": "Scan 50 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/075511fa-b888-4c38-9eac-22c574efebe2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Efficient Cashier",
+      "trophyDetail": "Scan 500 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/a7e9c281-a467-4fa2-9016-49496dc51380.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Lightning Scanner",
+      "trophyDetail": "Scan 1000 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/f155e0d7-c65d-43c1-9fb3-7fe576cff70f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Price Setter",
+      "trophyDetail": "Change the price of 25 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/19a8155a-5d58-4d69-b97d-9eb6049c4c78.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pricing Expert",
+      "trophyDetail": "Change the price of 125 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/847d27ff-75b7-4d3f-874f-390e07b53b1b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "125"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master of Prices",
+      "trophyDetail": "Change the price of 250 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/5d7aeff9-902b-47ad-8946-bf22b7852708.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Helping Hand",
+      "trophyDetail": "Serve 25 customers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/d90c9902-eaca-45ed-bc67-b09b9d909fcf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Customer's Favorite",
+      "trophyDetail": "Serve 75 customers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/8603747d-605d-4b02-9c05-8b0f34d70ff3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "75"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Customer Service Legend",
+      "trophyDetail": "Serve 150 customers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/bacf4a5d-3361-46bb-959b-5b4fde14c440.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "150"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash Taker",
+      "trophyDetail": "Dispose of 25 boxes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/97b14a07-9754-4dcf-bd59-0f6209cb38f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Garbage Guru",
+      "trophyDetail": "Dispose of 100 boxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/96aaf283-5b99-4e7c-a485-77e75bb2d03d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Additions",
+      "trophyDetail": "Unlock 5 new items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/2297adb8-9233-4d14-88a8-1ee96bf3b7ba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Inventory Investor",
+      "trophyDetail": "Unlock 20 new items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/2a2a8408-d216-4201-8324-5339168574cd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fashion Mogul",
+      "trophyDetail": "Unlock 50 new items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/63d45807-7cee-4ea7-9141-b6d010f6b3ec.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Cashier",
+      "trophyDetail": "Recruit your first cashier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/16d4ff58-1aa6-4de0-aa1a-a36ba83e6e5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Growing Team",
+      "trophyDetail": "Hire a second cashier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/a6d46c83-01d5-466e-9eb9-9471428a7bef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fully Staffed",
+      "trophyDetail": "Hire a third cashier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/1dfeeb0a-6a8b-4561-a2c1-ec2b5d6137a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Pains",
+      "trophyDetail": "Complete your first store expansion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/6a7462c1-408a-4499-8721-360cefe86aa2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expanding Horizons",
+      "trophyDetail": "Complete your second store expansion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/75c204cd-bc23-46b0-a7d3-1e3b3e871384.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Retail Giant",
+      "trophyDetail": "Complete your third and biggest expansion yet!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51549_00/32160730-a9f9-4b5b-86ed-a187ab631e26.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

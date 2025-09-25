@@ -1,0 +1,469 @@
+{
+  "npCommunicationId": "NPWR43055_00",
+  "title": "Commandos: Origins",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 51,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Commandos Platinum Trophy",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/8F9907699697374612E6FEADE535B74657BF9A9B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Daybreak (Recruit)",
+      "trophyDetail": "Complete 'Operation Daybreak' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/260A17E85E5CFF6975BDBD0AED57CEC8295EF617.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Daybreak (Soldier)",
+      "trophyDetail": "Complete 'Operation Daybreak' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/E5B7317083F9681599A26386E62F80C0ABD12FFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Daybreak (Veteran)",
+      "trophyDetail": "Complete 'Operation Daybreak' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3C956AAD7CB2FA9EC7C3A4D9930A5F38648A7470.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Falchion (Recruit)",
+      "trophyDetail": "Complete 'Operation Falchion' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/4D756F0C2FE97A2AEC94CD860C553F0749A38DE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Falchion (Soldier)",
+      "trophyDetail": "Complete 'Operation Falchion' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/AB93931919FED44D450F1C86CB727EC4351FDA31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Falchion (Veteran)",
+      "trophyDetail": "Complete Operation Falchion on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/54D1557B2C679A1C297F2E2806FADCB987288CC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Nightfall (Recruit)",
+      "trophyDetail": "Complete 'Operation Nightfall' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/5ADC7A600B9F2D6AE8C9BF463BF69440F037418D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Nightfall (Soldier)",
+      "trophyDetail": "Complete 'Operation Nightfall' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/4709432E7551F6097FEF5EE6063431FDD41EF6E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Nightfall (Veteran)",
+      "trophyDetail": "Complete 'Operation Nightfall' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/DC9F553CB3C94DC51587C653863DE8A4AE243F31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Cleaver (Recruit)",
+      "trophyDetail": "Complete 'Operation Cleaver' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/B939F081513FBC514C2BCE63698B73437D218DDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Cleaver (Soldier)",
+      "trophyDetail": "Complete 'Operation Cleaver' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/6E7B58604CEDF038162F564EAAFF0243A9395BEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Cleaver (Veteran)",
+      "trophyDetail": "Complete 'Operation Cleaver' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/8E5545ADA2B45A7C7AA44D62F6A465DC705DD9F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Rapture (Recruit)",
+      "trophyDetail": "Complete 'Operation Rapture' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/98562EDF581D6B77F3D1CAC0DFECABD2FB00AF24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Rapture (Soldier)",
+      "trophyDetail": "Complete 'Operation Rapture' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/5FE8C63CB1A42B516B85BFB7C6D604F55B070156.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Rapture (Veteran)",
+      "trophyDetail": "Complete 'Operation Rapture' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/8D1111E6D065571F94D4EEB2BA80996CAA9BBC94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Blindfold (Recruit)",
+      "trophyDetail": "Complete 'Operation Blindfold' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/29C3395C190CE8FC884FF0434061D6754A265999.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Blindfold (Soldier)",
+      "trophyDetail": "Complete 'Operation Blindfold' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3125F37D55D335477CC30769CAC87C7C3046F9A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Blindfold (Veteran)",
+      "trophyDetail": "Complete 'Operation Blindfold' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/5181FF46F83AC5D066526D70D6BBA2A94333C5F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Magpie (Recruit)",
+      "trophyDetail": "Complete 'Operation Magpie' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/FBDE8142F447967C3FE6C7B1718F4A94E0EBB256.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Magpie (Soldier)",
+      "trophyDetail": "Complete 'Operation Magpie' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/8CF34B255B210694F20B64D9A0623DFD66D2F207.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Magpie (Veteran)",
+      "trophyDetail": "Complete 'Operation Magpie' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/CF65F29B74C931BADAE9D422960CDA5BB197E9F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Trident (Recruit)",
+      "trophyDetail": "Complete 'Operation Trident' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/9737A19F7684B588A05B885ACC920F453FDD4BF4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Trident (Soldier)",
+      "trophyDetail": "Complete 'Operation Trident' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/A97A98952FE51C86A44B0FF4FFBEC857C6613D7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Trident (Veteran)",
+      "trophyDetail": "Complete 'Operation Trident' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/6E09DCF473175C8118E0B6FC832BF6321983FF3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Aries (Recruit)",
+      "trophyDetail": "Complete 'Operation Aries' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/E123C9ED9BD180D6B511278AACC049517351352B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Aries (Soldier)",
+      "trophyDetail": "Complete 'Operation Aries' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/25A15E600909103A49784ED7F12C98B4ECA764EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Aries (Veteran)",
+      "trophyDetail": "Complete 'Operation Aries' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/675DAFCB9BEA972514CFB51943C53CE6D9363AE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Harbinger (Recruit)",
+      "trophyDetail": "Complete 'Operation Harbinger' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/FDECFCD04547087C4CE8161E2F75FA1A5955B39A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Harbinger (Soldier)",
+      "trophyDetail": "Complete 'Operation Harbinger' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/7B1D30DBEAB931565AE54F93B739F48A9E0FB5B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Harbinger (Veteran)",
+      "trophyDetail": "Complete 'Operation Harbinger' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/CEA3A55B9C2876EE1D55D3F502BB0EC7B5774377.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reuinte (Recruit)",
+      "trophyDetail": "Complete 'Operation Reunite' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/1E77472C20A8612273DBC4FD7DE7E762A0F0C32E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reunite (Soldier)",
+      "trophyDetail": "Complete 'Operation Reunite' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/4EF692747DB75C2BEA7F12589ABE246717937A50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reunite (Veteran)",
+      "trophyDetail": "Complete 'Operation Reunite' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/C900855AD743247B06EE9DE96FB0BFDC04FE0E0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Wave Breaker (Recruit)",
+      "trophyDetail": "Complete 'Operation Wave Breaker' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/71E2913CE2D9B596D1F096D9B3C8D6EE90CA7875.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Wave Breaker (Soldier)",
+      "trophyDetail": "Complete 'Operation Wave Breaker' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/156B244DD66206E85DCDD9F50EB5DFEE41F96126.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Wave Breaker (Veteran)",
+      "trophyDetail": "Complete 'Operation Wave Breaker' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3CF0CD089781A9D81408DAAF5164D6BDF9C6489D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Guardian (Recruit)",
+      "trophyDetail": "Complete 'Operation Guardian' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/641A9B61AD2A90424561B8FCA5569676DCA0A557.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Guardian (Soldier)",
+      "trophyDetail": "Complete 'Operation Guardian' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/43814E19C56B4DADC597EC7AC3115C02343F9982.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Guardian (Veteran)",
+      "trophyDetail": "Complete 'Operation Guardian' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/A1F08B2E4D7EA35E767306A12FE68CD16D30C3E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reckoning (Recruit)",
+      "trophyDetail": "Complete 'Operation Reckoning' on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/0884175E86AAA7768C398BF4A8225FB2FB469AE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reckoning (Soldier)",
+      "trophyDetail": "Complete 'Operation Reckoning' on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/8FCC97C25851CAE4C8F117B0A94D7C63F607600C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Reckoning (Veteran)",
+      "trophyDetail": "Complete 'Operation Reckoning' on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/E5759F670AD2902800DE864F962C3E12F07EFF8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operational Success",
+      "trophyDetail": "Complete all operations on Recruit (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3156ED567C7D2F6BDA7F3777FEDD68A0E49CCCFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Operational Excellence",
+      "trophyDetail": "Complete all operations on Soldier (or higher) difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/36B7A3C97586571D827EBD392DAC2F04D60CA2D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Operational Perfection",
+      "trophyDetail": "Complete all operations on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/287EA5461630298D70F46D13674D4C5BFA8616AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Knock Them Out With Kindness",
+      "trophyDetail": "Complete all operations without killing any German enemies (excluding mandatory kills)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3E690198C3116CB65BC65C07368D9233FAB9EE9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Stone Left Unkilled",
+      "trophyDetail": "Kill every German enemy in every operation",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/BF65AF3358490DB14C644D630B4478DB632349A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shadow Tactics",
+      "trophyDetail": "Complete 'Operation Reckoning' without raising an alarm on Soldier or Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/94F2BDBC8047F58F5BBAEE8D13C91DB4036F35AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Panzering To The Crowd",
+      "trophyDetail": "Use the tank during 'Operation Harbinger'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/FC2547552E36D3BCB2A782DC6CA3E553CA0F5000.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "If The World Were A Village",
+      "trophyDetail": "Complete operation 2-14 despite setting off a global alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/12F8EDEEECDBD94931B052C1C25C9C4BC06A8DE0.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

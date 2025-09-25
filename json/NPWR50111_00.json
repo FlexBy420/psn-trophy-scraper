@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR50111_00",
+  "title": "Knock on the Coffin Lid",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Coffin Lid",
+      "trophyDetail": "You've done everyting!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/24a75d4a-faa4-4692-b92d-f6b1756161f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Are you sure you're a newbie?",
+      "trophyDetail": "Kill 2 demons in one battle during the tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Only One Will Survive",
+      "trophyDetail": "Kill Mortis and Millenis in the same game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/37bf860f-5f02-49d3-a22b-16e681aed601.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Happiness is in oblivion",
+      "trophyDetail": "Playing Bjorn, help Magnus and Eddie forget each other.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Deadly Skill",
+      "trophyDetail": "Kill an enemy without playing a single attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Who the hell are you?",
+      "trophyDetail": "Defeat the Millennis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "What am I doing here?",
+      "trophyDetail": "Bring any ally to the final battle (in story mode).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Triple distillation",
+      "trophyDetail": "Purify the Mite ichor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Annihilation Cannon",
+      "trophyDetail": "Deal more than 1000 damage with one strike on any hero.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pinata",
+      "trophyDetail": "Knock out at least 400 coins in a battle with Golden Buffalo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The cup is yours",
+      "trophyDetail": "Become the champion of the Arena while being a vassal of Batu the Smart.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "It Wasn’t Me",
+      "trophyDetail": "Playing as Vanadis, don’t make the final decision, which results in Mortis dying.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You are now dressed as a fiend",
+      "trophyDetail": "Collect a full set of Batu the Smart's armor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/071deccf-265f-4b6e-85c1-eadc71188303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oh well, here we go again.",
+      "trophyDetail": "Die.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not friends anymore",
+      "trophyDetail": "Defeat the Archdruid.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge accepted!",
+      "trophyDetail": "Defeat the Champion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killer killer",
+      "trophyDetail": "Kill the Cutthroat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trush-teller",
+      "trophyDetail": "Defeat the Cult Keeper.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "See and not die",
+      "trophyDetail": "Defeat the Mites Queen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit to the snout",
+      "trophyDetail": "Defeat the Thing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bestiary",
+      "trophyDetail": "Defeat the Armadillo Maarshael",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stronger than mighty, smarter than clever",
+      "trophyDetail": "Defeat the Maggoth and Gruthalle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You asked for it",
+      "trophyDetail": "Defeat the Supreme Goblin with a stick.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We never had a chance to talk",
+      "trophyDetail": "Defeat the Chief of the Berserkers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Instant karma",
+      "trophyDetail": "Defeat cocky brothers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Human flesh not tasty!",
+      "trophyDetail": "Defeat the Chaser and his Troll.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Play it safe",
+      "trophyDetail": "Play the Jab card 28 times in one battle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сonquering a lie",
+      "trophyDetail": "Defeat the Source of Lies embodied in Sigismund's guise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сonquering a fear",
+      "trophyDetail": "Defeat the Source of Fears embodied in Sigismund's guise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Сonquering a greed",
+      "trophyDetail": "Defeat the Source of Greed embodied in Sigismund's guise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Last meal",
+      "trophyDetail": "Kill Anthony after he eats his ally.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnanimous",
+      "trophyDetail": "Leave the Champion's squire alive.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whose is this?",
+      "trophyDetail": "Find the nameless thing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Cast Fist",
+      "trophyDetail": "Playing as Vanadis, spend 30 Connection in a single action.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A fine day to exit",
+      "trophyDetail": "Die from ghostly mushroom poisoning.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy means reliable",
+      "trophyDetail": "Start a battle with 6 Burdened cards in the deck.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slam the boogers",
+      "trophyDetail": "Kill both mosquitoes by one hit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With aided eye",
+      "trophyDetail": "Playing Bjorn, find out the secret of the caravan driver Nazim.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sommelier",
+      "trophyDetail": "Drink at least 20 potions of any type in one game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drunken master",
+      "trophyDetail": "Drink three Elven Ales in one battle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden eye",
+      "trophyDetail": "Give the court mage the eye of Golden Buffalo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explosive venture",
+      "trophyDetail": "Kill the Brother Commander, leaving him without armor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The lycan's creed",
+      "trophyDetail": "Playing Bjorn, kill all the dwarves without being noticed in the ‘Hide and Seek’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "The Lucky One",
+      "trophyDetail": "Playing as Vanadis, don’t make the final decision, which results in Mortis surviving.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/37bf860f-5f02-49d3-a22b-16e681aed601.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "That's all folks",
+      "trophyDetail": "Defeat Mortis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/37bf860f-5f02-49d3-a22b-16e681aed601.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Knock, Knock...",
+      "trophyDetail": "Canon Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The End. Is Everyone Happy?",
+      "trophyDetail": "Non-Canon Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Brave New World",
+      "trophyDetail": "Perfectly Good Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Couldn’t Care Less About Your Predictions",
+      "trophyDetail": "Kill the automaton without fulfilling a prophecy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bloody sport",
+      "trophyDetail": "Playing Vanadis, place a bet in the ‘Dishonor’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Catch me if you can",
+      "trophyDetail": "Playing Bjorn, catch the goblin four times in a row in the ‘Last Flight’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Just Tried to Help",
+      "trophyDetail": "Inflict 10 Frostbite on a target that has 40 Burning inflicted.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The enemy of my enemy",
+      "trophyDetail": "Save the Brothers of Fire from imminent death in the ‘Taking Care of Ancestors’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder",
+      "trophyDetail": "Find the right path in the ‘Gone Astray’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Shall Not Pass",
+      "trophyDetail": "Playing as Mortis, say \"I am the servant of the secret fire...” in the Golem event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron on the Outside, Iron on the Inside",
+      "trophyDetail": "Playing as Vanadis, accumulate 100 block on Prince.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diligent listener",
+      "trophyDetail": "When playing for Bjorn (Lunar Druid), complete all the tasks from the Voice of the Stars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a whistle",
+      "trophyDetail": "Find out the purpose of the mysterious item from the ‘Tumbleweed’ event.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50111_00/e457c56d-8bac-44dc-9012-aa6e0a104779.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

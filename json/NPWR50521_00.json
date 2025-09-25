@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR50521_00",
+  "title": "System Shock 2: 25th Anniversary Remaster",
+  "platform": "PS4",
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Cybernetic Grace",
+      "trophyDetail": "Unlock all Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/70CC59AD854810AE491C727BCFFFDD9992D521AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I want you!",
+      "trophyDetail": "Choose the Marines career path (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/FD883827260B6AA2596CBD59B81505CE902BDFE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Finding your sea legs",
+      "trophyDetail": "Choose the Navy career path (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/1B46B4411385A0C32D7CF5B82214DD2B7B7112B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Expanding your mind",
+      "trophyDetail": "Choose the OSA career path (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/3913A09A1C7FABD052931EEBC22E82B62FB8204A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lock and Load!",
+      "trophyDetail": "Reach Level 6 Standard Weapons skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/5FAE3EBAB4D59AC534FF7959DE1AF3E3DD55CEDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Powered up!",
+      "trophyDetail": "Reach Level 6 Energy Weapons skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/46B6D1A2F1535598F02050B91FE785B45DB77761.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bigger is better!",
+      "trophyDetail": "Reach Level 6 Heavy Weapons skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/DC778DE680302452D07EADA8D06B912779C24D87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "How extraordinary",
+      "trophyDetail": "Reach Level 6 Exotic Weapons skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/29BF55F9989812461AE009363CF14EE85BC3A512.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The right tool for the job",
+      "trophyDetail": "Kill a robot with the Armor-Piercing rounds (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/0950B13F273F4248C9E8A52B8009313E94CE21FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chop suey",
+      "trophyDetail": "Kill an enemy with the Laser Rapier (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/2FBD4897EEE56EF6BDF823C3342CF6FCBC5E1E60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunning",
+      "trophyDetail": "Kill an enemy that is stunned with the Stasis Field Generator (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/25CBD53984C01A09D116625E0D38AB4DCCE9D5F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the max!",
+      "trophyDetail": "Upgrade any weapon to Level 2 Modification (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/C694E641CE85E83E3E5B8667351BE47A4AA335FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overkill",
+      "trophyDetail": "Kill an enemy using a Level 2 modified Fusion Cannon's Death Mode (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/CCE913C4375739F9664A78E5F8271CF9F3C09949.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire and forget",
+      "trophyDetail": "Kill an enemy using the Annelid Launcher (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/1C68DA3F0CB90AABE77AF59A3AF460A9DA443E0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look at you",
+      "trophyDetail": "Reach Level 6 Hack skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/A0403F3B0E84E91511C36E2EEB6F612FEBEAC975.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mr. Fix it",
+      "trophyDetail": "Reach Level 6 Repair skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/1AE3C1420B5FA964D9531986D22D961A5DEB72FD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Custom Firmware",
+      "trophyDetail": "Reach Level 6 Modify skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/7AD1D7271CDBF380AF48D92442EA002587616B68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I look after my things",
+      "trophyDetail": "Reach Level 6 Maintain skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/293BAEAA1E3F88A25B516381F8990E224DF43707.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where's my microscope?",
+      "trophyDetail": "Reach Level 6 Research skill (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/4987B554FDA7C7C8E386D789E12CB4C4014998C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unsigned code",
+      "trophyDetail": "Turn the security system off after alerting The Many to your presence (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/F924B9AC401931A3A494435CC3BF7771CF78AB64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It takes two to tango",
+      "trophyDetail": "Hack a turret while the security is not offline (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/FE39FD1AED4D0A320B56568B2B0B20A5B9E04999.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power up with a paper clip",
+      "trophyDetail": "Hack a GAMEPIG Handheld game console (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/A4E0AD6D92F86B3CCF8A87F03BF6F054A5147770.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redirected",
+      "trophyDetail": "Use Kinetic Redirection to pull an out-of-reach item (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/B4C125765C1BB1E2E9A474761A398CC629BE5F30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I have the power!",
+      "trophyDetail": "Recharge an energy-based item or weapon with Electron Cascade  (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/825FF2996E44DA84ABE9F182F73BB295FD3C59AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You can't see me",
+      "trophyDetail": "Kill an enemy while using 4th tier Photonic Redirection power (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/8FF0B9B2B5025A92C6FC267C41D8ED8FC7A98D8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Remote control",
+      "trophyDetail": "Hack psionically using the 4th tier Remote Circuitry Manipulation power (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/6EA3CE040B72A85E6DAA2B4D2E01B8446AFF7951.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vampiric tendencies",
+      "trophyDetail": "Drain a non-robotic target of health using the 5th tier Soma Transference power (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/10AE90AC486D8876BF6008B4D55B998818B1A38D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strange bedfellows",
+      "trophyDetail": "Using Imposed Neural Restructuring, make an enemy kill another enemy (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/ED402B08B21631C138E5726F74B6B820C49F923D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Strongman",
+      "trophyDetail": "Reach Level 6 Strength (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/4ED54379BA3320A5C4F05E29AE9BC3CA226F000C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I can take it",
+      "trophyDetail": "Reach Level 6 Endurance (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/E8493E6671212DC494DAAAFF4F976C403E62DB05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Free your mind",
+      "trophyDetail": "Reach Level 6 Psionics (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/81164CF22DBE4CA489C4DA410E5F3BFDA8A673F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quicksilver",
+      "trophyDetail": "Reach Level 6 Agility (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/6073F56B14AFF9A9FC3BD3FF74847DE39D844189.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cyberpunk",
+      "trophyDetail": "Reach Level 6 Cyber Affinity (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/79DA7C1C3A9DB697CF06F204B5AD1A2F81F170FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Little Rebellion",
+      "trophyDetail": "Disobey orders (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/382BEBBB42BC734AC693DAAAEB6866F71C1D7F41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm a lover...",
+      "trophyDetail": "Visit every one of the Love Simulation rooms (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/0063326C3942061798478D4DA9230BB4B90EC2A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Archivist",
+      "trophyDetail": "Find every Audio Log (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/786746B988ECCC73D48B5E5DB79FB70411F5DCA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Service Pack",
+      "trophyDetail": "Apply 4 OS upgrades (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/843E380CAB47A6897ADD51F5DE093A7746F28894.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Join us?",
+      "trophyDetail": "Receive the secret e-mail (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/614103B9163EC203B5D0B997727095EC38ECAE7E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Welcome aboard, soldier",
+      "trophyDetail": "Make it out of Cryo Recovery B and into Medical (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/19C0C7F7832E334D8B6BE85609160715A8A824C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Into the guts",
+      "trophyDetail": "Reach the Engineering Deck through the Medical maintenance access (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/A583383B28C390353FF1F46364A85C34BB3AA2FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hard Reboot",
+      "trophyDetail": "Restart the Engine Core on the Engineering Deck (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/22EC45E49350AA4B2319768F0A29E38EE9EB91B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Antitoxin",
+      "trophyDetail": "Clear the elevator shaft of the bio-material (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/4029C22B9E0BF0461D1EE4C2D651013443A00ED0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Backdoor attack",
+      "trophyDetail": "Reprogram the three Simulation Units on the Command Deck (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/E4358128AEF1436B3BFA9898FAAC66C1F7F86332.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Primary Data Loop Compromised",
+      "trophyDetail": "Weaken Xerxes (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/EDA99D79C6BBD985D65F7B51A5207C4FD4BFA818.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mind Blowing",
+      "trophyDetail": "Destroy the Brain of the Many (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/712989E23010831999E44106991640F7C3B53189.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Egg Hunt",
+      "trophyDetail": "Destroy all 16 Black Eggs (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/ED6FA6B722BAB4C94524707B4429EA3BE675B7BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Captain",
+      "trophyDetail": "Complete the game as a Marine (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/BD1D8B557CE4BCA4E5F0D0F5ADDCD8D77DE2DA4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Striker",
+      "trophyDetail": "Complete the game as a Navyman (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/6E6D8D19B72FA2A88BE6CAA80FFAFB6F830A8635.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mastermind",
+      "trophyDetail": "Complete the game as an OSA Agent (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/AFD2A2B217DFA7143C78C3AA198C2E05E1F47E21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Deus Ex Machina",
+      "trophyDetail": "Complete the game from start to finish on Impossible difficulty (Singleplayer Only)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50521_00_0047FE8048A8F34A6CFE001D7710B8A74F5954D440/380D83C4929F13B68AD5237D0FCEC4B9C31ABEA4.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "npCommunicationId": "NPWR49250_00",
+  "title": "Maniac Trophy",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 57,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Platinum Maniac",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/7390c8de-c2e8-48b5-80bd-90aa832c62ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Messiah",
+      "trophyDetail": "Enlist 10 strangers in your Maniac Work",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6cd5fc2e-5439-43cb-876b-634fdb81c2fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clown unlocked",
+      "trophyDetail": "Unlock a new character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/3ce2e14c-6ee2-4447-9fd8-23cb3a0a6c04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broker unlocked",
+      "trophyDetail": "Unlock a new character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/8c208d36-bab4-41df-8441-70d1c6a35522.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Girl unlocked",
+      "trophyDetail": "Unlock a new character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/2dad5b9a-f946-4a9c-8b80-b88f026c9be7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmonaut unlocked",
+      "trophyDetail": "Unlock a new character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/dc034e73-477a-4e56-998e-fb7a08e25b91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot-dog unlocked",
+      "trophyDetail": "Unlock a new character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/7d638238-24c9-45fe-b811-f9fa6a7ab046.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Santa Nuke",
+      "trophyDetail": "Nuke the city as Santa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/61c07dfd-f181-4414-ae71-62598deac837.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All characters unlocked",
+      "trophyDetail": "Unlock all the characters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/4acec155-def8-4f22-9a63-528d31f9020d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chain Explosion",
+      "trophyDetail": "Explode 2 cars in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6de8cd03-e2b0-417e-ae18-28dcb21a33d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chain Explosion X5",
+      "trophyDetail": "Explode 5 cars in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/ac0d8b61-fde1-4065-8e08-880d3651fe23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chain Explosion x10",
+      "trophyDetail": "Explode 10 cars in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/f8f20342-5b5e-4a4c-87e3-21e309bebfd0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old MacDonald's",
+      "trophyDetail": "Steal a tractor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/0776d699-3e48-4c4c-a547-e1fe25f9da57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ground Zero",
+      "trophyDetail": "Steal a bulldozer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/7f7eacdf-e0f5-441c-9fcb-6bd08435f54a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flat Earth",
+      "trophyDetail": "Steal a roller",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/f7cd5292-d14c-4217-bb79-55c8f995ac00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carnival Of Death",
+      "trophyDetail": "Steal a bumper car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/98c98ec1-e89f-4ce0-b56d-74837f43327c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upperclass Madness",
+      "trophyDetail": "Steal a golfcart",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6b360fde-6ca4-4abe-acfa-ab5ccf612568.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Private War",
+      "trophyDetail": "Steal a tank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/839ae2c0-130d-40b6-abd0-d5996b513951.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Military Property",
+      "trophyDetail": "Steal a LAV",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/259d3944-52f5-47b0-a86d-5734b3764846.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Formula One",
+      "trophyDetail": "Steal a F1 car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/05c991a1-a78f-4fe6-8d3b-f655045f26b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Collar Madness",
+      "trophyDetail": "Steal a forklift",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/82a2d97f-abff-47c1-86be-f99f8ac42522.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky Captain",
+      "trophyDetail": "Steal a helicopter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/aaf3f8d8-8e0b-429e-becb-c1a5397afce5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jet Captain",
+      "trophyDetail": "Steal a jet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/154b4bc5-2422-4757-9d45-b85e22eaddff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Little Boys Dream",
+      "trophyDetail": "Steal a firetruck",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/322f5d1c-5e14-429b-bc3f-e243063eb9ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad Santa",
+      "trophyDetail": "Give Gifts to 20 children",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/a8387b56-5d5f-4b7e-9832-3bfbdcfbfa5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let It Snow",
+      "trophyDetail": "Kill 40 people using the sled strike",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/bd5223f5-a5ef-4b0f-8053-3cf297d2405d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clowning Around",
+      "trophyDetail": "Destroy 20 cop cars using Iggy's balloons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/ae0eba7f-5429-413a-8a10-beecba55edbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "But I Poop From There!",
+      "trophyDetail": "Tear 25 people a new one with Iggy's chainsaw",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/35431667-442a-4a94-9536-f4948d7c5953.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Homey Don't Play That",
+      "trophyDetail": "Avoid damage 10 times using Iggy's special jump",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/26eb5aa2-5255-42d1-b4b3-51dcfd3b8733.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Market Crash",
+      "trophyDetail": "Destroy 10 vehicles using a vehicle as the Broker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/d5a11f50-5555-4b47-a4c8-02d31e325ab5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Insider Trading",
+      "trophyDetail": "Smash 20 ATM's as the Broker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/a0f005af-710f-41fb-8298-9e2ed0311126.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delinquent",
+      "trophyDetail": "Kill 30 moms with the katana as the Little Girl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/5db9f2fc-d97b-4812-a2ea-aac5af1b9b39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Babysitter",
+      "trophyDetail": "Use the turret to eliminate 30 threats to the Little Girl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/67adb966-077c-4b85-b898-874d142ada83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lunacy",
+      "trophyDetail": "Set 25 firemen on fire using the Cosmonaut's molotov",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6e8719ed-ae4e-4f13-9ec7-0c4435f13158.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Original Gangster",
+      "trophyDetail": "Electrocute 25 gangsters with the stun gun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/d0296220-73f8-4107-a1d3-9d17ea8cb964.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Done",
+      "trophyDetail": "Set 20 hot dog stands on fire with the Hotdog Guy's flamethrower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/fccb0060-2ebc-479a-83bb-9ab9650950e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Wings of Steel",
+      "trophyDetail": "Kill 25 metalheads with the sword of virginity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/e74ea409-b00b-4cb5-bf20-308d3a32243b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Santa Claus is coming to town",
+      "trophyDetail": "Destroy 10 cars using Santa's presents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/169f3282-2be8-421c-9970-8cab0f6064bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're on the Naughty List",
+      "trophyDetail": "Destroy 5 school buses using Santa's little helpers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/9003deb9-baa7-4497-838d-0662075bbfe2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not so Holy Night",
+      "trophyDetail": "Kill a total of 50 people using Santa's bag of gifts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/e808f112-860e-452a-8cf7-a12faccd6831.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We live in a society",
+      "trophyDetail": "Show 100 cops who the better shot is",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6d3599af-a690-4a90-93bc-2cd05d5bcbbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infamous",
+      "trophyDetail": "Get busted 10 times as any character",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/df9f9bc6-8d7d-468b-b532-8cfa48dab057.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corrupted",
+      "trophyDetail": "Make 10 policemen your followers at the same time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/a2e0be29-c3b9-4760-89d6-d395998d33db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Need for speed",
+      "trophyDetail": "Drive at least 200mph",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/a16633b6-d772-4fa2-994f-db7011a5c13d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Friendly fire",
+      "trophyDetail": "Make a police car drive over 3 policemen one after the other",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/ef180704-a30d-4f33-a979-21fb37b8eedf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Friendly fire 2",
+      "trophyDetail": "Make policemen destroy a police car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/1ffc463e-8656-4973-bfbb-95cc35ff84b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broker Nuke",
+      "trophyDetail": "Nuke the city as the Broker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/7916d630-a30e-4250-8398-78c6de58afbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Girl Nuke",
+      "trophyDetail": "Nuke the city as the Girl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/de255dfe-c8a5-4ad6-b569-eb131ca72c1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmonaut Nuke",
+      "trophyDetail": "Nuke the city as the Cosmonaut",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/1fe4c776-125f-47c0-826e-083c7270b5aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot-Dog Nuke",
+      "trophyDetail": "Nuke the city as the Hot-Dog guy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/42e2716a-c69c-4680-913e-6897d5886627.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clown Nuke",
+      "trophyDetail": "Nuke the city as the Clown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6059158c-e6f3-41fe-b42b-2cba4c9d286b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Little Green Men",
+      "trophyDetail": "Steal a flying saucer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/d27cce31-bc4f-42e4-8fe2-800efcbc87b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Messiah x2",
+      "trophyDetail": "Enlist 20 strangers in your Maniac Work",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/14369329-b458-40f8-b788-d95037f2a4d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Messiah x5",
+      "trophyDetail": "Enlist 50 strangers in your Maniac Work",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/4bfb4df9-995c-43ff-a2fe-bea35bb12ae6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "License and registration please",
+      "trophyDetail": "Steal a cop car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/7dcc4a8b-8864-4b50-941f-6134c53772c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Monument Of Destruction",
+      "trophyDetail": "Destroy the central city statue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/d3a90839-0a22-49ce-9890-e6ecabf62f06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Commemoration Of Destruction",
+      "trophyDetail": "Destroy the small park statue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49250_00/6c7a2966-462a-43d5-b5c6-e2d8d119c41b.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

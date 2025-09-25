@@ -1,0 +1,415 @@
+{
+  "npCommunicationId": "NPWR49934_00",
+  "title": "Heretic + Hexen",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 45,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Stark Raven Mad",
+      "trophyDetail": "Earn all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/ec3a3510-78fb-43a2-980f-bfe14365da4e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Staff Intervention",
+      "trophyDetail": "Heretic: Kill 5 enemies with the Staff in one map (powered up or not).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/7f21256c-48dd-4586-b0ba-ca7ac1128769.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Necrotized",
+      "trophyDetail": "Heretic: Kill 10 enemies with the Gauntlets of the Necromancer in one map (powered up or not).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/db84f00c-3d01-4afc-a6f2-29428aa4ccec.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrath of the Phoenix",
+      "trophyDetail": "Heretic: Kill 3 enemies at once with a single Phoenix Rod shot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/dd707947-2544-46a2-9638-96e60805d4b7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manna from Heaven",
+      "trophyDetail": "Heretic: Kill 3 enemies with the rain from a single powered-up Hellstaff shot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/10ab6b53-f9a0-4268-bc93-e9a46b6b4c9b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charbroiled to Perfection",
+      "trophyDetail": "Heretic: Kill a Maulotaur with a powered-up Phoenix Rod.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/dc8dee01-6d04-4c83-ad0b-584bc0bffe0b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Trip",
+      "trophyDetail": "Heretic: Kill 20 enemies in one Tome of Power powerup duration.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/e2c31d6c-e02b-4b31-8a0c-3c52ff08d2a9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eggs Caliber",
+      "trophyDetail": "Heretic: Transform 5 enemies into chickens with a single use of the Morph Ovum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/73030bf2-8a93-4302-aefc-52dcc863c25e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'm Kinda Unstoppable",
+      "trophyDetail": "Heretic: Activate a Ring of Invincibility, the Wings of Wrath, and a Tome of Power all at once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/9c5476e3-539f-4f08-9f8f-77541a862208.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ready for Anything",
+      "trophyDetail": "Heretic: Finish a map with 100 health, 200 armor, and all weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/b7389237-3c57-4ee5-9e6c-7106406e7042.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Assassin",
+      "trophyDetail": "Heretic: Kill all enemies on one map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/e62268a6-4556-45d3-8f49-55f836ad0988.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean Sweep",
+      "trophyDetail": "Heretic: Get all items on one map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/800cac2a-6394-4983-a72b-6cf6a39921b4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now I've Seen Everything",
+      "trophyDetail": "Heretic: Find all secrets on one map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/3c166b08-350a-47f8-b492-832876c373a0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Balls of Steel",
+      "trophyDetail": "Heretic: Find a Firemace.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/3745d2a4-992a-4efb-a238-4737ade52ccb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Shocking Development",
+      "trophyDetail": "Heretic: Find the Tempest Wand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/c98c4a6d-800b-4794-ae78-3f2387956d2d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "D'Stroy D'Sparil",
+      "trophyDetail": "Heretic: Kill D'Sparil.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/7c14bf7c-5209-4560-83fd-be6e0a675cef.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The City of the Damned",
+      "trophyDetail": "Heretic: Complete Heretic Episode 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/761a4caf-c229-413a-8bc6-7faa4e68e79c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hell's Maw",
+      "trophyDetail": "Heretic: Complete Heretic Episode 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/754e8e39-c6d8-40b3-92c1-54534a9e91ca.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Dome of D'Sparil",
+      "trophyDetail": "Heretic: Complete Heretic Episode 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/0fb21ed6-3405-41bd-8cce-f0f7d54413ff.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Ossuary",
+      "trophyDetail": "Heretic: Complete Heretic Episode 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/6821a784-75db-47e5-8b2b-be4db393927a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Stagnant Demesne",
+      "trophyDetail": "Heretic: Complete Heretic Episode 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/bca697e8-1657-4f09-a7e9-a7f9cea63a01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Faith Renewed",
+      "trophyDetail": "Heretic: Complete 'Faith Renewed'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/546c4cdd-794b-47c8-868f-07fd22712b6e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You're Not Supposed to Be Here",
+      "trophyDetail": "Heretic: Complete one of the hidden bonus levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/e8628ee4-2499-46a4-a9bf-4eec98f0ccb3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinite Combo",
+      "trophyDetail": "Hexen: Land 10 flawless combos in a row with the Spiked Gauntlets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/3f39d7ac-8954-482e-9c3b-9154281a9761.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Thought This Was a Melee Class?",
+      "trophyDetail": "Hexen: Kill an enemy from a very long distance with the Hammer of Retribution.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/21871097-ad65-47c2-993c-a04c3385bf5b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bombs Away",
+      "trophyDetail": "Hexen: Kill an off-screen enemy with the Fighter's Flechette.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/81e38025-8244-4522-bd0e-372e550acef5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a Gas",
+      "trophyDetail": "Hexen: Kill 3 centaurs/slaughtaurs with a single gas cloud.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/6ddab06b-03c5-4f48-97b1-830c8cfb046a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Old One-Two",
+      "trophyDetail": "Hexen: Kill an enemy with a gas cloud launched by a Disc of Repulsion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/0ee059e9-0107-4eec-8a71-435a19382981.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Schlurp!",
+      "trophyDetail": "Hexen: Heal a total of 1000 health with the Serpent Staff.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/a2ecf63f-e3f5-4aa5-aaf6-748d8557bd69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out of the Blue",
+      "trophyDetail": "Hexen: Kill 2 enemies at once with the Sapphire Wand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/79d7030e-ccbf-44f3-9b1e-46dca03ac60f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sculpture Garden",
+      "trophyDetail": "Hexen: Have a total of 10 un-shattered frozen corpses active at once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/fc39cff8-78d5-4a28-9514-8d3abaf7729e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sequence Break",
+      "trophyDetail": "Hexen: Ring the bell in Winnowing Hall without picking up the silver key.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/4de84e5d-9851-4f54-bf5a-6eb90ce8fd86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look Out Below",
+      "trophyDetail": "Hexen: Cause an enemy to fall to their death.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/fec55f3e-2ee1-4c36-90cc-6963967e46c2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's for a Special Occasion",
+      "trophyDetail": "Hexen: Collect and hold 25 of any artifact.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/fbd318fb-63aa-441b-91a0-29d4a16d26e7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are You Ready to Fly?",
+      "trophyDetail": "Hexen: Find and use the Wings of Wrath.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/b9e1fbda-53bb-4fc1-b0e0-611e61ec6d36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pieces of Power",
+      "trophyDetail": "Hexen: Assemble your fourth weapon on any class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/f3c7b2f5-328a-4523-afe2-c8bdc63543ec.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Makin' Bacon",
+      "trophyDetail": "Hexen: Transform 5 enemies into pigs with a single use of the Porkalator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/f901c94a-5542-42c2-bf50-41c45a2a62e2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Porcine Predicament",
+      "trophyDetail": "Hexen: Get turned into a pig and then survive.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/c4181919-d399-4b9d-b398-c6948f03721d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Hate That Guy",
+      "trophyDetail": "Hexen: Kill a Heresiarch.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/4d511f9e-a6de-4e8b-9805-d7e2a359bc22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Are YOU Ready to Die?",
+      "trophyDetail": "Hexen: Kill Korax.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/bf556632-5fce-4aae-80bf-08839c3f0737.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Regicide Tenebrae",
+      "trophyDetail": "Hexen: Complete 'Deathkings of the Dark Citadel'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/c77357e7-e177-40c2-b7e3-860607311b45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Checkmate",
+      "trophyDetail": "Hexen: Complete 'Hexen: Beyond Heretic'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/51d0fd14-ee5c-4bcc-abec-25638f63da50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ozymandias",
+      "trophyDetail": "Hexen: Complete 'Vestiges of Grandeur'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/140a6033-1bbf-4aad-b50a-028156ced911.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Play",
+      "trophyDetail": "Hexen: Play as all three classes (Fighter, Cleric and Mage) over the course of a single Hexen hub.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/86965eb1-20c1-4445-a88a-09eea4d54a01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Full Party",
+      "trophyDetail": "Hexen: Complete a Hexen hub in co-op with at least a Fighter, Cleric and Mage all present.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49934_00/a14d81dc-dcc8-4ba9-9ff7-880665bab424.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

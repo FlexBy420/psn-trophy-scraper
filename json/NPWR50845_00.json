@@ -1,0 +1,575 @@
+{
+  "npCommunicationId": "NPWR50845_00",
+  "title": "The Fall of Avalon",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 61,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Fall of Avalon",
+      "trophyDetail": "Unlock all Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/0d5695ba-3d59-4049-b2a8-dc41244e1e52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gates Are Unnecessary",
+      "trophyDetail": "Talk to the Quartermaster without opening the front gate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/a203ed44-8ab9-4f57-a9c1-f9af087f4ee5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Journey Begins",
+      "trophyDetail": "Reach level 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/5b8bdc35-3914-4c15-a4d6-dea7bbf59d5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marked by Avalon",
+      "trophyDetail": "Reach level 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/5b28ed3a-47ad-4645-bd1f-f585f7636986.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forged in the Wyrdness",
+      "trophyDetail": "Reach level 35.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/93457fe1-0923-46aa-b60e-92b9e7e4f544.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "35"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Legend in the Making",
+      "trophyDetail": "Reach level 50.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/82a7e375-31f4-4f40-9d60-526b1be1144a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home Sweet Home",
+      "trophyDetail": "Buy a property.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/b5c39e85-f38c-4504-aa1b-56d7b6b5a95a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hands of Creation",
+      "trophyDetail": "Craft 10 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/1d49f85d-04fa-4299-815b-9aa2c7eb29e9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Chef",
+      "trophyDetail": "Cook 50 dishes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/5c3bafa5-ce84-40aa-b878-23212f8a51e3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brew It Yourself",
+      "trophyDetail": "Brew 25 potions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/6fb4e440-20a2-4afe-82bf-b1e1b59bbeb4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The One Percent",
+      "trophyDetail": "Amass a wealth of 10,000.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/8a58f92b-82eb-4ce5-bec6-a3c5e1360864.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strider",
+      "trophyDetail": "Visit all the main regions of Avalon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/f767c74f-d3ba-4bd3-81e2-0648ccc95042.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keyless Entry Specialist",
+      "trophyDetail": "Lockpick 50 locks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/9760a349-7ec8-4a1a-add1-708aeb19e8d1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pages of Experience",
+      "trophyDetail": "Unlock 25 journal entries.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/0b8acaca-7aa9-4238-9ca6-9e5e2ffc6228.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It’s Alive!",
+      "trophyDetail": "Cultivate a plant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/eea77891-c598-4315-851b-52c7ea9dacd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prey of the Wyrdness",
+      "trophyDetail": "Get ambushed during Wyrdnight.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/75893bf0-6190-413a-9108-71444ac00fc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pilgrim of the Wilds",
+      "trophyDetail": "Visit every sacred site where the Stagfather’s presence lingers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/297da698-26fc-44a2-a96e-1bc7dc39e0bc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Fisher-King’s Successor",
+      "trophyDetail": "Catch all fish species in Avalon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/7567b9ed-475a-46d7-8048-ce7320f3512a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unleash the Legend",
+      "trophyDetail": "Kill 5 enemies with a single use of Arthur's Power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/7e255e1f-da4f-4ce2-a93d-536a18148647.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No Chains, No Destiny",
+      "trophyDetail": "Kill Caradoc at the Island Asylum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/be045b42-301c-4611-8a9c-aa108d9e1678.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Cost of Curiosity",
+      "trophyDetail": "Pet a croakmaw against your better judgement.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/41553a7c-9f2a-443b-8eef-50635949ce3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "By My Own Hand",
+      "trophyDetail": "Find a way to retrieve Excalibur without any outside help.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/588ba393-9b63-4c45-8f79-608ea02489ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "WAAAOOOAAGGHH!!!",
+      "trophyDetail": "Die from a fall wearing a fake magic ring — just like the last fool who trusted it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/0d1dc337-7da7-42c0-be07-c20c23d836f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pen Mightier Than Sword",
+      "trophyDetail": "Defeat an enemy using the sketchbook.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/9378b634-c836-483a-933e-3491f4b2d59c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blooming Friendship",
+      "trophyDetail": "Feast, smoke, and contemplate the meaning of it all with a new friend.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/1e9c62be-f8bc-4cc0-8414-54459a36f876.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Deadliest Catch",
+      "trophyDetail": "Defeat Scourge Of The Seas using a fishing rod.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/cf9f74de-1535-4aa1-a1a0-d8f896e22667.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Once and Future King",
+      "trophyDetail": "Meet King Arthur and claim the first shard of his shattered soul.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/24f19a14-1170-40de-a72a-0b3c04f23d35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Hollow Blade",
+      "trophyDetail": "Lay your hands upon Excalibur and feel the burden of a forgotten legacy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/f5e26c38-b6fe-4b06-9ce1-c2338664435f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Shield of Avalon",
+      "trophyDetail": "Bear the legacy of Palamedes, a shield raised against the coming storm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/b3f5bcd6-7e48-49a1-9fc1-36241fd8f70e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Crown of Ashes",
+      "trophyDetail": "Claim the crown that once bent Giants to the King’s will.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/16cbb489-5953-40bb-91a3-c0492dd11109.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "King of Avalon",
+      "trophyDetail": "Finish the main storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/c58ac5ef-9949-4104-8090-1d29d0baf12a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of One",
+      "trophyDetail": "Max out a single Skill Proficiency.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/c562b1b8-d0ad-4427-a53b-dcad4a182188.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Beyond the Veil",
+      "trophyDetail": "Help Arthur ascend beyond mortality, leaving behind the throne of men.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/85962293-400c-4f74-bd8e-08af9d0fa327.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Fate of the Horns",
+      "trophyDetail": "Shape the destiny of the last southern stronghold.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/116ab761-f1d8-4827-8c98-25b6498212f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chains or Freedom",
+      "trophyDetail": "Decide who holds Cuanacht’s reins — and who never will again.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/d982d450-60d7-455d-bef6-08cf8ff55635.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shadow of the Giants",
+      "trophyDetail": "Decide what will become of the Forlorn Swords and those who remain.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/99f47997-fd4a-4859-8ff2-ac79c54a1245.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Honor Over Life",
+      "trophyDetail": "Bring all Keeper dogtags to the Quartermaster.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/30c45be3-b04a-4a7d-a0c1-a6b58ecda43d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shackles of Faith",
+      "trophyDetail": "Free the Voice from the shackles of heretical faith — although some chains are not made of iron.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/1946ca4e-4ddf-4857-832e-ea151bead114.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Audience",
+      "trophyDetail": "Defeat a ruler who has lost everything yet refuses to die.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/45db6914-5e3b-48b1-b4a3-02c38b380f84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Justice Delivered",
+      "trophyDetail": "Crush the reign of bandit lords and leave none alive to tell the tale.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/2592981c-038f-4e24-b659-f0c3976ccd67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bleeding Heart of the Plague",
+      "trophyDetail": "Reach the Bleeding Heart of the Plague and uncover the truth behind the plague’s origins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/e52b140e-a565-4fca-a945-48b00aeb8914.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "And My Axe!",
+      "trophyDetail": "Help hold a Moot, with every tribe of the Dál Riata sending an envoy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/d8094957-ec7e-48e4-9956-915898ecaf06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Forged in Loss",
+      "trophyDetail": "Deliver sad news to the blacksmith from Cuanacht.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/da6b8e15-08e3-47b3-be34-2ff1cacd788d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ailei’s Healthcare System",
+      "trophyDetail": "Secure the future of Ailei’s hospital, for the good of the local folk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/210c6cdb-e485-4385-a2cc-8a6328883b83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Keeper of the South",
+      "trophyDetail": "Take up your mantle as Keeper of the South, called to this glorious service by the grace of the Sea.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/9e8788ee-355b-4ef1-8c8f-5b47acfbe549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fate of the Crows",
+      "trophyDetail": "Complete the Children of Morrigan storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/9f19732d-80c6-424b-bfee-41e466326a8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Oracle’s Cluck",
+      "trophyDetail": "Uncover the secrets of Muriel, the chicken with ancient wisdom, across three fateful encounters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/d32497fc-a668-43e1-a2a1-04f66760c27d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Yours Forever",
+      "trophyDetail": "Open your heart to another soul in these dark and troubled lands.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/d4b7b30b-fa59-4b53-9bf8-8c73a35c2c7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Sporeborn King",
+      "trophyDetail": "Let the mycelium take root in Sagremor and spread its rule beyond the throne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/7dc36b52-8fe8-430c-b2e9-b241555daed9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Spark of Creation",
+      "trophyDetail": "Unlock the secret of life itself and shape the future of the Guild.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/624b1460-637b-4251-91ef-a327050ee6b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Stonewarden",
+      "trophyDetail": "Earn the Stonewardens' respect and be honored as one of their own.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/05c6b57d-bf07-493c-9b70-4d400ded3c0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Trinity",
+      "trophyDetail": "Kill the Three Knights of the Void.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/8b238c6c-404f-41aa-855e-6aec13a273d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "New Friend",
+      "trophyDetail": "Hatch Qrko.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/ab4417bf-6d4d-4722-a03e-362af629b0f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shouldn't Have Done That",
+      "trophyDetail": "Burn Strawfather's hay.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/5b684b03-8d71-4f4e-8497-43118e2bd47a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Last One of the Season",
+      "trophyDetail": "Wake up a Gloomfrond.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/4875ec2a-5415-4a07-8bee-914ec40d7944.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For Academic Purposes",
+      "trophyDetail": "Find all books about Liliana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/35149ec3-d1d6-4f98-bea6-5c950e9f24db.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Double Identity",
+      "trophyDetail": "Talk with Caradoc after killing Caradoc while wearing Caradoc's armor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/089163f2-caac-46f5-87fc-23acb1d7375c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ironic",
+      "trophyDetail": "Turn the person who taught you the cheese-turning spell into cheese.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/7159997f-c878-44ad-8f3a-d8bce1be11b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bear Handed",
+      "trophyDetail": "Kill a bear using fists.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/63ffaa4a-1dca-4d0e-8ec2-d1272e25ab5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soft Underbelly",
+      "trophyDetail": "Hit an enemy's weakspot 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/ec398f6c-d21c-43cd-a848-bd365ced5831.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Wolves Are Better Than Yours",
+      "trophyDetail": "Defeat 10 wolves using summoned wolves.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50845_00/af8b43c0-9a3d-410c-b723-133e18015e65.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    }
+  ]
+}

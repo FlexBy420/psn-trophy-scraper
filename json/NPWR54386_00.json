@@ -1,0 +1,264 @@
+{
+  "npCommunicationId": "NPWR54386_00",
+  "title": "Trippy Trader",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 27,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Ultimate Grinder",
+      "trophyDetail": "Unlock all other achievements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/a7ec7baa-dada-4f89-9c33-ecbb77e65091.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Roll Beginner",
+      "trophyDetail": "Sell 10 Green Leaf Rolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/025a904c-130e-4051-8621-72df0f2e3d1e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hazy Start",
+      "trophyDetail": "Sell 10 Mellow Haze Rolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/44a97e6a-1d7b-4703-a3b0-0e25c61bf60c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sleepy Sales",
+      "trophyDetail": "Sell 10 Sleepy Bud Rolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/bbcdc558-d538-442b-bfdb-b5a41756d764.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Velvet Dealer",
+      "trophyDetail": "Sell 10 Velvet Purple Rolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/f8769b93-94e8-43d8-a929-3407891a84e2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dandruff Dealer",
+      "trophyDetail": "Sell 10 Devil’s Dandruff Packs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/2014e70c-101f-432a-a472-3d43f42f6e21.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crimson Start",
+      "trophyDetail": "Sell 10 Crimson Snow Packs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/68403bbb-57be-4c4c-82d4-cad432d5bc34.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tooth Fairy",
+      "trophyDetail": "Sell 10 Angel Teeth Packs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/522b3f9c-47c7-448a-9e14-2bbcec2873d7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dust Rookie",
+      "trophyDetail": "Sell 10 Nocturne Dust Packs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/4fddabad-0af2-465d-bf59-0dc1de3f6459.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just a Dollar",
+      "trophyDetail": "Ask someone for money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/f8e9ef04-8465-43de-8628-e1c985af9107.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Big Beggar",
+      "trophyDetail": "Receive $10 from a person",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/28294b9d-96a1-4d15-98fe-f6825771de26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "First Spin",
+      "trophyDetail": "Play the casino once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/2396459f-0c59-453d-ad59-88b0f316568d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "High Roller",
+      "trophyDetail": "Win $100 in a single spin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/e33c4e8e-ddac-4bcc-863f-3885b78f1ef5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Star",
+      "trophyDetail": "Reach rating 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/6cffffb3-26cb-45c6-aa8c-1ea75325d0b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Local Legend",
+      "trophyDetail": "Reach rating 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/e4324fc0-e606-4917-8760-c21f01cbff3e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Street King",
+      "trophyDetail": "Reach rating 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/6d98d305-82cc-48bf-bd52-58ea2253e744.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "God of the Hood",
+      "trophyDetail": "Reach rating 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/5a4bd7b0-623c-496e-be74-e41ce7cba21f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not Today",
+      "trophyDetail": "Refuse your first customer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/59c3e019-5721-4bc1-a73b-50fd310a52e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Street Charity",
+      "trophyDetail": "Give $10 to a homeless person",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/f3e383c7-dd71-4aed-9c1f-67d1f1c98f69.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Holy Spirit",
+      "trophyDetail": "Get blessed by the father for $50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/289b9eac-e51e-48e7-b822-0732990ba2ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "God’s Delivery",
+      "trophyDetail": "Complete a delivery for the father",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/142fab54-1a69-4d8b-8ca2-bd117cc516c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Let’s Make a Deal",
+      "trophyDetail": "Negotiate a price successfully",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/be681687-58ea-4d54-8a75-38746089d72f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Busted",
+      "trophyDetail": "Get arrested by the police",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/0df235b7-f562-42eb-852c-df6d4c2be21d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Clean as a Whistle",
+      "trophyDetail": "Get checked by the police and have nothing illegal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/a587ba27-27fc-4d4b-94be-7b076e5e0a1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Roll Master",
+      "trophyDetail": "Use the Roll Station 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/74e88faf-7bed-4aa7-92e4-89badaf35c4e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dry Chemistry",
+      "trophyDetail": "Use the Chemical Dryer 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/096797fa-c85a-4c26-b032-5d86edbaafa2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Packed & Ready",
+      "trophyDetail": "Use the Packing Station 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54386_00/7908f3de-954c-4bd8-ad4d-c611eef52ff5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    }
+  ]
+}

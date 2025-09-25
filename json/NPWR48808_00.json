@@ -1,0 +1,244 @@
+{
+  "npCommunicationId": "NPWR48808_00",
+  "title": "Scar-Lead Salvation",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 25,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mission Complete",
+      "trophyDetail": "Obtain all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/7420ed50-ba9a-432c-a257-e0d877797d9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Awakened",
+      "trophyDetail": "Watch the opening cutscene.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/943e6749-277d-4bf1-ba5d-bcaac4dab556.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Powerful Opponent",
+      "trophyDetail": "Defeat Violent Petal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/0977ae9d-4c64-487b-ad58-c00093ffc26c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Imposing Adversary",
+      "trophyDetail": "Defeat Cold Scythe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/ad9e977f-afab-4fdf-8684-6c5bd1d2e87b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Another Formidable Foe",
+      "trophyDetail": "Defeat Curtain Call.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/aa38a079-ace6-4b42-a7e9-b76bd4290ab6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Plant Killer",
+      "trophyDetail": "Defeat the true form of Violent Petal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/9cd88439-760a-40ed-88f5-43975bab2544.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Insect Killer",
+      "trophyDetail": "Defeat the true form of Cold Scythe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/4e98e7ee-54c9-4282-a67f-46ec2833871f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Dragon Killer",
+      "trophyDetail": "Defeat the true form of Curtain Call.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/9e523597-4c48-4409-9724-0a365cc6f2a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rebirth",
+      "trophyDetail": "Revive for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/bc467754-0faf-4ad6-976f-a431e2e86c29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Despair",
+      "trophyDetail": "Experience the event in the final room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/ecc1f0af-2acf-4db9-b785-255edbd1df58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Smile",
+      "trophyDetail": "Witness the True Ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/8ec151e3-50c4-4b4e-925b-c346896670ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Overwhelming Power",
+      "trophyDetail": "Defeat a total of 300 enemies during Onslaught.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/a0799553-f136-4ed8-94ff-e3746f004342.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bullet Dodger",
+      "trophyDetail": "Evade enemy bullets 100 times with Mirage Shift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/41d0e624-7f08-49e5-a27e-a33bddb718f6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wild Fist",
+      "trophyDetail": "Defeat 100 enemies with Striker.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/732061dd-bcf8-45b0-9142-debc1694f3ae.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demolitionist: Beginner",
+      "trophyDetail": "Defeat a total of 200 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/c2dfd035-5681-43a0-baf2-eead5f7e4fd6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Demolitionist: Advanced",
+      "trophyDetail": "Defeat a total of 900 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/8875d122-b154-43a2-a3ff-1c2d99bdea2d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "900"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Demolitionist: Master",
+      "trophyDetail": "Defeat a total of 1500 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/4af69202-1c64-47b6-b4dc-00261d82a45c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1500"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ruthless Force",
+      "trophyDetail": "Acquire a weapon with 40 or more upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/f0bb07c0-a48f-4e99-aacd-93b5caa04d4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Exo Skill Master",
+      "trophyDetail": "Upgrade any Exo Skill to max level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/c9cdc02f-62fe-40c2-8a5f-fc390e7d402c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grueling Training",
+      "trophyDetail": "Clear Hard Fort.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/a28cdd9d-1a22-4a27-8c90-260b429b2f31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pioneer",
+      "trophyDetail": "Pass through a portal 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/e268e46c-3717-4da7-8139-a98a9b2efa94.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Report Collection",
+      "trophyDetail": "Obtained a report for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/b05e66f7-6d8a-4a71-b73f-eafde763dd3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ticket to Hope",
+      "trophyDetail": "Collect all keys.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/afd403d9-ccea-487b-aed9-cf52b2b45087.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Destroy a Micro Armory 300 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/2002f370-091a-46cd-b3c1-5d0793f15557.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gold Hunter",
+      "trophyDetail": "Acquire 600000 or more Elm Chips.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48808_00/519bc198-a65c-4af8-86ce-19518789940d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "600000"
+    }
+  ]
+}

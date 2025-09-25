@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR45533_00",
+  "title": "For the King II",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "For King Bronner",
+      "trophyDetail": "Earn All Trophies in For The King II.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/5F252E41EA3C37F0758BED75CBD45AE772240FA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "He's No Good To Me Dead",
+      "trophyDetail": "Rescue a mercenary from a merc caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/FCE08413365A9F12D7DC1B83CEB741324B7AC93B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Your Loot Are Belong To Us",
+      "trophyDetail": "Collect 100 items from loot drops.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/09A738CADB295356EDB0757C91C3D668C044194F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Am Become Death, Destroyer of Worlds",
+      "trophyDetail": "Kill 1000 enemies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/276231C01BB6C86FACA2E8963C71FEE1F20ABB7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beam Me Up, Scotty",
+      "trophyDetail": "Use a Teleport Scroll 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/D9F06DEA7DB5C57D74D4E3C589652E29AF9B2630.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Even More Bones!",
+      "trophyDetail": "Kill 300 Skellys",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/1667000F86E60112D1A3492D989597D86C19B338.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "...Still a pity!",
+      "trophyDetail": "First party wipe.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/6B8C7292D2F689D6F2D0A66CDCDA17E604D484CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Field medic",
+      "trophyDetail": "Revive a party member.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/C589307A5E458B488C090EB757CFD691741A727F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critical fail",
+      "trophyDetail": "Break a weapon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/55725AA8B429A8F9D1A11C6F7C4B0BF2D529C251.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ship Riggity Riggity Wrecked",
+      "trophyDetail": "Your party has been shipwrecked.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/56277645F7C5119C76B868F75A70B9DD5556D447.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Side Hustle",
+      "trophyDetail": "Complete 30 Town Quests. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/808543F8A1BB402BC8B797EA155088682A88D5E2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're Hired!",
+      "trophyDetail": "Hire 10 mercenaries from merc guilds. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/0905736FDD9C3E208B964F570E3FFBE609F08515.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden....er, Purple Ticket",
+      "trophyDetail": "Visit the Dark Carnival for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/41770C3D7BEB44A259DE228DBE5AF9F853ABF3CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're So Lucky, You're a Star!",
+      "trophyDetail": "Defeat Lucky and seal Lucky's Vault.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/9E9DCF660FCF8F4F69B84AD36386418AC88FF821.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Larger Than Life",
+      "trophyDetail": "Defeat Graveborne and seal the Mausoleum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/7A32218781AE9CCD9D3E472BC73378820E054908.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quit Paying Games With My Heart",
+      "trophyDetail": "Defeat the Bandit King and seal the Bandit Stronghold.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/727558CC95EDF030847A54769D6DAF89311E1B8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Gonna Be Fray",
+      "trophyDetail": "Defeat Warden Fraybee and seal the Desecrated Church.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/E15F9FE1D5C4CCDE956C3C6F792EB49E613393CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hanging Tough",
+      "trophyDetail": "Defeat the Hangman and seal the Hangman's Gallows.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/D2132984F7C03852DF6DCAEF323894F443968D12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blame It On The Rain",
+      "trophyDetail": "Defeat the Disciple and seal the Temple of Darkness.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/F25E99C9276EF7590283E427D146E2F859990356.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're Toxic",
+      "trophyDetail": "Defeat Bogdrinker and seal Shaman's Hollow.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/2CAE03FDA1FBC0F0FF4267F436757A1EC5F94030.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now you're thinking with portals!",
+      "trophyDetail": "Use 10 Portal Scrolls.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/19DD5EE570AFBA1A3C54B1F2E06EFBF9D661DA62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sushi Master",
+      "trophyDetail": "Kill the Kraken.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/827B11DE208BB00C1C8593160AC4A5F5A2D6610F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shopaholic",
+      "trophyDetail": "Make 20 Lore Store purchases. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/5257EA170069F2372736CD24FD5660885FE36738.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fashionista",
+      "trophyDetail": "Make 50 Lore Store purchases.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/1E779E6859DDB506B5C79BCD3500D1525F73FA8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to The Resistance",
+      "trophyDetail": "Complete The Resistance on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/EA55B63CF6ABB921C5DC4260150D8127088DED5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Once More Unto the Breach",
+      "trophyDetail": "Clear the Guardhouse. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/8A6A6C3F42EF959A3D22B892D5B7D09BC2D083AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Through the Cobwebs and Casks. ",
+      "trophyDetail": "Make it safely through the cellar. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/6B269562759879D4EE87734A08967104C4394335.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Came Out Clean On The Other Side",
+      "trophyDetail": "Make it safely through the sewers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/4D48D0A3DA2FE1825C3AEA3D62B06D78835A35A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Come On Boogey",
+      "trophyDetail": "Find the secret room in The Resistance. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/84FAB505311FF0F7D8F92B598878ECD57D3836A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Save the Primordial Oak",
+      "trophyDetail": "Complete The Primordial Oak on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/5081005AB11CE81424841D4197A23E352E2B0E5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Does Not Simply Walk Into A Siege",
+      "trophyDetail": "Clear three towns under siege.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/BE38ED0DDC11B495AB5459ABB33B044E38C2C57B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sea Ho! ",
+      "trophyDetail": "Claim your first landboat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/273B7F8498BA9E262CC87EFC43393EB446C49D4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Halt the Queen's Mining Operation",
+      "trophyDetail": "Complete The Royal Mines on any difficulty. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/66D0F769914881B625C681398FACD323B0B32F0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triumvirate",
+      "trophyDetail": "Visit all three resistance members in The Royal Mines.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/7885554E27112A0E17D38554FE845429F976FB54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rescue Hildebrant... again. ",
+      "trophyDetail": "Complete The Hangman's Noose on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/1A691E3E166C94244AF7C884D5EDE2EB97A77377.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "We're a Rescue Team. Not Assassins.",
+      "trophyDetail": "Save all four resistance members in The Hangman's Noose.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/6C9A8FAE15CF563B475087AEE58977027796B2BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bring Me That Horizon",
+      "trophyDetail": "Find Captain Johnsgrave's Lost Ship.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/0C914B9DB89E7E670BD9573F819A66CAA2DA61F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Long Live The Queen",
+      "trophyDetail": "Complete The Castle Gates on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/2B4B97C3183A2FCA3CFB3A1B269E547BFDFC92FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Endless Love",
+      "trophyDetail": "Defeat the Ringmaster.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/C574B15E323E17DFF7B8C4C1C672719615CA37F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gone...",
+      "trophyDetail": "Devote to 15 Stone Heroes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/2DAA90318C40616455E584EE23C445EF76F2647B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "..But Not Forgotten",
+      "trophyDetail": "Devote to 50 Stone Heroes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/E5C42C95930F7438F7DCCA2D651B7D413869CBDA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweeter Tooth",
+      "trophyDetail": "Consume 20 candies. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/E0D45D05AB22DF435DFA0CC853B463A97DCAD3A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Razzle Dazzle",
+      "trophyDetail": "Kill 20 enemies with firearms. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/4934F6EE1AA9588A982E6F1C0D1FC79860BFBF75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purchased!",
+      "trophyDetail": "Make your first Lore Store purchase. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/48AD373A09E0D240599F598C68558D06A07E8586.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Siege Tank ",
+      "trophyDetail": "Craft the Warmachine with Heartcrusher in The Castle Gates",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/32E9F42A039B646196C06E98FA4A09569F27DAA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Rang?",
+      "trophyDetail": "Summon 10 enemies to fight alongside you.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/829DB1D9173AD5671DEE02EAAE4650790D95680A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take It To The Limit",
+      "trophyDetail": "Max out a party member to level 9. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/E92A8A7D4FC1D6288EB1C87826DBBD7AA901B944.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Toad",
+      "trophyDetail": "Rescue Toadslayer from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/E5F85F6D3DA124A02BEAE143A2E6DC14FDC60D2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Primordial Secrecy",
+      "trophyDetail": "Find the secret room in The Primordial Oak. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/122D144D6C4A9C58975F9E52C93CB598E15B70F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Double Crossed",
+      "trophyDetail": "Find the secret room in The Royal Mines. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/A0B1799978F251360732A8183018DF17C49075B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blimey!",
+      "trophyDetail": "Find the secret room in The Hangman's Noose.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/05E9BBE84ACF2DEC208F58BAD1BBE492113E207C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Let's Go Party",
+      "trophyDetail": "Find the secret room in The Castle Gates. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/FC6AE24C7977BF487DA75EB41C371FB012FA9C94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Land or Water, Choose a Side",
+      "trophyDetail": "Rescue Terratrout from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/8B181CEFD245BEDB344859A6DEBB23016D5F0D8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brother's Grim",
+      "trophyDetail": "Rescue Grimshaw from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/35F0F9F866645A038A97EC4BDA49091BC240BDF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To Hell and Back",
+      "trophyDetail": "Survive travelling the Ancient Teleporter with Pinecone in The Castle Gates.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/552B28DD484680B2FDC269B870FC6A99573EA5A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chaos In Order",
+      "trophyDetail": "Defeat the chaos devices with Mooney in The Castle Gates.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/0DEB15657E1528B8BA1BBBB04AACC4269F9BE2F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Through the Shadows",
+      "trophyDetail": "Sneak through the sewers with Haypenny in The Castle Gates.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/B953EF06CAD947C1B1961F7F90CB64C7F3F45848.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Loaded ",
+      "trophyDetail": "Spend 20 loadout points in one adventure.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/4915C0934FBD7CBF18D30D9B8A9CA0FF3C06333F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "So You Fancy Yourself a Master",
+      "trophyDetail": "Complete The Resistance on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/C8803ABF358C6E44461DEAAA38547D1DA2E5A0C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Drunken Master",
+      "trophyDetail": "Complete The Primordial Oak on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/5F6910A0230CE6443FFFAB8A211BF0E8855FC7C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Puppet Master",
+      "trophyDetail": "Complete The Royal Mines on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/C808F8124974B71FBD8C15D9A314A4AC8AA44BE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master and Commander",
+      "trophyDetail": "Complete The Hangman's Noose on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/C17E84207A491B2C0ED56F94A3B8615698136F6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master of Fahrul",
+      "trophyDetail": "Complete The Castle Gates on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/7708110CDA8AAF98F2610906F87FFBA5DBE7B5B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charred General ",
+      "trophyDetail": "Rescue Sunderbone from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/5C6B0E58C8460F0A147C7D3AE2984AC852D4E197.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Pirate's Life For Me",
+      "trophyDetail": "Rescue Johnsgrave from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/7E7A0FCCC844735A3DFCD834CB32D6355E424F35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You Chose That One?",
+      "trophyDetail": "Choose Hildebrant's plan to storm The Castle Gates. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/DC9F784DA6AD0FFCEB49B5A6233C9288A22542F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Up in Smoke",
+      "trophyDetail": "Consume 50 herbs. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/AE28C527C45FC600A45049418ABBB61A219B5D62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Dust",
+      "trophyDetail": "Rescue Boney Boogey from the Merc Caravan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/8C45956DE4FC0B985C498F185E2ED5085C306917.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Droll",
+      "trophyDetail": "Defeat the Royal Droll.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/BF24CE4F5453D3B5D5C642EA1E4023A2B65B6BFC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hildebrant, Take the Wheel",
+      "trophyDetail": "Take fate into your own hands.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/A35D860D18E297B6E14A496A907985549A8FC852.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to the Dark Carnival",
+      "trophyDetail": "Would you like to play a game?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45533_00_00CAA2EAC1DC08B8B5A5FB0D7D51BC2D24D027CB8F/EEDCA3A0D39DF570E983AD6988CE513D834A8A79.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "npCommunicationId": "NPWR47690_00",
+  "title": "Tour de France 2025",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 47,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tour de France 2025",
+      "trophyDetail": "Obtain all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/2c6f73d8-e084-4583-8078-84c1d1a058dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginning of the season",
+      "trophyDetail": "Finish the 3 Jours de Provence.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "CGE",
+      "trophyDetail": "Finish the Circuit Grand Est.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mini tour",
+      "trophyDetail": "Finish the Open Tour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All terrain",
+      "trophyDetail": "Finish the Euro Tour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Petite Boucle",
+      "trophyDetail": "Finish the Critérium du Dauphiné.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Race to the Sun",
+      "trophyDetail": "Finish Paris-Nice.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Hell of the North",
+      "trophyDetail": "Finish Paris-Roubaix.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "De Ronde",
+      "trophyDetail": "Finish the Vlaanderen Classic.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The best of the best",
+      "trophyDetail": "Finish a World Championship.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grande Boucle",
+      "trophyDetail": "Finish the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baptism of fire",
+      "trophyDetail": "Finish a stage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conquest",
+      "trophyDetail": "Win the 3 Jours de Provence.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Victory",
+      "trophyDetail": "Win the Circuit Grand Est.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Success",
+      "trophyDetail": "Win the Open Tour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Performance",
+      "trophyDetail": "Win the Euro Tour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Feat",
+      "trophyDetail": "Win the Critérium du Dauphiné.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Triumph",
+      "trophyDetail": "Win Paris-Nice.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exploit",
+      "trophyDetail": "Win Paris-Roubaix.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Consecration",
+      "trophyDetail": "Win a World Championship.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Hills",
+      "trophyDetail": "Win the Vlaanderen Classic.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pinnacle",
+      "trophyDetail": "Win the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unmitigated",
+      "trophyDetail": "Win the yellow, green and polka-dot jerseys during the same Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scared of the peloton",
+      "trophyDetail": "Win the combativity classification of the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Together",
+      "trophyDetail": "Win the team classification of the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Promises",
+      "trophyDetail": "Win the young rider classification of the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Measles",
+      "trophyDetail": "Win the mountains classification of the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big thighs",
+      "trophyDetail": "Win the points classification of the Tour de France.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Among the legendary",
+      "trophyDetail": "Win the Tour de France in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/c1f34a32-d142-4a4d-b328-b0708561d058.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mister Paris-Roubaix",
+      "trophyDetail": "Win Paris-Roubaix in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King of the world",
+      "trophyDetail": "Win a World Championship in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King of Flanders",
+      "trophyDetail": "Win the Vlaanderen Classic in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Team of the year",
+      "trophyDetail": "Come top of the team Pro Cycling ranking (Pro Team/Pro Leader mode).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pantheon",
+      "trophyDetail": "Come top of the individual Pro Cycling ranking (Pro Team/Pro Leader mode).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rainbow",
+      "trophyDetail": "Win a World Championship with your Pro Leader (Pro Leader mode).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Old Lady",
+      "trophyDetail": "Finish Liège-Bastogne-Liège.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monument",
+      "trophyDetail": "Win Liège-Bastogne-Liège.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King of the Ardennes",
+      "trophyDetail": "Win Liège-Bastogne-Liège in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dead leaves",
+      "trophyDetail": "Finish the Giro di Como.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Campione",
+      "trophyDetail": "Win the Giro di Como.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King of Lombardy",
+      "trophyDetail": "Win the Giro di Como in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Primavera",
+      "trophyDetail": "Finish the Primavera Classica.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cipressa",
+      "trophyDetail": "Win the Primavera Classica.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Poggio",
+      "trophyDetail": "Win the Primavera Classica in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Flèche",
+      "trophyDetail": "Finish the Flèche Wallonne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huy",
+      "trophyDetail": "Win the Flèche Wallonne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/9f815aba-a138-48b3-9e61-ce243358ae2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "King of the Wall",
+      "trophyDetail": "Win the Flèche Wallonne in Legend difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47690_00/e844addd-6cbe-417d-af7e-f7a5633c2bfc.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

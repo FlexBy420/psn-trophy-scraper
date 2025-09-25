@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR53962_00",
+  "title": "The Jumping Bonbon Match 4",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "So sweet!",
+      "trophyDetail": "Collect all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/A164F2600286791CF53867E9BDCCE98E67C7FF08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 8 Bonbons",
+      "trophyDetail": "Click on 8 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/056D4A8A893E2B6F005BFD7E5C0C30F245D842D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 16 Bonbons",
+      "trophyDetail": "Click on 16 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/C6BC8DD54F61C405311284A841DA26403117854E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 24 Bonbons",
+      "trophyDetail": "Click on 24 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/538370CB88D62B19A7B5037C7D8F9C6BEB00590F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 32 Bonbons",
+      "trophyDetail": "Click on 32 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/39908C316558A2BBC5B2552DD3F68093D0507398.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 40 Bonbons",
+      "trophyDetail": "Click on 40 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/2E78F7604E3679F6C5D2E0BB07847E62E24A8636.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 48 Bonbons",
+      "trophyDetail": "Click on 48 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/705DDF356CDDCD1D9D2E94DC83A2BF5E0E157341.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 56 Bonbons",
+      "trophyDetail": "Click on 56 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/13C94CCF3F8FAC9ED5164B3C6470C1E2BE215A4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 64 Bonbons",
+      "trophyDetail": "Click on 64 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/DE41850AD612467390A3ACB99A564F8C5A625179.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 72 Bonbons",
+      "trophyDetail": "Click on 72 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/8C7C7D8955B8FB73934C9EAA6A2CFD2FE15FEABE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 80 Bonbons",
+      "trophyDetail": "Click on 80 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B75BB2261092A95977610E275CCC4D0AFEEE4787.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 88 Bonbons",
+      "trophyDetail": "Click on 88 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B10186152437452AF6DCD7F4933B23D7BE4D02A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 96 Bonbons",
+      "trophyDetail": "Click on 96 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/CDC277ADD015C18ECCA7BF76243E4F5866E13C30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 104 Bonbons",
+      "trophyDetail": "Click on 104 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5711EBFC71FA03C37B5BCC3E0A8097528D9892DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 112 Bonbons",
+      "trophyDetail": "Click on 112 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9FD01663BBB668D9327F28D568CE089C910FD155.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 120 Bonbons",
+      "trophyDetail": "Click on 120 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/CC04C692C1C24D34B4E0ED1C7F1A13896E722CE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 128 Bonbons",
+      "trophyDetail": "Click on 128 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/392F3176DD3A4890535FC8F5349567F69011EC37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 136 Bonbons",
+      "trophyDetail": "Click on 136 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/F276238D6EE5D700A9F11F1789231A5748519C1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 144 Bonbons",
+      "trophyDetail": "Click on 144 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/3B767FBAE3AB802200D3288740FF0A810FB43F2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 152 Bonbons",
+      "trophyDetail": "Click on 152 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/A11907986485A04633B684EFFBE1C33BFEC9DDFD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 160 Bonbons",
+      "trophyDetail": "Click on 160 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/F183962EE1488D635404FF6F632A35836E9BFE35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 168 Bonbons",
+      "trophyDetail": "Click on 168 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/1CB7ED0EB2D9834C0D0EDEBE59A9CD2EC6100D6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 176 Bonbons",
+      "trophyDetail": "Click on 176 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/4CA72C08697769065AF2EF655E8C94A68B3F3FB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 184 Bonbons",
+      "trophyDetail": "Click on 184 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/C1BD92AD53E84F358210B657B81F188C9CEE0581.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 192 Bonbons",
+      "trophyDetail": "Click on 192 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/4D772A742119C4E64F6CF21D28B259BDE87B4C33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 200 Bonbons",
+      "trophyDetail": "Click on 200 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/2F30549BB2AD2B8B3D387DA6D21EF455F07A79B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 208 Bonbons",
+      "trophyDetail": "Click on 208 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B766E5945D76CDF39458911C9912274B068997C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 216 Bonbons",
+      "trophyDetail": "Click on 216 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/0804FBEA584A95223BB29590C00903958EF669EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 224 Bonbons",
+      "trophyDetail": "Click on 224 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9AFF89559DA52EB58C755F9EA717DB3012875021.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 232 Bonbons",
+      "trophyDetail": "Click on 232 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5177565E799A4D989629EC27BA78991E30E0F173.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 240 Bonbons",
+      "trophyDetail": "Click on 240 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5757D2F4F5FA3E14FC545EB9EAA6F4EDF4D7D083.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 248 Bonbons",
+      "trophyDetail": "Click on 248 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9CA7AE3E4F5A970252C4A8B304126A1137D7B945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 256 Bonbons",
+      "trophyDetail": "Click on 256 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/838E369D84E5B1B6E5FAF4F288AEE74C727DAD00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 264 Bonbons",
+      "trophyDetail": "Click on 264 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/26944DC7DE3831A109884EF509EFE90229EA0F8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 272 Bonbons",
+      "trophyDetail": "Click on 272 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B9782DC729E541CECC578662B115C3CB4BD0D242.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Click on 280 Bonbons",
+      "trophyDetail": "Click on 280 Bonbons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9471E54576F41C169367B46590B484E240E81C1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 15 Tiles",
+      "trophyDetail": "Flip 15 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/09BB2DCCA5E5FA77ACA6E361015EDD1534A59BA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 30 Tiles",
+      "trophyDetail": "Flip 30 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/6D15555A84F936B3D764DE23473FA04310064D91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 45 Tiles",
+      "trophyDetail": "Flip 45 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9DD2F428C790380588245247DEDC3DC83F9539A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 60 Tiles",
+      "trophyDetail": "Flip 60 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/17C83F21D825036E84E36F5E4877CB75400163AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 75 Tiles",
+      "trophyDetail": "Flip 75 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/162049ED1932210DD94FC4C2CCDBF64CA601A70F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 90 Tiles",
+      "trophyDetail": "Flip 90 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/90F71B79390F474160E25EEEC1857AFAC950AB8F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 105 Tiles",
+      "trophyDetail": "Flip 105 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/3C77A1713FF8FFF97539A71E403C2D1B532DC007.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 120 Tiles",
+      "trophyDetail": "Flip 120 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/2CFEF2409E23FC97EA70A794845B51E51B3156F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 135 Tiles",
+      "trophyDetail": "Flip 135 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/58F3F655648218B359EB6726468EFB8E2A84589E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 150 Tiles",
+      "trophyDetail": "Flip 150 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/122ED1F1BA31D125E6E4217EB8A09AADB335EF94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 165 Tiles",
+      "trophyDetail": "Flip 165 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/6AF5CD635D4A3D3547691304EF6E66C5BE0A2351.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 180 Tiles",
+      "trophyDetail": "Flip 180 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B0AE9F76BD4E184ECF3720E114EB2744C45D3C39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 195 Tiles",
+      "trophyDetail": "Flip 195 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9157AED55F891B5E25C00DA51C7F84FFB1B398B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 210 Tiles",
+      "trophyDetail": "Flip 210 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/CAB970093CC9EC9CE66B63151467F1606A347525.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 225 Tiles",
+      "trophyDetail": "Flip 225 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/0863692592A0CFEB545FC18807B8356245DD0D31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 240 Tiles",
+      "trophyDetail": "Flip 240 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B8530A76B2F46CFDDF1F03A8663A33AA101746E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 255 Tiles",
+      "trophyDetail": "Flip 255 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/9555BA22CD2A0759661940C5A9FFE9ADAE67C145.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 270 Tiles",
+      "trophyDetail": "Flip 270 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/2337548C57B103316F0CB1CA28719EED16268EBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 285 Tiles",
+      "trophyDetail": "Flip 285 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/936627B6012F8BC1FCA1466615C396F38CE1C9BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 300 Tiles",
+      "trophyDetail": "Flip 300 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/8B84232331E15675B1955950E171D7FE3523AAE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 315 Tiles",
+      "trophyDetail": "Flip 315 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/D01C7C1C150A03773BEF8D63BB23C906A7407D47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 330 Tiles",
+      "trophyDetail": "Flip 330 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/F5E484F299A2BA58C1D2D9AAA6E06589BFEC58A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 345 Tiles",
+      "trophyDetail": "Flip 345 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/CE5063742421D71A583A48D233D46DD6302C0CBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 360 Tiles",
+      "trophyDetail": "Flip 360 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/AEA3B17C962228E47A8D56D4E3390BEB65BB6E06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 375 Tiles",
+      "trophyDetail": "Flip 375 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5B905D6E7174BE84D9A188B44DA7D95341872A0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 390 Tiles",
+      "trophyDetail": "Flip 390 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/B6195CE53DACFB3A09066496B5F660F0B4EC1F66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 405 Tiles",
+      "trophyDetail": "Flip 405 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/3FD3DF7D2787627444F62394A4FF8C9F3EFB1621.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 420 Tiles",
+      "trophyDetail": "Flip 420 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/A6E7429600D9A150470D7DF8C269AB2F8768473B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 435 Tiles",
+      "trophyDetail": "Flip 435 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/101693037E432C9005E71F569FEB23E4A6ADED76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 450 Tiles",
+      "trophyDetail": "Flip 450 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/4FF5699A1778648E1F8C9567440167F681586EBA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 465 Tiles",
+      "trophyDetail": "Flip 465 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5E93F5074D2B216469F8F3A4C67A30177D1AB314.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 480 Tiles",
+      "trophyDetail": "Flip 480 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/A5794672D1B543B5E17D2D88F71F0113AA2C308A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 495 Tiles",
+      "trophyDetail": "Flip 495 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/38DD3A79A5B9737098CE537D5361E8E4B5EF5F0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 510 Tiles",
+      "trophyDetail": "Flip 510 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/5446EA08F66B5025A79773D6597282131E6F5F5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flip 525 Tiles",
+      "trophyDetail": "Flip 525 Tiles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53962_00_007F6798C3FCF536D683A99E9E0CEE5C71B7F8A247/EACE6712EBA336840EA67688550A297CCA270D82.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

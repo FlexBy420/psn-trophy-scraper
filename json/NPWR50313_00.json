@@ -1,0 +1,370 @@
+{
+  "npCommunicationId": "NPWR50313_00",
+  "title": "Call of Duty® Modern Warfare® III",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 40,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "A Soldier's Purpose",
+      "trophyDetail": "Collect all the Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/ADE51F91458E258A6C341DD6C51165E3D6CC16FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The First Step",
+      "trophyDetail": "Reach Level 55",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/A48B906C0DB5D884E84EBCE2FA39323C9EB8490E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "And So It Begins",
+      "trophyDetail": "Successfully Exfil in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/2D834D2F7D457BA5D04A21AE8F78F89F08A34BCC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Write Off",
+      "trophyDetail": "Kill 500 Enemies using an Insured Weapon in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/19848B6E571D7BA58FEEA687C48FE0B6A1BA5377.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perkaholic",
+      "trophyDetail": "Have 9 perks active at the same time in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/0D4AA2E5ADAD76DD43B511B42A1A432241E67AFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gravestone",
+      "trophyDetail": "Kill 100 Zombies with a vehicle in a single deployment in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/0DB378DF1CD995C37EE353756E9ACEFB6D7BA0C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back From The Dead",
+      "trophyDetail": "Reclaim your gear from a Tombstone in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/0F81C2193BABBFAB3F26B93158FAEBFA7ABA0F4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Helpful Stranger",
+      "trophyDetail": "Revive a player from a different Squad in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/F422BABCC29F48F2D2D88F25D5F18E05D0FE601C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You Can Pet The Dog",
+      "trophyDetail": "Pet a Hellhound in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/473B307009B4E3D890C94127077B014FAE1C2F4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hired Gun",
+      "trophyDetail": "Complete 20 Contracts in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/0623CDDA13815856DD539E9805A6C42DEB5173A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seeing Red",
+      "trophyDetail": "Complete 5 Contracts in the High Threat Zone in a single deployment in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/3F03A34F2190A1BDF357462847EB3AD3822AFDC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The End?",
+      "trophyDetail": "Complete Act III in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/5E0B47A65B8771503835962BDACE90E72206E3C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Slaughterhouse",
+      "trophyDetail": "Kill 50,000 total Enemies in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/D4F6385C3824EB9B2B7CF9709BE85BA1F2E96A91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Conqueror",
+      "trophyDetail": "Defeat a Warlord in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/44F14F7A58F363CF80AD0F9557BBBA4BBDFEF93B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "One Against All",
+      "trophyDetail": "Kill Orcus while in a 6 person squad in MWZ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/FA69B77023E7076691EBB1701984C1DAFDE1F0AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Such Thing as Too Many",
+      "trophyDetail": "Find and use all Armaments in Open Combat Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/D9EE2DD2C140D0DE628CF410C59897B9EBBFFDC2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dialed In",
+      "trophyDetail": "Customize your loadout in every Open Combat Mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/BB6E883C1B73979AE4942AAB17D0BC4466A011DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gearhead",
+      "trophyDetail": "Collect all Weapons and Field Upgrades from Supply Boxes in Open Combat Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/879DE3EB626C6215F396AAD660C1BF820FBBD4ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sample Platter",
+      "trophyDetail": "Use 5 different Armaments in Open Combat Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/05D006B0CCBA28653E467522306A96560375DE95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Call Shotgun!",
+      "trophyDetail": "Drive a vehicle with a Sentry Gun on the back and have it kill 5 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/AFBD69FBB4B7737107E2FFEDA307AFFBA2F07EA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tag, You're it!",
+      "trophyDetail": "Use the Spotter Scope to tag 60 enemies or items in Open Combat Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/79BCDD46FB1222983AEEF81E482C3F7C3C88067D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bulletproof",
+      "trophyDetail": "Find all Plate Carrier Upgrades in Open Combat Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/7BB641F39220DFA37E824E073F6D46127CF03569.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Have You Tried Turning it Off and On?",
+      "trophyDetail": "Use a Shock Stick to disable an enemy Sentry Gun",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/CD7B2B9210F4962B18F92460951460E48440BA4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That's One Way to Do It...",
+      "trophyDetail": "Destroy an airborne enemy helicopter with a Mortar Strike",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/81FC65C4F5508D06329C8CB4B5C2F21E96438144.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hey, Catch!",
+      "trophyDetail": "Throw and hit an enemy directly with a Flammable Cannister then blow them up with it",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/0B0D31E71D9B6ECC454466F49D9BC1CD9639975B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frequent Flyer",
+      "trophyDetail": "BASE jump and travel more than 150 m with your parachute",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/06257D405B17FAABAE32D6781269D38DAEBFB85A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Wire Act",
+      "trophyDetail": "Kill 10 enemies while using a zipline",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/83F8BAE32E3DBB81AF92106DDE20F75C8CBF0EE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Never Bury Your Enemies Alive",
+      "trophyDetail": "Complete the campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/100E3E70CAA8CDDA9B3A99A23190D662E8926FB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "141 Ready",
+      "trophyDetail": "Complete the campaign on Veteran",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/3F2010B68AFD75C2B5D8E0E261FD83B463908F1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death Row",
+      "trophyDetail": "Kill 12 enemies while descending in the panopticon in 'Operation 627'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/BC00026286912C8B98469A4BFF20A9F9C4E7F42F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Floater",
+      "trophyDetail": "Parachute off a Gantry Crane onto the roof of the Harbormaster's Building in 'Precious Cargo'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/CBB80BCD4605AEAF78D20CE40B96CDB230947EC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Helo Hat Trick",
+      "trophyDetail": "Destroy each objective helicopter in 'Reactor' with a different Armament",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/8C7F6E6BD7D81D1DE0DEE642BEDE9BFF81600302.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "2-fer",
+      "trophyDetail": "Using the EBR-14, kill 2 enemies with 1 bullet 5 times in 'Payload' without sounding the alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/3B63D5AFF7C8847DEDDDDD6962F3736A8F92EB7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back in the Field",
+      "trophyDetail": "Acquire the Major's keycard in 'Deep Cover' within 90 seconds without being detected",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/6F91221CDFDB70B1F27F302B04531BF9AE6E642E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shot Blocked",
+      "trophyDetail": "Shoot the gun out of the air in 'Flashpoint' before a terrorist catches it",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/121C201F1208E835DBAE301D312DE4504DD60CD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Think She'll Notice?",
+      "trophyDetail": "Destroy all of the cars in the mansion garage in 'Oligarch'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/54CD0C028C7625A7F5A826AD32A4DF663C3470DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elevator Out of Order",
+      "trophyDetail": "Reach the roof in 'Highrise' under 45 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/4B152CEC2B620CB72F358F8590309868A1860C27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snow Angel",
+      "trophyDetail": "Execute the forest sniper in 'Frozen Tundra' with a takedown",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/9D00CD1FF402C258B45BF68849CB7AB51E6330B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hitchhiker",
+      "trophyDetail": "Defuse the bomb on the truck in 'Gora Dam' while it is in motion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/A507757132E2D1BC41993656359333C624741D7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Your tax dollars at work",
+      "trophyDetail": "Use a missile to take out a single enemy in 'Danger Close'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50313_00_005B1C58FDBE7F7D44E3BA418FC41BDCDD16B60799/021557DE64B9B670664CFEE3DE080EA9C33DF8EC.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

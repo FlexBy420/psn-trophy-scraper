@@ -1,0 +1,604 @@
+{
+  "npCommunicationId": "NPWR48162_00",
+  "title": "Alien Hominid Invasion",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 66,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/802e01ca-f1fc-4211-bc3a-d6c81f6a8a40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Contact",
+      "trophyDetail": "Kill your first enemy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/221ec90d-f7d8-4a91-84b9-2a3e59257aaf.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alert Level Mauve",
+      "trophyDetail": "Kill 510 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/59e778cb-783e-49c9-8512-b2f64fcbce3b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alert Level Violet",
+      "trophyDetail": "Kill 2,500 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/f7910f3f-0f53-4804-abe2-dc7b89c821b1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alert Level Purple",
+      "trophyDetail": "Kill 5,000 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/a216158c-0d82-46a0-a34c-825f69411c42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safe Keeping",
+      "trophyDetail": "Reach 5 hideouts total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/362b13ef-e5e7-4e60-a7a3-78b0f94f36d3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Powered",
+      "trophyDetail": "Use your mutation ability 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/8d2680b1-a58d-4828-8a3a-5757bb7fdf98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Aren’t Beefy Enough",
+      "trophyDetail": "Destroy an HQ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/0549e02b-3a79-4333-a238-9ea1ca9e12cd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let’s Talk About This",
+      "trophyDetail": "Destroy 3 HQs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/e228c670-f073-4f86-9d8d-7b769679212f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alright That’s It",
+      "trophyDetail": "Destroy 12 HQs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/e1cd13e4-b9f6-4753-bda3-8a8644d5e641.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Lifeform",
+      "trophyDetail": "Reach XP level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/d26163da-fac9-4702-82b9-51d33070caf5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surviving Lifeform",
+      "trophyDetail": "Reach XP level 25",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/cc3aad52-639c-48ec-a798-81895824b0e8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strong Lifeform",
+      "trophyDetail": "Reach XP level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/d32a845c-9ecc-47bb-bb22-207ff99c40cd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lifeform Finds A Way",
+      "trophyDetail": "Reach XP level 75",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/22d231ae-9a0e-451b-94d1-086aa8e90659.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lots on the Line",
+      "trophyDetail": "Complete a mission without reaching any hideouts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/daa5234b-a6d6-4713-ab48-7571bdc8f1a8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Like My Ancestor",
+      "trophyDetail": "Complete a mission without dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/5fa53421-5574-48ac-bad1-ed7d162a6638.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triggering the Alarms",
+      "trophyDetail": "Complete a mission with more than 8 city blocks destroyed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/3443c90b-1e97-4432-841c-c421286d7123.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "LOL EZ",
+      "trophyDetail": "Complete a level without taking more than 30 damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/17c42fa9-aa5c-4afa-9243-7ca19803c905.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I Like It Here",
+      "trophyDetail": "Stay in a level for 10 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/88508511-d00a-48e4-bb53-2458e2c3fb3d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Didn’t Need That Button",
+      "trophyDetail": "Complete a level without jumping",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/7f95c61b-3a2a-4a59-8829-e80091f45916.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Souls-Like",
+      "trophyDetail": "Roll through 500 bullets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/34f57e04-a3da-4743-9c5f-9ce82baf22d8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spectrum",
+      "trophyDetail": "Unlock 20 pigments",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/ad0345de-5747-4b86-aab8-67462ac36b8c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Extraterrestrial Exchange",
+      "trophyDetail": "Sell an Item for Lunch Money",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/bdfa5241-f699-43d7-ac6e-0414a72623e7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Economist",
+      "trophyDetail": "Sell 30 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/af442063-4eaa-4d26-ba4f-03eb91d038cf.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chunk of Change",
+      "trophyDetail": "Have 2000 Lunch Money saved up",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/b47e8cd2-28d2-49c7-9111-282e44d62fd6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robbin Good",
+      "trophyDetail": "Gain over 110 Lunch Money in a single level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/3131a3a8-0d1c-49a9-bfd4-181c03e64730.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lunchtastic",
+      "trophyDetail": "Gain over 220 Lunch Money in a single level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/65548797-6975-4388-a258-ecad066599fd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alley Oops",
+      "trophyDetail": "Kill 20 enemies with Jetpack explosions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/6df31f4f-9199-41a8-bb91-948c3dfe5a99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tastes Like Human",
+      "trophyDetail": "Life steal 5000 damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/a7f16aa1-92c7-4167-8fb5-7f2e7f15ffac.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quit Hitting Yourself",
+      "trophyDetail": "Deflect 10000 damage total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/63bbf9ff-61d4-41cd-afa3-62988307c800.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beam Not",
+      "trophyDetail": "Kill 30 Beambots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/207e7352-0354-4edd-a3ca-696eb70e97b1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frog-Not",
+      "trophyDetail": "Kill 20 Frogbots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/0300a9b1-8de9-4747-921d-d86ae25cc8f8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anti-Air",
+      "trophyDetail": "Blow up 10 Armored Sky Vans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/2d993a16-0a5b-4dea-8f92-e5be51dc60c3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Van't Stop Me",
+      "trophyDetail": "Blow up 10 Armored Vans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/9c91d8a4-d6b0-4504-a514-c1ccf08e8c8f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grena-tears",
+      "trophyDetail": "Kill 50 Grenadiers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/4fcfc3cd-6c3d-4fc8-a727-bf7b10ddb706.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flyswatter",
+      "trophyDetail": "Kill 50 Flybots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/aad4534c-10cc-4f10-bc1e-003f31fe20fd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best Defense",
+      "trophyDetail": "Kill 20 Shieldtroopers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/c521c91a-0abb-49ad-b474-8b7466ad9102.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "More Where That Came From",
+      "trophyDetail": "Die once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/88e5e216-5f29-45e3-a77b-fec0a50a34d8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Die Harder",
+      "trophyDetail": "Die a total of 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/7d1e8600-085c-46fd-b0a9-097cdeed7999.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Won't Stay Down",
+      "trophyDetail": "Die a total of 33 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/5cc058b3-f85a-4739-b8d1-ffe2ef71f233.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "If it Bleeds",
+      "trophyDetail": "Take a total of 15,000 damage (lifetime)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/30e58a3f-8a12-4e93-9b8e-243be031d269.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Insane in the Eyestrain",
+      "trophyDetail": "Defeat all bosses on insane difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/120aa7c8-b5a2-4456-b9f1-0506b6fa2cf7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Technically a Sequel",
+      "trophyDetail": "Finish the storyline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/4e22b32b-851e-4a39-b768-ada14b7ff298.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Is That All You’ve Got",
+      "trophyDetail": "Complete 5 waves in a bonus level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/321b76b7-63eb-4b20-8c6b-cff2ea60572d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In a Flash",
+      "trophyDetail": "Get 10 kills in 4 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/b109d000-6c4f-4083-a28c-36b22ce53083.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three’s a Crowd",
+      "trophyDetail": "Pop out of the ground under two or more enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/3303fb18-0eb8-40b4-a54a-85736061cc80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toddler Mutant Progression Hurdles",
+      "trophyDetail": "Unlock your first alternate Mutation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/dc7b93d2-956e-4092-9638-ae237c2cea6f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rocket Powered",
+      "trophyDetail": "Kill 10 enemies with your Sky Ranger jetpack ability (lifetime)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/05a4cbd1-f36d-477b-9320-d29228603b71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "88 MPH",
+      "trophyDetail": "Cover 1000 meters while using the Speed Demon ability (lifetime)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/c00d8b9a-f98d-473e-afe2-1f01cc376f89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cry Some More",
+      "trophyDetail": "Use the Weapon Specialist active ability to kill 5 enemies in one use",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/6122e639-2b78-4f5d-a0f5-0ce0c28c705c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Need Healing",
+      "trophyDetail": "Regenerate 1000 health of yourself or friends as the Medic (lifetime)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/6d2aa65b-e1c8-48ee-84f1-03262d13bbbd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With Enemies Like These",
+      "trophyDetail": "Ride on top of every enemy type possible",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/14ad9865-4e08-48f5-a1d2-f24410bf4e22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rodeo Star",
+      "trophyDetail": "Stay on a Bulldogzer for 10 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/33406375-c858-4af2-84c9-24c4d8b35481.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm Not Afraid",
+      "trophyDetail": "Survive a Beambot Swarm level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/aa6c45df-5322-4e80-8965-9d4b40205ba8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bossing Around",
+      "trophyDetail": "Kill a boss in less than 45 seconds of their arrival",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/941d7be4-44e7-44f0-be12-73089a800137.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There Has To Be A Way To Do This",
+      "trophyDetail": "Do not intentionally move your alien for the first 30 seconds & successfully finish a regular level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/77b51447-19ad-4ae7-9a16-9d965b87c7b6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prime Directive",
+      "trophyDetail": "Complete a streak of 10 successful objectives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/38e98808-c870-49b7-abc1-f67b9b8cc99f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anti-Armor",
+      "trophyDetail": "Break 300 armored agents' armors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/374cbdcd-cbb4-485a-a074-284d3eabda55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Downshotter",
+      "trophyDetail": "Downshoot 999 times (lifetime)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/193e64da-52a3-47b2-86cf-02a1958d2ad3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed Runner",
+      "trophyDetail": "Reach an enemy HQ from row 1 within 18 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/689ac552-122d-4abb-9532-886b2da6b649.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fleshwound",
+      "trophyDetail": "Extract with less than 20% health and no lives left",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/f19c9dcd-9614-4df3-b5cd-bb05b65e07ff.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We Come In Peace",
+      "trophyDetail": "Complete a level with over 300 kills",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/1c4a48d0-be15-4aea-90a7-824b74e11e7d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You are Very Strong",
+      "trophyDetail": "Complete 1 level using Show Off",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/daa7487f-832e-4c71-b8f8-6885f503654d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surfin' UFO",
+      "trophyDetail": "Ride a Surf Missile for 15 Seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/9f9eb0ff-7f85-4f22-8c09-1b74176a8bfa.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High 5",
+      "trophyDetail": "Achieve a stack of 4 aliens and 1 agent",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/a46960dd-bdc1-42a9-b9d6-bc6d4465018f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Super Deflective!",
+      "trophyDetail": "Deflect 50 shots in a single level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48162_00/84766dfa-da7f-4e99-ba9a-c115ccdd3498.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

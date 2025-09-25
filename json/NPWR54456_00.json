@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR54456_00",
+  "title": "Zombie Lockdown Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Total Control",
+      "trophyDetail": "Unlock all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/317d54b9-e430-47ca-975b-90fbf9308658.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Full Control",
+      "trophyDetail": "Fully upgrade the quarantine zone to its maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/b7d21279-8b5c-4f98-a154-4651c8ea65a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reputation King",
+      "trophyDetail": "Reach maximum reputation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/abfb100a-a9d8-4416-b7dd-cf70cadd3c0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Zero Tolerance",
+      "trophyDetail": "Earn a total of $5,000.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/50fcd437-c346-4e6c-813c-2577a9dbfa37.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Gate Guardian",
+      "trophyDetail": "Complete 10 in-game days.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/cb762f5f-f100-4f27-a955-778bac91f209.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Veteran Medic",
+      "trophyDetail": "Reach player level 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/adc00c33-7fee-422f-98fb-11a9ed65a0b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fuel Reserves Pro",
+      "trophyDetail": "Purchase 20 units of fuel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/f17ed47a-cc95-4e4e-8252-1defea2afaf3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Medical Reserves",
+      "trophyDetail": "Purchase 20 units of medkit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/dca0bdae-43f9-4c13-b586-707881934178.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I am an Engineer",
+      "trophyDetail": "Buy the trolley upgrade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/9916d499-e06c-4725-8bdb-5b7b118147c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Full Pantry",
+      "trophyDetail": "Purchase 20 units of food.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/35ec8498-c4a8-4cc3-8b71-2813348efdd0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Double Dose",
+      "trophyDetail": "Purchase and use a virus to upgrade stamina twice.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/56e6658e-2197-47f3-a505-34247d0a46b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quarantine Master",
+      "trophyDetail": "Upgrade the quarantine zone to level 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/fbdd8bb0-3f87-4076-91d1-4fb788d3ad89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Safe Haven",
+      "trophyDetail": "Upgrade the survivor zone to level 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/8ef3e118-93ee-4e1e-b990-3b5a099629d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Power Keeper",
+      "trophyDetail": "Upgrade all generators to level 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/10492205-17d3-4293-9aa3-bdeef0b17acc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Resource Manager",
+      "trophyDetail": "Upgrade all three resource platforms in the survivor zone to level 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/a9034ef7-b2b6-4814-8ca8-281daefd4bf2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wealthy Medic",
+      "trophyDetail": "Earn a total of $2,000.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/9358d22b-2273-4014-8898-141351ff4a2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Level Up",
+      "trophyDetail": "Reach player level 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/3c69b5fc-fe5e-4a91-b1a3-b8d39425d2c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Decision",
+      "trophyDetail": "Process an NPC in under 5 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/a995e0cc-ca0d-4b53-b25e-2b5c54ce14cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong Call",
+      "trophyDetail": "Send an infected NPC to the survivor zone by mistake.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/d1d8270e-c7a8-4ba9-bcce-9b194fb4f70b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bio-Boost",
+      "trophyDetail": "Purchase a virus and use it to upgrade your stamina.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/270f305a-bef4-41b7-ad94-2416908661d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Platform Upgrade",
+      "trophyDetail": "Upgrade any resource platform at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/89149618-a450-42ea-b25c-44831d308fb4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Manual Delivery",
+      "trophyDetail": "Deliver any resource to a platform without using the trolley.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/3e2ded81-efd4-47e4-af02-0ca5d9a43d7a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuel Reserves",
+      "trophyDetail": "Purchase 5 units of fuel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/686c9e22-50cb-40d4-8b69-39bf7020af79.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Aid Stockpile",
+      "trophyDetail": "Purchase 5 units of medkit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/9ff34551-5b2d-4848-a903-3119a816c2b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delivery",
+      "trophyDetail": "Purchase 10 units of food.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/7ba9be88-d0e1-4563-a95c-41e0c6d97bab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Need Money",
+      "trophyDetail": "Earn a total of $500.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/aad4fce8-50a2-4eac-b705-1c964fee2945.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collateral Damage",
+      "trophyDetail": "Send a healthy NPC to the liquidation zone by mistake.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/db9ab149-c28f-46cd-9ec6-ca60dc723cc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "By the Book",
+      "trophyDetail": "Hire a worker to deliver food for you.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/c7b8df35-ccab-4476-be92-9f6606dbf914.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feed the Hungry",
+      "trophyDetail": "Deliver 10 food units to the survival zone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/ee2fe624-e10e-4d6f-abe7-fa80bb36b661.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medical Supply Run",
+      "trophyDetail": "Deliver 5 medkits to the quarantine zone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/de26d79f-5bfc-4ef6-91b6-5cf778cdc911.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuel Up",
+      "trophyDetail": "Deliver gasoline to a generator platform.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/fbd7f2f4-dce6-48c3-93eb-1c7c2183a272.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Upgrade",
+      "trophyDetail": "Upgrade any zone for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/096d3175-9f56-4dd9-8292-ce595ea1790f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tools of the Trade",
+      "trophyDetail": "Use each diagnostic device at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/f0c96ca8-7d03-4279-ab67-2212e23ecbd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Medic",
+      "trophyDetail": "Reach player level 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/578a6308-8581-48b4-991c-62881c9b45dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Day on Duty",
+      "trophyDetail": "Complete your first day shift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54456_00/4baed90b-e027-4ade-9fb7-6a8b8e31d0bf.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

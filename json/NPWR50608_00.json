@@ -1,0 +1,719 @@
+{
+  "npCommunicationId": "NPWR50608_00",
+  "title": "Trophy Set Beach Invasion 1945",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Complete all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/0ae890e8-c714-4f81-bcd4-6ff513c6c06a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksman Auto. Rifle",
+      "trophyDetail": "500 Kills with LMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/05e11899-c2dc-450b-a036-57f21700f731.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksman Machine Gun",
+      "trophyDetail": "500 Kills with HMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/761c583b-3ad3-4703-b285-ab8cfa6f79de.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksman AA",
+      "trophyDetail": "500 Kills with AA gun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/8f0ad54d-5f9a-492e-b4d8-73f12440b362.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharpshooter Auto. Rifle",
+      "trophyDetail": "1000 Kills with LMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/e764a88b-3c22-42f4-b3cb-06c806a6a2a0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharpshooter Machine Gun",
+      "trophyDetail": "1000 Kills with HMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/f1791add-8834-47ef-80aa-87755ea9e1b7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharpshooter AA",
+      "trophyDetail": "1000 Kills with AA Gun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/cb5476ac-4ed7-4eab-899d-34756f258ddd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Auto. Rifle",
+      "trophyDetail": "10000 Kills with LMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/227ebb72-d12e-4fa8-907a-ec528a6060c4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Machine Gun",
+      "trophyDetail": "10000 Kills with HMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/f2205a42-cb86-4f7b-a6f0-ced46aa43b36.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert AA",
+      "trophyDetail": "10000 Kills with AA Gun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b0523d60-2387-494e-b4f5-e0f862870823.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soldier's Medal",
+      "trophyDetail": "Complete 5 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/acc5cb2a-c7da-40bb-b9d3-2c29b9b1bd5a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bronze Star",
+      "trophyDetail": "Complete 10 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/4f5bbaee-29be-4de7-85e9-2908ddc3058b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver Star",
+      "trophyDetail": "Complete 20 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/1143ad22-4954-4f7c-bba5-999ce7c6ce5f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Philippine Defense Medal",
+      "trophyDetail": "Complete 35 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/e33aa936-da7a-467e-b666-091c2af2dc70.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "35"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Philippine Liberty Medal",
+      "trophyDetail": "Complete 50 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/4c9d8607-dc30-4f30-afc5-17b1d2ebd8b6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"I came through and I shall return!\"",
+      "trophyDetail": "Complete 75 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/23558d27-7b0e-48ee-8cb3-7ba8b04e99f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "75"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "American Campaign Medal",
+      "trophyDetail": "Complete 100 waves playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/dc70656b-bba7-4588-978e-a99e187136bf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pacific Campaign Medal",
+      "trophyDetail": "Complete 100 waves in all maps altogether",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/bd757d91-50cb-4073-a1fe-11d462db85ff.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "World War II Victory Medal",
+      "trophyDetail": "100 victories in Sandbox Gamemode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/a3eeef23-8917-4509-b7aa-27b6ff6576cd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artilleryman",
+      "trophyDetail": "500 kills with naval artillery",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/591922be-7ac1-4e31-8453-106670508971.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purple Heart",
+      "trophyDetail": "Lose one of your weapons playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/bf6d20f8-db49-4b68-9434-e35c087cbc74.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Military Merit",
+      "trophyDetail": "Kill 1000 enemies playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/353ac6f7-c342-4fb5-9fcd-6cd1e30c4a86.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legion of Merit",
+      "trophyDetail": "Kill 5000 enemies playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b160e858-e3a6-4a9c-b4f3-a54a8a2860a1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distinguished Service Medal",
+      "trophyDetail": "Kill 10000 enemies playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/6eb00eab-83bc-400d-8e99-2e3a674166cb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distinguished Service Cross",
+      "trophyDetail": "Kill 50000 enemies playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/4e4d6f73-4aba-497f-ab56-a57c255b99fd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medal of Honor(Land)",
+      "trophyDetail": "Kill 100000 enemies playing as Americans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/2d6ba327-f99d-4f1c-8ac8-40f2eb0c9377.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Observer",
+      "trophyDetail": "Kill 10 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/332ad1b4-342a-453d-946f-4e06a0b1be23.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Navigator",
+      "trophyDetail": "Kill 50 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/322cc2e0-c7e0-4e61-af8a-1dcb44e6445b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Senior Observer",
+      "trophyDetail": "Kill 100 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/3ff13d7c-67ec-4eae-83ff-30a078a64bfc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bombardier",
+      "trophyDetail": "Kill 100 Japanese bomber planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/8bc07d73-9fec-4d10-bd5e-613e4212befb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Senior Navigator",
+      "trophyDetail": "Kill 500 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/f0ae441d-7264-46e7-b308-a6e1b0f16dcc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distinguished Flier Cross",
+      "trophyDetail": "Kill 1000 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/5b05db44-33ce-4c4c-9d6e-2d28ac9fa1f1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Payback for Pearl Harbor!\"",
+      "trophyDetail": "Kill 5000 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/4512219c-779d-4506-9bb9-cdeaf6ddf708.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medal of Honor(Air)",
+      "trophyDetail": "Kill 10000 Japanese planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/c49d1d93-721c-4ac3-9e44-f8ef319187da.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Naval Combatant",
+      "trophyDetail": "Kill 10 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/391db282-17b6-4467-989f-e88d9c1d16f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coast Guard",
+      "trophyDetail": "Kill 50 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b1b72a90-326e-4c37-8c09-eb133aa7ba62.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coast Guard Commendation Medal",
+      "trophyDetail": "Kill 100 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/1e6c4dbd-63d1-498d-9bce-9d020fabe179.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marine Heroism!",
+      "trophyDetail": "Kill 500 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/ef47465a-9908-4dfa-8481-aafd008546d0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Navy Distinguished Service Medal",
+      "trophyDetail": "Kill 1000 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/ec7859f9-7485-4708-bf9c-c3af19460a85.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Navy Cross",
+      "trophyDetail": "Kill 5000 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/c8c44833-8cbb-40e3-bb42-00344edb9821.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medal of Honor(Sea)",
+      "trophyDetail": "Kill 10000 Japanese boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/f28f714f-7fc5-41f8-85cf-a959d8cf55d9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Regular",
+      "trophyDetail": "Complete 5 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/c1366d05-45fc-40c3-900d-58b06b34753d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Three Legged Crow Badge",
+      "trophyDetail": "Complete 10 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/55791a6a-245a-4f3c-9cac-42f782199dc2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Firefighting Merit",
+      "trophyDetail": "Kill 500 Flamethrower type enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/db1d39f3-8568-4c62-9a62-207d7eb64dbd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "NCO Regular",
+      "trophyDetail": "Complete 20 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/71c479fd-604c-4469-94e2-ef80adc08628.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Officer",
+      "trophyDetail": "Complete 35 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/a916c475-8f21-4b81-b768-786cb652d680.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "35"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Banzai!",
+      "trophyDetail": "Kill 100 enemies playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/9141f3ae-7cfb-43fb-8f2a-49ea56c55d8c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksmanship 3rd Class",
+      "trophyDetail": "Kill 500 enemies playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b0e2ab39-0dca-49fe-baaf-66a8ee7698ef.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksmanship 2rd Class",
+      "trophyDetail": "Kill 1000 enemies playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/16fd5c73-08b7-4723-a5a3-55534608f4e4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksmanship 1st Class",
+      "trophyDetail": "Kill 5000 enemies playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/915b67e6-9cc9-498d-b58b-82805376ff43.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Descendent of Samurai!",
+      "trophyDetail": "Kill 10000 enemies playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/e586b745-45e6-4865-af73-5f8e17d6ce0a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sea defender",
+      "trophyDetail": "Kill 10 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/04507020-7f9e-4bb2-a18e-3c36715efa2a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coastal defender",
+      "trophyDetail": "Kill 50 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/1c6ed8b8-7b69-4f71-bffa-b0671446a9f2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coastal Gunner",
+      "trophyDetail": "Kill 100 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/1cef6ab3-4d47-4c1c-8c3b-d0b2de02c85e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veteran Coastal Defender",
+      "trophyDetail": "Kill 500 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/9403b1d4-210d-4c62-bdd2-3a4c7421275a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kamikaze!",
+      "trophyDetail": "Kill 1000 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/556d83b6-39f7-410b-81f9-057e2c08f5ba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Toro! Toro! Toro!\"",
+      "trophyDetail": "Kill 5000 American boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/da4df357-a556-4287-8ac5-330ced8705d7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Type 2 Wound Badge",
+      "trophyDetail": "Lose one of your weapons playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/2f44c17c-205e-4364-a8fb-f165e34a87ca.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Occupation Medal",
+      "trophyDetail": "Complete 50 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/8d543d59-0d7e-4218-98db-6c2fd4aaa707.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taisho Enthronement Medal",
+      "trophyDetail": "Complete 75 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/176d2131-8508-4623-8405-0d4df156ef1c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "75"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Showa Enthronement Medal",
+      "trophyDetail": "Complete 100 waves playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/ce19dda3-a5d6-4012-8e92-c87c9fa18c40.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old War Medal",
+      "trophyDetail": "2+ hours gameplay",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/84ddb290-1610-47ef-be34-0e4e7ad715a2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7200"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long War Medal",
+      "trophyDetail": "10+ hours gameplay",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/e8c9d23c-5ae4-4a92-9158-3627f83db43a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36000"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great East Asia War Medal",
+      "trophyDetail": "50+ hours gameplay",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/46a1233a-7b6f-49e4-b0f1-386b1cd76b6b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "180000"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Order of Culture",
+      "trophyDetail": "Play 1 Sandbox game playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/049fec2b-f495-4b60-940f-c58d69815475.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Order of the Sacred Treasure",
+      "trophyDetail": "Play 10 Sandbox games playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b9fdba82-f35e-4705-837b-a9bbcbb84aa6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Order of the Rising Sun",
+      "trophyDetail": "Play 20 Sandbox games playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/5c12cac8-53f5-4bf9-a0fc-e8ad9a941905.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Order of the Paulownia Flowers",
+      "trophyDetail": "Play 50 Sandbox games playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/b17e6f44-55be-4cf6-9736-abcdad720341.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Order of the Golden Kite",
+      "trophyDetail": "Play 100 Sandbox games playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/9e332cd1-6b31-471d-be48-12e12f8bd6c0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Order of the Chrysanthemum",
+      "trophyDetail": "Play 500 Sandbox games playing as Japanese",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/48fd76c6-e20d-4f36-bb3a-caf96049e07a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tenno Heika Banzai!",
+      "trophyDetail": "Kill 1000 American planes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50608_00/3fd518c2-8ab1-41ba-aea4-af19075fc2bd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    }
+  ]
+}

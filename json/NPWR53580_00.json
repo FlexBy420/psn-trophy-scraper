@@ -1,0 +1,361 @@
+{
+  "npCommunicationId": "NPWR53580_00",
+  "title": "ShapeHero Factory",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 39,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master among Masters",
+      "trophyDetail": "Unlock all achievements.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/3e8c65ae-2e4f-4149-bcef-43e2e1b929bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prologue",
+      "trophyDetail": "Complete the tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/cc1d2228-0896-4c37-88d7-70ae2090a73f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Act 1",
+      "trophyDetail": "Clear Stage 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/347ec925-bdc8-4658-8138-85c1c4e59e13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Act 2",
+      "trophyDetail": "Clear Stage 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/454a3dbb-5566-48c5-8ddc-6b8d77586b98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Act",
+      "trophyDetail": "Clear Stage 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/5b626483-722b-4f73-803a-df61f290322d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Transcender",
+      "trophyDetail": "Defeat the Malefic Portent.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/9c4b9c37-d8db-4065-b842-d2ba346fc6b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Hero of Heroes",
+      "trophyDetail": "Produce a Rank A Hero or higher.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/57cea7a2-7f2f-4d65-841c-7753cc92ee8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A True Hero",
+      "trophyDetail": "Activate a Lv 3 Hero Ability.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/44e2d2ae-ae71-4a10-82b1-62edb413c769.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diligent Researcher",
+      "trophyDetail": "Unlock everything on one Research Tree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/f07c05ea-437d-467e-8bea-ec6070fec374.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Preeminent",
+      "trophyDetail": "Defeat one of the bosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/fccd6572-df7d-405d-9fa0-7e52a4509176.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minion Master",
+      "trophyDetail": "Clear Minion Master for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/36470d0d-51d4-465e-a6fb-3e3a3d792820.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spell Master",
+      "trophyDetail": "Clear Spell Master for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/468dd868-08c7-401f-bfe4-0c6b7ab818b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Landslide",
+      "trophyDetail": "Clear a stage without taking any damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/f85e2f69-2fbf-4010-bc4d-dcfd27a56230.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veteran",
+      "trophyDetail": "Clear Ascension 1 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/f4c38a0f-34c6-4e2e-b78c-288e5abad626.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Charisma",
+      "trophyDetail": "Clear Ascension 5 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/4a66f5ef-9842-4635-b600-5ede7eed7697.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Legend",
+      "trophyDetail": "Defeat the Malefic Portent on Ascension 9.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/6ba83efe-b36d-4c63-8823-07bd24fd0fd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Researcher",
+      "trophyDetail": "Obtain every Research Tree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/027b1b82-335b-4a56-a689-53582c4843f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Great Library",
+      "trophyDetail": "Obtain all Arcane Knowledge.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/745febf5-6e87-4597-aff5-5231628645d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Gallery",
+      "trophyDetail": "Produce every kind of Hero.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/41591716-2149-4a89-b39e-ca4b2d9a4d1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destroyer of Mini-bosses",
+      "trophyDetail": "Defeat every mini-boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/21658ad6-7b6d-404b-ae9a-4f79f16a0403.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Challenger",
+      "trophyDetail": "Complete all Challenges.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/8a7c738e-83fd-4f62-9f84-92a96bc7f38c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minion's Smile",
+      "trophyDetail": "Complete all research for Improve Minion Environment.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/159be8b2-8df9-4648-9734-52278c8d2a39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Underground World",
+      "trophyDetail": "Complete all research for Adv Underground Delivery.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/6b813283-9da8-4136-9c7b-337111d6ef3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eco",
+      "trophyDetail": "Complete all research for Recycle Tech.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/c212eeb8-bfef-4587-84af-b67b3cb5ffea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Revolution",
+      "trophyDetail": "Complete all research for Ink Fuel Tech.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/04063ce0-b56a-4576-899c-03be3de362dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Soaked",
+      "trophyDetail": "Complete all research for Expand Ink Area.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/05dd84b0-09d6-4a18-9a56-41ee27383ca4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sage",
+      "trophyDetail": "Produce Sage for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/c3e8ce91-0697-4aec-af75-30eaba32060b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Knight",
+      "trophyDetail": "Produce Knight for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/4d2b7f94-f306-4bc0-8a1c-f41a1cf99d19.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gunner",
+      "trophyDetail": "Produce Gunner for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/12677cf3-2e53-4237-84b2-d0a50ddf9c1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pegasus Knight",
+      "trophyDetail": "Produce Pegasus Knight for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/284a864a-27b1-4745-9777-32834dacca5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hitman",
+      "trophyDetail": "Produce Hitman for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/e347253f-3553-494f-93bf-63d682614a82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ninja Master",
+      "trophyDetail": "Produce Ninja Master for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/e0626a81-7e90-459a-91e5-9929f78e814f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dryad",
+      "trophyDetail": "Produce Dryad for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/0e0efab8-e47c-4a9e-91c4-7b2122fe48b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fenrir",
+      "trophyDetail": "Produce Fenrir for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/d01d01ad-f200-40fd-a661-7a455805ad42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dragon",
+      "trophyDetail": "Produce Dragon for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/68962756-9732-4568-a75e-48abc3823cb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Thunderbird",
+      "trophyDetail": "Produce Thunderbird for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/5ebb6b74-2ff1-457f-a47a-fefc98675ba1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Medusa",
+      "trophyDetail": "Produce Medusa for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/caefcde8-384a-49aa-95bd-f4aa84e872b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion of Legend",
+      "trophyDetail": "Activate a Lv 3 Champion Hero Ability.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/80a4bd9b-e3d0-4e0f-a2b9-fad18619a783.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Days Without Rest",
+      "trophyDetail": "Clearing without using Free Control Mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53580_00/995236da-1fe5-4f7a-be45-3a5ae91d1f99.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

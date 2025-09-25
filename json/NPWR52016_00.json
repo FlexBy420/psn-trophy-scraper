@@ -1,0 +1,298 @@
+{
+  "npCommunicationId": "NPWR52016_00",
+  "title": "Motel Business Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 32,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Motel Master",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/58587054-9a4f-4903-8222-efbfdd6ee2a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Millionaire Motel",
+      "trophyDetail": "Earn $3,000 total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/098429cd-3eb9-4ff6-aca0-8998f0850ac3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "All-Star Reputation",
+      "trophyDetail": "Reach 5-star reputation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/e239cf2b-bb9e-40a7-bf98-e05835d61b97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Top Manager",
+      "trophyDetail": "Build 6 new rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/9690ac0b-ac72-4689-a509-2c39379c3701.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collector of Comfort",
+      "trophyDetail": "Place 50 props in rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/37ce48d5-d810-44b7-8043-3b9d7357c3e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Housekeeping Enthusiast",
+      "trophyDetail": "Send a maid to clean 10 rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/1afd389c-dc4e-4523-90b1-734506cc130d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Empire Builder",
+      "trophyDetail": "Reach level 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/2219e8a9-1c15-4122-8930-be0b7f771565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cleaning Beginner",
+      "trophyDetail": "Send a maid to clean 3 rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/7d5eb16e-58fc-4d96-bb80-2d77953d5d16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Motel Magnate",
+      "trophyDetail": "Reach level 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/53b20d97-2ba4-4d41-a8b6-16c7db202ea8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wealthy Host",
+      "trophyDetail": "Earn $1,000 total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/020e46d6-ea44-4c40-bbf6-cf21defe0b20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shining Reputation",
+      "trophyDetail": "Reach 4-star reputation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/89d57aac-5e49-484d-877a-69a8be28bde7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Renovation Expert",
+      "trophyDetail": "Build 4 new rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/20b3ca91-444c-4059-a5ee-0f9f70b98073.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Interior Designer",
+      "trophyDetail": "Place 20 props in rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/e388a6fd-c2cf-4e11-a324-0ec54d1a09be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Room Service Tycoon",
+      "trophyDetail": "Successfully assign 20 guests to rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/1f7934d8-7319-4294-a934-e1f6df084c39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cleaner Business",
+      "trophyDetail": "Throw 20 broken props into the trash.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/1e4eed16-e308-4b6e-86b3-a7753224ffae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Persistent Owner",
+      "trophyDetail": "Reach 6 in-game days.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/4062c532-e7f5-4b31-b9ca-9325ca71fc97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Dollar",
+      "trophyDetail": "Earn $300.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/c2bdba45-6c32-4a1a-8f4d-14057be12c28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business Rising",
+      "trophyDetail": "Earn $600.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/162e367b-735c-4519-951e-19b1def94d95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Step",
+      "trophyDetail": "Build one new room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/03d995d4-f88b-4e53-a776-61a0a8507b3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room Service Rookie",
+      "trophyDetail": "Successfully assign 3 guests to rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/6db828af-8f81-488e-b8c8-61239c818369.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I am laziness",
+      "trophyDetail": "Refuse a guest to give him a room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/2b703f54-887b-4636-8823-f5717f8da406.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Customer Service",
+      "trophyDetail": "Successfully assign 10 guests to rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/7580bfcd-7e2d-4a4a-8332-d9d67a76d925.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Little Designer",
+      "trophyDetail": "Place 5 props in rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/d0e36c59-d3be-467e-9a20-0580c09b3a85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Interior",
+      "trophyDetail": "Place 10 props in rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/14f7c21b-399c-461f-9fcf-bf995a6dfc3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recycle Rookie",
+      "trophyDetail": "Throw away your first broken prop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/59855f7d-e194-415f-b2e4-77641cff89c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eco Helper",
+      "trophyDetail": "Throw away 5 broken props.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/b182aece-23f7-4017-a960-1c66ea4fc767.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Popular Motel",
+      "trophyDetail": "Reach 3-star reputation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/875540a4-c1ff-4b40-98e1-8016f6d01da0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting Serious",
+      "trophyDetail": "Build 2 new rooms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/39ff43b5-3fab-49cb-806b-54954286942a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trainee Receptionist",
+      "trophyDetail": "Successfully assign your first guest to a room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/f3bd5343-62de-4e85-859e-b06f3a084f59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Investment",
+      "trophyDetail": "Buy 5 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/a2cb1233-cb3d-4012-af5a-d7c3073056be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smart Shopper",
+      "trophyDetail": "Buy 10 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/efa9edbd-e11f-473c-bfe7-05682cddd78f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dedicated Owner",
+      "trophyDetail": "Reach 2 in-game days.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52016_00/1b9b5c62-bf31-4566-b2c9-0ac1cdddf3fa.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

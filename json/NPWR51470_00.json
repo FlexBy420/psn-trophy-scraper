@@ -1,0 +1,334 @@
+{
+  "npCommunicationId": "NPWR51470_00",
+  "title": "Hirogami",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 36,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Hiro-ic!",
+      "trophyDetail": "Earned all trophies. Completed Hiro's journey.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/c7cc9773-383d-4de5-9e77-e807769c46c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock & Roll",
+      "trophyDetail": "Learn Armadillo fold transformation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/81767265-57ba-44ce-988c-05f71a5ab2f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ribbityy!",
+      "trophyDetail": "Learn Frog fold transformation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/d6a624f1-6ad2-4399-af61-aa904269b957.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ape come swinging",
+      "trophyDetail": "Learn Ape fold transform",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/e6c3a7ce-ffd1-4ab8-a200-04594055b58a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bird is a plane is a bird",
+      "trophyDetail": "Learn Plane fold transform",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/4aa63fd9-db12-431e-9a03-108619372a07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "A good kid",
+      "trophyDetail": "Defeat Ama Dailo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/f495f328-35ee-41f4-b624-1003013a9996.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Double trouble",
+      "trophyDetail": "Defeat Gamaro & Gamaru",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/ac040a31-f2f1-4b5c-8535-40f9b8c50568.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Wild madness",
+      "trophyDetail": "Defeat Shalala",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/59def250-4305-4c41-9824-0c6e68aa5efe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Resonating dissonance",
+      "trophyDetail": "Defeat Kugutsu-ki",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/fd23fa70-ac12-4f98-94e7-66307028fef0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shining shiny",
+      "trophyDetail": "Get 5 ornaments",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/2bd89651-5a7d-4496-884c-2f4eb5ea06d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jingle jingle",
+      "trophyDetail": "Get 15 ornaments",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/e179433e-b775-4aca-a424-bc065d84a760.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Crafter",
+      "trophyDetail": "Get all ornaments",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/f9a5d223-aa18-4c29-ade9-b09633d7ad4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where am I?",
+      "trophyDetail": "Identify 10 Relics ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/39bbcf7c-428d-43d6-98ac-388a44f907fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who are we?",
+      "trophyDetail": "Identify 20 Relics ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/887008a8-c5f6-4bac-ba6e-9cb754176925.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Raider of the lost",
+      "trophyDetail": "Identify all Relics",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/0b2fae57-7c01-47ba-b7c1-83354f07df3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every crease counts",
+      "trophyDetail": "Find & open 15 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/56ac073f-ebc6-4bcf-9353-b6f872bc1f6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky eye",
+      "trophyDetail": "Find & open 30 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/ab8adef6-b242-4208-850f-2c8540482bc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fold and fortune",
+      "trophyDetail": "Find & open 80 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/cc7570ee-b056-4a37-9d26-c5a420765422.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bug fixer",
+      "trophyDetail": "Defeat 50 digital Glitchers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/ad1be4bb-af42-4074-acb5-3df92af86732.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Firewall Fury",
+      "trophyDetail": "Defeat 200 digital Glitchers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/1da1aeed-6402-41cf-ae9c-77803756ce76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Digital exorcist",
+      "trophyDetail": "Defeat 500 digital Glitchers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/7f37145a-f14f-489d-a11b-0f3aa0fce2e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Curled and unfurled",
+      "trophyDetail": "Rescue 20 origami armadillo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/94a68f0b-ea4d-4d3a-9051-6420c9af2f8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shell shocked",
+      "trophyDetail": "Rescue 50 origami armadillo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/e6f7e5c6-56b2-4a14-8bf6-a02fdf21c77c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A good spanking",
+      "trophyDetail": "Rescue 15 origami frog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/b782a620-6abf-450b-91d4-87c74920b4d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Captain Frog",
+      "trophyDetail": "Rescue 40 origami frog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/9c03fdfa-398a-4416-a170-66c304ec3984.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ape-solutely saved",
+      "trophyDetail": "Rescue 10 origami ape",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/8b70af20-89f5-4a6c-9249-f362d1df1639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Together we strong",
+      "trophyDetail": "Rescue 30 origami ape",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/96696109-8221-4be4-a756-cac91499ed72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unfolding mercy",
+      "trophyDetail": "Rescue 50 origami animals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/1974510f-e5c5-401b-a9c3-5294f73366c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The great unfolder",
+      "trophyDetail": "Rescue 100 origami animals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/fb24bebb-758f-44ac-b287-7174d753d66f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Savior of the fold",
+      "trophyDetail": "Rescue 200 origami animals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/5cc2611d-35fd-461d-b87f-5ab946bcf17e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collateral creases",
+      "trophyDetail": "Defeat 10 origami foes by environmental hazard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/f1dbe3db-ed62-49d4-8487-941f795fd0c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hazardous trapmaster",
+      "trophyDetail": "Defeat 20 origami foes by environmental hazard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/5f350073-4076-4e8a-a71a-48c59bcc24b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creased to impress",
+      "trophyDetail": "Achieve all level objectives in level for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/8f9a4f9f-ca8c-40fe-b8ca-1c43eca31994.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fold by fold",
+      "trophyDetail": "Achieve all level objectives for 5 different levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/c32916ad-fa61-4ceb-83ab-389be56f2d8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tenfold triumph",
+      "trophyDetail": "Achieve all level objectives for 10 different levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/fa0e990b-576d-45ad-afa3-a8e22115a6da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Folder",
+      "trophyDetail": "Achieve all level objectives for all levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51470_00/4496b519-e2f0-469b-9dac-fd41730e3363.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

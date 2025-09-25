@@ -1,0 +1,433 @@
+{
+  "npCommunicationId": "NPWR51051_00",
+  "title": "Soulstone Survivors",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 47,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Earn all available trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/26f242ed-8881-40b9-a857-74eb21bf2e3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Arcane Weaver",
+      "trophyDetail": "Unlock The Arcane Weaver.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/a74095f4-866f-43bf-ab1a-4c018146527e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Beastmaster",
+      "trophyDetail": "Unlock The Beastmaster.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/039f01a4-0a80-4dea-bad1-2343105e728b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Chaoswalker",
+      "trophyDetail": "Unlock The Chaoswalker.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/f39308ef-ae0a-4c42-814d-3eaf33ffb6bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Death Knight",
+      "trophyDetail": "Unlock The Death Knight.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/4282ea83-dc45-4090-81b5-03b384f5ecc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Demon Hunter",
+      "trophyDetail": "Unlock The Demon Hunter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/018885eb-1003-412a-bfff-ebf532668a3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Elementalist",
+      "trophyDetail": "Unlock The Elementalist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/e8ba6853-0ba1-4959-8d3f-4fcb36bf3f78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Engineer",
+      "trophyDetail": "Unlock The Engineer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/a2097624-d811-4934-9e4e-4cab6237424c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Hound Master",
+      "trophyDetail": "Unlock The Hound Master.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/3aa6e96f-6279-4df1-8bfa-17da062e5361.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Legionnaire",
+      "trophyDetail": "Unlock The Legionnaire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/87f8fb5b-03d4-4bdb-a60d-6912a996a6ff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Monkey King",
+      "trophyDetail": "Unlock The Monkey King.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/7c05463d-cdf5-4369-ac14-a91f103a2925.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Myrmidon",
+      "trophyDetail": "Unlock The Myrmidon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/c6edf6a6-b8a0-4c65-9b90-8f0e1946401c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Necromancer",
+      "trophyDetail": "Unlock The Necromancer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/dbbdaabd-6f20-4aca-9f29-3e9ba7840678.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Paladin",
+      "trophyDetail": "Unlock The Paladin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/23a0f55c-28d4-40fd-b65f-3530ac6498c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Cursed Captain",
+      "trophyDetail": "Unlock The Cursed Captain.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/78fa0113-f5fa-40ee-bcaa-654d73f4bc54.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Pyromancer",
+      "trophyDetail": "Unlock The Pyromancer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/72660d1a-5150-4931-8b27-286e54802131.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Assassin",
+      "trophyDetail": "Unlock The Assassin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/6315b8d9-bf4c-412b-b2d4-d1685f8b5294.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sentinel",
+      "trophyDetail": "Unlock The Sentinel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/ef604523-25fd-4821-b98c-6228b5247895.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Spellblade",
+      "trophyDetail": "Unlock The Spellblade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/f6e76c3b-b705-4ce2-8dda-29435866e566.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Shaman",
+      "trophyDetail": "Unlock The Shaman.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/2cabb213-8223-4814-aee2-a63b28001664.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Samurai",
+      "trophyDetail": "Unlock The Samurai.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/84b532b6-cab3-4837-aaca-0afc069122fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Machinist",
+      "trophyDetail": "Unlock The Machinist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/9f1e855e-11af-42e3-a662-acb1d17a10d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Purge - Ritual of Sin",
+      "trophyDetail": "Disrupt the Ritual of Sin in the Unholy Cathedral.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/0dd50284-1971-4d19-90a7-784c8f6dbc7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overlord III",
+      "trophyDetail": "Complete 100.0% of the Overlord Mode cycle 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/8b7c3416-788b-4a1f-9025-22edce53c57c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Endless III",
+      "trophyDetail": "Complete 100.0% of the Endless Mode cycle 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/a6312290-778c-4d01-9801-3be39882f54b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Explorer",
+      "trophyDetail": "Complete 100% of a total of 5 maps.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/25db9258-5b4a-4847-837c-fd454e839da5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Swift Justice VII",
+      "trophyDetail": "Complete a match in less than 8:00 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/2df24957-d5a0-46a8-8032-f8fde63512bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swift Justice III",
+      "trophyDetail": "Complete a match in less than 15:00 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/bdcfdbef-bd5c-4056-80b9-63ad1e200c3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Camor's Ritual - Easy",
+      "trophyDetail": "Destroy 8x Camor's Pylon in a single match.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/c4aaea3f-176d-4ae2-a5e1-a3d72e0eb43f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ruanok, the Broodlord - Easy",
+      "trophyDetail": "Eliminate Ruanok, the Broodlord.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/f11c0e3b-5c28-4f8a-bb59-e8ffe0baac32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bumble, the Abominable - Easy",
+      "trophyDetail": "Eliminate Bumble, the Abominable.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/61d20527-b310-48b5-9803-e4168dfe7e92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Vanquisher IX",
+      "trophyDetail": "Eliminate a total of 700 Lords of the Void.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/2948c11d-14ac-40d1-9514-4a4c36c5d15c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Elitist VI",
+      "trophyDetail": "Eliminate a total of 2000 elite enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/6e2eae46-77b5-4230-a8fa-686c865c5101.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Massacre I",
+      "trophyDetail": "Eliminate a total of 10000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/9a96b249-7c93-4d4f-99ae-18b7a7a28b70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solid Foundation",
+      "trophyDetail": "Purchase all nodes in the central Skill Tree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/85c58486-d37c-4126-b929-0783811037ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Runic Empowerment",
+      "trophyDetail": "Unlock a total of 5 Runic Power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/124b25f1-4c62-4be6-ab1d-6908c9494789.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titan Hunt - Sigil of Corruption",
+      "trophyDetail": "Venture into the Void and light up the Sigil of Corruption in the Titan Hunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/681f29bd-d4a5-45ad-8bd8-7b381c57b446.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titan Hunt - Sigil of Vileness",
+      "trophyDetail": "Venture into the Void and light up the Sigil of Vileness in the Titan Hunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/1a231fdd-c7f0-4e99-ba9c-6beae17dc07a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titan Hunt - Sigil of Wickedness",
+      "trophyDetail": "Venture into the Void and light up the Sigil of Wickedness in the Titan Hunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/b0cf4ed9-acea-48db-a528-480d5c7f445e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Titan Hunt - Sigil of Hate",
+      "trophyDetail": "Venture into the Void and light up the Sigil of Hate in the Titan Hunt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/6b01dc8e-88c7-444a-980a-e7c174faaa1f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The King Slayer",
+      "trophyDetail": "Defeat the Void King.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/ebe90dff-acec-4b95-88bd-9a5323248853.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Godlike Power I",
+      "trophyDetail": "Complete 8 character skill trees.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/351d48ad-ef09-4598-be57-205e8ebdf7ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Godlike Power II",
+      "trophyDetail": "Complete 14 character skill trees.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/ae251ba2-0593-420c-a447-41e5309aeb52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Godlike Power III",
+      "trophyDetail": "Complete 22 character skill trees.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/cd8f1c27-4034-48d1-bfb1-160219087e4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weapons of Mass Destruction I",
+      "trophyDetail": "Upgrade 10 weapons to artifact rarity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/a8d10323-ec7d-46c8-b7af-ac2ef650c45e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weapons of Mass Destruction II",
+      "trophyDetail": "Upgrade 30 weapons to artifact rarity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/484a7a1c-890e-42b7-82dc-6131433a3b05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Weapons of Mass Destruction III",
+      "trophyDetail": "Upgrade 60 weapons to artifact rarity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51051_00/e5605d05-381f-4c7d-958c-f3aa6c4b8e89.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

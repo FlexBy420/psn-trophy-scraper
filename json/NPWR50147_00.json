@@ -1,0 +1,451 @@
+{
+  "npCommunicationId": "NPWR50147_00",
+  "title": "Keeper's Toll",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 49,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Keeper’s Master",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/8A668DE4834B7FA4FC51D7878FDBB9976AE0E5CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stinky Cheese",
+      "trophyDetail": "Collect Nibbler's Cheese in the Catacombs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/0F3F3A516219FF3D435D96FEBC1F28AC171C0237.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Seeker",
+      "trophyDetail": "Collect 1,000 Souls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/95154EF3E1842B8B4BAFD4B20413402FFC12D9EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Collector",
+      "trophyDetail": "Collect 10,000 Souls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/B030F01D280A326B29EAE5D0340C14766348F0B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Soul Master",
+      "trophyDetail": "Collect 100,000 Souls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/41FC38199D97935B3CF28B8D31AC87EC3921B555.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Slayer",
+      "trophyDetail": "Defeat the Flesh Golem",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/0713E34D41ED04A80162A73CEE7AF3A92D61D229.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotten Wood",
+      "trophyDetail": "Defeat Bloodsap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/EFFDD5E36381F0A43440CD5D71CE909DB105A3C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bones to Ashes",
+      "trophyDetail": "Defeat Chancellor Autlaic",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/BD4B19D0FB97565096D269408585C015BA0216AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burn the Witch",
+      "trophyDetail": "Defeat Velya",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/D492479123DE9A7847692BC01DBBEB34A46D25F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeking Riches",
+      "trophyDetail": "Collect 500 Gold in a Single Run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/2D44BDD9FD50F96ECA8E6FFA4153362DEF1454C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slay the Rotten",
+      "trophyDetail": "Kill 500 Zombies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/C37FA36F243D1D95A2825AEA6AA7D3D780646DC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bone Purge",
+      "trophyDetail": "Kill 1,000 Skeletons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/611FED898504E0EF4DA421D119FAD5454B9BA705.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reveal the Disguise",
+      "trophyDetail": "Kill 5 Mimics",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/6E0A023DCE66747C214DC1E2B12E86C87CE3DFC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destroyer of Deception",
+      "trophyDetail": "Kill 50 Mimics",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/E262209DE165D672C87517B2E7F7AC5FB7C58E9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacrifice",
+      "trophyDetail": "Use 3 Sacrifice Altars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/9F5444036006433E988CBC12327C8ED222E91D7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pest Control",
+      "trophyDetail": "Kill 1,000 Flies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/6A2AECB89B68967764BD07DF5A7630861DCB2BD7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Battle Hardened",
+      "trophyDetail": "Max all Talents for the Bogatyr",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/7CE9DF24F70BB8F9758E857B8BCF5DBABEC96A5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death's Hand",
+      "trophyDetail": "Max all Talents for the Necromancer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/C41ABB0DD25916A152FDB6B55914A58DBE9949EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Swift and Agile",
+      "trophyDetail": "Take No Damage for 5 Minutes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/13934D7B8297EA64BA928C5CCAF8023F10D242D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death Denial",
+      "trophyDetail": "Survive 5 Curses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/78E242679E82E79C2C76A79C0EE5AE9BAA78BEE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corpse Collector",
+      "trophyDetail": "Collect 100 Flesh Piles in a Single Run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/A83A2D57EE2407F8593F998DF37A8DE2D2042DA2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fly Swatter",
+      "trophyDetail": "Destroy an Entire Fly Swarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/157E77C8778FA4E6A7E5408CD7A2B291BD570E85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Round and Round",
+      "trophyDetail": "Kill 1,000 Enemies with the Flail",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/0BC20A87E9E6DD2E9F578614195396E386E4DEB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sylvan Summoner",
+      "trophyDetail": "Defeat Warden Grainloch",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/3953E20C0A903EE5AF7B7A2040D6BAB3270C1C61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ohhh Billlllyyyyyy",
+      "trophyDetail": "Defeat Bilee",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/A5D9C49A626F2AE842832DEB2BBFCAB05C595D8A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nature's Warden",
+      "trophyDetail": "Max all Talents for the Ranger",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/EDFE123F68929439E88C7A8C365B1F9628F327C5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cursed",
+      "trophyDetail": "Activate 3 Cursed Altars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/CB002ACC7F22E2C7199ABEF24824A5D561C22B16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of Shadows",
+      "trophyDetail": "Max all Talents for the Shadow Monk",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/F1F2E4C824560255A916C492C5476B626B71055F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeker of Knowledge",
+      "trophyDetail": "Discover 15 Tomes of Knowledge",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/50CF0CA166D67AF06E39F4EBE83B0CD334476C1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rotten Fungi",
+      "trophyDetail": "Defeat Sporelord Rotwood",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/AA6D2442CD7AEC3D948C7ED98E422BF1D53EEB26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demon Slayer",
+      "trophyDetail": "Defeat the Ebon King",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/AAFFE1F6AE17A8A29C71732112EAC36668516EA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From Dusk to Dawn",
+      "trophyDetail": "Defeat the Midnight Gatekeeper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/EA482DD1066010A44A481026157D2BF25595ACE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wraithblade",
+      "trophyDetail": "Defeat Soulus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/19B0451163A9CB965B759FADD281539223EEE46B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Noxious Blades",
+      "trophyDetail": "Defeat Lady Nox",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/3C73909F976E36A139D2178D45C8A41770B558DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Torture",
+      "trophyDetail": "Survive 10 Curses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/B61D847CE51F6ED2CB8645905C48F533543518EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mouse Trap",
+      "trophyDetail": "Defeat Nibbler in Usvit Depths",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/646DCA006233B04765D1BBB07DEACF2C4C10E57A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tactical Maneuvers",
+      "trophyDetail": "Defeat the Ebon King without evading",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/57E85D1B524F13F2CFCDE2BDC5FF4D308046A8EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gothic Destruction",
+      "trophyDetail": "Destroy 10 Gargoyle Statues in a single run",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/BD22E1736E1CF0324365C369156EE7D15AED24BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Ashes",
+      "trophyDetail": "Burn 1,000 enemies with fire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/B212E502E24EA9C7F64951ABFEF0B36B7DC1721C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master the Flame",
+      "trophyDetail": "Max all talents for the Pyromancer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/6247438EC92C585BFF5EF6F55401074D366CA887.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bloodstained",
+      "trophyDetail": "Max all talents for the Blood Maiden",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/A923994943EAB82B773F67F07FBC5ACB1B4D69C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brothers in Arms",
+      "trophyDetail": "Defeat Wulfgar and Osmer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/AA1F09A91D61EDD31BD28BF792C96D6E92B62E52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "End the Torment?",
+      "trophyDetail": "Defeat the Keeper of Souls",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/E79A78DDA98741B4BC32BC05BA50307ACB388901.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crossbows to Bones",
+      "trophyDetail": "Defeat the Dancing Dragon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/2291AD2EDF99CA4D0C6EB004D02624A6E234537C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Damage Subdued",
+      "trophyDetail": "Destroy the Obelisk",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/14703DA3AE3993F710AB41081A3333622743B8C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survive the Forest",
+      "trophyDetail": "Kindle the Fire and Defeat the End Boss of Linden Forest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/1681E1BC2BB1682F497FB97BA92FFCDBB441E6D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survive the Catacombs",
+      "trophyDetail": "Kindle the Fire and Defeat the End Boss of Usvit Depths",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/0950BAD4B78128EB0C612490F9AAF941E80303D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survive the Castle",
+      "trophyDetail": "Kindle the Fire and Defeat the End Boss of Usvit Castle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/145268F11A269E1AC65AFDC06AF093AA6EB7F3CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survive the Flame",
+      "trophyDetail": "Kindle the Fire and Defeat the End Boss of End of Time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50147_00_00B9D89983FCBECF4DBB32555317FF8BF6A28BFE9D/0FE7DD07F51A1A42125CC8DAE782B18EC2E4C2F0.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

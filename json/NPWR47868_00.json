@@ -1,0 +1,523 @@
+{
+  "npCommunicationId": "NPWR47868_00",
+  "title": "My Little Universe",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 57,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Completionist",
+      "trophyDetail": "Reach a 100% completion on every planet and dungeon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/23B8E63EB18FE38BCC49067860B6B060DE6A676A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Steps",
+      "trophyDetail": "Complete the tutorial on the planet Hades.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/073D0B3CDF9DE8C3FA7E6D761B2ED2C9262C3550.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The End?",
+      "trophyDetail": "Complete the story!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/1F07713FAD2BBE7C6BF60C7EC472560EF91D62FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Up to the Challenge!",
+      "trophyDetail": "Complete all of the Planet Challenges.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/1EAA471BC852B4E3FDD0EBF4C3516638FB9887C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Assembled!",
+      "trophyDetail": "Unlock every Character.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/22058C7218EBC3369341413B260872A2AB0C9006.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Have The Power!",
+      "trophyDetail": "Claim the sword.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/2337E0D40C7A776904D4F9DB6DF3F84E2420C8D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bigger They Are...",
+      "trophyDetail": "Defeat the Cave Guardian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/7295930EE482FDD12A659ABA23E37715CF9120D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Power of the Sun, in the Palm of My Hand",
+      "trophyDetail": "Pick up the Source Core.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/81A085CB8E312A7A2D890D84C8927513FE9AF3D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Stars!",
+      "trophyDetail": "Unlock the Astronaut.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/AE7BA4370B1CBBB7F86F6B9FCC98D714C16F6238.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Down, and Many More to Go!",
+      "trophyDetail": "Complete the planet Gaia.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/7E3F3C4E179A8FBE2B0B1FB11F70D13060769039.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rescuer",
+      "trophyDetail": "Rescue the tailor by defeating the Troll on the Mainland.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/419CC78ED6B27DFF12C91D63E0D51C27E54AA72B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savior of the Flock",
+      "trophyDetail": "Rescue the farmer by defeating the Troll in the Mountains.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/D4D1FC64BFE8D3962D15F66D394116A47CF57D5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creepy-Crawly",
+      "trophyDetail": "Defeat the Spider Queen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/8366949214C570256C894CB678B2918009185043.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Somebody Once Told Me",
+      "trophyDetail": "Destroy the Swamp Toilet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/01B3EB958C457867DFB73A40A8D6723E29192E09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back to the Seas!",
+      "trophyDetail": "Rescue the farmer by defeating the Troll in the Swamp.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/70AF2FA0167BD45E5071C0569333CE7BD9FA56ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rawr!!!",
+      "trophyDetail": "Unlock the Bearbarian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/1FEB361D04A21E3318DC17D54E18C01069C6BD0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No More Trolling",
+      "trophyDetail": "Complete the planet Trollheim.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/DA820865DE3D1A12C8FCF09417BBF8214E52E73F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shivered His Timbers",
+      "trophyDetail": "Defeat the Skeleton King.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/5975A040CBDFAF5F833D4142380DE159F105EEB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Set Sail!",
+      "trophyDetail": "Purchase a raft.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/B4D52D27C6955381CC461F40BF69BF91389A5797.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holy Crab!",
+      "trophyDetail": "Defeat the Crab King.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/B027039B9501409BC15A7BA24D3D60EE180DEBAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crabby Secrets",
+      "trophyDetail": "Unlock the secrets of the Ghost Ship.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/B48E45722A4D7EA510E6FC9A53EA708CD3154D55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There She Lurks!",
+      "trophyDetail": "Defeat the Kraken.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/20CF5E1B2D728F2DE5F300D9C2BF5F40BD85647A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Six Isles",
+      "trophyDetail": "Unlock Captain Scurvybeard.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/66E200BC91B42EAC59B49F8E7E5F54C526B3C380.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Seas",
+      "trophyDetail": "Complete the planet Dimidium.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/952645B80E0C5A71E36636C556F764D297702D57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Worthy Adversary",
+      "trophyDetail": "Defeat the Red Knight.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/737805D05F9AC1250B437B21BD7D88292C255E89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experiments Gone Wrong",
+      "trophyDetail": "Explore the secrets behind the dark and twisted research of Nexorum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/953098EBC8D1B3907F0989B7C00AFEE7FD777266.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There’s Always a Bigger Fish.",
+      "trophyDetail": "Defeat the Alien Queen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/20B628DECD87C3DD0CDB551BEC02741D0E7FA39C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Longer a Meatbag",
+      "trophyDetail": "Unlock the Robot character.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/2129439840777F3701C64518063947BE6C51BF4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Science Has Gone Too Far",
+      "trophyDetail": "Complete the planet Nexorum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/1BC2B3266B2AEFF9B7DCAA5A4336ADD4B39C5AC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That’s for All the Cavities!",
+      "trophyDetail": "Defeat Crunchy.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/EED91C47B916F6D35BFFA4567FC2D147C9D75CCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savior of the Winter Spirit",
+      "trophyDetail": "Defeat the Mean One.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/DF8E8A64F7051E9AC8894C2CDC46885EEF127C8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tis the Season to be Jolly",
+      "trophyDetail": "Finalize the Winter celebration tree.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/2697E725F74707F533E2EE47555C078F41D16D54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Checkmate",
+      "trophyDetail": "Defeat both the White Queen and Black Queen.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/9B3C674681F0C4DDC3428721220DE03481BF684A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "He Arrives Precisely When He Means To",
+      "trophyDetail": "Unlock Strudus the Wise.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/0FF3460CD0BEDA0D0028E501ACF073739C6734D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ending of a Fairy Tale",
+      "trophyDetail": "Complete the planet Wadirum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/0180B863BFAE85F0FB3AD41CA13038BD98E0A15E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vacation Time!",
+      "trophyDetail": "Finish the Settlement in Odyssey.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/A6549A256980C2999F3FBEF8E9AA560FCA95FD68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fool Me Once",
+      "trophyDetail": "Use the oldest trick in the book to get within the castle walls in Odyssey.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/87EB68177C4A65E934531325D1005466EE768D90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reap What You Sow!",
+      "trophyDetail": "Channel the power of the Reaper!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/E2270CD536FFC372085CD62FA9BA2D9C41972CA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "End of an Odyssey",
+      "trophyDetail": "Complete the planet Odysseum.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/D8BD456859C3A45C76D7F1EF368E0BF0B17D01B5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goodnight",
+      "trophyDetail": "Turn the sundial.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/7D97C172B96E428706D238D538701D96A6E5B821.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Was Me, the Sorcerer!",
+      "trophyDetail": "Defeat the Sorcerer!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/7416B36ED7E4AA44733C13572DB16E7A1177D4B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lizard Folk",
+      "trophyDetail": "Embrace the inner Dragon... or Lizard, it's close enough.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/5CBD02534A94ABB179A4ABC5112087BC30DB95F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Here Be Dragons",
+      "trophyDetail": "Complete the planet Dragonora.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/4E7E760FA06067D2AF200088FF771E624F72C8A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liberator",
+      "trophyDetail": "Free the Settlers by defeating the Stone Giant.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/AF3851CF79239CC97EFB022197B7F384BA92C35B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Forgot My Library Card",
+      "trophyDetail": "Defeat the Librarian.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/7D596D0CF84A37878D20C2B291453A864B841684.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Horrors Beyond Your Comprehension",
+      "trophyDetail": "Defeat the cosmic Entity.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/ADD36DBA172E84CFD7F78F8CF6D76DEF5C984072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Am a Goddess!",
+      "trophyDetail": "Become a goddess!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/C881AB17EE092736AFEFC7257057231B5DEFAC05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Moon's Path",
+      "trophyDetail": "Complete the planet Egyptium.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/A9B41B6730E705275075C22D4B71B38B55AD17CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "KHAAAAAAAN!",
+      "trophyDetail": "Defeat Khan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/9EB5A304635870441E137233C388D0AC075BD292.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fortified",
+      "trophyDetail": "Finish fortifying the Settlement.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/5A4A809E7EF45A147302BDB3A901355A4A351A7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Samurai",
+      "trophyDetail": "Become one with Bushido.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/3705C94BBA0D01AC51992B7315CC80065E4E0619.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Finding Inner Peace",
+      "trophyDetail": "Defeat the Kitsune deity and its avatars to free the Turtle Deity from corruption.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/EA98FF6343E8BA0DA4D9B302CCD1F309F873E389.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Maxed Out",
+      "trophyDetail": "Upgrade your armor and tools to the maximum level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/B590EA901CD968578425731AAB1D1E3036DD9654.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spiritual Journey",
+      "trophyDetail": "Complete the planet Asium.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/6719CC55B2E6AFAB1A72585E2700173D60569992.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safer Waters",
+      "trophyDetail": "Catch a predator of the depths.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/15D9100A1D40CFE44B2126FDABCFA6F12C14D950.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Embrace The Crustation",
+      "trophyDetail": "Unlock Seamore.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/EDEAF12E6087749D5A9700BA0FD819E5E92F182F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life Finds a Way",
+      "trophyDetail": "Unlock Rex",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47868_00_00858221B524884F563CDDE227F16DD94BD80E3A27/A7835E6D02F2477B3D1C24D32F2BC75C9A2BD5F7.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

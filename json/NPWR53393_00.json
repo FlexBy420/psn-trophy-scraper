@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR53393_00",
+  "title": "The Jumping Food Delivery",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Special Delivery",
+      "trophyDetail": "Collect all other trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/BF2922F2675CF0B457547FD19A18D26AC8722263.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 300 points in total",
+      "trophyDetail": "Reach 300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/9CA8A35EF6CD2067BE52E40D77C4D90F52110B1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 600 points in total",
+      "trophyDetail": "Reach 600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/D18B3D9FC1F353B6671925061440D5EC276123A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 900 points in total",
+      "trophyDetail": "Reach 900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/BDFCD37F21A680EDD5B23CB278664B842C553508.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 1.200 points in total",
+      "trophyDetail": "Reach 1.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/DE01430E728A4C683045B205CD7F08269D7D6ADE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 1.500 points in total",
+      "trophyDetail": "Reach 1.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/361ADAEFB0E44F0FBCEC5819824B0BCFFDE00203.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 1.800 points in total",
+      "trophyDetail": "Reach 1.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/391538A50DC53297F1CAF53145905DFC11AD7830.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 2.100 points in total",
+      "trophyDetail": "Reach 2.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/21DF3C1F7A6B70AE60FFEC2D8E27DF7654332D72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 2.400 points in total",
+      "trophyDetail": "Reach 2.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/94E1A0EFEDE4F15A67E5F8E1144B8A7B32919DD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 2.700 points in total",
+      "trophyDetail": "Reach 2.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/FFDD65E9BCE8FD0614ECEB29DD51D5722FE910F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 3.000 points in total",
+      "trophyDetail": "Reach 3.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/AC7559250BC24525C930FF8702462990460EEEE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 3.300 points in total",
+      "trophyDetail": "Reach 3.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/4835F45D7D706FBAB50117B45A2447D17162600B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 3.600 points in total",
+      "trophyDetail": "Reach 3.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/40D1D9A6436DA6947475ADAD42B8D3BDF9553A57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 3.900 points in total",
+      "trophyDetail": "Reach 3.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/61CB34EC2F24B2F811F06D857087865684DAB933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 4.200 points in total",
+      "trophyDetail": "Reach 4.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/91652EEB4413E5561D81DFF572B465C1E10BD16C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 4.500 points in total",
+      "trophyDetail": "Reach 4.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/8E6D8563629C483C129753D44549E85E557AED18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 4.800 points in total",
+      "trophyDetail": "Reach 4.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/7C04C896C449E391C141C632D207309E11DC3ED0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 5.100 points in total",
+      "trophyDetail": "Reach 5.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/2A0CE86C7D6D1827DCFC6899923E93F782BC4715.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 5.400 points in total",
+      "trophyDetail": "Reach 5.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/03F461C3FF98F3DB07D2B84228194D664D5C4740.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 5.700 points in total",
+      "trophyDetail": "Reach 5.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/3F46B1AFE29BBBEFF03EAF70FA5F5CE150598BB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 6.000 points in total",
+      "trophyDetail": "Reach 6.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/62542671D8F0243D1D820224048378283048AE74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 6.300 points in total",
+      "trophyDetail": "Reach 6.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/2CD7B0EDF097F69811567DAD44BE7012B64D958A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 6.600 points in total",
+      "trophyDetail": "Reach 6.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/5514B88F885386DEBE69098801808FB5AA473A86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 6.900 points in total",
+      "trophyDetail": "Reach 6.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E169409B1881138D457C8F4C6211DFFA956A3499.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 7.200 points in total",
+      "trophyDetail": "Reach 7.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E4C7D88AD8ED8A6492EFE43E5AE0A7D2F4D48A9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 7.500 points in total",
+      "trophyDetail": "Reach 7.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/80E4FAD30D2E8E57A41AE766C7DE9AA2EEA3FDBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 7.800 points in total",
+      "trophyDetail": "Reach 7.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/31D08547547B00AE1F0B0333B9EE85037B1FD781.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 8.100 points in total",
+      "trophyDetail": "Reach 8.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/DECF1108A3A55CDD17125616D64825BB3E9A604E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 8.400 points in total",
+      "trophyDetail": "Reach 8.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/AD1D5E78EBE1ECF64CB7DEF9E471DC967C21FE89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 8.700 points in total",
+      "trophyDetail": "Reach 8.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/47DA5613C5AC2ED41431958A63344A0C83B05F73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 9.000 points in total",
+      "trophyDetail": "Reach 9.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/A933BE9458B15E6FDF2D466F544795F08D8C993C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 9.300 points in total",
+      "trophyDetail": "Reach 9.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/6D325ED0D07D69A19254313544564509BF8AF978.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 9.600 points in total",
+      "trophyDetail": "Reach 9.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/564BC256DDEE6995AAF1B9DEB6A590F047392620.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 9.900 points in total",
+      "trophyDetail": "Reach 9.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E6DBCCCA78E84471FB047BFBADBF5B8402389E97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 10.200 points in total",
+      "trophyDetail": "Reach 10.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E94AD8E9F0C4E1F87E38CB472F786BEEF5BB0378.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 10.500 points in total",
+      "trophyDetail": "Reach 10.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/A53E743360BE11DB91EF65E4F847FAC7217897BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 10.800 points in total",
+      "trophyDetail": "Reach 10.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/28D9194B5C38CB219A07C27FEDB3BDA74A554711.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 11.100 points in total",
+      "trophyDetail": "Reach 11.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/F1047EF81FE3EC96ED49126726FACDB00BFFFDC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 11.400 points in total",
+      "trophyDetail": "Reach 11.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/F8D62582455057E3A8672B38158A836253F8178F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 11.700 points in total",
+      "trophyDetail": "Reach 11.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/82721B9684CB5682AD2BB86C102B0B54861B59B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 12.000 points in total",
+      "trophyDetail": "Reach 12.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/DF2734EC2BBBA0EA9FEFDB139D290605668AF372.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 12.300 points in total",
+      "trophyDetail": "Reach 12.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/7DD9C6150C0F38E2FA3E8CCD7FAF5319DF8E2EA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 12.600 points in total",
+      "trophyDetail": "Reach 12.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/EFCFB110C8BB845C967CE5009E453DA0A517BA8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 12.900 points in total",
+      "trophyDetail": "Reach 12.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/A5BD51BCBEE7B28FD64E463C83CDEAFD9F9A8EEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 13.200 points in total",
+      "trophyDetail": "Reach 13.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/A156DD4AC7B7C3EB67FF8EFC5618F469B095749E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 13.500 points in total",
+      "trophyDetail": "Reach 13.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/2DFE4EC8C4B8252719424F5E654D88542EDB671D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 13.800 points in total",
+      "trophyDetail": "Reach 13.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/12876F8CD66E1246D2A02FE1B058D54A7B7C8FB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 14.100 points in total",
+      "trophyDetail": "Reach 14.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/F6432E1D1A82E5AD36F61DF0A7971A235C5E737A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 14.400 points in total",
+      "trophyDetail": "Reach 14.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/2D03B02115D7C9DC5844A5873851A58FDC3A5F1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 14.700 points in total",
+      "trophyDetail": "Reach 14.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/36D346A8C5AEE0E9B2C829F681D52EC97C39BBBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 15.000 points in total",
+      "trophyDetail": "Reach 15.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/398A47856A22D10CD6687E84A4624470CCDE60C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 15.300 points in total",
+      "trophyDetail": "Reach 15.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/2BE10DFE678070E030DF3FA7EF75719395BB4DBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 15.600 points in total",
+      "trophyDetail": "Reach 15.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/54B3CD9C9379C001F455147CB946C9C2F2179365.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 15.900 points in total",
+      "trophyDetail": "Reach 15.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/65F838338A866F5D4A58763ADBE9D741B56EA91D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 16.200 points in total",
+      "trophyDetail": "Reach 16.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/67C1CFCFECBCDF0E91F66534CCC496C4F6405B1F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 16.500 points in total",
+      "trophyDetail": "Reach 16.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/B9E7238B40331455A2879F5CE6D00ACAA496DAC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 16.800 points in total",
+      "trophyDetail": "Reach 16.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E8131988EB87E062E4BF6CEB16E92D5CC6437472.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 17.100 points in total",
+      "trophyDetail": "Reach 17.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/80B49508C51B79EEC8F5E4E6D390668A5D8E311A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 17.400 points in total",
+      "trophyDetail": "Reach 17.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/85FD30158CF05A5B1E61450017BC2354B43DE8BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 17.700 points in total",
+      "trophyDetail": "Reach 17.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/6F51E16F1651D3E065B101F0E22B094314AD1754.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 18.000 points in total",
+      "trophyDetail": "Reach 18.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/28F1678AD7D4A64B59A8821EF7E34EB02505A5D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 18.300 points in total",
+      "trophyDetail": "Reach 18.300 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/E4F13912EB3BA9169A73A56D33634BA0A138FB97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 18.600 points in total",
+      "trophyDetail": "Reach 18.600 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/FC84C5435AAAB690C9B36CDDDB1EF24DEC72906F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 18.900 points in total",
+      "trophyDetail": "Reach 18.900 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/D9164692A4B54D51EBEC287FC26CBBF2EDEAAF2C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 19.200 points in total",
+      "trophyDetail": "Reach 19.200 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/C2AA1965F0B703C8BDC8FFE7D40040EFD2259317.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 19.500 points in total",
+      "trophyDetail": "Reach 19.500 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/B837079961B849AE35DD7F90EA38303DEE8DFA4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 19.800 points in total",
+      "trophyDetail": "Reach 19.800 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/8B9A07259074E77E6831D232B2005B004304EA5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 20.100 points in total",
+      "trophyDetail": "Reach 20.100 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/44CD42904CE2E89488159E8470098C970ADE1C2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 20.400 points in total",
+      "trophyDetail": "Reach 20.400 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/77ACECBD13AEDA3C6B3F7EFC57AAF2AAF53519F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 20.700 points in total",
+      "trophyDetail": "Reach 20.700 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/3D2DAE984583B0EF92831882D2169671CA26906E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reach 21.000 points in total",
+      "trophyDetail": "Reach 21.000 points in total.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53393_00_00E2A6F3A1FA786D97647D5B51A22F3E6BD9389672/5A2D4B1687A416E65913CAFCBCF097537D848692.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

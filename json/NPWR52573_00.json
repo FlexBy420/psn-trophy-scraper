@@ -1,0 +1,361 @@
+{
+  "npCommunicationId": "NPWR52573_00",
+  "title": "Recycling Center Simulator",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 39,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Earth Thanks You",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/9F0DBC7F9CBFF7722B72AAF6D83933F779E9DF3D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Start",
+      "trophyDetail": "Build your first machine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/9395494B95D56044B04064E87D4D2CB9DE8D9EBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tier 1 Production",
+      "trophyDetail": "Buy all first tier machines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/5818FA96EADB730754E962D87FE4B92E014E97E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tier 2 Production",
+      "trophyDetail": "Buy all second tier machines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B094AFB69EB16C27921513CFDFB22B357200B06E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tier 3 Production",
+      "trophyDetail": "Buy all third tier machines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/038734374A1568649B9530859A411E9C25BEEB93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Jobs",
+      "trophyDetail": "Buy all first factory upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/882AB8F55F0213305E8420204D5AD3B794F644BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Great Factory",
+      "trophyDetail": "Buy all factory upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/81E095807DC67CEBA13846E6525395657A734DC6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sort It Out",
+      "trophyDetail": "Sort wastes successfully 1 time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B3E3990768DB21C315BB66DDADE7F997555E6503.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sortmania",
+      "trophyDetail": "Sort wastes succesfully 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B3661F1F94DCEA0F0B65619A6E31C0EE5E1E3C42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bargainer",
+      "trophyDetail": "Take 5 scrap deals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/7437367BCB05A2EF160AC4550E1716CA287887FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hard Bargainer",
+      "trophyDetail": "Take 100 scrap deals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/040DF1422D8004C61A03D10A8CD1D855A0C91C47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Nook and Cranny",
+      "trophyDetail": "Clean 10 gathering areas completely",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B40B678DB11236297DACAF459E4AABCC0E6A77D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Sky",
+      "trophyDetail": "Fill a pallet completely",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/ED3AE9ECAB07EEE12D5CD9FA50F21E5BF044F87E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Night Owl",
+      "trophyDetail": "Work till 09:00 pm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/567194F898508E2404646F13D0BC146AF1A875F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contract Hunter",
+      "trophyDetail": "Deliver 3 contracts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/1C8ECD561DC3A14E8C35E1D75EAC264D69249C40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strict Monitoring",
+      "trophyDetail": "Sell 100 products at marketplace",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/4CAD253D493A26D482EC80674261265F38B64B8E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready, Set, Sort!",
+      "trophyDetail": "Hire 2 sorting workers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/9BC496A8B55D53FB7291708219674751FF3390B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let Them Gather",
+      "trophyDetail": "Hire a trash collector",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/BAF6780589AC1D43FEFD55C434C5C355F1C79E90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Call Me Maybe",
+      "trophyDetail": "Hire an assistant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/D356138D9DC562B76FAFFB8819FB08F4A7AA6655.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise of the Robots",
+      "trophyDetail": "Get a robot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/35C094715E0A08CA0A244D47E96945553EA2C7CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Full Employment",
+      "trophyDetail": "Reach max employee limit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/33F199907C693E66F8EF1584CC54AE5377118725.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Proficient Recycler",
+      "trophyDetail": "Reach reputation level 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/2EE68F42DC197CF1DA4AC1E8BAF525A740CAA929.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expert Recycler",
+      "trophyDetail": "Reach reputation level 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/27221F2747814CEDAE696DE2515E3647E2C1D8F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash to Cash",
+      "trophyDetail": "Earn $5000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/19345997A4B4A77E0D9048248B8CCF80B8B4A84B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reduce, Reuse, Richness!",
+      "trophyDetail": "Earn $250.000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/9DB1CFE3718CD279E95704AF8A0363DE874B7B0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Millionaire!",
+      "trophyDetail": "Earn $1.000.000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/49DF9ADB20A018F4659B5DE692DCB336963BD9D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Newbie",
+      "trophyDetail": "Produce 200 products",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/8E2B6154B5C6DA6CB9FED259D3D88F96311D2BB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Worldwide Producer",
+      "trophyDetail": "Produce 5.000 products",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B3DCCEC9751B7B346062A90473CA1241C3BB9355.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Make Money",
+      "trophyDetail": "End a day with more than $1000 profit",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/678C9DC58CA298566EBD5BCCFD1D97AF54EE7AB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's in the Box?",
+      "trophyDetail": "Use crowbar 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/630E789417BC8DB393037F33172D50CF4E8776ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Makes You Feel Guilty",
+      "trophyDetail": "Use lockpick 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/98D038F4D7F4747799AA8A72B7070A1AC781B1E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Love Tools",
+      "trophyDetail": "Buy crowbar and lockpick",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/4E8AE539D13DED8121EBE95BCA139D03ACE88072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Be Trashy",
+      "trophyDetail": "Collect waste from recycle container",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/369B937F9069A297C41BC42D540C4CCBD1BB0B80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mass Production",
+      "trophyDetail": "Build 20 conveyor belts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/D9ED618CE9D5AFE67378BD8706A90FA32C4C1EBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Money Line",
+      "trophyDetail": "Build 50 conveyor belts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/093A6AAE3242C652B272B8695CF2C912F47B0F30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hybrid Production",
+      "trophyDetail": "Buy all hybrid machines",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/FCD5D758EE4CA311F56C3901709E94C5563EE0D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Watching Charts",
+      "trophyDetail": "Sell 250 hybrid products at marketplace",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/4092D039B25854684CC957C4982715F6A01E3FAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ways of Deal",
+      "trophyDetail": "Deliver 10 contracts that include hybrid products",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/DFA6FBC014D5A6EB331E90CBB332198B55E40CF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Production Addict",
+      "trophyDetail": "Produce 20.000 products",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52573_00_0065318395F464EC91380AB65B152F45DB02D99097/B0101083EB6CA27516C8FBB855A0F76348F2C77C.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

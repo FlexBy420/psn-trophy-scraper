@@ -1,0 +1,55 @@
+{
+  "npCommunicationId": "NPWR52039_00",
+  "title": "MMA Fighting",
+  "platform": "PS4",
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": false,
+  "totalItemCount": 5,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Successful start",
+      "trophyDetail": "Win your first fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52039_00_00E9A3147F7566241D04C308AA621DC45DD2ED70BD/2361BB44D725B3FD76924F872522BC2ADF5875EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Endurance Fighter",
+      "trophyDetail": "Win a fight that lasts over 3 minutes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52039_00_00E9A3147F7566241D04C308AA621DC45DD2ED70BD/6EC3C50F8B39E933118B161D8C0222517AD82D7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hold the Line",
+      "trophyDetail": "Block 30 strikes in one match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52039_00_00E9A3147F7566241D04C308AA621DC45DD2ED70BD/6C89D763C6F9F3B08C3DEAF5DD4E936EB876FBEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Fast Finish",
+      "trophyDetail": "Win a fight in under 30 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52039_00_00E9A3147F7566241D04C308AA621DC45DD2ED70BD/F8C05BFC519BB7E130B603E593976DD2C965DBCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Veteran",
+      "trophyDetail": "Complete 25 matches total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52039_00_00E9A3147F7566241D04C308AA621DC45DD2ED70BD/0F2FAA0DBE1C1F2E584EE683ED3D9B074F735D23.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

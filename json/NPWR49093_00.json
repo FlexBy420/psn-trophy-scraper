@@ -1,0 +1,514 @@
+{
+  "npCommunicationId": "NPWR49093_00",
+  "title": "동방 스펠 카니발",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 56,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "동방 스펠 카니발 컴플리트",
+      "trophyDetail": "모든 트로피를 획득했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/395714966F55113C5C2D040914A19B51E33178B0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 1 클리어",
+      "trophyDetail": "스테이지 1을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B67E3CF0D193089723ADE0C58575029C92AE3938.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 2 클리어",
+      "trophyDetail": "스테이지 2를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/8CDADF3AB54DC97725A7E7BD930EB8999D84C916.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 3 클리어",
+      "trophyDetail": "스테이지 3을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/80BB642AC266D2E8CF3B98418D216919D19828BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 4 클리어",
+      "trophyDetail": "스테이지 4를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B50F6D172D9F479317E216D7023DCB96C4C447AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 5 클리어",
+      "trophyDetail": "스테이지 5를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B4C2B54CAFF6D2A19AA55270ADF5002F2F362A2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 6 클리어",
+      "trophyDetail": "스테이지 6을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/6B1485B99A37E843088CF38ADB717A9ACE4B7B33.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 7 클리어",
+      "trophyDetail": "스테이지 7을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/60B7B6984DA01912AAD033F1F20B5AA3F52EBFE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 8 클리어",
+      "trophyDetail": "스테이지 8을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/E78EAEB651FBA275ECC7BEB05448ADF56CA6119B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 9 클리어",
+      "trophyDetail": "스테이지 9를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/53E224883ABB15FEA65972A88E3D05A6385818AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 10 클리어",
+      "trophyDetail": "스테이지 10을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/39D8DD6168B2F0BA83319D4201468DDEE22072E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 11 클리어",
+      "trophyDetail": "스테이지 11을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/22856EA7613101C3EBE1AC6CED523D95626FB665.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 12 클리어",
+      "trophyDetail": "스테이지 12를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/087302C2590DE0030C7F355AFED88B1396C191D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 13 클리어",
+      "trophyDetail": "스테이지 13을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/72F0FDB49289C3838EEAE140732ADDBCC489695B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 14 클리어",
+      "trophyDetail": "스테이지 14를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/F3B3C821ED5AD36EE3F68F4775AD0F4BACC4B23E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 15 클리어",
+      "trophyDetail": "스테이지 15를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/14A582B053B8E2C6843A72F64437BD92FC13C1A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 16 클리어",
+      "trophyDetail": "스테이지 16을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/A6CE217E05A29D72FCD66F311E65ADB6CA6FB87E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 17 클리어",
+      "trophyDetail": "스테이지 17을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/2AAAB37B70422306D0A6CB16372242ADAEAE58D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 18 클리어",
+      "trophyDetail": "스테이지 18을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/957A21AFFBC993993897163A00ABD2CF7793B641.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 19 클리어",
+      "trophyDetail": "스테이지 19를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/3E85A8D8D51D414B65EDA70F11F7E47AA2A4435A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 20 클리어",
+      "trophyDetail": "스테이지 20을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/EB5F48E23F9A825D1C713C88B702A6E3B5BCB81C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 21 클리어",
+      "trophyDetail": "스테이지 21을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/C64DA21BEA64B6186D0BAD77F5A127AD9D678516.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 22 클리어",
+      "trophyDetail": "스테이지 22를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/C3F6E657911FB41A7B156B60497E43327DA3DBBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 23 클리어",
+      "trophyDetail": "스테이지 23을 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B86F63A3407479DA1103247046B1B73DC005074D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "STAGE 24 클리어",
+      "trophyDetail": "스테이지 24를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/AA472CD9F29B64594E5EF84058581EA982BC866E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "메인 시나리오 클리어",
+      "trophyDetail": "엔딩까지 도달했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/FF1CEFC1514D2484096400E4B782479DDF0CCCE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "스펠 카드",
+      "trophyDetail": "필살기 스펠 카드를 사용했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/73D67802895EF440A522B43C7DBD08F43223BCEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "탄막 놀이",
+      "trophyDetail": "한 번의 전투에서 필살기를 5회 이상 사용했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/FA478BA3C32C383F2F50A64A18577BD8DBFE167F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "영격",
+      "trophyDetail": "폭탄을 사용했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/BAEC0B3E598C4F70AC0F65F6CA78B51B40A4AB1D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "마지막 한 수",
+      "trophyDetail": "피탄 봄을 발동시켰다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/F663C7EFD5F5A884E67C5AADFBFDC15BD15B9C9A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "절약의 달인",
+      "trophyDetail": "폭탄을 사용하지 않고 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/7D0BF8CF499468ED919D391830D74DBF70D87D07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "공격 저지",
+      "trophyDetail": "필살기 스펠 카드의 「모으기」를 취소시켰다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/691B33BF4FE8864244ACBB5BAF8DADBC114E2F63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "회피",
+      "trophyDetail": "그레이즈를 사용해서 총 3칸 분량의 스펠 게이지를 모았다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/70B377EA55EA23100BB6EDD02BAA5523E1ED453F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "지휘",
+      "trophyDetail": "탄막 어시스트로 적을 쓰러뜨렸다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/32682109B7483C948BDBCCF871C97FBF1960F6ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "천공장",
+      "trophyDetail": "STAGE 25에서 「이면・브리지 체리 블러섬」을 사용해서 오키나를 쓰러뜨렸다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/6F25285CDFE0E4A49A1506B75D7634F0C2B3FA67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "홍마향",
+      "trophyDetail": "레밀리아, 사쿠야, 플랑 중 2명 이상을 편성해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B775F9284C06FAB07FE0F6B9277AE961B954A4E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "요요몽",
+      "trophyDetail": "유유코, 요우무, 앨리스, 유카리 중 2명 이상을 편성해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/F1694934BCCF3DDBA6BF393E46DDDCE0DCEA156A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "영야초",
+      "trophyDetail": "레이센과 모코우를 편성해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/7D12CE64234379EDF00DB5EB8EE47251A9056BBE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "지령전",
+      "trophyDetail": "사토리, 코이시, 우츠호 중 2명 이상을 편성해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/95C04FF2C341030BCA1DB06D4DF3463B91A71FC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "화영총",
+      "trophyDetail": "아야의 필살기를 사용해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/1925D6949103BF6A6385C727E1329EDD8C7CEB56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "풍신록",
+      "trophyDetail": "사나에의 필살기를 사용해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/F3A2AB531A397DEC4D4B9BD82678E9639A94B945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "비상천",
+      "trophyDetail": "텐시의 필살기를 사용해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/EE7A27077FCCC42E797CCA10771D71B0D5DBEE5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "성련선",
+      "trophyDetail": "뱌쿠렌의 필살기를 사용해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/448780FA1A594FF6CE9B5414D2C354CA89DAF8B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "귀형수",
+      "trophyDetail": "사키의 필살기를 사용해서 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/B17DF3CE40C650F8678F3A098DFE0A1BDAFF9F59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "취재",
+      "trophyDetail": "서브 시나리오를 1개 확인했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/C0E00602A63D912FFBF1D506F99E00B15C157753.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "환상향 주민",
+      "trophyDetail": "서브 시나리오를 모두 확인했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/AB83D647968D0D763A553C8D762D2DF12ACCAD76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "무녀의 일",
+      "trophyDetail": "미션을 5개 달성했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/6AD2301A65C73A54799B0A31C1319FF6E7FB4914.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "이명",
+      "trophyDetail": "레벨 50이 되었다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/4E81D0AF270B23454FF989873DCD7EBCF8609BBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "운세 확인",
+      "trophyDetail": "운세 뽑기를 했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/A73BFD68C479564BB275560F7EA7369BA609D177.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "전용 장비",
+      "trophyDetail": "처음으로 전용 장비를 획득했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/C786A55D7952CE9C296DACB19133A0E096B075CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "추억의 한 장",
+      "trophyDetail": "포토 모드로 촬영을 했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/6445B5F605E11E3AF8A5A3F183C06A3181440A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "부투장자",
+      "trophyDetail": "전투에서 획득한 돈이 총 100000 이상이 되었다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/9ADE906582D40A96E492D4F8BD82DE1CE62EE8E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "강렬한 일격",
+      "trophyDetail": "공격 1발이 1000 이상의 대미지를 입혔다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/7DBC696C3E425EB934399D3C5141F2288AF2A2B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "단골손님",
+      "trophyDetail": "상점에서 20개 이상의 아이템을 구입했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/F1833498A00BADEF7B308E0221A13EC424A8D30A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "신산귀모",
+      "trophyDetail": "캐릭터의 HP에 한 번도 대미지를 입지 않은 채로 스테이지를 클리어했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/D39F0B434C64296D9FAD49191EDCF82CED0C2BF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "수집가",
+      "trophyDetail": "30종류 이상의 아이템을 획득했다",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49093_00_003010CB8CEFCCF049099D8EA9BDBF5CC572B9CA8E/94F7A6EE21EBBA1A5B66E1E53DC08AF14CC438EE.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

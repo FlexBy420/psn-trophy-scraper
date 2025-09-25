@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR53535_00",
+  "title": "Bus Stop Shuffle",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Bus Driver",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/F8F3D2581A36984ADCA7ADF4513BCBBAA183C232.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "People Relocator Pro",
+      "trophyDetail": "Move 120 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/D188EC0C109260FDF9394E6C21FCA20C1DCC858A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commuter Chaos Master",
+      "trophyDetail": "Move 115 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/62983580C8459BC91A22F269B20E4FA301A936D9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seat Shuffler Supreme",
+      "trophyDetail": "Move 110 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/50035E58A5DCE55E58245AEA9CEC3119039EFB44.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus Stop Baller",
+      "trophyDetail": "Move 105 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/33131E25D35D6557596401E65C569CF3904C40E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd Shuffler",
+      "trophyDetail": "Move 100 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/189FEFF5ECFB7A2BC651C05687B9549CD818F250.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mass Transit Maniac",
+      "trophyDetail": "Move 95 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E8201076CA3C12AB3A54060FCC253400073C84D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stuffed Like Sardines",
+      "trophyDetail": "Move 90 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/6C93527197D5F7909A5FB42905BFA49FC27331FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passenger Wrangler",
+      "trophyDetail": "Move 85 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/71208A961FE4E3ECDDEDEB52A11F71C89DE2529E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luggage Not Included",
+      "trophyDetail": "Move 80 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/9F00CB09F777543811564AAF8A68489634DA6CCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boarding Madness",
+      "trophyDetail": "Move 75 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/48363B457BD4B22085EB7494CA02078B8160AC53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transit Champ",
+      "trophyDetail": "Move 70 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/49F7F51CA8BE357FF24EB4BC22151AE0DB917842.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gridlock Guru",
+      "trophyDetail": "Move 65 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/54AD696D08BB647D276B343BED9C11EABDBF34E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus Full",
+      "trophyDetail": "Move 60 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/D57154AC27476E4886EDE16F6EC3132F50C8D69A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gridlocked Greatness",
+      "trophyDetail": "Move 55 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/070CB2C81FD4DA129BAB031D3CDBB5A24154CC9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oops All Aboard",
+      "trophyDetail": "Move 50 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/56FE78A81BEC1AF8D00266735B76F488CE1A609B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Too Many Legs",
+      "trophyDetail": "Move 45 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/97BF812657E2D421EC572F432B8A631944285E60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Next Stop: Confusion",
+      "trophyDetail": "Move 40 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/56813C6E6E286F495973E49A6ACBC5D408C3DC89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd Control Crisis",
+      "trophyDetail": "Move 35 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/50BF1835F9F3D0D7EBD3412972A96F5D640325E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transit Champion",
+      "trophyDetail": "Move 30 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/F6DAED05EC0EC8003A4F3BD5A5390CC98411FA56.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wheels on the Regret",
+      "trophyDetail": "Move 25 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/DF33D6BBC32B9393114434BF84FCED16A2885241.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Packed Like Panic",
+      "trophyDetail": "Move 20 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E621A488C6A5C463F8E40D0E11AE573C3A530A01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stop Requested... Too Late",
+      "trophyDetail": "Move 15 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/36BFDE928F20CEC50EE776E0EA816BD0BE633C6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move It or Lose It",
+      "trophyDetail": "Move 10 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/B674A07C901A5FFD5D9BF97DDF079438D4FF0CEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commuter Overload",
+      "trophyDetail": "Move 5 passengers in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/38B5151574759323AF375AF357AAE2FFA58756EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Passenger Panic",
+      "trophyDetail": "Move your first passenger",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/9F74BA5356A1BDAFB30AF7D34038C50711B70663.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Piggy Bank Overload",
+      "trophyDetail": "Accumulate 200 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/9C45EC5A3A48FD37AD0B1CD7917BA6D269299663.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coin Chaser Deluxe",
+      "trophyDetail": "Accumulate 190 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/D426A11B3F1801005FD1D448121F5894106814AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden Gut Feeling",
+      "trophyDetail": "Accumulate 180 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/709F62205BD40BF60DDF8E54CE6E5C4E2CAB3DA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fare Hoarder",
+      "trophyDetail": "Accumulate 170 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/D118E73511014CD952B3A68D664FEE92C305CF01.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Too Rich to Quit",
+      "trophyDetail": "Accumulate 160 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/FE11AA8B0978AA555E9ED48E5F6482DF9B94213D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Transporter",
+      "trophyDetail": "Accumulate 150 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/208E4A910F23A6CFED487CA13F8FF1A329710A24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greed is Good",
+      "trophyDetail": "Accumulate 140 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/D561CEA598916803CBEC10EE6034E9751139C8F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cash Collector Extraordinaire",
+      "trophyDetail": "Accumulate 130 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E59C221AEDE14EB8EF03BAF6CFC294AA2904B351.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shiny Hunter",
+      "trophyDetail": "Accumulate 120 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/5B380F668DA938418478691593B4C015E8E2A20F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greed Bus Deluxe",
+      "trophyDetail": "Accumulate 110 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/F51A82666B97CC7EC7A9EED7A2C68EA6720BB66E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fare Collector Supreme",
+      "trophyDetail": "Accumulate 100 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/BF356F063AACAB0C0E01FE95EEA9E3664272B46B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overloaded Wallet",
+      "trophyDetail": "Accumulate 90 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/C65EDBD96E2ACAD6E951C75528A5365CF1C9F929.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nickel Navigator",
+      "trophyDetail": "Accumulate 80 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/6A6E54D83FFF43BBF8783661EEB8A91B811D131B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rolling in Transit Tokens",
+      "trophyDetail": "Accumulate 70 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/00DCD276076B700715ED8BB87F9D7972C73EB2B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Too Rich to Ride",
+      "trophyDetail": "Accumulate 60 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/60F8F8EECD602E487F60C5ED9D1ABB49666BC877.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fare Wars Champion",
+      "trophyDetail": "Accumulate 50 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/0BC646CF8E7CFBDF8A7AC071C12A235B4F90B457.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honk if You are Wealthy",
+      "trophyDetail": "Accumulate 40 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/44A6D325F2266D4675CBC94EA64D5DE5CE446824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grease the Wheels",
+      "trophyDetail": "Accumulate 30 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/FCB1B7397B9B55AF50390EA4FD6D8549A745D42C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cha-Ching Champion",
+      "trophyDetail": "Accumulate 20 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/3F3C14F6E6C54C677BFF159578A110356C4E01DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tap to Pay Legend",
+      "trophyDetail": "Accumulate 10 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E1E0B9AABB1A56BC4EC73E0A530FC326D1829082.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Next Stop: Victory",
+      "trophyDetail": "Pass level 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/3721FAB3E5D5075EF787803E172B75A1EEE7CC1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Still Not Fired",
+      "trophyDetail": "Pass level 19",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/FAAE20209F04A0C867406F67E6CAAD72177DC900.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stage One Slayer",
+      "trophyDetail": "Pass level 18",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E315D179DC3DAB357BE82B3C652A234978B05E15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Didn’t Crash Yet",
+      "trophyDetail": "Pass level 17",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/57BE68D701BBE42124D1117871D938938B9D0700.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Backseat Winner",
+      "trophyDetail": "Pass level 16",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/9A2E991CBC441247BA315551A02638B235286E55.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level Hopper",
+      "trophyDetail": "Pass level 15",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/3D8F8341F3C7587F2BA2810B4EC3EB321C29EBE4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commute Conqueror",
+      "trophyDetail": "Pass level 14",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/CD2E58459B01F3D38919157251358B3CB415D5E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Low-Bar Legend",
+      "trophyDetail": "Pass level 13",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/2686C6033EF88D2B226CE45C0051EA6225EA48B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barely Passed Physics",
+      "trophyDetail": "Pass level 12",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/03D0E887779BBB0021AA113AC5669359E4D99198.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bus Driver Diploma Earned",
+      "trophyDetail": "Pass level 11",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/5A90DADE331FDE095B0355C0AF69C50E25C18338.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Checkpoint? More Like Luckpoint",
+      "trophyDetail": "Pass level 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/887D53F22CFA616B9D74A9C10648A8506AC8C24C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just In Time Traveler",
+      "trophyDetail": "Pass level 9",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/82A7EFF2B189B5091B1D111ABD91BD76BCA3E5B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Probably Skipped Tutorial",
+      "trophyDetail": "Pass level 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/83D6D45739787B7A1F9717934726FCE9E56A43D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlicensed Victory",
+      "trophyDetail": "Pass level 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/2D44517585280235D8E1ABFE75C98CF8C2FDE8EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turbo Transit Trick",
+      "trophyDetail": "Pass level 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/1C40365EF8B7A4A73DED1E87899FCF7BB374A165.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hold My Fare",
+      "trophyDetail": "Pass level 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/C702879C4CD1C92A72130D17950CE4F5FBD3E1BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seatbelt Optional Win",
+      "trophyDetail": "Pass level 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/A0BB211A01C0789AECBED38E38817705C72390F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Derailed But Victorious",
+      "trophyDetail": "Pass level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/34196AD4549E6CA9A4794272689F1E8E23EC6C6F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Too Fast Too Curious",
+      "trophyDetail": "Pass level 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/4379AC66B3E5A84AA52B86CECA3940A29C96C324.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Checkpoint Clinger",
+      "trophyDetail": "Pass level 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/76692F2711E7EA35ACF1D35A215B0A371314EFDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legendary Misstep",
+      "trophyDetail": "Fail 5 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/0F2A6495119A71FA4D09914893F038AE6F8375ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Public Transit Menace",
+      "trophyDetail": "Fail 4 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/70E3F1FC33218F5ED4F311FF9E3655C9E92CFDD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mistake Maker",
+      "trophyDetail": "Fail 3 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/329849A2E861E280837A831BF1C94683D9C831D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unqualified Driver",
+      "trophyDetail": "Fail 2 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/B53161853B954F5ECF945CE5C48D974B88E43E0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fails with Style",
+      "trophyDetail": "Fail 1 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53535_00_0080F2B75B3E61CD5B6B7B78DBCE2A7154E5B2FF33/E6B62BD7FCEDBF2B7398D579DEA5889618AB4969.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "npCommunicationId": "NPWR49356_00",
+  "title": "Colorful Boi 2",
+  "platform": "PS4",
+  "trophySetVersion": "01.10",
+  "hasTrophyGroups": true,
+  "totalItemCount": 84,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master of Colors",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/9BC4E70F826BFF1454979EEE2AC293E9836E1AB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Challenge",
+      "trophyDetail": "Complete chapter 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/A29FC926A4824F19553FC07433AA446BB34BEBB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent Resolve",
+      "trophyDetail": "Complete chapter 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2C8A483DC627C6D91AAEB6070B1F3FC9A606CFF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Halfway Hero",
+      "trophyDetail": "Complete chapter 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/E9A2DD20965297007774E447374B45A00BE4D435.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Star",
+      "trophyDetail": "Complete chapter 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/3917359B655467CE3FB172220E955D1A1EFE7F69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Momentum Builder",
+      "trophyDetail": "Complete chapter 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/9D649EDE699BEB3D0D827918EC21FADDA3E96199.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steady Progress",
+      "trophyDetail": "Complete chapter 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/D6F84168E6A2400CEA299A94CF40A9F099D387DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Beginnings",
+      "trophyDetail": "Complete chapter 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/446E914EC957616A726B3AD4CA7AEEC6FB6572E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collector Extraordinaire",
+      "trophyDetail": "Collect all collectibles",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/D40499FF63F2881008CC54AA62BE819CF9BDD72A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Collector",
+      "trophyDetail": "Collect all collectibles in chapter 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/4707C5C3A56881FF32F7FA68C53A9297E5A3957B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bubble Enthusiast",
+      "trophyDetail": "Collect all collectibles in chapter 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/939A083837CC8D9380FD91A5D56BF0450958D66D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shiny Finds",
+      "trophyDetail": "Collect all collectibles in chapter 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/25590A6B176C018F7F8E118B33FE97FCDADBB19C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Seeker",
+      "trophyDetail": "Collect all collectibles in chapter 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/D61B9F9A84197B63F5424434F947562A5EED9713.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mystery Hunter",
+      "trophyDetail": "Collect all collectibles in chapter 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/97DC6132F951A965B89E0ACEFCD2B805F94E5B8D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathway Explorer",
+      "trophyDetail": "Collect all collectibles in chapter 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2074BE7D21D2CC55AD5B908357A0C0A919E316FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Discovery",
+      "trophyDetail": "Collect all collectibles in chapter 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/583D7DFAA7144E2A5C75EA327ECCB84A6347DA68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crash King",
+      "trophyDetail": "Die 22 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/A0CAC5135594C46CEA63FA5B5919418E50EAFEF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unstoppable Force",
+      "trophyDetail": "Die 20 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/84FD4DE46FDFDF1F4B6F4548B28A3AAB16260995.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Resilient Rider",
+      "trophyDetail": "Die 18 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/C049ADC1700257DE2D414A4101BC89AB2E1A2FEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Risk Taker",
+      "trophyDetail": "Die 16 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/F7A2F26738889D9AA7786E34078151CD4CA62CD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Close Call",
+      "trophyDetail": "Die 14 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/9957B4CA2020A1B6F1105D86FEAEF99441816F39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bumpy Journey",
+      "trophyDetail": "Die 12 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/A146FE865807EE66A18899E1F0D087BF788F69FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edge of Glory",
+      "trophyDetail": "Die 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/42FD26802AAF1DB17961C9D3B2A3FD618B49964F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oops Again!",
+      "trophyDetail": "Die 8 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/16B8191E909F49F14A7BD9E0B7773709E816F38D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Mistake",
+      "trophyDetail": "Die 6 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/68A51DA727A82DE260DA4730EEFA827439D78126.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trial and Error",
+      "trophyDetail": "Die 4 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/D59FACFFB195C86628890B5C389489563345B17E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Crash",
+      "trophyDetail": "Die 2 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/1FEF8F3C994205386F43D9E1E3640625CD15E551.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky High",
+      "trophyDetail": "Use 30 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/C11C6ABE67A274A4FCFB900F00419927D3B6332D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leaping Legend",
+      "trophyDetail": "Use 25 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/36981BBBCB4D2E249F41D2D7199896361EC2157B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Airborne Adventure",
+      "trophyDetail": "Use 20 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/BE7D3C1F9BE20B5D0D6882177B6A3253B3131872.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spring in Your Step",
+      "trophyDetail": "Use 15 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/DB456BF09A44554E1A48656BAB8B4E4BFBD579CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump Enthusiast",
+      "trophyDetail": "Use 10 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0F56CCAA2CCE475CDA3678CD82CD9D4781610E46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taking Off",
+      "trophyDetail": "Use 5 jump pads",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/4AFC0DAA8A66C2FA45427D766D3498D9C367399A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Run",
+      "trophyDetail": "Complete 15 levels without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0B8DB725E3CD6542B3225C634180A9CAD26816A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flawless Victory",
+      "trophyDetail": "Complete 10 levels without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/CF7FFA9ADE35123C46AFD49BD8C1220D629DDACE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survivor",
+      "trophyDetail": "Complete 5 levels without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/DD81879298169EEA0A81DB9992DBD74F185EB5DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unyielding Spirit",
+      "trophyDetail": "Complete a level without dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2CBFA8333891606C552820D389599B6A0510900E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Airtime Ace",
+      "trophyDetail": "Jump 200 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/CC279C91D3D092CDF0907325BF29409BB0F005A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boundless Energy",
+      "trophyDetail": "Jump 190 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/A2F3F0829C800663277C5AD9BF50BD83B75BFEDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky Seeker",
+      "trophyDetail": "Jump 180 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/611621A099F5CE855F2C080DA5C116B48DB572B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elevation Expert",
+      "trophyDetail": "Jump 170 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0E939DB6DEE29A28711CEA2BE76CF85D3AB1B513.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gravity Fighter",
+      "trophyDetail": "Jump 160 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/38BB3B42B60D619970BBB03A6164D9B40EC1C7EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump Frenzy",
+      "trophyDetail": "Jump 150 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/1EF281A8E30A2FC22484D9C28DEDDD2139C629F8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leap Legend",
+      "trophyDetail": "Jump 140 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/FAB0F0E6D36D197EF1971ECB8E98616D23FC5743.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spring Savant",
+      "trophyDetail": "Jump 130 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/14DF699B15810FF9842A6554173704262BB5F680.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Hopes",
+      "trophyDetail": "Jump 120 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/D8E1DC5556B0094330B9FFC8F99AE38E5F30B09F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ascension Starter",
+      "trophyDetail": "Jump 110 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/F9CFF9830414B11C3F74DB0E2D02D31161F76E05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hop Hero",
+      "trophyDetail": "Jump 100 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/993B6BFD2C034F79EA72080B264E643B6F16D68B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vertical Vision",
+      "trophyDetail": "Jump 90 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2C7530555679882D8195C49F91C6188752CA6758.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bounce Buff",
+      "trophyDetail": "Jump 80 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/72D22CBBA80EBF0A344249F15CB2631C588F4423.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Height Hopper",
+      "trophyDetail": "Jump 70 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2B7443C2481B3EB45C7ACA4786A6044851F99196.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Step Striver",
+      "trophyDetail": "Jump 60 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/E9E2C1EEE9010812442ABCDCA3319E8DF319F595.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rebound Rookie",
+      "trophyDetail": "Jump 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0B6095425EF07B50092673E9D6F29AE18D179710.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Small Leaps",
+      "trophyDetail": "Jump 40 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/E6302EBD8EC79A6DC71EB41ED5DEBDD43B58E1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just a Start",
+      "trophyDetail": "Jump 30 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2EFAE195E59588C3BBA3372FA557672C40850F90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Testing Heights",
+      "trophyDetail": "Jump 20 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/1C790E2E12B7CBD64D9CB3FEA76E3E6682C4D43D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Flight",
+      "trophyDetail": "Jump 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/38B64EC2CB5A0EB3FB49914362B018DC38832E5F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie’s Luck",
+      "trophyDetail": "Jump for the first time!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/BE6C5E2BCA75F0F251E0AA843B0D213549C7B153.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demolition Expert",
+      "trophyDetail": "Destroy 36 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/F7EF11F29A39807A41D46AD4BE81B812D811A0FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Block Smasher",
+      "trophyDetail": "Destroy 33 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/7067CFA42EEFE22F99D03078596D97283404FA27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking Point",
+      "trophyDetail": "Destroy 30 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/93028B72FE257C7144032C78BE070EC9EB888FB3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crush King",
+      "trophyDetail": "Destroy 27 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/32C609B5A0A6C098A914B3931CFD07834014F6D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrecking Crew",
+      "trophyDetail": "Destroy 24 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/B5E58EB84D32B9D3239A1CBD5F4E8287FAD407C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shatter Pro",
+      "trophyDetail": "Destroy 21 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/7F4A83E5D5766A2B4D8707D42831064A1872601B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Block Breaker",
+      "trophyDetail": "Destroy 18 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/E9331793251F28714FD316DE5FC8A7D5A94332E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chip Away",
+      "trophyDetail": "Destroy 15 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0F5822B6161AD0ABF2BAA77B4729656F9B256DC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crush Test",
+      "trophyDetail": "Destroy 12 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/2FA251A541563D3D20137B64101C363655B8F4B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Smash",
+      "trophyDetail": "Destroy 9 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/3067587DF0946DC604711068AFF1D9A60ADAA72A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destructive Impulse",
+      "trophyDetail": "Destroy 6 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/145C79655776E2EB10610F5C5EB6BF9E3BBB0A68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginning Break",
+      "trophyDetail": "Destroy 3 weak blocks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0D1C0B62738F2746F0D7D4439480D4387FB5201B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Crack",
+      "trophyDetail": "Destroy your first weak block",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/75FAF07F86BC8C0AC7DAC2AEA3AAA5437EF05253.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the DLC",
+      "trophyDetail": "Complete DLC level 13",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/AC03435FCADFA6ED495124253AE47947BE6FDFD4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eternal Champion",
+      "trophyDetail": "Complete DLC level 12",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/23793CD0E1B2A2273E93CD3FE682DA8D8B4C7D3A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero of Legends",
+      "trophyDetail": "Complete DLC level 11",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/8AEA83A6DB3EAF127CEEEB217A0ACAD0EEC3FBA8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shadow Conqueror",
+      "trophyDetail": "Complete DLC level 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/C52E283F4351249C6C8DAC78FF8AF3CFAB35ABFE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Unyielding",
+      "trophyDetail": "Complete DLC level 9",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/35680C9569A1701E3349DF609466335AC97E0B77.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bringer of Light",
+      "trophyDetail": "Complete DLC level 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/F94B3D558B245A7D9F5168CBA88D3E0F5767B960.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle-Hardened",
+      "trophyDetail": "Complete DLC level 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/0897870EC295FA63BA0672D841398B06A5634BAA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Trials",
+      "trophyDetail": "Complete DLC level 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/7206ECDE453682E6DE6C801C77FD5BFA4B58FE8E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bold Adventurer",
+      "trophyDetail": "Complete DLC level 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/9B8B69864564D65B9E128C44EFB403CFB2C3A16D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasoned Explorer",
+      "trophyDetail": "Complete DLC level 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/601712D2040F21A8E2043F36B79134BF603D5EED.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder",
+      "trophyDetail": "Complete DLC level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/50E82A2FD35C06060CF589035EFCE2F3A1E4DA5C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Challenger",
+      "trophyDetail": "Complete DLC level 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/41B55D45B8A10AC1C2B3E608A1F3C9EFA099B5E1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Steps",
+      "trophyDetail": "Complete DLC level 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49356_00_0024F2B67B7F67C892665D8E1A2B0FEF43E49AE95A/DE2FB40A5D1CB72FC4F334199BAA1DFF9B741D8A.PNG",
+      "trophyGroupId": "001"
+    }
+  ]
+}

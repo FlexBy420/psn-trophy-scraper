@@ -1,0 +1,910 @@
+{
+  "npCommunicationId": "NPWR47523_00",
+  "title": "TRIANGLE STRATEGY",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 100,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Champion of a New Era",
+      "trophyDetail": "Obtain all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d8998871-7ef3-4cfe-be0b-7195f6a62641.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One and All",
+      "trophyDetail": "Recruit all units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d8d8ac25-9cad-4967-b955-1b47658affa8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defender of Morality",
+      "trophyDetail": "Reach a sufficient Morality Conviction value.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/8920616b-0e18-4626-b635-b99162bfca18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeker of Utility",
+      "trophyDetail": "Reach a sufficient Utility Conviction value.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/fe34fea0-8e41-49f8-b6bd-a6d57a1333e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Believer of Liberty",
+      "trophyDetail": "Reach a sufficient Liberty Conviction value.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b98a3193-ae76-4c1c-8609-d6c7bcc1edac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Negotiator",
+      "trophyDetail": "Successfully persuade an ally.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/2377378c-5a3a-4302-9ed3-f201e0e6f128.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unanimous",
+      "trophyDetail": "Successfully persuade everyone to vote the same way.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/eabe03c2-6a5b-41c3-b80c-689bb2b5fc30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiebreaker",
+      "trophyDetail": "Cast the deciding vote when there is a tie.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/1b957914-1476-4dc8-be45-f9fe7e10d9b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As Lord",
+      "trophyDetail": "Do not sacrifice the town of Wolffort during chapter 7.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/ce2ab3ff-aff0-4a27-bcf4-97d7013fa20e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Enemy of an Enemy",
+      "trophyDetail": "Reveal Roland's identity to Svarog.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/e7512ca2-8ef1-4257-9d46-0fdaed0700b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Birthright",
+      "trophyDetail": "Receive the royal signet from Symon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/6545274a-781b-4b70-83e4-c3a54620edd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret of the Continent",
+      "trophyDetail": "Find the key in the Rosellan village.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/fe5a064a-2356-4789-bc1a-4e414054f7eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrongdoing Exposed",
+      "trophyDetail": "Successfully report Sorsley's misdeeds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/3221e23b-2258-459d-9b7d-b6b8d196daa5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never-Ending Path",
+      "trophyDetail": "Assent to Benedict's strategy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/74dac547-0fe5-454d-9ad9-930aadb48784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The End of Sin",
+      "trophyDetail": "Stand with Roland's idea.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/285a1065-d231-4a5c-adac-dc01172bfd33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent Sea",
+      "trophyDetail": "Place your faith in Frederica's ideals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/dfa7eba7-6f62-47f2-97e8-05262143b635.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand Finale",
+      "trophyDetail": "Discover the fourth path.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/43c820b4-2399-48a3-acdb-c471ee8b6982.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veteran Warrior",
+      "trophyDetail": "Win 100 battles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/f9f550bc-2454-4423-97cb-2e5714edd95d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Efficiency Is Key",
+      "trophyDetail": "Exploit enemy weaknesses 100 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b32a1692-33c8-4b12-9cd7-855e27edf27a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Working Together",
+      "trophyDetail": "Perform 100 follow-up attacks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/e1344d2b-f94f-413b-b83b-72816821e066.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From Behind",
+      "trophyDetail": "Perform 100 back attacks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/321b7948-a72f-4a79-907c-330cc08c5110.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing with Fire",
+      "trophyDetail": "Set the ground ablaze 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/459920fd-1512-4108-b06f-ebf556a4ff2c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing with Ice",
+      "trophyDetail": "Freeze the ground 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d3eb1f4c-2a9e-48b4-a798-a5a9d5a2df80.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing with Water",
+      "trophyDetail": "Create puddles 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/3873780f-68a7-47e3-aea4-91404d1466ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing with Lightning",
+      "trophyDetail": "Electrocute units 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/53d1e3b6-10a2-4907-a185-f6b0efa1b512.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forces Collide",
+      "trophyDetail": "Deal collision damage 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/a1d5a0e6-a603-4fb7-9cde-c552d1c9037c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From Above",
+      "trophyDetail": "Deal fall damage 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b042abf6-aa58-4435-bd98-a75bcd2486be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the Defensive",
+      "trophyDetail": "Counter 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/65242201-23e6-4404-b36e-e278f1f385a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Fell Swoop",
+      "trophyDetail": "Defeat 5 or more units at one time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/811f7e96-a2e3-4dba-a99d-6e9f291f1f72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Few but Fierce",
+      "trophyDetail": "Embark with half or less than the maximum units and claim victory.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/9cc94adb-3c97-4bb3-b0b4-4528012c616e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Careful!",
+      "trophyDetail": "Deal damage with a mine cart.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/15f72ae5-3cbe-4664-b23a-92210be7d2b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spoils of War",
+      "trophyDetail": "Pick up 100 spoils.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/79276242-e876-48ff-94fc-9061d0d33fe4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shrewd Strategist",
+      "trophyDetail": "Use quietuses 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/ff363afe-ac67-4b0b-8a84-8f3e28829419.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bold Battler",
+      "trophyDetail": "Accumulate 1,000 kudos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/0f25604d-d7d4-4864-8588-8c2792887a4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Heavy Purse",
+      "trophyDetail": "Accumulate 1,000,000 coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/e8ee4994-52ac-4bdf-b3fc-7707054404a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tavern Regular",
+      "trophyDetail": "Complete all mental mock battles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/9d31b8c4-f12e-48a8-bdc2-2fea16b69ba4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sundry Shop Regular",
+      "trophyDetail": "Learn all quietuses and obtain the maximum amount of Quietus Points.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/559e0bdf-2f27-4b05-ac4e-4ecfd55e828c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weaver of Histories",
+      "trophyDetail": "Travel all paths.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/6b285c11-36b2-43cc-8420-97baf52bce35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avid Reader",
+      "trophyDetail": "Collect all notes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/c3cd4f3a-6eec-4292-a48d-971fafa9cb25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wise Warrior",
+      "trophyDetail": "Gather all information.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/27d6c188-e18e-49bc-b8e8-dda21c0f21f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smithy Regular",
+      "trophyDetail": "Learn the Weapon Skill of all units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/80e3d671-8a14-407e-9db1-030c45024ffe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swordmaster",
+      "trophyDetail": "Reach the pinnacle of Serenoa's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/7b4fe3bc-7610-4243-921b-5467762f327d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Cavalryman",
+      "trophyDetail": "Reach the pinnacle of Roland's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d8ae2fe6-b483-4888-9436-5ae276457c9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Strategist",
+      "trophyDetail": "Reach the pinnacle of Benedict's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/6c260add-f835-4e80-9c7b-d1500b2860d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire Master",
+      "trophyDetail": "Reach the pinnacle of Frederica's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/8be75ebe-6440-4770-b864-92e0578aced4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Curist",
+      "trophyDetail": "Reach the pinnacle of Geela's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/516cc687-0f7a-4e32-a67d-d3b4501694a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Assassin",
+      "trophyDetail": "Reach the pinnacle of Anna's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/48370386-be71-4aae-b6a7-35a7d49b443f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Flyer",
+      "trophyDetail": "Reach the pinnacle of Hughette's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/21688aeb-09b0-4f07-a182-b8b8e02a6cf0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Guardian",
+      "trophyDetail": "Reach the pinnacle of Erador's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/7c73cc11-2bfe-4cbb-8d60-3739f21d3f1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bow Master",
+      "trophyDetail": "Reach the pinnacle of Rudolph's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/e13202bc-57fa-44b0-947b-4fd1996fd015.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Master",
+      "trophyDetail": "Reach the pinnacle of Corentin's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/7f6f8e10-d994-45ff-80e5-ae5613ff9546.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Advisor",
+      "trophyDetail": "Reach the pinnacle of Julio's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/6393395a-0073-47dd-870e-bcf5274662fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Dancer",
+      "trophyDetail": "Reach the pinnacle of Milo's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/fea7aa16-0f3c-4e4f-b171-6c8a09659680.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prayer Master",
+      "trophyDetail": "Reach the pinnacle of Cordelia's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/11699376-b0e5-4718-bf6e-5be8b2858076.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Boss",
+      "trophyDetail": "Reach the pinnacle of Travis's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/07b1139c-b30b-4613-b4a4-bc085845286f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Reach the pinnacle of Trish's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/431b717d-6260-4af6-b80e-d8bdcac37086.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great General",
+      "trophyDetail": "Reach the pinnacle of Avlora's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/39fb014f-2745-4c04-8ddb-044228d3b06c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cure Knight",
+      "trophyDetail": "Reach the pinnacle of Hossabara's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/35f57bc3-0fb4-4d58-b338-5e8c3c8a9373.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spell Master",
+      "trophyDetail": "Reach the pinnacle of Narve's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/5b7d4a73-35c7-4792-8898-40d1631cb6e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medicine Master",
+      "trophyDetail": "Reach the pinnacle of Medina's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/ff32f58b-f25a-4114-83d5-95a720440d04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Craft Master",
+      "trophyDetail": "Reach the pinnacle of Jens's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d0ae20b6-a0a8-49f5-b952-f354551e6538.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divine Spear",
+      "trophyDetail": "Reach the pinnacle of Maxwell's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/a647a158-99a1-428b-aaf3-2904e02199f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divine Bow",
+      "trophyDetail": "Reach the pinnacle of Archibald's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/9d094135-faaf-46fb-8fd1-09955fbbd9ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winguard",
+      "trophyDetail": "Reach the pinnacle of Flanagan's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/180caa9b-bbc8-4564-b1b1-6a843294407d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spirit Master",
+      "trophyDetail": "Reach the pinnacle of Ezana's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/98d2b21f-8b84-4a6a-b986-1666b00a3820.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elocutionist",
+      "trophyDetail": "Reach the pinnacle of Lionel's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/1e1e6def-3714-45f4-b736-309e6ed7c603.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divine Fist",
+      "trophyDetail": "Reach the pinnacle of Groma's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/ce6948cb-e2c6-4d08-b3be-cd6c5e858847.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trick Master",
+      "trophyDetail": "Reach the pinnacle of Piccoletta's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d69fc715-dc33-41cb-a640-7e821ceb878a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Numerologist",
+      "trophyDetail": "Reach the pinnacle of Decimal's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/e83e838e-e92b-4fdd-baaf-d31a581121fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timespeaker",
+      "trophyDetail": "Reach the pinnacle of Quahaug's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/55ca4242-3b3f-4ef6-b3f1-3c3a6e31ff82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Land Master",
+      "trophyDetail": "Reach the pinnacle of Giovanna's strength.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/431f25e0-2886-461c-9461-715a6c1e3c5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King and Friend",
+      "trophyDetail": "View all of Roland's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d9d3b628-a2df-4534-b4ab-3cd20e1e4cc8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Toast to the Future",
+      "trophyDetail": "View all of Benedict's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/20fed446-301b-4be4-a8e0-fc9d6345de78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beneath the Starry Sky",
+      "trophyDetail": "View all of Frederica's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/19bdb9b5-5fe4-42f2-a71d-0276ed2bbfb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutor",
+      "trophyDetail": "View all of Geela's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/2edbf484-2744-4fea-9492-3a84674c63d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "True Parents",
+      "trophyDetail": "View all of Anna's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/c175ab7a-ab7c-4218-a3b3-1224f55daeef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Open Skies",
+      "trophyDetail": "View all of Hughette's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/c39df4f3-e486-43b0-b2fb-d5414f291d2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For an Eternity",
+      "trophyDetail": "View all of Erador's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/3a8ec8de-ed75-4ca1-9129-dd776fea8f28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Promise Fulfilled",
+      "trophyDetail": "View all of Rudolph's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/66122ab2-55fb-4d0c-8dcc-db5d769bddbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Groundbreaking Research",
+      "trophyDetail": "View all of Corentin's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/4111ada1-e559-4c24-9ade-b7e3b9f8af94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Lord Worth Serving",
+      "trophyDetail": "View all of Julio's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/4f7c15f6-3871-4417-86df-db849d83e18e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Useful Poisonous Plant",
+      "trophyDetail": "View all of Milo's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/f91c6874-e77a-493e-aec2-7a0df05153f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Princess and Her People",
+      "trophyDetail": "View all of Cordelia's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/5b373bd5-7dfd-46bc-a0bc-ce6214857106.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bandit Boss",
+      "trophyDetail": "View all of Travis's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/05e10d49-ce5e-4158-a66e-f9e431d82c30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Allies of the Poor",
+      "trophyDetail": "View all of Trish's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d170812d-bcfa-405c-846a-2d385e0cc000.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For a Peaceful World",
+      "trophyDetail": "View all of Avlora's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b68bc7e3-a996-4203-93a7-1468e2942cb3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Spot of Sunshine",
+      "trophyDetail": "View all of Hossabara's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/9d59acc1-a8d7-46a0-a30c-f99a70450421.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disciple of the Archmage",
+      "trophyDetail": "View all of Narve's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/c14b18a7-f0f8-4e07-b127-fc625aa2763e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Value of a Life",
+      "trophyDetail": "View all of Medina's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/0dd16941-175e-4f11-8413-381824aa6d51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Perfect Weapon",
+      "trophyDetail": "View all of Jens's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/0d8e2fd7-a6e4-43cf-aa5d-2d575c8e4489.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Righteous Kingdom",
+      "trophyDetail": "View all of Maxwell's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/40090bd5-d456-4175-b270-5ae6f6e195d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Old Soldier's Regrets",
+      "trophyDetail": "View all of Archibald's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/399ea8a8-a7ee-4f25-9453-1a2c481e6075.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Shield for the People",
+      "trophyDetail": "View all of Flanagan's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b3828b0b-fea4-471f-91ca-ce18ce9ce2cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessed Rain",
+      "trophyDetail": "View all of Ezana's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/d9e00c86-e521-4971-b584-e01e72da1964.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Merchant's Joy",
+      "trophyDetail": "View all of Lionel's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/8022614b-8746-4d60-9ea2-4bd0982b6e9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unwavering Fist",
+      "trophyDetail": "View all of Groma's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/2dbf5fe5-338d-4ef5-9911-6ebed4a0b242.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Of Circuses and Smiles",
+      "trophyDetail": "View all of Piccoletta's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/4daab427-70af-4151-869c-cae879799a26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Automaton's Master",
+      "trophyDetail": "View all of Decimal's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/1e36c261-da0b-4859-b498-d5815d5a6669.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreaming of Mother",
+      "trophyDetail": "View all of Quahaug's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/90744012-270e-466f-b84e-b0b77bad4d50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Corner of Norzelia",
+      "trophyDetail": "View all of Giovanna's character stories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR47523_00/b70d2dcb-3a22-4b26-b946-7344849ecc78.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

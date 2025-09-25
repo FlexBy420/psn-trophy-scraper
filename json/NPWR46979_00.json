@@ -1,0 +1,414 @@
+{
+  "npCommunicationId": "NPWR46979_00",
+  "title": "FBC Firebreak",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 44,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Employee of the Century",
+      "trophyDetail": "Obtain all trophies of FBC: Firebreak.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/9583a4c4-a507-4249-924c-90f0536f3506.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Firebreak",
+      "trophyDetail": "Complete any job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/4f881d51-99c6-4b0b-8d03-156e12b906d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Risk Allowance",
+      "trophyDetail": "Complete any job on Normal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/4fc79848-3b65-4d8b-a26e-335b197e8944.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Danger Pay",
+      "trophyDetail": "Complete any job on Hard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/25f2da13-d4aa-4263-adec-6de10d414422.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Hazard Pay",
+      "trophyDetail": "Complete any job on Extreme.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/a110122b-3fb4-439a-82e4-29e7e1a49751.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "OSHA Compliant",
+      "trophyDetail": "Complete any Corruption Level 3 job on Hard or higher with no one downed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/b5baa943-0d7f-4f25-afee-ac973666e3d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Just Here to Work",
+      "trophyDetail": "Complete any job without firing a gun.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/0bf1e748-0d60-4ccd-9ab6-fa8f5ad348ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "What a Day",
+      "trophyDetail": "Complete any Corruption Level 3 job on Extreme.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/51158b31-d4b3-42f8-93eb-4a10647e9c9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "10 Days Without Incident",
+      "trophyDetail": "Complete 10 jobs with full evacuation.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/8ad37a9d-aac7-445b-a602-28e656d6848c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Response",
+      "trophyDetail": "Revive a crewmate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/6ad001ef-c6d8-453d-b978-1f0a632673fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Break Time's Over",
+      "trophyDetail": "Revive 50 crewmates.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/36c4df8a-8434-4586-ae5e-35a4fcfe73d7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Overtime",
+      "trophyDetail": "Revive a crewmate as last player standing with no crew lives remaining.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/21fd3646-cd0e-4eeb-87c5-2c2584f6083b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hands-On Approach",
+      "trophyDetail": "Kill 500 enemies at close range (within 5 meters).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/608e8dde-7fbe-4812-a966-e23620f8e4bd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hands-Off Approach",
+      "trophyDetail": "Kill 500 enemies at long range (over 50 meters away).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/8230b59d-9708-4759-915c-c80db2fe90da.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Smarter Not Harder",
+      "trophyDetail": "Hit 10 enemies with a single attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/73f1b3ae-51df-42d4-9584-dc7a31587624.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Manual Mastery",
+      "trophyDetail": "Complete a manual fix without mistakes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/dda4ac1a-3f67-4ad1-9280-a39d16603b13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All-Rounder",
+      "trophyDetail": "Extinguish a fire, repair a machine, and charge an electrical device in a single job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/b42b09e7-7799-4443-9b87-0d4b4f3b4db5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Vandal",
+      "trophyDetail": "Place 100 sprays.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/8885bea0-918b-4544-b160-b8533d679ffd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Expressionist",
+      "trophyDetail": "Unlock a new spray.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/4ff6de48-b675-4d01-9658-46445904c288.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Research Assistant",
+      "trophyDetail": "Successfully recover a Research Sample.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/39e5eba0-f935-4bee-beed-49b51c89e4a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lab Rat",
+      "trophyDetail": "Equip a Research Perk into every slot of any Crisis Kit. ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/52d7f520-bc10-4da3-9c61-a5b329eabc8a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Rookie",
+      "trophyDetail": "Reach maximum level with any Crisis Kit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/72545549-3547-4f12-95b8-085758bca957.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Veteran",
+      "trophyDetail": "Reach maximum level with two Crisis Kits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/add1bfb0-79a3-4899-9bec-239ea763ff90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Firebreaker",
+      "trophyDetail": "Reach maximum level with all Crisis Kits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/461f0a9d-900d-43f7-adc3-4064a6f2bda4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Field Testing: Jump",
+      "trophyDetail": "Complete any job with the Jump Kit equipped.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/29ed4d8e-e36a-454e-80cb-c3995919d2cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Field Testing: Fix",
+      "trophyDetail": "Complete any job with the Fix Kit equipped.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/6c2809dd-bd0c-4879-824a-efae6a681869.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Field Testing: Splash",
+      "trophyDetail": "Complete any job with the Splash Kit equipped.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/6d98c583-3d10-4394-b3c5-af50b005150f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Climber",
+      "trophyDetail": "Increase your Rank.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/a9781395-0c60-4ef4-a9e8-f4e2c7eb12e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Desperate Measures",
+      "trophyDetail": "Deploy an Altered Augment.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/bcdd5bf4-9883-4591-8974-9d56f5b2d42d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Every Tool in the Box",
+      "trophyDetail": "Deploy three different Augments with your crew in a single job on Hard or higher.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/6ad182a4-0cd4-4c00-a323-bb4f756b0a97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Neutralizer",
+      "trophyDetail": "Neutralize a Corrupted Item.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/094c9229-cea1-4903-b354-d54b6d03acef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Containment Specialist",
+      "trophyDetail": "Complete a job with three Corrupted Items neutralized.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/e9c98100-9d92-4efd-98e7-dab3e12ee67a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Big Chair",
+      "trophyDetail": "Get more kills with the Swivel Turret than your gun in a single job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/c7888ed8-1b65-42a2-be20-50714de7087d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Percussive Maintenance",
+      "trophyDetail": "Use the Wrench to repair 100 machines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/7ec52195-c3c5-47f2-aea7-c48010c5ea93.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Can't Keep Me Down",
+      "trophyDetail": "Kill ten enemies with your feet off the ground in a single job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/b08d7328-9427-4e94-9d12-4b6d91fe035b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Clear!",
+      "trophyDetail": "Use the Impactor to charge 100 electrical devices.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/09c1ecf2-33e4-4b81-a80c-1b47e94b733a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Decibel Domination",
+      "trophyDetail": "Use the BOOMbox to taunt ten enemies at once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/90b1e6c1-1267-498f-b2d2-e7b2cbacfc11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First Aid Certified",
+      "trophyDetail": "Use the Humidifier to heal a crewmate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/fe76609c-edc8-48de-822f-a442bed580f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Firebroken",
+      "trophyDetail": "Use the Ejector to extinguish 100 flames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/81cb5016-385b-4d0d-9055-934994c4ad47.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cool Hands Prevail",
+      "trophyDetail": "Complete any job on Normal or higher without overheating the Ejector (II or higher).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/6458ff4b-7ee8-4339-9102-8fe57da790c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Clipper",
+      "trophyDetail": "Neutralize ten flying enemies in a single job.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/a5d57c7b-b8c5-4e35-98b8-02012d314631.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hitchcock Moment",
+      "trophyDetail": "Become downed while showering.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/f6d5ff78-e372-48f6-88b4-a7d54ad36d24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's Like I Always Say...",
+      "trophyDetail": "Shower with a full crew.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/719f5750-c4e8-4eab-a801-dc1d514af199.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gnomed",
+      "trophyDetail": "Become downed from your own gnome.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46979_00/893b0087-373f-416e-a557-331322b64de1.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

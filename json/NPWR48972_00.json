@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR48972_00",
+  "title": "Saturday Morning RPG",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master Of The Universe",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/16ae30ee-b445-4f0f-88d0-97401be9eccf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "It's Sticky",
+      "trophyDetail": "Collect all 152 Scratch N' Sniff Stickers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Mirror, Mirror",
+      "trophyDetail": "Defeat Evil Marty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Working Overtime Fighting Crime",
+      "trophyDetail": "Complete 5 different episodes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Norris",
+      "trophyDetail": "Win 225 battles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/1b8d946f-fd92-456e-a909-a0ad4ff5bbfb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "I Hate Mondays",
+      "trophyDetail": "Defeat Adrian the cyberdaemon, lord of pizza",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Feeling Randy",
+      "trophyDetail": "Hook Sarah up with Randy Greenback",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Team Effort",
+      "trophyDetail": "Hook Sarah up with the Basketball Team",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Friend Indeed",
+      "trophyDetail": "Hook Sarah up with Matt Conroy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Everybody Hates Chris",
+      "trophyDetail": "Hook Sarah up with Chris Rock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bully The Bully",
+      "trophyDetail": "Force Blake to go on a date with Sarah",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All Valley Karate Champ",
+      "trophyDetail": "Crane kick Billy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minion",
+      "trophyDetail": "Defeat Wave 5 of Endless Battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lackey",
+      "trophyDetail": "Defeat Wave 10 of Endless Battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commander",
+      "trophyDetail": "Defeat Wave 15 of Endless Battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thunderdome",
+      "trophyDetail": "Win an arena battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fighting the Frizzies at Eleven",
+      "trophyDetail": "Win a battle against the Frizzies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Crummy Commercial",
+      "trophyDetail": "Use the decoder ring",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Got Your Number",
+      "trophyDetail": "You called Jenny for a good time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You'll Shoot Your Eye Out",
+      "trophyDetail": "Shoot your eye out with the BB Gun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Garbage Compactor 3263827",
+      "trophyDetail": "Compact Ben in the trash compactor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ben's Only Hope",
+      "trophyDetail": "Save Ben from the trash compactor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blast It Will You?!",
+      "trophyDetail": "Defeat the Trash Monster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Break On Through",
+      "trophyDetail": "Defeat the Lizard King",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a Trap!",
+      "trophyDetail": "Use the safety scissors to pull an enemy across a bomb",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Reunited",
+      "trophyDetail": "Get Todd and Mary back together",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Electric Shoes",
+      "trophyDetail": "Make Kev the robot band frontman",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rock Band",
+      "trophyDetail": "Make Chris the robot band frontrock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Never Had One Lesson!",
+      "trophyDetail": "Make Bearris the robot band frontman",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Only Way To Win",
+      "trophyDetail": "Defeat Super Computah",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ticket Purchaser",
+      "trophyDetail": "Buy Henry's ticket for Ash",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ticket Thief",
+      "trophyDetail": "Hire Charles Cheezer to \"talk\" to Henry",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loved By Good",
+      "trophyDetail": "Complete 2 different episodes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Van Damme",
+      "trophyDetail": "Win 100 battles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stallone",
+      "trophyDetail": "Win 150 battles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "These Go To Eleven",
+      "trophyDetail": "Reach Level 11",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump Street",
+      "trophyDetail": "Reach Level 21",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're the Best!",
+      "trophyDetail": "Reach Level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/bb58ac7f-9815-4c48-b717-14b658845d74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outatime",
+      "trophyDetail": "Scratch all five stickers before battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Total Protonic Reversal",
+      "trophyDetail": "Max out your multiplier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise From Your Grave",
+      "trophyDetail": "Retry a fight and win",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goonies Never Die",
+      "trophyDetail": "Beat an entire episode without dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Righteous Dude",
+      "trophyDetail": "Score 200 Righteous Defenses",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Jurk Murderer",
+      "trophyDetail": "Collect dinner for a friend",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feared By Evil",
+      "trophyDetail": "Complete 4 different episodes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lundgren",
+      "trophyDetail": "Win 50 battles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Fonz",
+      "trophyDetail": "Get a battle rank of A or higher five different times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Stranger",
+      "trophyDetail": "Get a triple S ranking in battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/ededcd36-c80f-445a-b0c7-1ec9d0375b09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stanley's Vendetta",
+      "trophyDetail": "Destroy the gruel in Episode 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "May's Report",
+      "trophyDetail": "Don't destroy the gruel in Episode 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Punch-Out",
+      "trophyDetail": "Defeat an enemy with a critical punch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Electric Slide",
+      "trophyDetail": "Get a righteous rating on a weapon slider 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "BADGES!?",
+      "trophyDetail": "Win a fight without scratching any stickers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twin Pines",
+      "trophyDetail": "Play an episode twice",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mess With The Bull...",
+      "trophyDetail": "Decide to fight Bertha for Bobby Jett",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You'll Get The Horns",
+      "trophyDetail": "Walk away from the Bertha fight",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lead the Team",
+      "trophyDetail": "Stop the HOOD forces in Shadow Valley",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/10d825b1-ebe2-4869-afe8-ca5fece7af1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Music Pirate",
+      "trophyDetail": "Make Captain Crunch the robot band frontman",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48972_00/28b32829-1cd8-4a89-aa97-3e6156ed1719.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

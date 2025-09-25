@@ -1,0 +1,621 @@
+{
+  "npCommunicationId": "NPWR45498_00",
+  "title": "Roboquest",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 67,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Guardian",
+      "trophyDetail": "Max is proud of you.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/398fd188-ab9c-4630-81e0-737acbeb6b27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inspector Gadget (Gold)",
+      "trophyDetail": "Unlock 11 Gadgets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/f2c348f3-a4c5-49de-9d23-83b9c57a90be.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Log Collector (Gold)",
+      "trophyDetail": "Retrieve 51 Data-Logs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/f5222cac-bbf8-4262-a3dd-9b4d56b3f049.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "51"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boss Punisher (Gold)",
+      "trophyDetail": "Take down 15 Bosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/13a760b9-138c-413e-a92f-0d0b718709db.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Claimer (Gold)",
+      "trophyDetail": "Claim 6 Power Crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/e7a63748-7e0c-47ae-9822-4d1b3cb03319.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "6"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Powercell Gatherer (Gold)",
+      "trophyDetail": "Gather 2,000 Powercells.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/1d5bf2f7-b05f-46f0-bc62-37681a60b1dd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrench Picker (Gold)",
+      "trophyDetail": "Gather 500 Wrenches.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/2982133f-ee54-467a-97de-e271641ebc45.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Damage Dealer (Gold)",
+      "trophyDetail": "Deal 1,000,000 damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/e9fefd75-604e-4d1f-b102-1066b0160223.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robo-Regulator (Gold)",
+      "trophyDetail": "Take down 10,000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/433daf69-daa6-4a08-8100-4987bcfd6100.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reboot",
+      "trophyDetail": "Finish the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/71e309d5-ae6c-4e2d-8e5a-1606da1e69e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect Run",
+      "trophyDetail": "Finish the game with rank S average.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/9fc5eb39-8a98-4921-81bc-f4859c7fc04a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hardened Guardian",
+      "trophyDetail": "Finish the game on Guardian 4 difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/aa7a41a1-dd3c-4eda-83d6-97d9db4b8cdb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Guardian",
+      "trophyDetail": "Finish the game on Guardian 4 difficulty with rank S average.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/f86cd03d-bdc2-43f2-87d4-d7402b3fbe06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Home Sweet Home",
+      "trophyDetail": "Craft all Basecamp upgrades.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/a72a96cb-88fc-4c99-9dc1-17bbcd4920d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gotta Catch' Em All",
+      "trophyDetail": "Complete the Museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/fd89b853-9859-4658-8fbf-1cbf8a480454.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Haven 8",
+      "trophyDetail": "Complete Chapter 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/136b6a26-44a8-4ddb-9b73-68a7b7647a1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Taking it Back!",
+      "trophyDetail": "Complete Chapter 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/c0279546-a41f-4cc0-8af0-cc2b21ae7c68.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Moonwalker",
+      "trophyDetail": "Complete Chapter 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/350ffb48-09f5-408f-98f1-97204e222aee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nest of Corruption",
+      "trophyDetail": "Discover a Corrupted level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/af784c77-a376-411e-8fb0-52d5a75c7b93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shovel Knight",
+      "trophyDetail": "Find and pick up The Shovel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/83775b96-e44c-464e-8ac3-43335c7f3867.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Little Buddy",
+      "trophyDetail": "Find and pick up Buddybot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/47329117-fc0f-4e55-844c-8fb8bf335214.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Best Buddy Forever",
+      "trophyDetail": "Finish the game with Buddybot equipped.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/d12677c6-77ea-4a55-a533-6dfd5e0a0f47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oopsie...",
+      "trophyDetail": "Trigger Billy Boom's explosion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/65f4bd07-702b-4b8e-aeb8-bc077e1aba96.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just in Time",
+      "trophyDetail": "Defuse the bomb within the last second.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/6caa2208-65a7-4765-9555-d3e7e4514f13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pimp my Buddy",
+      "trophyDetail": "Upgrade Buddybot to a Fantastic weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/ead4bd27-569e-448e-ad7e-0420d63c0359.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spare Some Change?",
+      "trophyDetail": "Give Powercells to Wallstreet Slim.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/67a77de7-669a-4aa8-b484-f6dc79cfe523.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Easy Peasy",
+      "trophyDetail": "Take down a boss without taking damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/ef033ee3-39b4-4786-87f2-03232c2e8bd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mamma Mia",
+      "trophyDetail": "Perform 5 Headbonks in a row without landing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/dc08e117-994c-4ae6-9306-fec1586b5d81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bazaar Best Friend",
+      "trophyDetail": "Have at least 15 Items equipped at once during a run.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/bac2916c-2d32-4385-8759-ac4708f1ca40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Bus",
+      "trophyDetail": "Jump with the Hoverbus in the Loading Screen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/c90d3a37-9095-4848-ad21-cb9a0303b70e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Gambler",
+      "trophyDetail": "Win the Wonka Bar gamble.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/5b85bf81-b9e8-41fc-b635-7b54e1603189.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Gonna be a Looong Journey",
+      "trophyDetail": "Get knocked out in the Canyons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/5f916a1c-f01d-4807-80ca-f301bbf39777.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron Maiden",
+      "trophyDetail": "Reach the maximum Armor bonus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/4d5cb672-6122-4ac5-afdd-869f1be244b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faster Than Light",
+      "trophyDetail": "Reach the maximum Movement Speed bonus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/be3a7581-61f3-41d0-8247-f1b3aef490b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Energy Wallet",
+      "trophyDetail": "Spend at least 40 Powercells in a single run.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/81f7acc8-8be7-4ad8-9c59-1a3560c8f757.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Muscle +4000",
+      "trophyDetail": "Reach level 15 in a run.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/ec8b8d24-1e27-4e1d-8279-8b6694ed5574.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waaaaarp Zone!",
+      "trophyDetail": "Find and travel through the Portal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/a80d13d0-e33c-4532-9676-8f9b886cd8d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legen... wait for it... dary!",
+      "trophyDetail": "Equip a Fantastic weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/28935fa1-2684-4290-9944-23ffe75ea327.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's That Lever For?",
+      "trophyDetail": "Activate the lever in the Excavation Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/20f79abd-b535-4e3b-9df6-be9028f7e5ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Bastion",
+      "trophyDetail": "Finish the game as the Guardian.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/2aa01ec2-6c94-403d-8fb4-7ae5a321db4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ammo Belt",
+      "trophyDetail": "Reach +75% bonus Ammo in a run as the Guardian.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/c21f548f-f447-4021-96a5-9d2eba67bbdf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whack-A-Mole",
+      "trophyDetail": "Take down Diggy Mole using the Bonk Hammer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/18a9aa06-6f7d-48cc-897c-06fc6be82de0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recon",
+      "trophyDetail": "Unlock the Recon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/ad351166-e803-4b7a-81f5-4c43e360edc9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast and Furious",
+      "trophyDetail": "Finish the game as the Recon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/58d54d28-79fa-4d4e-baa9-d93394be00c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sushi Master",
+      "trophyDetail": "Take down at least 3 different enemies in a single Dagger hit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/90c6aeb4-3555-4364-a4a8-c4a551b58b9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commando",
+      "trophyDetail": "Unlock the Commando.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/55a564ee-2f63-46bc-bd0a-9f724b7dfb70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Booyakasha",
+      "trophyDetail": "Finish the game as the Commando.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/9b4d986b-8003-480a-88cc-7561358ae3f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Special Delivery",
+      "trophyDetail": "Take down at least 3 different enemies with a single Rocket.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/e7f1468f-febf-4364-b25d-bff6c2ee9206.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Engineer",
+      "trophyDetail": "Unlock the Engineer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/fc34a7e9-827d-4585-8c3d-3b7c4f180b88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Science Above All!",
+      "trophyDetail": "Finish the game as the Engineer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/f1dec251-c1c8-44f2-9a47-a8ceb739e675.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For the Swarm!",
+      "trophyDetail": "Have at least 5 friends deployed at once as the Engineer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/d17a805a-7f03-421d-960e-4f13f972ba02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ranger",
+      "trophyDetail": "Unlock the Ranger.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/ab39bef0-3bfb-412b-9f92-6ff5429da765.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Long Hunt",
+      "trophyDetail": "Finish the game as the Ranger.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/69681c25-3219-432f-b63e-bb75c2aaae95.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bot Skewer",
+      "trophyDetail": "Deal more than 1,000 damage with a single Javelin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/fddb705c-d4b2-4bac-b4a0-e4c11f4223a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elementalist",
+      "trophyDetail": "Unlock the Elementalist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/db9fd7b4-8845-48fd-a8cb-9bcdbc31dc90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elementary",
+      "trophyDetail": "Finish the game as the Elementalist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/41f28abf-a41f-4352-a4e5-e46ee67793c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Final Flash",
+      "trophyDetail": "Deal more than 1,000 damage with a single Comet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/2993dcb3-7e0f-4afb-aafb-e920c9f9de3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Superbot",
+      "trophyDetail": "Unlock Superbot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/99041d2e-ab62-4496-9d08-53e09139438d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Revenge",
+      "trophyDetail": "Finish the game as Superbot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/1ee1f1d4-a680-4dcd-8934-e1334d384bc1.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hero Landing",
+      "trophyDetail": "Hit 5 enemies with a single Hero Cape stomp as Superbot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/d17b423c-4a03-4112-a23c-32b55c674da9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Captain Mc Slice",
+      "trophyDetail": "Find and pick up Captain Mc Slice.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/e24ce169-6151-4af0-9a23-db20685ed755.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Butlers Never Die",
+      "trophyDetail": "Reboot Alfred Beauregard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/1614f80c-7441-402a-93fd-88abc61bbd3f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Portal Online!",
+      "trophyDetail": "Repair the Endless Mode portal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/41b61089-c7f2-4fc8-99d7-530b3ffe6db9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Endless Journey",
+      "trophyDetail": "Get knocked out in the Endless Mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/164f706c-0eea-41a6-9c39-bcf66ae97a94.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Evolution",
+      "trophyDetail": "Have 6 Singularities active simultaneously.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/82cf6825-2fdf-439a-aa18-6f70bfa71c70.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "BOOSTER!",
+      "trophyDetail": "Gain a Booster.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/815457a2-8cec-42fc-aa8d-ef75b51ed627.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overperked",
+      "trophyDetail": "Have 5 Perks active at once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45498_00/f67c379c-1e74-46f8-80dc-9d1593194c10.png",
+      "trophyGroupId": "002"
+    }
+  ]
+}

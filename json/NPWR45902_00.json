@@ -1,0 +1,379 @@
+{
+  "npCommunicationId": "NPWR45902_00",
+  "title": "Wizard of Legend II",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 41,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Wizard of Legend",
+      "trophyDetail": "Gain All Achievements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/570ec820-bfba-4241-ad5b-56a205775f3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Bahador's Bane",
+      "trophyDetail": "Defeat Bahador.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/70d4c708-f529-4c4d-8901-71611021be1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Jabarrah's End",
+      "trophyDetail": "Defeat Jabarrah.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/4d3507ee-8af4-45c1-8765-2feca20619c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "A Dynasty’s Fall",
+      "trophyDetail": "Defeat King & Queen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/f6886257-46bb-414a-94df-d9e3943bba70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Become a Legend",
+      "trophyDetail": "Defeat Hieronymus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/1280778f-f95a-4bdb-ba19-c71efa565fb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Grand Strategist",
+      "trophyDetail": "Kill 200 enemies by traps & pits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/e60d3168-e2a3-4f39-b732-640a5b7e2e5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dressed To Kill",
+      "trophyDetail": "Unlock an outfit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/a65dd51d-c4cd-4317-a131-a5637771395d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Make This Look Good",
+      "trophyDetail": "Unlock 7 outfits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/96a77ae2-4740-4b16-89ce-580a38862bd1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forgotten Knowledge",
+      "trophyDetail": "Find 20 Arcana variants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/ff7ce1e1-db7f-4819-b81a-bf2aed6a2b10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not Forgotten Anymore!",
+      "trophyDetail": "Find 50 Arcana variants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/896d38ee-9152-4741-8403-b16f8f585b98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outmatch Your Master",
+      "trophyDetail": "Defeat an Elemental boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/d801167a-1209-4930-b2f9-24c06105c73b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arcana Apprentice",
+      "trophyDetail": "Unlock an Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/e42f80cd-28d9-42f9-af2f-20aa1036e976.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arcana Adept",
+      "trophyDetail": "Unlock 20 Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/5690fcb5-1434-4e66-8761-09811a969ea7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Arcana Master",
+      "trophyDetail": "Unlock 50 Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/a5597abb-fff5-4bef-a088-f25fa76b02ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Way of the Chaos",
+      "trophyDetail": "Unlock 3 Chaos Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/b1a384b6-df8c-45b3-8abb-e4a4045236ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart of the Chaos",
+      "trophyDetail": "Unlock 10 Chaos Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/713c88ea-376b-4c49-b37b-d9666c1efaca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mimic Slayer",
+      "trophyDetail": "Defeat champion chest 5 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/63544ae0-e1ef-4003-b6ec-863c3e6ef01e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Streak",
+      "trophyDetail": "Win 5 bets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/b55c0c15-9e84-4822-be74-77a8d24d49b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arcane Ascension",
+      "trophyDetail": "Enhance an Arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/ba7b28d0-498c-45c8-9bf7-79a0ed300fb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "C99",
+      "trophyDetail": "Kill 9900 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/43af5cf8-369d-4b2c-8dd0-a433d4537b2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite Eliminator",
+      "trophyDetail": "Kill 100 Elite enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/b62f9446-a4ba-478c-a630-2b515a0e70b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tournament Entry",
+      "trophyDetail": "Get a pass to Serjik tournament.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/343dbd98-b5dd-44c0-b84f-b19ccad91571.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Champion of Serjik",
+      "trophyDetail": "Complete Serjik Tournament.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/f9ffaf6d-0394-450e-9e6f-5fffd205f158.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Trader",
+      "trophyDetail": "Trade 10 relics or arcana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/9629d6dc-1eca-4173-abc0-9d56544a55c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shopaholic",
+      "trophyDetail": "Buy 99 items from the shop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/cdb12821-d1e3-400a-95cc-77c4c3b5b6ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nox the Unfortunate",
+      "trophyDetail": "Find Nox.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/072c5e39-0c8d-4e1f-837f-baa977abfed5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best Friends Forever",
+      "trophyDetail": "Start a run in Coop mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/ce09be48-32f1-4d28-b6b8-3062192e8f87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Life is Charming",
+      "trophyDetail": "Equip a positive charm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/0c897baa-ac03-41f9-bb13-df23bd877894.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Hard Day’s Champion",
+      "trophyDetail": "Beat Hiero with a negative charm equipped.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/4c6e2546-e69a-442c-8bab-d5edd1923839.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charm Novice",
+      "trophyDetail": "Unlock 5 Charms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/9275b105-d1b3-40ec-836b-26a20d768a61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Charm Master",
+      "trophyDetail": "Unlock 20 Charms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/7d357525-8107-40db-9807-0d124d086ffe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taskmaster",
+      "trophyDetail": "Complete 10 Contracts.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/7d8328d1-be66-4ff8-9591-0efd18fddb8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Danger is My Middle Name",
+      "trophyDetail": "Hold 3 cursed relics.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/75a93c23-713e-4c67-9cc3-c11b0040926b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happy Birthday!",
+      "trophyDetail": "Defeat Taffy 10 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/9f2c0c54-8f37-4d6a-8099-0c56b32160c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Elements",
+      "trophyDetail": "Defeat 3 elemental bosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/60c38271-ddf0-4645-b088-666708197f0c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elemental Monopoly",
+      "trophyDetail": "Equip 6 Arcana of a single element in one run.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/e5a46182-82f0-4d70-9bde-b174942eba15.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fierce Rival",
+      "trophyDetail": "Win 10 wizard duels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/10e40eec-35b3-4ec8-b484-72dea358dd5f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bold Wizard",
+      "trophyDetail": "Defeat all champions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/31b7d0fb-bfe4-447e-b15f-8187f6c0d09a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Relic of Legend",
+      "trophyDetail": "Complete a relic set.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/a281e00f-98cf-41b0-9edf-ca97a67abad7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Set Collector",
+      "trophyDetail": "Complete 10 relic sets.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/2ceca52b-a9b1-4a78-9805-e05ac8b0e92f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spirit Savior",
+      "trophyDetail": "Rescue 7 tiny spirits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45902_00/06ca92c4-e03a-4665-a40f-232742997901.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

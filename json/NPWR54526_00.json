@@ -1,0 +1,307 @@
+{
+  "npCommunicationId": "NPWR54526_00",
+  "title": "Two Hands Hospital Assistant Simulator",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 33,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Two Hands Hospital Assistant Master",
+      "trophyDetail": "Unlock All Trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/FBDDE16ACA28BD6C01A54047619A77BAF9AF80DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Healer",
+      "trophyDetail": "Successfully cure 50 patients",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/311390E1059DD63FCB812571E28F8B1DBC48DEF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Crisis Averted",
+      "trophyDetail": "Save 35 patients from High Fever using the Fire Extinguisher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/0B9F8AAFFF4EE2EEB9E7F971E4768DD8DB466E39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Back From the Dead",
+      "trophyDetail": "Revive 15 patients in Heart Stopping state with the Defibrillator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/5D1F25FC5E7F2E77C6E9AE13F55BC938B903EC80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Corpse Manager",
+      "trophyDetail": "Burn 15 bodies in the Crematorium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/34A3F59FAAF9BDDA0E76543F7A17924BB8E8C59B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Inspector Outsmarted",
+      "trophyDetail": "Avoid being penalized by the inspector 10 times by burning bodies in the Crematorium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/8B1B7E6F3AB733FE089EBC81808E15B5F2BC16C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hospital Tycoon",
+      "trophyDetail": "Earn a total of $15000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/42EF413975D1E8320154AA2322CD9136CFB3655D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "First Cure",
+      "trophyDetail": "Cure your first patient",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/3A8F7ADD420B5044179E4BFAA717455AC6731A6A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Diagnosis Expert",
+      "trophyDetail": "Correctly diagnose 45 patients in laboratories",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/99D0D4050908005EE91738A3E95998A1073D60EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quick Hands",
+      "trophyDetail": "Successfully cure 35 patients",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/EDA0B87DF5BE426D460835D5F74403CAF528D24A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Clean Sweep",
+      "trophyDetail": "Burn your first corpse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/210EADF79B47AAFAAC01DE0D05F76CD9DB8F0C2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Prescription Needed",
+      "trophyDetail": "Sell pills to a Pill Seeker without a prescription and avoid being caught",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/C443C48E51207726CB4387F6A5BE1727B39F7614.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pharma Dealer",
+      "trophyDetail": "Sell pills to 15 Pill Junkie",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/94DB77F19D2771F5CE6CCFA627515DD6E6DC5EFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hot Stuff",
+      "trophyDetail": "Handle your first patient High Fever event",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/C9678EC18544F5A769745404C063A367088235ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fully Stocked",
+      "trophyDetail": "Buy 15 different treatment items from the tablet shop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/BCBCC000D05CFF7EFA8DA42B3A6CBA35A66B8056.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expansion",
+      "trophyDetail": "Buy 14 new beds for the hospital",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/375FA690FDFD1DE673CB3122B42B8BE65DE15AD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coffee Break",
+      "trophyDetail": "Buy a coffee machine",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/D92A739CE7AB20C6EAE4F8440259AF3A28CAF132.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quest Hero",
+      "trophyDetail": "Complete 15 quests",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/429F107DCB9A9C80A86FEA7C8EBB9957A841E2BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Battery Check",
+      "trophyDetail": "Recharge the Defibrillator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/FBF6836C71F47DA5485803BC909F2CA577DB8D4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome, Doctor",
+      "trophyDetail": "Name your hospital",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/F60ADCF0AF3AF997492D006E5DC3241071EBE3C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Steps",
+      "trophyDetail": "Accept your first patient at reception",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/01E333C220A9DD214FC7F9024718061BA01A89A2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sample Time",
+      "trophyDetail": "Collect your first urine sample",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/1F9CE842F89E5B064A6D43B285C90A302B7A3098.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blood Draw",
+      "trophyDetail": "Collect your first blood sample",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/12929783FD7E9EB1E7131BBF733AE58273DF887D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laboratory Rat",
+      "trophyDetail": "Insert your first sample into a laboratory device",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/9F31AB5030D3488D5670F464F7F0A465DAC31F8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong Turn",
+      "trophyDetail": "Fail a diagnosis by using the wrong laboratory sample",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/C21860438A0B563DF08F5146A59F1C3718240CC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ouch",
+      "trophyDetail": "Cause a negative reaction in a patient",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/9FC94ACE4553C50760148605D9C8A73880529ADC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burn Baby Burn",
+      "trophyDetail": "Trigger a High Fever event on a patient",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/01E2F1D33E66BF2F6E48216EE8DA81AEF1BC5B0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Death",
+      "trophyDetail": "Lose your first patient",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/FE1A5C558057D23F268CAE40CBBCEF4AD52FAB96.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash Duty",
+      "trophyDetail": "Throw away an item in the trash bin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/6369E8FB70B7D77D3E7842BA6F5E1BE7ABEA0ACE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shock Therapy",
+      "trophyDetail": "Use the Defibrillator for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/CBB833BE5C459F94658C9DB6DD9B644E68052CE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Night Shift",
+      "trophyDetail": "Play through the first full night cycle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/AAF9DE065827583F431550220734644F88C131B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Refill Needed",
+      "trophyDetail": "Recharge the Fire Extinguisher",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/E52A83F46B32900A86E5EF9DE0EDB021185A9A89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daily Grind",
+      "trophyDetail": "Complete your first daily quest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54526_00_00E5FBCE433D1777D5FA2ECB4C6D53D0F7C262FC31/F6BB0D758873886B14C787085FD5A9C61AE6FC47.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

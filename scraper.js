@@ -42,19 +42,24 @@ async function scrapeNpwrId(accessToken, npwrId) {
   if (fs.existsSync(filePath)) return;
 
   try {
-    const trophyGroups = await getTitleTrophyGroups(accessToken, npwrId, {
-      npServiceName: 'trophy'
-    });
+    // Try fetching without npServiceName first
+    let trophyGroups = await getTitleTrophyGroups(accessToken, npwrId);
+    let platform = trophyGroups?.trophyTitlePlatform;
+    let title = trophyGroups?.trophyTitleName;
 
-    const platform = trophyGroups.trophyTitlePlatform;
-    const title = trophyGroups.trophyTitleName;
+    // If platform needs npServiceName or data missing, retry
+    if (needsNpServiceName(platform) || !title) {
+      trophyGroups = await getTitleTrophyGroups(accessToken, npwrId, { npServiceName: 'trophy' });
+      platform = trophyGroups.trophyTitlePlatform;
+      title = trophyGroups.trophyTitleName;
+    }
 
+    // Determine options for trophies
     const options = needsNpServiceName(platform) ? { npServiceName: 'trophy' } : {};
-
     const allTrophies = await getTitleTrophies(accessToken, npwrId, 'all', options);
 
     if (!allTrophies || !Array.isArray(allTrophies.trophies)) {
-      console.log(`${npwrId} returned invalid trophies data.`);
+      console.log(`${npwrId} returned invalid trophies data. Trophies may not exist.`);
       return;
     }
 

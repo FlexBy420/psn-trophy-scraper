@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR49920_00",
+  "title": "Diluvian Winds",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Lighthouse keeper",
+      "trophyDetail": "Unlock all Diluvian Winds achievements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f90510bf-17a6-4654-9a2f-e2f7033cbd0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Introduction: A fresh start",
+      "trophyDetail": "Complete chapter 0",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/b3e90d5a-1480-436f-89fb-3eb59accc384.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 1: Sea harvest",
+      "trophyDetail": "Complete chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f36e8ba9-e0ec-4b58-809f-d0983a1b30d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 2: Projects abound",
+      "trophyDetail": "Complete chapter 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/907952de-6f88-4608-916a-543a16989ce2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 3: Under the sea",
+      "trophyDetail": "Complete chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/6a1cf800-ab1f-4047-aebf-b2d803242055.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 4: Underwater expansion",
+      "trophyDetail": "Complete chapter 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/917b1374-ae71-4cf1-b961-73c190211f55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 5: An odd ship",
+      "trophyDetail": "Complete chapter 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/a85d81d3-3056-4dda-beb9-f8219b9c2017.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 6: A good deal",
+      "trophyDetail": "Complete chapter 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f53a52d7-dfcc-4a6f-8aec-569743cc7da0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 7: Aloft",
+      "trophyDetail": "Complete chapter 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f79d4055-6964-412c-9564-3f336886e4c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 8: A world to explore",
+      "trophyDetail": "Complete chapter 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/6dfc513e-6937-4287-a7fd-d7c473029002.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lighthouse paradise",
+      "trophyDetail": "Complete all chapters (easy)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/3b6beb8a-ecf6-48df-9f2d-bf7e6390f5df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lighthouse purgatory",
+      "trophyDetail": "Complete all chapters (normal)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/d69ee16c-6a63-48e7-898d-e701b4e4b013.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Lighthouse hell",
+      "trophyDetail": "Complete all chapters (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/51afd8a3-c790-4842-a21c-65bbf8ef576a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Records in sight!",
+      "trophyDetail": "Start a game in scoring mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/4bc156f2-e6a5-45e8-96dc-42ad9fdfcd4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The devil is in the details",
+      "trophyDetail": "Reach 4000 points in scoring mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/5c9e4652-c2db-4cc4-b155-c96a1b8f59c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A bit of elbow grease",
+      "trophyDetail": "Start a game in sandbox mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/40459bd1-f564-4f4f-9448-741f94ddce42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Small rain lays great dust",
+      "trophyDetail": "Survive 100 days in sandbox mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/533e6722-1c25-4865-badd-f4b6d0acf44a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Resources by the thousands",
+      "trophyDetail": "Produce 9000 resources",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/fdfda625-390b-411e-88dd-3d9a53f4a549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No waste allowed",
+      "trophyDetail": "Produce 200 resources in 1 turn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/7736643e-10cc-4b0a-95fa-8132d7602e84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron Age",
+      "trophyDetail": "Produce some metal for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/8c42a92c-4339-4886-aa91-d3f0508ff3fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Revolution",
+      "trophyDetail": "Produce some oil for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/2df7a890-60bf-446b-a875-57d2b3da7fa3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silk Road",
+      "trophyDetail": "Produce some fabric for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/e9ad3e2a-cca9-48b2-bacb-fbbf16b68349.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fur-land",
+      "trophyDetail": "Get 12 land-based rooms simultaneously (Sandbox, Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/0700b464-ac1e-42cb-9768-8945eaf71bf2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twenty Thousand Leagues Under the Sea",
+      "trophyDetail": "Get 16 underwater rooms simultaneously (Sandbox, Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f9ce770c-57a0-44dd-a521-229e4eb65bf9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Architectural pride",
+      "trophyDetail": "Have 7 tier 3 rooms simultaneously in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/b1114070-1535-403a-bf96-002d3f79378e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spring cleaning",
+      "trophyDetail": "Destroy 5 rooms in one day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/4eff6cae-8ba2-4763-a6ef-19a708140b92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That was close!",
+      "trophyDetail": "Move a room about to be hit by some disaster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/97623eca-934c-4bc8-9a6a-bab4f5cda41d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunken treasures",
+      "trophyDetail": "Unlock all net projects (Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/bbbf83ed-95b9-4472-b76d-8f178293347a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trading hotspot",
+      "trophyDetail": "Unlock all merchant projects in one game (Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/1d73179b-e21d-4eab-8df1-7c896d6c3459.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flying machine",
+      "trophyDetail": "Unlock all aerial projects in one game (Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/be8d8c25-4578-470e-b771-a9feb46496e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hospitality",
+      "trophyDetail": "Raise morale to its maximum for 15 travelers in one game (once per traveler)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/32468d5c-28c2-411b-9a2c-b074fedb7355.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shiny happy people",
+      "trophyDetail": "Have 8 travelers with maximum morale simultaneously",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f61f2889-3319-438e-ba2f-4805a62fb0ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A feast for kings",
+      "trophyDetail": "Have a banquet for at least 7 travelers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/3a4ec8ab-7762-44f0-9e2e-2a51c0c323e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A little help from a friend",
+      "trophyDetail": "Complete 30 requests in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/9ff833ff-b77d-4433-ad43-a77fa1fc662f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First handshake",
+      "trophyDetail": "Have a first trade with a merchant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/5b24e5c0-7b6e-4518-a59e-51d172f409c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exchange of courtesies",
+      "trophyDetail": "Reach a merchant guild's maximum trust level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/22283f23-14ac-4e7b-a3c2-475259e8f3fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merchant friend",
+      "trophyDetail": "Reach all merchant guilds' maximum trust level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/9566bfe0-824c-46a7-9ec0-2629d714ba48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First of many",
+      "trophyDetail": "Get an artifact for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/20937a39-042b-4c71-939e-cc373a550df3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There's treasure everywhere",
+      "trophyDetail": "Get 3 artifacts in one expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/6195a231-cd9d-462d-af40-20e970b1d574.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sparing no expense",
+      "trophyDetail": "Use 5 different artifacts in one day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/a9f519bb-0486-4bda-ae39-7718512e3cf7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expedition gifts",
+      "trophyDetail": "Get 50 resources in one expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/82047a39-7c9e-4f4f-b52a-4c7e6f52e789.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expedition souvenirs",
+      "trophyDetail": "Get 20 project points in one expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/b12ad276-7a3f-4745-a9db-53208080808a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Work better to live better",
+      "trophyDetail": "Unlock all projects in one game (Scoring)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/6061c9ae-eb5b-4fc7-96ad-18d5aad61d66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compliments to the chef",
+      "trophyDetail": "Discover all recipes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/53828f3b-e0a0-4553-8856-e17c0510d5af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Travel the world and the seven seas",
+      "trophyDetail": "Make an expedition to each region in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/cadef5b5-31b8-41d7-9148-e96960bdac4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 1: Sea harvest (challenge)",
+      "trophyDetail": "Build a net in 1 day by starting on chapter 1 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/ed06ce0a-8c0f-4835-9968-f4fe2cac9b45.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 3: Under the sea (challenge)",
+      "trophyDetail": "Heal Salmy in 2 days by starting on chapter 3 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/09f66d54-43c1-4558-9e00-4c507201d351.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 5: An odd ship (challenge)",
+      "trophyDetail": "Empty Fanta's stock in 1 day by starting on chapter 5 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/f47eadca-a52e-45c6-889b-dbbdd78d122f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 6: A good deal (challenge)",
+      "trophyDetail": "Trade 50 metal resources in 1 day by starting on chapter 6 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/58e21548-23bd-4191-bbe1-fe6b050094bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 7: Aloft (challenge)",
+      "trophyDetail": "Complete the airfield dock in 1 day by starting on chapter 7 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/7856ee6b-ab87-4678-836a-17eaf09ff5dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 1: Sea harvest (race)",
+      "trophyDetail": "Complete chapter 1 in less than 3 days by starting on chapter 1 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/2c19becb-54b0-4922-a706-c4e1a3464ad6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 2: Projects abound (race)",
+      "trophyDetail": "Complete chapter 2 in less than 6 days by starting on chapter 2 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/3eec94d2-253d-4197-9251-ae74773b9e3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 3: Under the sea (race)",
+      "trophyDetail": "Complete chapter 3 in less than 10 days by starting on chapter 3 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/4f022946-54b8-4025-b3e1-0917c761c83a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 4: Underwater expansion (race)",
+      "trophyDetail": "Complete chapter 4 in less than 7 days by starting on chapter 4 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/31cd01c5-a2dc-464d-9d6e-b5ef516c6518.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 5: An odd ship (race)",
+      "trophyDetail": "Complete chapter 5 in less than 9 days by starting on chapter 5 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/ecbf3b02-2a89-4785-890a-1e7e4c997133.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 6: A good deal (race)",
+      "trophyDetail": "Complete chapter 6 in less than 5 days by starting on chapter 6 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/1adea464-952b-48c7-916e-83623adbc775.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 7: Aloft (race)",
+      "trophyDetail": "Complete chapter 7 in less than 14 days by starting on chapter 7 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/2bd64ffb-58bc-4334-8435-33fd31b4254f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chap 8: A world to explore (race)",
+      "trophyDetail": "Complete chapter 8 in less than 10 days by starting on chapter 8 (hard)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49920_00/8f87a5fd-1344-4848-8ab3-7759bddd72d2.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

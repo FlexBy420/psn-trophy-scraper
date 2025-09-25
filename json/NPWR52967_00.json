@@ -1,0 +1,136 @@
+{
+  "npCommunicationId": "NPWR52967_00",
+  "title": "Constraint Set",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 14,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutorial",
+      "trophyDetail": "training based",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/a6ba8256-00ab-42e2-8541-04705a538577.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "FirstWork",
+      "trophyDetail": "Finish the first working day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/81d66af7-baac-4f8c-abe8-8dd69d9d78a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Agressive",
+      "trophyDetail": "End the work day with aggressive survivors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/d524c06b-07a1-4a97-bdcf-e46ce59c5c55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Survival",
+      "trophyDetail": "Get to the base unnoticed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/ac3203c8-9aa1-4070-a8a6-01abeb5c7b90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Payday",
+      "trophyDetail": "Earn 3000 during quarantine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/3b629244-8f6c-4fc5-89c5-cf371b79a4bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Buisness",
+      "trophyDetail": "Earn 6000 during quarantine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/fceaa9aa-2d9e-4ffc-9039-0ec74f23ebc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safer",
+      "trophyDetail": "Send 4 survivors to the safe zone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/8215743f-fac7-48f3-a26b-5fe7d3c0d9f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "SafeCamp",
+      "trophyDetail": "Send 10 survivors to the safe zone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/b65656db-2a0b-4701-8a9a-85d2b1dda44c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quarantine",
+      "trophyDetail": "Send 4 survivors to quarantine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/88dd8cc4-fab5-4064-8832-e711775da3e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guards",
+      "trophyDetail": "Hire 3 security guards",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/d3ae570d-80e4-4d99-afc2-6b0795674788.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "BadDay",
+      "trophyDetail": "Die from an infected person",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/2c484cca-7d64-47f0-a909-9f82ae35a269.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "GoodDay",
+      "trophyDetail": "Survive an attack by an infected",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/70688a87-6e34-48a7-8c6c-9771ba41106a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ClearDoor",
+      "trophyDetail": "Complete the level with a drone without letting the infected damage the gate.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/cdac0bd1-131a-455b-ace9-da6a05ffe6ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "WelcomeHome",
+      "trophyDetail": "Die in Quarantine, ending the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52967_00/de3583c5-d311-459d-ac21-67d5fa22858b.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

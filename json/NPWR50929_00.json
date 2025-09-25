@@ -1,0 +1,226 @@
+{
+  "npCommunicationId": "NPWR50929_00",
+  "title": "Mystic Pathways",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 24,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mystic Master",
+      "trophyDetail": "Earn All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/9845f3e6-6169-4a11-8df7-d5a977bc8fad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The First Step",
+      "trophyDetail": "Complete the First Level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/ced9c568-43dd-4780-a647-8117b42d3950.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trail Explorer",
+      "trophyDetail": "Reach the Grove",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/107d216d-98a1-422f-aec4-c06db8556df4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Experienced Traveler",
+      "trophyDetail": "Reach the Crystal Caverns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/93db01e6-7bff-4dbb-9eed-3a58733b327f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Crystal",
+      "trophyDetail": "Collect a Magic Crystal for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/eb7a7fe1-c900-460a-bc4e-99eb4a3c3c55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Guardian of the Crystals",
+      "trophyDetail": "Collect 50 Magic Crystals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/80d6cc4d-0914-4262-b5db-27804359e06a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crossroads",
+      "trophyDetail": "Cross a Crossroad for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/d4478d04-5b33-4d70-a211-cd105a397a83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Connecting Paths",
+      "trophyDetail": "Cross 10 Crossroads",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/d2a3a821-5eab-4c17-af89-32f93b816b63.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Initial Teleport",
+      "trophyDetail": "Use a Magic Portal for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/893ea480-59b0-4cb5-a15f-cf3c712f94e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dimensional Jumper",
+      "trophyDetail": "Use 10 Magic Portals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/1b644010-bf6a-48e9-a55d-5ca5217bb496.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Fairies' Call",
+      "trophyDetail": "Activate an Altar for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/d9853958-1112-4417-834c-587160c374fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Guardian of the Altars",
+      "trophyDetail": "Activate 10 Altars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/2b87f6b7-0758-418e-9c3c-b77dd788b662.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Magic Key",
+      "trophyDetail": "Activate 20 Altars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/12812e9b-135b-4966-be23-a2ca11c71949.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trail Apprentice",
+      "trophyDetail": "Swap Pieces 10 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/4755ad03-3242-49ee-a86e-59f2e9bf6042.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mystic Architect",
+      "trophyDetail": "Swap Pieces 20 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/b017a8e5-ca71-425b-aca8-9892bb57367f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trail Genius",
+      "trophyDetail": "Swap Pieces 50 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/b36bad47-8dc2-4b4e-95b2-e131d73705a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enchanted Patience",
+      "trophyDetail": "Use Shuffle for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/840a59c0-fdf4-4759-b3ad-91e50270dfba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Time Magic",
+      "trophyDetail": "Use Shuffle 10 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/d5f9e54b-08c6-4c1b-99c7-6fb342e35ba3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strategic Gaze",
+      "trophyDetail": "Use Hint for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/1558065a-3e38-43ac-8454-e2823939ed8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Magical Intuition",
+      "trophyDetail": "Use Hint 10 Times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/13166716-ee0c-431f-8e16-f1861b63d277.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfect Path",
+      "trophyDetail": "Complete a Level in Summer Without Using Shuffle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/5ab6d6a4-ab57-4117-a503-6a877a7fcd31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Alternative Route",
+      "trophyDetail": "Complete a Level in Summer Without Using Hint",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/3cd1e979-c36f-4aca-9719-9a6a2e854054.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Now You See",
+      "trophyDetail": "Swap Two Pieces for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/67fe3788-4f77-4fc0-a0f9-51d2e1ae1f77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Taking a Turn",
+      "trophyDetail": "Rotate a Piece for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50929_00/8302a59c-4775-46c6-9cd4-a6b7f2630beb.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}
