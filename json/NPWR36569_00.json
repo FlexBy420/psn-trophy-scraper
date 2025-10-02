@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR36569_00",
   "title": "Lies of P",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 43,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 54,
   "trophies": [
     {
       "trophyId": 0,
@@ -392,6 +392,105 @@
       "trophyDetail": "Find out about the last story of Sophia.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/F6D22E7B2056023209C7A2A7FC7FDE62132923B8.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Rose's Memory",
+      "trophyDetail": "[The Rose's Memory] Reach the ending.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/6DD6534FBD0700EFD9608E13CFC79925012DB053.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Enduring Resolve",
+      "trophyDetail": "Listen to the Legend's last recording.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/F28EA5A42F84ED4C245A69FDB2139CDD273237F4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "True Combat Gear Collector",
+      "trophyDetail": "Collect all weapons and Legion Arms in the Forgotten Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/09D820FC198AD7E5FCCD0686D7075FACFBAEBAF5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beyond Limitless Potential",
+      "trophyDetail": "Further upgrade the abilities of the P-Organ.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/D0C6CF0845A698E732EBDC199C30D80FC05592EE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Memory's Melody",
+      "trophyDetail": "Collect and listen to all records from the Forgotten Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/4BF1AC59381639D63633575879A6CE341B1B6D90.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Be Human",
+      "trophyDetail": "Learn all gestures from the Forgotten Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/A9C954445F1A670187C5BE1CF1A35DC57903E74A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tracker of Dark Secrets",
+      "trophyDetail": "Decrypt all clues hidden inside the cipher machines and claim the rewards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/2452074857DC0AF0DD6FAF8AC3A810F41C5BC5F1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Puppeteer of Death",
+      "trophyDetail": "Kill Markiona, the Puppeteer of Death.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/132D0A6690379504581C0BF4766E39A406F3F566.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Anguished Guardian",
+      "trophyDetail": "Kill the Anguished Guardian of the Ruins.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/BB15BBDDDB099130D3BB07A586A4CB93A23497A2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Blood Artist",
+      "trophyDetail": "Kill the Blood Artist.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/C67E9A1636FA9C866B00481F257414227E4772DC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Honor and Revenge",
+      "trophyDetail": "Kill the Leader of the Bastards and the Leader of the Sweepers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR36569_00_00CE99CA32E0CAD3D1711ACF195741BB08CBF641A3/8AD93780503B47B722FD3E1E887AF7ABB03B6023.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

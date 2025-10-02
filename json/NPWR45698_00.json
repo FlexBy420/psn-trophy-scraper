@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45698_00",
   "title": "Dead by Daylight 3/3",
   "platform": "PS4",
-  "trophySetVersion": "01.04",
+  "trophySetVersion": "01.10",
   "hasTrophyGroups": true,
-  "totalItemCount": 15,
+  "totalItemCount": 30,
   "trophies": [
     {
       "trophyId": 0,
@@ -140,6 +140,141 @@
       "trophyDetail": "Achieve a merciless victory with The Ghoul using only his 3 unique perks in a public match.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/2244854D5B6EB57D30807DE134FF35DECE7B4BA3.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Final Days",
+      "trophyDetail": "In public matches, take 10 protection hits during the Endgame Collapse.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/5DA2D0D8E61C36E3DCC03C7EFE83300C4EB63E57.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ever Vigilant",
+      "trophyDetail": "In public matches, complete 20 healing actions on Survivors once all generators have been completed.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/9B33AB20B99D44693A55FA68B5E3D8F3222668D1.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Orela",
+      "trophyDetail": "Escape with Orela Rose using only her 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/8061FE23AFDEB1FF93EB2782537C9028EB69D967.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump Scared",
+      "trophyDetail": "Playing as The Animatronic, interrupt a Survivor in the Security Office 15 times in public matches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/257A1EAED0CB4B2B112FFD8F50AB9BD7F12C4EC3.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "None the Wiser",
+      "trophyDetail": "In public matches, hit 5 Survivors that are Oblivious.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/A7CA630F546625245FE4155157C13A4430BDBA1A.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Animatronic",
+      "trophyDetail": "Achieve a merciless victory with The Animatronic using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/2FA54E6C628FFCE068979397C6EE6DBC6C020049.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don’t Open, Dead Inside",
+      "trophyDetail": "In a public match, complete the generator at the Fallen Refuge and escape.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/955C4F63A2121A6FC437DAB418A43BDD862F5E66.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Rick",
+      "trophyDetail": "Escape with Rick Grimes using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/C4940C70C4F21694D9885F8059B874BC8501A6AF.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Michonne",
+      "trophyDetail": "Escape with Michonne Grimes using only her 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/C1667D5D891225E467CCA6E2FC22415685FA5EFA.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You’ve Got Guts",
+      "trophyDetail": "As The Krasue, use Intestinal Whip to put Survivors in the dying state 20 times in public matches.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/4D5312BAB76378D6B2384D5FE5B4408A7CEBA0A9.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death Flight",
+      "trophyDetail": "Injure Survivors after you vaulted during a chase 20 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/5108F5B98B02C63A54D7A8FC8503E8708DF1AADF.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Krasue",
+      "trophyDetail": "Achieve a merciless victory with The Krasue using only her 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/CA03F9507E3E7C62D9846F7E2527BE75F07934C7.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Show Must Go On",
+      "trophyDetail": "In public matches, finish repairing 10 generators while injured.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/06594213C24E6984AEB8FD1CC910A2A50FA0CF72.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Practice Makes Perfect",
+      "trophyDetail": "In public matches, succeed in 100 healing or repair skill checks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/5F6EE85DFBC4C987CB874C1E3F220B1C442AACFA.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Vee",
+      "trophyDetail": "Escape with Vee Boonyasak using only her 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/C9A8AB9920B9181899960C5B12BDDAF06F2D25CF.PNG",
+      "trophyGroupId": "007"
     }
   ]
 }

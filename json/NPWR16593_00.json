@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR16593_00",
   "title": "Warhammer: Vermintide 2",
   "platform": "PS4",
-  "trophySetVersion": "01.08",
+  "trophySetVersion": "01.09",
   "hasTrophyGroups": true,
-  "totalItemCount": 93,
+  "totalItemCount": 96,
   "trophies": [
     {
       "trophyId": 0,
@@ -842,6 +842,33 @@
       "trophyDetail": "Receive the blessing of Valaya",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16593_00_002BAB9B00B78C945C45DE335B28F5CABBE8611682/9506B0DE1720D4B5D324FCDD886DB01A1F7D93C3.PNG",
       "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ding. Dong. Done.",
+      "trophyDetail": "Destroy the Skaven bell in the Forsaken Temple.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16593_00_002BAB9B00B78C945C45DE335B28F5CABBE8611682/003AE590C9C2A3ECAA548856F5DCE3419BF4E247.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're a Real Fun Guy",
+      "trophyDetail": "Find and destroy 50 hidden Blight-Burst Mushrooms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16593_00_002BAB9B00B78C945C45DE335B28F5CABBE8611682/1BC16B2D66F16ADE852367D337BC96A6643A0561.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Unsupplied",
+      "trophyDetail": "Sabotage 4 skaven generators around the portal. An impact from something heavy might do the trick...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16593_00_002BAB9B00B78C945C45DE335B28F5CABBE8611682/A6696928AD25F860AD7B11FB216C528D5CA4B035.PNG",
+      "trophyGroupId": "008"
     }
   ]
 }

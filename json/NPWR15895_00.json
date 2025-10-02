@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR15895_00",
   "title": "Tom Clancy’s The Division®2",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.11",
   "hasTrophyGroups": true,
-  "totalItemCount": 61,
+  "totalItemCount": 68,
   "trophies": [
     {
       "trophyId": 0,
@@ -554,6 +554,69 @@
       "trophyDetail": "Complete the full Operation Iron Horse raid in a group of eight players.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/4D8CDEA037A2E028E064532E3A22814B1A0E529F.PNG",
       "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Brains",
+      "trophyDetail": "Unlock and use the Smart Cover skill.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/6E895150A45676B71DDC7AEE0CEA5BABF281137B.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Controller",
+      "trophyDetail": "Discover 4 Control Points in Brooklyn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/2D6B7F1B010F81FF7E891C31511FD5F133EEC531.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Bounty Hunter",
+      "trophyDetail": "Complete a bounty from each Safe House in Brooklyn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/7F9E424337EA6B539169AA47EE7B3A3774385AFF.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Local",
+      "trophyDetail": "Access a Safe House in Brooklyn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/D5722282607F33B4927E492398E47BCB90D2C494.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Buddies",
+      "trophyDetail": "Put out a call for backup in Brooklyn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/A23B8648702F7368C03DCF78D982B9A21CE2C481.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brooklyn Backup",
+      "trophyDetail": "Respond to a call for help and revive a fellow agent in Brooklyn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/897E6AE06991C492C29031223DBC4EABA88648E5.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hometown Hero",
+      "trophyDetail": "Liberate all of Brooklyn's Main and Secondary locations.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15895_00_006A250E088FDBA0DBBBF7E1289A630DDD59E23B3B/2A7AB8D90FDB910E4CE8392BBFD6380EE3B92957.PNG",
+      "trophyGroupId": "007"
     }
   ]
 }

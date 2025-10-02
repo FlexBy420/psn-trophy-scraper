@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR22570_00",
   "title": "R-TYPE FINAL 2",
   "platform": "PS4",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.14",
   "hasTrophyGroups": true,
-  "totalItemCount": 80,
+  "totalItemCount": 82,
   "trophies": [
     {
       "trophyId": 0,
@@ -725,6 +725,24 @@
       "trophyDetail": "Completed a special mission using an Orbital Strike Unit on R-TYPER difficulty or harder.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22570_00_001FF03050FE98FDC567AF9EE698E132EC1ED3AFCB/7221DE307B28CD7B7E6B1686BCF719FE39AFBC89.PNG",
       "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Have A Great Journey Ahead!",
+      "trophyDetail": "You have defeated a formidable enemy with a craft adorned with a decal commemorating the 4th anniversary of the 'R-TYPE FINAL 2 / 3' mission. Our utmost gratitude to the pilots who continue to carry out their duties to this day.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22570_00_001FF03050FE98FDC567AF9EE698E132EC1ED3AFCB/94F227F36F819A5855BC0B6FD34590E952161861.PNG",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Valiant R-TYPER Forging Ahead",
+      "trophyDetail": "You have defeated all the formidable enemies in your path and cleared the Boss Rush course. Our utmost praise goes to the pilot who achieved this remarkable feat.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22570_00_001FF03050FE98FDC567AF9EE698E132EC1ED3AFCB/24AB206D4023AE3755449D5D78B6E4A263BBEC58.PNG",
+      "trophyGroupId": "011"
     }
   ]
 }

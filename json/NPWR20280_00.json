@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20280_00",
   "title": "Empire of Sin Trophy Set",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 51,
+  "totalItemCount": 57,
   "trophies": [
     {
       "trophyId": 0,
@@ -464,6 +464,60 @@
       "trophyDetail": "Finished Maxim Zelnick’s boss mission",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/20A4EB80A0E17C24CA05A604443BF10CFE18795D.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robin Kray, No. 1",
+      "trophyDetail": "Win as Robin Kray",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/261A6FE10BEA59B546807AAFAA48918BCCE4331E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are we gangster or are we dancer?",
+      "trophyDetail": "Kill Robin Kray",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/F7E28F3E39454159FCE73578CA0C9FEF000F719F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Ocean",
+      "trophyDetail": "Make 20K in a week from Dance Clubs alone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/DDCE8061FE2FD933B3AA084BFEAE599D5DADAF31.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Luckiest Dog in Chicago",
+      "trophyDetail": "Risk Your Life for Your Dog",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/3898E57D955C25AE183F97ECDD429D335644C794.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ahead of Time",
+      "trophyDetail": "Convince the policeman to leave your dance clubs alone",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/6C3CCCC6CE08A797571FD94BDD095A1AD9DCDBC8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wounded snake hunter",
+      "trophyDetail": "Get injured while hunting a snake",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20280_00_0056AB633C37DB96884A3EA24B6EE5BEF017AFA9EC/B431D57DAF0AFE87616833A428EE66D8547AE96A.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

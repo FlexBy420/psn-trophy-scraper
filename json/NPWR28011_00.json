@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR28011_00",
   "title": "Railway Empire 2",
   "platform": "PS4",
-  "trophySetVersion": "01.09",
+  "trophySetVersion": "01.10",
   "hasTrophyGroups": true,
-  "totalItemCount": 78,
+  "totalItemCount": 84,
   "trophies": [
     {
       "trophyId": 0,
@@ -707,6 +707,60 @@
       "trophyDetail": "Complete the scenario “Per la Famiglia“.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/07628AF973F30415118952576CB6F77831E13B41.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "La Dame de Fer",
+      "trophyDetail": "Complete the scenario “La Dame de Fer“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/691634174C63FA048E2B739171C84973F0FA22DA.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glück auf!",
+      "trophyDetail": "Complete the scenario “The Industrial Miracle“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/013748E88BBCDBC648BC6EE36AE69389503CE0AE.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Concrete Giant",
+      "trophyDetail": "Complete the scenario “The Concrete Giant“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/C620C9CCE82950D4A284129502C30D6A1C901273.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mon Dieu!",
+      "trophyDetail": "Produce 200 loads of “Steel Components“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/9A6A994D2657DCADE982FF6F136BF57006513C2E.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coke until you croak",
+      "trophyDetail": "Produce 2000 loads of “Coke“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/D30213A8B89680B86A3EF8952CAC47B9625E3CA7.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Founding fathers",
+      "trophyDetail": "Found a total of 40 rural businesses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/6B91288B18ACE48A6B1F13ABD28DF089A0E7E303.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

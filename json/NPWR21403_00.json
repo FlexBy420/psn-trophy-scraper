@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR21403_00",
   "title": "Genshin Impact",
   "platform": "PS4",
-  "trophySetVersion": "01.18",
+  "trophySetVersion": "01.20",
   "hasTrophyGroups": true,
-  "totalItemCount": 104,
+  "totalItemCount": 118,
   "trophies": [
     {
       "trophyId": 0,
@@ -941,6 +941,132 @@
       "trophyDetail": "Help the roots of the Flamegranate Tree absorb enough liquid phlogiston such that the Mountain King Flamegranates ripen.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/3BDEB14E1FEB9849453E09C9C24F12B2243A4A8B.PNG",
       "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Natlan: Radiant As Fire",
+      "trophyDetail": "Upgrade the Statues of The Seven in Natlan to their maximum level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/360F65DA6B47EA2397F13A033B4D0D2EE5B6C710.PNG",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Natlan: The Fiery Hue of the Scorching Sun",
+      "trophyDetail": "Raise the Tablet of Tona in the Basin of Unnumbered Flames to the maximum level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/B89EC7B4EF16EE73521FFEC146D05D0DCC60141F.PNG",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyro: Memory of Fire",
+      "trophyDetail": "Obtain the power of Pyro.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/DDB0BE2C3B4D43C45B6155EE3F1E4275A1AE8B5E.PNG",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moondust Treasure Hunter (I)",
+      "trophyDetail": "Open 60 chests on Lempo Isle, Hiisi Island, and Paha Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/BB989F2EAA382D05C967C1A8B9F0B243497C19C4.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moondust Treasure Hunter (II)",
+      "trophyDetail": "Open 120 chests on Lempo Isle, Hiisi Island, and Paha Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/6F14EECA413B834390F34A31BA20E1BC0F52CA52.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 109,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moondust Treasure Hunter (III)",
+      "trophyDetail": "Open 240 chests on Lempo Isle, Hiisi Island, and Paha Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/58D7BAE4567243AAF52821A84FC62C4956DA2CEF.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 110,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nod-Krai: Continental Explorer (I)",
+      "trophyDetail": "Light up the maps of the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/D8492A72D9EFA175EDFF71BED82933B70C497D05.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 111,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Frosty Groves Beyond the Darkness (I)",
+      "trophyDetail": "Unlock all Teleport Waypoints in the following areas in Nod-Krai: Lempo Isle, Hiisi Island, and Paha Isle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/2DF9ABA83332FC66DFDE01DE21224D891DB5E38B.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 112,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: 'Final Night Cemetery'",
+      "trophyDetail": "Reach maximum Construction Level at the Final Night Cemetery.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/5DACD0ECC4A2AB0A119EC569CEED5A2A945948A8.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 113,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: 'Clink-Clank Krumkake Craftshop'",
+      "trophyDetail": "Reach maximum Construction Level at the Clink-Clank Krumkake Craftshop.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/DC22E1F6D983C7504E5E5800A1870377D9A34564.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 114,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Journey: 'Frostmoon Enclave'",
+      "trophyDetail": "Reach maximum Construction Level at the Frostmoon Enclave.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/F2B8356A573D8EF2C772F454791284FD926579A5.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 115,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "'The Weaver in the Ossuary'",
+      "trophyDetail": "Explore the sanctum sealed off by the first Moonchanter.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/819E7AA7BE3E93006BE6A9EBAC8768A16DE1CE87.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 116,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "'The Sins of the Fathers'",
+      "trophyDetail": "Complete the adventure at the Kuuvahki Experimental Design Bureau.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/E192A7AFCB44B147EFF0B15C47B0ADAC0CD4E322.PNG",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 117,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "'The Moon Is Bright Tonight'",
+      "trophyDetail": "Complete 'Selenic Chronicles: Part I.'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21403_00_008441111BB985B90C2D5CCDD2289FD49E59A7E612/EF257D3207CC24BED3023357C58B5828948EF246.PNG",
+      "trophyGroupId": "015"
     }
   ]
 }

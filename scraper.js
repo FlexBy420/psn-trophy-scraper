@@ -37,24 +37,67 @@ function needsNpServiceName(platform) {
   return legacyPlatforms.some(p => platform.includes(p));
 }
 
+ // Save JSON only if content changed
+function saveJsonIfChanged(filePath, data) {
+  let oldBuffer = null;
+  let oldText = null;
+  if (fs.existsSync(filePath)) {
+    oldBuffer = fs.readFileSync(filePath);
+    oldText = oldBuffer.toString('utf8');
+  }
+
+  // detect CRLF usage from old file
+  const useCRLF = oldText && /\r\n/.test(oldText);
+  let newJson = JSON.stringify(data, null, 2);
+  if (useCRLF) newJson = newJson.replace(/\n/g, '\r\n');
+
+  if (oldText !== newJson) {
+    fs.writeFileSync(filePath, newJson, { encoding: 'utf8' });
+    console.log(`${path.basename(filePath)} saved/updated.`);
+  } else {
+    console.log(`${path.basename(filePath)} unchanged — not rewritten.`);
+  }
+}
+
 async function scrapeNpwrId(accessToken, npwrId) {
   const filePath = path.join(OUTPUT_DIR, `${npwrId}.json`);
-  if (fs.existsSync(filePath)) return;
+  let localVersion = null;
+
+  // read local version if exists
+  if (fs.existsSync(filePath)) {
+    try {
+      const localData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      localVersion = localData.trophySetVersion || null;
+    } catch (e) {
+      console.warn(`${npwrId}: local file unreadable or corrupt, will refresh.`);
+    }
+  }
 
   try {
-    // Try fetching without npServiceName first
+    // fetch metadata first
     let trophyGroups = await getTitleTrophyGroups(accessToken, npwrId);
     let platform = trophyGroups?.trophyTitlePlatform;
     let title = trophyGroups?.trophyTitleName;
+    const remoteVersion = trophyGroups?.trophySetVersion;
 
-    // If platform needs npServiceName or data missing, retry
+    // retry with npServiceName if needed
     if (needsNpServiceName(platform) || !title) {
       trophyGroups = await getTitleTrophyGroups(accessToken, npwrId, { npServiceName: 'trophy' });
       platform = trophyGroups.trophyTitlePlatform;
       title = trophyGroups.trophyTitleName;
     }
 
-    // Determine options for trophies
+    // skip fetching trophies & writing file if version matches
+    if (
+      localVersion !== null &&
+      remoteVersion !== null &&
+      String(localVersion) === String(remoteVersion)
+    ) {
+      console.log(`${npwrId} is already up-to-date (v${remoteVersion}), skipped.`);
+      return; // no saving
+    }
+
+    // fetch full trophy list
     const options = needsNpServiceName(platform) ? { npServiceName: 'trophy' } : {};
     const allTrophies = await getTitleTrophies(accessToken, npwrId, 'all', options);
 
@@ -73,9 +116,8 @@ async function scrapeNpwrId(accessToken, npwrId) {
       trophies: allTrophies.trophies
     };
 
-    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+    saveJsonIfChanged(filePath, data);
     appendValidLog(npwrId, title, platform);
-    console.log(`${npwrId} saved`);
   } catch (err) {
     console.log(`${npwrId} skipped: ${err.message}`);
   }

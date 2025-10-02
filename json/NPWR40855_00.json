@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40855_00",
   "title": "Sniper Elite: Resistance",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": true,
-  "totalItemCount": 65,
+  "totalItemCount": 71,
   "trophies": [
     {
       "trophyId": 0,
@@ -590,6 +590,60 @@
       "trophyDetail": "Vercors Vendetta - Complete the mission on Authentic difficulty.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/A834848C50F684BB42EF31838A175B9355C8B8C6.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vergeltungswaffe",
+      "trophyDetail": "Striking Range - Complete the mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/C80D5B9B38911B84DD015A49BA3B260DB922CFEA.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Communication Breakdown",
+      "trophyDetail": "Striking Range - Complete the mission with a 2 star rating.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/E7C7C2952E7514706DB53DD15591684BD07687F6.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Jailbreak",
+      "trophyDetail": "Striking Range - Complete the mission on Authentic difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/8832F8E431FC410AEF10A19F91F5A4CC64C451C5.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mis-guided-missile",
+      "trophyDetail": "Mud and Thunder - Complete the mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/6BE8EFCCFF3F14B1A4AF13438B5E5705FF69B373.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lethal Love letter",
+      "trophyDetail": "Mud and Thunder - Complete the mission with a 2 star rating.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/3F1056109381EFB338F5F8EB5DA7A16D8BF03315.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Path of Most Resistance",
+      "trophyDetail": "Mud and Thunder - Complete the mission on Authentic difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40855_00_0036A2393664B793A3CE8F37FE40F9BF018F053E7A/24302348004B1E4B67F807C22D0506E4C36BB64C.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

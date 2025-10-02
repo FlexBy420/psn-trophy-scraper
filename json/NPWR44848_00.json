@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR44848_00",
   "title": "《渡神纪芬尼斯崛起》",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 62,
+  "totalItemCount": 68,
   "trophies": [
     {
       "trophyId": 0,
@@ -563,6 +563,60 @@
       "trophyDetail": "打败梼杌",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/9A6793DC25191703441FE347F4982B0C9D2FBA2E.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "终极代价",
+      "trophyDetail": "供奉终极贡品",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/40959E27849AE48F691AB3FBDD8D9B6F92FFCCBF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "投机者",
+      "trophyDetail": "解锁所有的英勇天赋",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/F7809CB5EF20C566B87D010B00E41E69553350BE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "大满贯",
+      "trophyDetail": "完全升级你的装备",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/3B7B1D180982D8EDEDA83CB38496E0D976667186.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "受虐狂",
+      "trophyDetail": "通过使用英勇天赋失去20格生命值",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/B7741A5A341003F530E636140DABA6F17D0DC737.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "踩鼹鼠",
+      "trophyDetail": "从地下逼出10只害虫",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/25A0598041D4CD1ECB086B55B63BBFA84A00E11C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "吸血艾希",
+      "trophyDetail": "通过使用英勇天赋吸取10格生命值",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44848_00_00369F400A014BC134FC5FDC9F6FF2F569E62BE416/A545B9BA3CD9C6E39D077918454644C0A5555C66.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

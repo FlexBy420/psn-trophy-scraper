@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39458_00",
   "title": "Gems of War",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.13",
   "hasTrophyGroups": true,
-  "totalItemCount": 24,
+  "totalItemCount": 32,
   "trophies": [
     {
       "trophyId": 0,
@@ -221,6 +221,78 @@
       "trophyDetail": "Destroy 100 Entangle Gems.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/B7793B695C3EE728CFB781C8016E609F955F1E93.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Taken To Task",
+      "trophyDetail": "Fully complete 2 Campaign Tasks in a single Campaign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/FE61AA9F3F634248516B79C1707468BDECDA03C7.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enchantée",
+      "trophyDetail": "Destroy 100 Enchanted Gems.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/F2DB14F988B2907FE0ABA322696DDC858234146E.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disco Inferno",
+      "trophyDetail": "Match 100 Burning Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/7E1B150604A8F19B3B6583CC6246F9CA0A684517.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baby it's Cold Outside",
+      "trophyDetail": "Match 100 Freeze Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/4FBDE6597FE0C5A66F656AF91A588B9D72EF0D87.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking Down Barriers",
+      "trophyDetail": "Match 100 Barrier Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/C7918E1B35359B61AC28EA67BF0D06B1446B0A4F.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To the Victor...",
+      "trophyDetail": "Win 25 Quick Match PvP Battles in any Region.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/4D83437635B7508ADFFA4FA22353C91B53001689.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guild Paragon",
+      "trophyDetail": "Win 10 Guild Wars Battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/F4E9938EEB64475D5FB8F0EF7761C61B1592029A.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pillars of Might",
+      "trophyDetail": "Win 5 Monolith Battles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/955FD04BE98F60E932E18C6A57EAD9649D1CCD28.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

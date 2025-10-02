@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR47229_00",
   "title": "Atomfall",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
-  "hasTrophyGroups": false,
-  "totalItemCount": 37,
+  "trophySetVersion": "01.10",
+  "hasTrophyGroups": true,
+  "totalItemCount": 55,
   "trophies": [
     {
       "trophyId": 0,
@@ -338,6 +338,168 @@
       "trophyDetail": "Consume a Cornish pasty, English tea, and a slice of cake in 30s",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/4F9DF0F8081A94B18E48D7F63E90D8EBDFEBB363.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Mind Over Matter",
+      "trophyDetail": "Escape the Quarantine Zone by talking down the Angel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/15C884D040FBD30E2D910864C873E9ED3011C549.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "A Throne Fit For All Things",
+      "trophyDetail": "Escape the Quarantine Zone by joining the Angel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/473B7EBE2668331151881412C8AF2161AD847950.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Seaworthy",
+      "trophyDetail": "Escape the Quarantine Zone with Jean Hamer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/39CDE7CF4EEE3DD7BAC604BB794D1E3B5050E9C9.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Exhumation",
+      "trophyDetail": "Open the sealed door inside the Midsummer Abbey crypt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/4C02691E8B69755CCAFDC5D1E4A69EE3F1E7B999.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Our Island Gnome",
+      "trophyDetail": "Find and destroy 15 Garden Gnomes on Midsummer Isle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/9A6346E1C1D0B1F3041F0457EB44E48E793074E7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Recalling Our Past",
+      "trophyDetail": "View 8 memories of the Midsummer monks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/FEC0C097AC165CD5219E627A07B4A03844878E59.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fish Fingers",
+      "trophyDetail": "Kill an Aquatic Feral in a fist fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/BF1D42156079D7B9AA6DBADEECC555B6AA0E9907.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Midsummer Picnic",
+      "trophyDetail": "Consume an Infection Sample, Infected Honeycomb, and Druids' Tonic within 10 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/444966D032F25A94D6A89FCF50F9E0E0610471DA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buzzkill",
+      "trophyDetail": "Use an Explosive Lure on the Beekeeper’s Swarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/D0CFA3602E4B339CFC4680EEA90B25EA08BEC689.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Collapsing the Heavens",
+      "trophyDetail": "Deorbit High Albion and destroy everything in the Quarantine Zone and beyond",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/4169EB59A22E5BEFDA2827941B66244A08EC5354.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Creature of Thought",
+      "trophyDetail": "Become an extracted brain awaiting your escape to High Albion station",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/F6C07114ADC9389378D6493AE6F8A40F7D18BC69.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Permission Granted",
+      "trophyDetail": "Reach Permission Level One in Test Site Moriah",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/C6315D7EE745BA3A0F1C4232930B90005395943F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Directive",
+      "trophyDetail": "Have a reprogrammed robot ally destroy 5 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/8505029EFE33D15A93645CCDCEF864C31094CDC1.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "See How You Like It",
+      "trophyDetail": "Destroy 3 robots using a salvaged robot weapon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/E242A5035A94E5ADCC27DB205EE91E9162AA9B5B.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gnome on the Range",
+      "trophyDetail": "Find and destroy 10 Garden Gnomes in Stafell Crag",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/6E3C7DB4E85D877C29C1C8A170BF1610B09E3421.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fight Amongst Yourselves",
+      "trophyDetail": "Affect 6 enemies with Red Mist Bombs in a short space of time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/E01994D93B6A26D2B10391E91F9BA29503B48735.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Must… Kill…",
+      "trophyDetail": "Kill 3 enemies with your fists while the Red Strain Adaptation skill is active",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/5272BDA8407C5C94BB523404302EE2BFDD15DEE0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Handed",
+      "trophyDetail": "Kill a Contaminated human in a fist fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR47229_00_0007C397243C70265A4D0EA014305889FB689583F0/D5A60E35A74CE825371B4E37B66152AD7B8DBE1E.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

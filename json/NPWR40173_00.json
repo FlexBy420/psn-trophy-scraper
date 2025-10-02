@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40173_00",
   "title": "DEATH NOTE Killer Within",
   "platform": "PS4",
-  "trophySetVersion": "01.03",
+  "trophySetVersion": "01.05",
   "hasTrophyGroups": true,
-  "totalItemCount": 37,
+  "totalItemCount": 40,
   "trophies": [
     {
       "trophyId": 0,
@@ -38,7 +38,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Ace Investigator",
-      "trophyDetail": "Perform 100 Canvas Tasks",
+      "trophyDetail": "Perform 100 Canvassing Tasks",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/BCA71633979F746EF46B867FEFEDACD0AFA6F21F.PNG",
       "trophyGroupId": "default"
     },
@@ -101,7 +101,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Veteran Investigator",
-      "trophyDetail": "Perform 50 Canvas Tasks",
+      "trophyDetail": "Perform 50 Canvassing Tasks",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/CD479804F09588E01B2EFEE61D7FEF166DCB8DCC.PNG",
       "trophyGroupId": "default"
     },
@@ -164,7 +164,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "I need some help from the police",
-      "trophyDetail": "Finish all your Canvas Tasks for the day",
+      "trophyDetail": "Finish all your Canvassing Tasks for the day",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/412FC81C51BD9106D28A1A9813269804E38B438E.PNG",
       "trophyGroupId": "default"
     },
@@ -338,6 +338,33 @@
       "trophyDetail": "As Watari, be chosen to confiscate a suspect's items",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/E99D9AF065F61D7679514380564C728619513BF1.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "If they don't give you anything, then get creative",
+      "trophyDetail": "Win by using Kira's Kingdom Card to get L ejected from the match\n*This trophy is given only to the player who is Kira's Spokesperson when the match is won.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/697893F6515DAB9579CE95B1FC40267FE0CFC2B4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret Provision for Kira",
+      "trophyDetail": "Win by having a player targeted by a SPK Tracker arrested\n*This Trophy is given only to the player who is N when the match is won.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/D12FF8844ED7A662256169F71D8AC8481CEFC914.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are you a god?",
+      "trophyDetail": "Turn a player whose role has been revealed into a Kira Follower",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40173_00_000AFE8441BC71F7631099B1EBAD8140B97F4AD1B8/6F19BE894498DF843426145568725F8725E6D1D0.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

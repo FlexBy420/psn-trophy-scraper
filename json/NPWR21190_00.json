@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR21190_00",
   "title": "Tom Clancy’s Rainbow Six® Siege",
   "platform": "PS5",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.17",
   "hasTrophyGroups": false,
   "totalItemCount": 49,
   "trophies": [
@@ -47,7 +47,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Full Roster",
-      "trophyDetail": "Play 10 rounds with each Pathfinder Operator in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Play 10 rounds with each Pathfinder Operator in Quick Match or Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/5e35942f-28cd-4184-a331-a52c38e191c9.png",
       "trophyGroupId": "default"
     },
@@ -56,7 +56,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Jack of All Trades",
-      "trophyDetail": "Win 1 round with every Pathfinder Operator in Ranked.",
+      "trophyDetail": "Win 1 round with every Pathfinder Operator in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/a7caf7c7-7c4a-44b0-b88d-ddb4b5c6751f.png",
       "trophyGroupId": "default"
     },
@@ -65,7 +65,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "To the Top",
-      "trophyDetail": "Reach Clearance level 50.",
+      "trophyDetail": "Reach Clearance Level 50.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/251667e4-e273-4245-ad34-219658c964b4.png",
       "trophyGroupId": "default"
     },
@@ -92,7 +92,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Just Getting Started",
-      "trophyDetail": "Eliminate 100 opponents in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Get 100 kills in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/6160ef8a-fbce-4e3a-858a-2e26031d6e30.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "100"
@@ -197,8 +197,8 @@
       "trophyId": 20,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Good as Gold",
-      "trophyDetail": "Achieve Gold Rank.",
+      "trophyName": "Globetrotter",
+      "trophyDetail": "Play 10 Multiplayer Matches on 10 different maps.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/7414c45b-5a31-45a9-8ed6-da3c850565d5.png",
       "trophyGroupId": "default"
     },
@@ -207,7 +207,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Senseless",
-      "trophyDetail": "Eliminate 10 opponents blinded by Stun Grenades in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Kill 10 enemies blinded by Stun Grenades in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/19208d03-4cfa-4cde-a2ff-3037cdaefba0.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "10"
@@ -227,7 +227,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Meat Wall",
-      "trophyDetail": "Eliminate an opponent with a Breach Charge in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Kill an enemy with a Breach Charge in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/0845b5e4-959c-4f2a-be04-553b7faee42d.png",
       "trophyGroupId": "default"
     },
@@ -236,7 +236,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Oh Yeah!",
-      "trophyDetail": "Destroy a reinforced wall with the Thermite Charge in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Destroy a reinforced wall with Thermite's Exothermic Charge in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/8a719120-b980-4580-b0e4-60d7d491ac37.png",
       "trophyGroupId": "default"
     },
@@ -245,7 +245,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Don't Go in There!",
-      "trophyDetail": "Eliminate an Attacker caught in Barbed Wire in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Kill an Attacker caught inside Barbed Wire in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/a019f505-1ae9-43a2-a5a5-576d73ac7b09.png",
       "trophyGroupId": "default"
     },
@@ -254,7 +254,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Wrong Number",
-      "trophyDetail": "Eliminate 10 opponents with Nitro Cells in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Kill 10 enemies with Nitro Cells in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/26d12f0c-d3a6-4e1a-a18b-dbe1fda35800.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "10"
@@ -274,7 +274,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "No Trespassing",
-      "trophyDetail": "Eliminate 10 opponents with Claymores in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Get 10 Claymore kills in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/b091d962-0445-432a-b6e1-470e5a1fb545.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "10"
@@ -284,7 +284,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Room Cleared",
-      "trophyDetail": "Eliminate 10 opponents with Frag Grenades in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Get 10 Frag Grenade kills in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/aa614a3a-b189-4766-9938-e5c542489583.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "10"
@@ -314,7 +314,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Close, but No Cigar",
-      "trophyDetail": "Disable the defuser in 5 Bomb matches in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Deactivate the defuser in 5 Bomb matches in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/51539f2f-8724-47e9-ad3d-21904aa4e176.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -334,7 +334,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Sureshot",
-      "trophyDetail": "Eliminate 5 opponents with DMRs.",
+      "trophyDetail": "Get 5 kills with a DMR.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/b779a8a0-4ae4-4484-ab44-1bbbb12d0211.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -344,7 +344,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Ride Shotgun",
-      "trophyDetail": "Eliminate 5 opponents with shotguns.",
+      "trophyDetail": "Get 5 kills with a shotgun.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/636b15b4-31ae-4e73-929d-0f64374f2f53.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -354,7 +354,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Full Auto",
-      "trophyDetail": "Eliminate 5 opponents with ARs.",
+      "trophyDetail": "Get 5 kills with an AR.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/20f8adf2-12ed-408e-b70d-f5592725d1c8.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -364,7 +364,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Greaser",
-      "trophyDetail": "Eliminate 5 opponents with SMGs.",
+      "trophyDetail": "Get 5 kills with an SMG.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/f1a97832-7abf-4d1d-be43-43eafcd7e959.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -374,7 +374,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Perfectionist",
-      "trophyDetail": "Get 5 Flawless Victories in Ranked.",
+      "trophyDetail": "Get 5 Flawless Victories in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/23230b21-4f17-4149-850e-2a6f35b2ed1b.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -394,7 +394,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Bang!",
-      "trophyDetail": "Eliminate 5 opponents with pistols.",
+      "trophyDetail": "Get 5 kills with a handgun.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/35653374-8301-4713-9a44-a7a221e04333.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "5"
@@ -404,7 +404,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "That Was Fast!",
-      "trophyDetail": "Find a bomb within 15 seconds of the 'Bomb' Preparation Phase in Quick Match/Ranked Multiplayer.",
+      "trophyDetail": "Find a bomb within 15 seconds of the Preparation Phase in Unranked/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/d18adb50-5ffb-4959-9c7e-29d81c4d8546.png",
       "trophyGroupId": "default"
     },
@@ -422,8 +422,8 @@
       "trophyId": 43,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Ranked",
-      "trophyDetail": "Receive a Skill Rank in Ranked Multiplayer.",
+      "trophyName": "Specialist",
+      "trophyDetail": "Complete all Operator Specialties.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/fd380028-32e4-4cda-87e0-7821ecf21191.png",
       "trophyGroupId": "default"
     },
@@ -450,7 +450,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "That Bullet Pen...",
-      "trophyDetail": "Eliminate 10 opponents through bullet penetration in Quick Match/Ranked Multiplayer",
+      "trophyDetail": "Get 10 kills through bullet penetration in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/746f5db1-d92f-4092-9f9c-3135affac3f2.png",
       "trophyGroupId": "default",
       "trophyProgressTargetValue": "10"
@@ -460,7 +460,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "One Mind",
-      "trophyDetail": "Win 1 match without losing a single round in Ranked Multiplayer.",
+      "trophyDetail": "Win 1 match without losing a single round in Quick Match/Ranked Multiplayer.",
       "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21190_00/71b493b4-8f28-4fab-8a87-c5d3b30b2459.png",
       "trophyGroupId": "default"
     },

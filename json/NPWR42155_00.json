@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR42155_00",
   "title": "Darkest Dungeon II",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": true,
-  "totalItemCount": 92,
+  "totalItemCount": 107,
   "trophies": [
     {
       "trophyId": 0,
@@ -833,6 +833,141 @@
       "trophyDetail": "Successfully complete a Kingdoms campaign while losing only a single Inn",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/132F5A7C463C53FA9E36E6836766662B2575D707.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Veni Vidi VVitchy",
+      "trophyDetail": "Successfully complete the K2: Secrets of the Coven module on any difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/045FB0D46300D088875451A089992D81B2224A07.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I've Been Here the Whole Time",
+      "trophyDetail": "Clear 30 stealth tokens over the course of a single expedition or campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/14414CBB1862914EC58501637D8D3C7DF50EC17F.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "True Sight",
+      "trophyDetail": "Always make the correct choice when encountering the Suspicious Few in a single campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/59533844723FF3678DCE8D3694E49B501CB26EA8.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pure Skill",
+      "trophyDetail": "Have any hero use a Mandrake Root and fail to stun an enemy while also stunning yourself",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/8FB7A04BEC1EAFB90B4FE5F0FD4B29AC6E0D0FB8.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "License Revoked",
+      "trophyDetail": "Have any hero use a Magic Mushroom on the Chirurgeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/9F98EC65C178825E767640EA12644AEF20FD6CDC.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Soup's On",
+      "trophyDetail": "Defeat a cauldron before it can apply any herb effects, without using a Finger Bomb",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/32ABAF03EF3120EF229D4D6F607AC406152B176D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Killing Moon",
+      "trophyDetail": "Successfully complete the K2: Hunger of the Beast Clan module on Blood Moon difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/B0F50244EAFCDE77D744CD095E00D23DAC983EAD.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "(Arch)duke it out",
+      "trophyDetail": "Successfully complete the K3: Curse of the Court module on any difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/A514828085836A14695A3FFD131C6C4B815C168D.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ducal Destruction",
+      "trophyDetail": "Successfully complete the K3: Curse of the Court module on Blood Moon difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/D351F459505EBA038C7D2B47D662C1E5FC0DBF7F.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kill it with Fire",
+      "trophyDetail": "Kill 4 cocoons with a single Accelerant",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/394C1964E6754FCA0795B4345D84ED1FECC1D426.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Social Distancing",
+      "trophyDetail": "Successfully complete the K3: Curse of the Court module where at least 2 heroes never become infected by the Crimson Curse",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/45636BC2B6DD3EFF52B9D5A658F5B6967FDA49C3.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Reverse Card",
+      "trophyDetail": "Hit a Bloodsucker with a Fractured Proboscis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/8E7E813D0C86896272D710F8F204D61469FA5157.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lust on Pull",
+      "trophyDetail": "Begin combat with each hero Bloodlusting",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/E87BA5F1B3317734896E66A1A9637DAF2330F7AA.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "En garde!",
+      "trophyDetail": "Kill an Esquire with a riposte attack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/9B278172B62629A4CAAAB15453B8141390E3E27C.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Fine Vintage",
+      "trophyDetail": "Use both The Blood and The Wine over the course of a single campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42155_00_00164484510B7CDB87DC9F25F7AF041E04A2A2B95A/4119716940EC6DD7F95A62700AEC7A9FEA727C59.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

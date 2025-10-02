@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR35894_00",
   "title": "Phantom Breaker: Battle Grounds Ultimate",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 49,
+  "totalItemCount": 52,
   "trophies": [
     {
       "trophyId": 0,
@@ -446,6 +446,33 @@
       "trophyDetail": "Cleared a stage with 6 people in online multiplayer.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35894_00_004D5140D20416DE118BC23A3D058753B4E790A80E/BCB4F80C87DED1E0970C5D34EE32B9607186268B.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Makeover Escalation",
+      "trophyDetail": "Transformed by Kaho’s Magic",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35894_00_004D5140D20416DE118BC23A3D058753B4E790A80E/76DC79E3994560D4A056E6D0DA86800806A2AC67.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gimmie a Break",
+      "trophyDetail": "Cleared a stage in online multiplayer with 6 players using Kaho.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35894_00_004D5140D20416DE118BC23A3D058753B4E790A80E/230BF6D534142A38F3DE9FC262853BC21212540A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going All Out for Kaho",
+      "trophyDetail": "Reached level 100 with Kaho.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35894_00_004D5140D20416DE118BC23A3D058753B4E790A80E/DFDDBA52854261BB2900DD17F2F6C4ACA9531C5D.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

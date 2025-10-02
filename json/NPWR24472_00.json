@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR24472_00",
   "title": "Bonfire Peaks",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.02",
   "hasTrophyGroups": true,
-  "totalItemCount": 32,
+  "totalItemCount": 42,
   "trophies": [
     {
       "trophyId": 0,
@@ -293,6 +293,96 @@
       "trophyDetail": "100% complete Lost Memories Part 1",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/941B72D84EB3C3F5C3281ACAF0F54D92C6821660.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moving Parts",
+      "trophyDetail": "Move an arrow trap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/EC215C7B2037F15645450337FC230D5C2D751D4F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reduce",
+      "trophyDetail": "Transform a trap",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/CB3FE9E09DF5706D73CC3B79E3347554811B6A97.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blasting Machine",
+      "trophyDetail": "Find another portable object",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/4A1B1128BB5E345FF5810766F166EA1D8BF79602.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ozone Slayer",
+      "trophyDetail": "Finish Lost Memories Part 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/EB09D72C88FEE7C9C5038BA556B2E53EED2EAEA4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Lost Memories Part 2: 100%",
+      "trophyDetail": "100% complete Lost Memories Part 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/C41855BE1747F31D333750CB0575A103BA855154.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Float",
+      "trophyDetail": "Find something blue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/155F213F7DD095495683ABF6D7A2D72C31038500.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suspend",
+      "trophyDetail": "Merge something blue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/2AE52F95AAAC3BA9CCFC5181DDCDA4D95C0EA82C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pressure",
+      "trophyDetail": "Blue on blue",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/AB86560B59EC2579CE0E1E11496A8310B9926DDD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ritualist",
+      "trophyDetail": "Finish Lost Memories Part 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/BDA9DE41BF1C974E1DFBF4AF5ADFD6926D9182EA.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Lost Memories Part 3: 100%",
+      "trophyDetail": "100% complete Lost Memories Part 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR24472_00_00757AA643554AF89F05152B0D2CA5676B1C97C7ED/E15B059032C8588B5D7BC1DB6288750DA393C5EB.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR29342_00",
   "title": "Sea of Stars",
   "platform": "PS4",
-  "trophySetVersion": "01.04",
+  "trophySetVersion": "01.05",
   "hasTrophyGroups": true,
-  "totalItemCount": 49,
+  "totalItemCount": 55,
   "trophies": [
     {
       "trophyId": 0,
@@ -446,6 +446,60 @@
       "trophyDetail": "Make the giant lift both feet",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/BD85924CCB7B2DCD5D4657FCFA4AEAB85263B614.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marquee Star",
+      "trophyDetail": "Unlock all skills and combos for circus classes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/EA3BEE3BB02F9C18021CB260BB813A710CBE2F44.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carnival Culinarian",
+      "trophyDetail": "Cook each of the five Horloge recipes at least once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/55864F6D7124AC7E16A31F832AC53F49D625E658.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warlocked",
+      "trophyDetail": "Beat all of Horloge's Wheels champions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/E2517B090276EAD8451CC201C8752065FDEDAE5A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unrivaled Wonder",
+      "trophyDetail": "Earn top rank in all three of Horloge's minigames",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/2CDB928A6B0DBE7416DA743541695B0A4E1B9F8F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Clockworkn't",
+      "trophyDetail": "Defeat Dweller of Scourge",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/1CF58394F8F10CCAD08844CD1BDACB222A51400A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "What doth it meanst?",
+      "trophyDetail": "Bear witness to the secret vision",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29342_00_00957D923C144C6414979BEAC9F508CCCC0FAAF390/D255A1A7C862FADD4CDC4892C535A7A09E6FF4F8.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

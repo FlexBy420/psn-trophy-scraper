@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR42322_00",
   "title": "Ticket To Ride",
   "platform": "PS4",
-  "trophySetVersion": "01.05",
+  "trophySetVersion": "01.06",
   "hasTrophyGroups": true,
-  "totalItemCount": 73,
+  "totalItemCount": 79,
   "trophies": [
     {
       "trophyId": 0,
@@ -658,10 +658,64 @@
       "trophyId": 72,
       "trophyHidden": false,
       "trophyType": "gold",
-      "trophyName": "The Emperor ",
+      "trophyName": "The Emperor",
       "trophyDetail": "In Japan, win the 25-point Bullet Train Bonus in a 5-player game.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/188AAE2C87621F5558575D4E16C24934A680F890.PNG",
       "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sandy Specialist",
+      "trophyDetail": "In Africa, win a game while doubling points for 6+ Desert and Savanna routes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/4936A674ED9F70B0757AAFA699F1090488AA9943.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jungle Genius",
+      "trophyDetail": "In Africa, win a game while doubling points for 6+ Jungle and Forest routes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/2F39AE4C57272305BE4E03C1C6D27F05334779CB.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain Master",
+      "trophyDetail": "In Africa, win a game while doubling points for 6+ Mountain and Cliff routes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/B818B51C340B6DDB1FAD1666FE874D8FD5BDE1AD.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nomad",
+      "trophyDetail": "In Africa, connect Nigeria, Tchad and Sudan in a single game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/3B5EC03918972CD04828AB02822CB587B9221A1A.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mozambique Channel",
+      "trophyDetail": "In Africa, use terrain cards to claim Durban-Madagascar in 5 different games",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/9C21DE9E893BF22D43D559AF4628047D5E750003.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pride of Africa",
+      "trophyDetail": "In Africa, win 5 games against 4 Hard AI",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/3C4C348EE0193C53A58C115721835058A921102B.PNG",
+      "trophyGroupId": "008"
     }
   ]
 }

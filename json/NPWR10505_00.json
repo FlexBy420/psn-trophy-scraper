@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR10505_00",
   "title": "Neverwinter",
   "platform": "PS4",
-  "trophySetVersion": "01.25",
+  "trophySetVersion": "01.26",
   "hasTrophyGroups": true,
-  "totalItemCount": 114,
+  "totalItemCount": 116,
   "trophies": [
     {
       "trophyId": 0,
@@ -1031,6 +1031,24 @@
       "trophyDetail": "Complete The Dread Sanctum Dungeon",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/5D96EBE0F27BAE0EAE928F9CB371FB4CB9CA1954.PNG",
       "trophyGroupId": "016"
+    },
+    {
+      "trophyId": 114,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Harvest",
+      "trophyDetail": "Complete the Red Harvest Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/3E5931B2693666E1C7B1EE6900BD3D5AD1968629.PNG",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 115,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shackles of Divinity",
+      "trophyDetail": "Complete the Shackles of Divinity",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/52F3B127F588C3B1F7B60EF59225967ED518337C.PNG",
+      "trophyGroupId": "017"
     }
   ]
 }

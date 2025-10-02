@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR44312_00",
   "title": "Train Sim World® 5: Set 1",
   "platform": "PS4",
-  "trophySetVersion": "01.27",
+  "trophySetVersion": "01.31",
   "hasTrophyGroups": true,
-  "totalItemCount": 82,
+  "totalItemCount": 85,
   "trophies": [
     {
       "trophyId": 0,
@@ -743,6 +743,33 @@
       "trophyDetail": "Drive Diesel for 10 miles within the speed limit",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44312_00_00D202AFC1DFA695F6B44514561A2C69FFEC962405/66FE3F836532E22A50C5945407AFDAAB659009F0.PNG",
       "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "TAP: Happy Birthday!",
+      "trophyDetail": "Complete the scenario 'Thomas' Birthday Surprise'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44312_00_00D202AFC1DFA695F6B44514561A2C69FFEC962405/5013F04D31979327ACAA4624EA4E6785406EF206.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "TAP: Dealing with Difficulties",
+      "trophyDetail": "Complete the scenario 'Diesel's Dilemma'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44312_00_00D202AFC1DFA695F6B44514561A2C69FFEC962405/F6F29015A65DA369E2E543BCD5933D15CB80B5A5.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "TAP: A Day to Remember",
+      "trophyDetail": "Complete the scenario 'Thomas' Special Day'",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44312_00_00D202AFC1DFA695F6B44514561A2C69FFEC962405/2DCA97A7863C3EAD359955D1C441085E91458384.PNG",
+      "trophyGroupId": "013"
     }
   ]
 }

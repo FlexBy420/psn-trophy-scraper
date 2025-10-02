@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR12261_00",
   "title": "The Elder Scrolls Online Additional Trophies",
   "platform": "PS4",
-  "trophySetVersion": "01.50",
+  "trophySetVersion": "01.57",
   "hasTrophyGroups": true,
-  "totalItemCount": 50,
+  "totalItemCount": 56,
   "trophies": [
     {
       "trophyId": 0,
@@ -455,6 +455,60 @@
       "trophyDetail": "Complete both Exiled Redoubt and Lep Seclusa on Veteran.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/8E20D8249A421D080370ED33C5C158CE7D09F8AC.PNG",
       "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hero of Western Solstice",
+      "trophyDetail": "Complete quests, defeat bosses, and explore delves to become the Hero of Western Solstice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/896021FAA55C4DB678D981791BD8A46930185036.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "West Solstice Grand Adventurer",
+      "trophyDetail": "Complete 16 non-repeatable quests in Western Solstice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/A0C060B15A590B321101F812623D88F5F9157F72.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ossein Cage Vanquisher",
+      "trophyDetail": "Defeat the Shapers of Flesh, Jynorah and Skorkhif, as well as Overfiend Kazpian in Ossein Cage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/DE4F7649C4F0207C70DCB53862BC70D9B95FEDC4.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Path to Learning",
+      "trophyDetail": "Complete the Subclassing quest, \"A Study in Discipline.\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/00E23DABE3AC1286D4AD76D133AD3956875EB885.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Feast of Shadows Scout",
+      "trophyDetail": "Complete both Naj-Caldeesh and Black Gem Foundry on Normal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/BA734FD26AB251F270789B0B715639608E8FF4C0.PNG",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Feast of Shadows Delver",
+      "trophyDetail": "Complete both Naj-Caldeesh and Black Gem Foundry on Veteran.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/1C8DD3265110A457A24E81D8E4F1A75D3CD3CFF9.PNG",
+      "trophyGroupId": "020"
     }
   ]
 }

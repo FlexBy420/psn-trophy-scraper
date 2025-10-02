@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR35784_00",
   "title": "Puzzle Quest 3",
   "platform": "PS4",
-  "trophySetVersion": "01.06",
+  "trophySetVersion": "01.09",
   "hasTrophyGroups": true,
-  "totalItemCount": 43,
+  "totalItemCount": 52,
   "trophies": [
     {
       "trophyId": 0,
@@ -392,6 +392,87 @@
       "trophyDetail": "Complete all Chapters of the Story in Season 3.5",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/C746FCE06901525467B039D9D5E21C895EC5A00C.PNG",
       "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storming the Mines",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.0",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/6741D41A3EE60B7D4ECC6800129935E751893CD7.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Lost Ones",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/630F7003429D9A2D863EA81C69E2E223E411C9FD.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Arts & Crafts",
+      "trophyDetail": "Craft 10 Rare or higher Scrolls or Runes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/05B99980D3C29BF2A9D0BAD4B8CAECA7F4D25D6E.PNG",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Wondrous Emporium",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/82FFE5ED4DB63667F4B406956B2A6EF370542BBE.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Variant Good Look For You",
+      "trophyDetail": "Own 10 unique pieces of Variant Gear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/386D66441D74A8C90842C3BFDEF990F7960A3225.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Frame of Mine",
+      "trophyDetail": "Own 15 unique Portrait Frames",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/A6602A67A5A70C70C387FAE494972224CD5A6CBA.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New James II",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/3E74A90FDFE08212A1273B2AB01AD6918835A44E.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Good Offense...",
+      "trophyDetail": "Deal 500,000 damage in Kingdom Defense",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/52C0B27D3E5BC07B956F20926E02A500065B0893.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alpha Omega",
+      "trophyDetail": "Defeat Teltherasus, The Last",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/0B1BC6FC35F62F5E948B474043C5FD7C7DCA18BC.PNG",
+      "trophyGroupId": "009"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR31743_00",
   "title": "Wobbly Life\n",
   "platform": "PS4",
-  "trophySetVersion": "01.04",
+  "trophySetVersion": "01.06",
   "hasTrophyGroups": true,
-  "totalItemCount": 51,
+  "totalItemCount": 69,
   "trophies": [
     {
       "trophyId": 0,
@@ -464,6 +464,168 @@
       "trophyDetail": "Complete the Museum",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/16DFBFFE1C7B167055BC9DC711BA5D5383913EF5.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Proud Protector",
+      "trophyDetail": "Complete Asteroid Defence Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/5F8CA44A8EEF478CD1C7CE136AA624BDF2895D49.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space Mine Specialist",
+      "trophyDetail": "Complete Asteroid Mining Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/9CABDD80A24CF93131704F459FF0F4BBD9EBF5A2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Throwing Space Shapes",
+      "trophyDetail": "Complete Space Disco Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/460D243E0BC066541D025191CBF9A241DA3CAE53.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Delivery Too Far",
+      "trophyDetail": "Complete Space Courier Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/FD52F9F67287BB19E584E49D2BD943BE81ED93C1.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wonderous Waiter",
+      "trophyDetail": "Complete Space Diner Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/02BF49B68A305606BA55F992D4EF1D9274B90B50.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrench Wizard",
+      "trophyDetail": "Complete Spaceship Mechanic Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/777E4374A532FF591F40101818022D782FF6D7CA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rapid Rockets",
+      "trophyDetail": "Complete a Spaceship Race",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/E1A1987248CF5F9CA0C0AADB6C935EFAA66D998C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spaceship Saviour",
+      "trophyDetail": "Complete Spaceship Rescue Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/DB8F92572F7D60BE5BC8C6AF4F93A07B58A45D31.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Luggage Lifter",
+      "trophyDetail": "Complete Suitcase Delivery Job",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/303DE37E35A100076FF3FCE39AFF4F5BC800E428.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Frontier",
+      "trophyDetail": "Go To Space",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/DF3DD2F8C5DC7B0EA6444E5DCF8EABCB804E8D71.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmic Collector",
+      "trophyDetail": "Complete The Collector's Emporium",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/3B59B0CBAE9F4221F31E54C45A48426D76E211B7.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creative Cadet",
+      "trophyDetail": "Complete the Space Cadet Mission Series",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/0EF0BE1DAF007DAFE0B8BB6885C2403199184EA2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Student",
+      "trophyDetail": "Complete the Space Garden Classes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/15805F18B8659D667508B698EF106E226914E6FC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uncovering The Clues",
+      "trophyDetail": "Complete the Space Detective Missions",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/5025C38F5BEAD18992DCD36C7F9151B8420C4A6A.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Gift Finder",
+      "trophyDetail": "Collect all the presents in Space",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/E5B14C4FADD0F23C91B6D5B25D3AC314B61A8E87.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Well That Was Weird",
+      "trophyDetail": "Defeated the Space Crystal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/D074BA61A33E5AC5D54A9BD67A50DE8464115092.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hey Gran, I'm Space Rich!",
+      "trophyDetail": "Have 5000 Space Credits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/41AF639A0B5ABBA71D9DBC366A7C158B4300DA79.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stealthy Sneaker",
+      "trophyDetail": "Disable the Robot Factory Alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR31743_00_00D35838BDFF39188FE176DB5A685723AD028226EA/1ACDF6B9C3358DE0F8B4836437578477BF0B45C9.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

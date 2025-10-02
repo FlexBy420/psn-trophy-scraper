@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR09206_00",
   "title": "Gems of War",
   "platform": "PS4",
-  "trophySetVersion": "01.43",
+  "trophySetVersion": "01.44",
   "hasTrophyGroups": true,
   "totalItemCount": 120,
   "trophies": [
@@ -290,7 +290,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "The Other Side of Dawn",
-      "trophyDetail": "Complete all of your Guild Wars battles in a single week",
+      "trophyDetail": "Complete all of your Guild Wars battles in a single event",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/1F287B21BD20D4B2896C4611FA6ED01251886FBF.PNG",
       "trophyGroupId": "006"
     },
@@ -308,7 +308,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Olympus Has Fallen",
-      "trophyDetail": "Defeat a paragon opponent in Guild Wars",
+      "trophyDetail": "Defeat an opponent in the Palace in a Guild Wars Keep",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/1D36D98007098093F1F742A10E948D6D5F4DACCA.PNG",
       "trophyGroupId": "006"
     },
@@ -335,7 +335,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Defender",
-      "trophyDetail": "Win a PvP Defence battle",
+      "trophyDetail": "Win a PvP Defence Battle in Central Spire",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/03D5CDC55694E30E2316DFFD342A6E0FC0567F35.PNG",
       "trophyGroupId": "007"
     },
@@ -704,7 +704,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "You Just Have To Task",
-      "trophyDetail": "Complete your first task in any Campaign",
+      "trophyDetail": "Earn 2 Stars in a single Campaign",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/831CD56AEE7EA1D3CD02DC21CBFB3FDD0B1FDED6.PNG",
       "trophyGroupId": "023"
     },
@@ -722,7 +722,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Quarter Pounder",
-      "trophyDetail": "Complete 25 Tasks in any Campaign",
+      "trophyDetail": "Earn 250 Stars in a single Campaign",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/AB6E25A66B98510058B715633F6FF3397E04D9F8.PNG",
       "trophyGroupId": "023"
     },
@@ -731,7 +731,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Hard Taskmaster",
-      "trophyDetail": "Complete 100 Campaign Tasks in a single Campaign",
+      "trophyDetail": "Earn 1000 Stars in a single Campaign",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/268BE53CC42588AED9A582E4E2122FFCD638D30B.PNG",
       "trophyGroupId": "023"
     },
@@ -848,7 +848,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Bronzed and Beautiful",
-      "trophyDetail": "Complete a Bronze Task in any Campaign",
+      "trophyDetail": "Earn 10 Stars in a single Campaign",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/C430CDCE9AC4E807774E0276FF3F54EBE2913DFE.PNG",
       "trophyGroupId": "026"
     },
@@ -965,7 +965,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Kingdom Crusher",
-      "trophyDetail": "Complete a Kingdom Story 5 times in a single Legends Reborn event",
+      "trophyDetail": "Reach Tier 5 in a single Legends Reborn event",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/2866CB8C75ABECF6FA1B398A72EAC951E10C96EC.PNG",
       "trophyGroupId": "029"
     },
@@ -1064,7 +1064,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "The Midas Touch",
-      "trophyDetail": "Complete all milestones in a Gold Campaign Task",
+      "trophyDetail": "Earn 50 Stars in a single Campaign",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/ACCF24386E929B6F5EA37B1A4ED04B249A4F101F.PNG",
       "trophyGroupId": "031"
     },

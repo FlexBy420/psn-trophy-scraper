@@ -2,88 +2,88 @@
   "npCommunicationId": "NPWR11905_00",
   "title": "Manual Samuel",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 28,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 36,
   "trophies": [
     {
       "trophyId": 0,
       "trophyHidden": false,
       "trophyType": "platinum",
       "trophyName": "HOLY FECES!",
-      "trophyDetail": "Unlock all the Trophies in Manual Samuel",
+      "trophyDetail": "Unlock all the trophies in Manual Samuel.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/EA528009CD8902CA4C961CA80C714B4A9CB7A830.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 1,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
       "trophyName": "Feces Happen",
-      "trophyDetail": "Completed Level 1",
+      "trophyDetail": "Complete Level 1.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/5C78F61C5868F5D5938F875A688C1ED9761A408A.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 2,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
-      "trophyName": "To Hell With Hell",
-      "trophyDetail": "Completed Level 2",
+      "trophyName": "To hell with Hell",
+      "trophyDetail": "Complete Level 2.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/005E6DFBE703BE4C59295FCC59D8864B7FDBA45A.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 3,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
       "trophyName": "Bad Everything Day",
-      "trophyDetail": "Completed Level 3",
+      "trophyDetail": "Complete Level 3.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/AC30DF18D6BAC31861419680C0C6A3FEC280C1EE.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 4,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
-      "trophyName": "Carpoolin'",
-      "trophyDetail": "Completed Level 4",
+      "trophyName": "CarPoolin'",
+      "trophyDetail": "Complete Level 4.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/E94D5DEE73ADE42E098AC400E1FA3ED1BFE86A5C.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 5,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
-      "trophyName": "Ok Papa",
-      "trophyDetail": "Completed Level 5",
+      "trophyName": "OK Papa",
+      "trophyDetail": "Complete Level 5.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/90E964BD758C66F0C3DE67992FE8C0B5A2CC36C4.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 6,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
-      "trophyName": "All In A Day's Work",
-      "trophyDetail": "Completed Level 6",
+      "trophyName": "All in a day's work",
+      "trophyDetail": "Complete Level 6.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/7F79F3A92231CF590F193CEA6B8154604AE3CB8A.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 7,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "silver",
       "trophyName": "No Child Left Behind",
-      "trophyDetail": "Completed Level 7",
+      "trophyDetail": "Complete Level 7.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/4BE11EA7637E96440BC758DCFAA1DC7DC5B05365.PNG",
       "trophyGroupId": "default"
     },
     {
       "trophyId": 8,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "gold",
       "trophyName": "No Refunds!",
-      "trophyDetail": "Completed Level 8",
+      "trophyDetail": "Complete Level 8.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/3A1F035F4027FCE0CD408B118C4F618C610FAC5D.PNG",
       "trophyGroupId": "default"
     },
@@ -92,7 +92,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Treat Yourself Twice A Day",
-      "trophyDetail": "Drank two cups of coffee",
+      "trophyDetail": "Drink two cups of coffee.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/7CA1E5AC572074BA762E981430B8EA5183036F67.PNG",
       "trophyGroupId": "default"
     },
@@ -101,7 +101,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Take My Breath Away",
-      "trophyDetail": "Completed Sams house only breathing in 15 times",
+      "trophyDetail": "Completed Sams house only breathing in 15 times.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/7F41146C46E58387BEBDF73CF31AD41606A00DA8.PNG",
       "trophyGroupId": "default"
     },
@@ -110,7 +110,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Slow Down Dude!",
-      "trophyDetail": "Drove 150 km per hour",
+      "trophyDetail": "Drove 150 km per hour.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/FE1BD7A2F2E32828A681869A51696BCF291A2290.PNG",
       "trophyGroupId": "default"
     },
@@ -119,7 +119,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Wordsmith",
-      "trophyDetail": "Spoke perfectly",
+      "trophyDetail": "Spoke perfectly.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/556A5DE53368944ED69A19B0DE74F2002797DBD6.PNG",
       "trophyGroupId": "default"
     },
@@ -128,7 +128,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Robocorpse",
-      "trophyDetail": "Killed every robot",
+      "trophyDetail": "Kill every robot.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/02759ED24F5A2517CC4407EF73D8CCCA784B015B.PNG",
       "trophyGroupId": "default"
     },
@@ -137,7 +137,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Good Job, Sam!",
-      "trophyDetail": "Completed Story Mode Single Player",
+      "trophyDetail": "Complete Story Mode Single Player.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/9728C1E36E906570F1007EAC0947CEFC11A925D0.PNG",
       "trophyGroupId": "default"
     },
@@ -146,7 +146,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Good Job, Sams!",
-      "trophyDetail": "Completed Story Mode Co-Op",
+      "trophyDetail": "Complete Story Mode Co-Op.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/7CA5A9AAAF6A8BA249A097690F12DE67936896CA.PNG",
       "trophyGroupId": "default"
     },
@@ -155,7 +155,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Bronze Before Brains",
-      "trophyDetail": "Got bronze or higher on every time trial",
+      "trophyDetail": "Get bronze or higher on every time trial.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/119BBFCB88B6FFAC2E581E1D220186FD08299E8B.PNG",
       "trophyGroupId": "default"
     },
@@ -164,7 +164,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Silver Spoon In His Mouth",
-      "trophyDetail": "Got silver or higher on every time trial",
+      "trophyDetail": "Get silver or higher on every time trial.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/194DAAEC95E7EB65A81255FB6C31556BB36AC9DC.PNG",
       "trophyGroupId": "default"
     },
@@ -173,7 +173,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Golden Furniture",
-      "trophyDetail": "Got gold on every time trial ",
+      "trophyDetail": "Get gold on every time trial.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/EFD2D2F6210852AA199CCA5C5116BA27E2132FB2.PNG",
       "trophyGroupId": "default"
     },
@@ -182,7 +182,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Skip Right To The Action",
-      "trophyDetail": "Skipped a cinematic",
+      "trophyDetail": "Skipped a cinematic.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/B7C9635DAA643DF2887F6963A40BF42093AA5F27.PNG",
       "trophyGroupId": "default"
     },
@@ -191,7 +191,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Hippie Boy",
-      "trophyDetail": "Went to work without shoes",
+      "trophyDetail": "Went to work without shoes.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/04FD1ACC15E6530AC949F8F6943B81A2C11D63C7.PNG",
       "trophyGroupId": "default"
     },
@@ -200,7 +200,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Made Tony Open A Cafe...",
-      "trophyDetail": "Tipped Tony",
+      "trophyDetail": "Tip Tony.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/3109F1F33DB6EDE2C87C340218C031DC4C69FCB5.PNG",
       "trophyGroupId": "default"
     },
@@ -209,7 +209,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "...Then Blew It Up",
-      "trophyDetail": "Blew up Tony",
+      "trophyDetail": "Blow up Tony.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/E3260E08A4E0E7B86E2422E49A2AA3A2653F0C7C.PNG",
       "trophyGroupId": "default"
     },
@@ -218,7 +218,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Stairway To The Living Room",
-      "trophyDetail": "Didn't fall down the stairs",
+      "trophyDetail": "Didn't fall down the stairs.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/9179ECE9F27AA71AD2CF94474BB867912B7AE45E.PNG",
       "trophyGroupId": "default"
     },
@@ -227,7 +227,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Piss Perfect",
-      "trophyDetail": "Made no stains on yourself",
+      "trophyDetail": "Made no stains on yourself.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/BBD2A68101847EEAC34FED9E4E448FADDF79D7AD.PNG",
       "trophyGroupId": "default"
     },
@@ -236,7 +236,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Blink 2000 Times For Yes",
-      "trophyDetail": "Blinked 2000 times",
+      "trophyDetail": "Blink 2000 times.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/095EEA37757CCFBFE0CE36998B56858481361C47.PNG",
       "trophyGroupId": "default"
     },
@@ -245,7 +245,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Character-Driven Story",
-      "trophyDetail": "Watched all cinematics without skipping",
+      "trophyDetail": "Didn't skip any cinematics.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/47EB376B19422EDBC388B31941AA733C4856424E.PNG",
       "trophyGroupId": "default"
     },
@@ -254,9 +254,81 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "#Hashtag",
-      "trophyDetail": "Found every hashtag",
+      "trophyDetail": "Found every hashtag.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/29925728527374D2127B11EF6E89D88E930314DA.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Iron Lung",
+      "trophyDetail": "Beat Challenge- or Speedrun Mode by breathing in a maximum of 35 times, and never fainting.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/8B2A19EAD243ACCF50BCF2CC1CE8EE3B392DBFF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golden Hair",
+      "trophyDetail": "Beat Challenge- or Speedrun Mode with perfect hair.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/00867572F7BD1BEC0D2BD66AC52F9525AF2C80DF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For The Scene",
+      "trophyDetail": "Dye your hair bean brown.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/8B8F59979E140994D97ADEECE3A614A3193717B2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timeless Hair",
+      "trophyDetail": "Dye your hair Liphidium Green.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/8CD0509BF275A15FFF15B07D33DAEB86E1E1BA52.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Notice Me!",
+      "trophyDetail": "Dye your hair cosmic brown.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/28AC0445C6B98CEF8ECC05BC31D3D8361781EDCB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party in front, business in the back",
+      "trophyDetail": "Simultanously rock perfect hair and a bloody face.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/FF2DAF25F2D110986BF046456503F134BCEB6150.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Run Sam, Run!",
+      "trophyDetail": "Beat Speedrun Mode in one hour or less.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/B45521D2719640A6F4F520FDFEDC7A17EA0749AF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Amazing Posture",
+      "trophyDetail": "Beat Challenge- or Speedrun mode without going limp or doing the splits (except you know when).",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/7600BAAFE52EE2A906B79D5A8361BB463A3B4AAD.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

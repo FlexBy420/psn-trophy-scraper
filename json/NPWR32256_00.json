@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR32256_00",
   "title": "PinballFX",
   "platform": "PS4",
-  "trophySetVersion": "01.07",
+  "trophySetVersion": "01.09",
   "hasTrophyGroups": true,
-  "totalItemCount": 36,
+  "totalItemCount": 41,
   "trophies": [
     {
       "trophyId": 0,
@@ -328,6 +328,51 @@
       "trophyName": "Earthshaker!",
       "trophyDetail": "Complete the zones and start the multiball on the Earthshaker!™ table!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/B1015466A62B8C699B9B1BBAAEC97AD0653F57B5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survivor, Legend, Icon",
+      "trophyDetail": "Complete Survivor mode on Tomb Raider Pinball: Adventures of Lara Croft.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2389A17A70124064E3D7F9506BD9EE4F30BE813E.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hidden Precision",
+      "trophyDetail": "Score a secret skill shot on Tomb Raider Pinball: Secrets of Croft Manor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/8F57946F50414E18E68A0D21F1DDF9CDC56202EA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tip-Top Driver",
+      "trophyDetail": "Complete CAB and raise the Jackpot at least 3 times on the Taxi™ table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/6833250E62B7D4391CFE2DD5917ECB87011F1B69.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mastermind",
+      "trophyDetail": "Solve every case in a single game on the WHO dunnit™ table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/CC2F332133CC082D2A0B092F36D68BF2830156A5.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now I see you!",
+      "trophyDetail": "Lock balls and start Multiball 3 times on the PIN·BOT™ table in a single game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/1B8A6466D802BBD079C585AC3AA7A21F868E59C0.PNG",
       "trophyGroupId": "004"
     }
   ]

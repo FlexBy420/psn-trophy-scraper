@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR50061_00",
   "title": "Hot Rod Mayhem",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 16,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 19,
   "trophies": [
     {
       "trophyId": 0,
@@ -149,6 +149,33 @@
       "trophyDetail": "Win all championships on Hard mode. Only the fearless survive!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50061_00_00973D12A9D002E465D97535C860ABF876FD2515DE/905FEC8E1F9B2A754CD3A85C8A8875F6BCED530A.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Crazy Conqueror!",
+      "trophyDetail": "Win all championships in Crazy mode. A true legend on wheels!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50061_00_00973D12A9D002E465D97535C860ABF876FD2515DE/2EAE51AE78BBC15D392FC93FEB039415E45BA181.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gold Rush",
+      "trophyDetail": "Win every Crazy championship and unlock all gold cars.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50061_00_00973D12A9D002E465D97535C860ABF876FD2515DE/F871EAE54CC1BF01CCCE6E239CC5CB78F03A2903.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trial Blazer!",
+      "trophyDetail": "Complete all Trials on Hard or Crazy difficulty. You eat asphalt for breakfast!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50061_00_00973D12A9D002E465D97535C860ABF876FD2515DE/6586221EA29F5815F2623D8193AC456245ABFF00.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

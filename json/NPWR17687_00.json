@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR17687_00",
   "title": "The Demon Rush: Legends Corrupt",
   "platform": "PSVITA,PS4",
-  "trophySetVersion": "01.03",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": true,
-  "totalItemCount": 46,
+  "totalItemCount": 48,
   "trophies": [
     {
       "trophyId": 0,
@@ -419,6 +419,24 @@
       "trophyDetail": "Clear 20 Side Stories in Side Stories Mode",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/97FD7032B28743B2A6D6D9434547BBC6D111C067.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beastmaster",
+      "trophyDetail": "Obtain all Warbeasts triumphs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/04C542007696534061FB243D11F823D47C970E65.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasons of War",
+      "trophyDetail": "Clear the Warbeasts main story arc in Story Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/00DEDC3B27D2E5018FD23C286F804A67C424B1C1.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

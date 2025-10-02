@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR12370_00",
   "title": "Human Fall Flat",
   "platform": "PS4",
-  "trophySetVersion": "01.28",
+  "trophySetVersion": "01.31",
   "hasTrophyGroups": true,
-  "totalItemCount": 106,
+  "totalItemCount": 112,
   "trophies": [
     {
       "trophyId": 0,
@@ -959,6 +959,60 @@
       "trophyDetail": "Find the three hidden eye symbols in “Museum”",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/F6FAA469AE900F8CCB4C54D4814B6A71CF722BB3.PNG",
       "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Leisurely Stroll",
+      "trophyDetail": "Complete \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/5B9E1CC8B7462D34796573335FCF27D98563C3AD.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Human Thawed Flat",
+      "trophyDetail": "Free the cardboard cutout in \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/E49D02A5C2DD3E910985EDDB11C0627E67DDB163.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prepared for Winter",
+      "trophyDetail": "Roll the barrel inside the cellar in \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/76AD2EF5A8A065413E2B372F6C71D72F371F92CC.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 109,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Dreams",
+      "trophyDetail": "Complete \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/AD7C5883157647FAC68639126C3264528D5B0D4C.PNG",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 110,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay Puft",
+      "trophyDetail": "Get a marshmallow from the tree in \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/1EBBE9802EFC115E4D35605DDF79B866856F7DD8.PNG",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 111,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Route Canal",
+      "trophyDetail": "Avoid hitting any donuts in chocolate river in \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/F2FF167122093993F2B42CB5DCF01B9D7F38BEAC.PNG",
+      "trophyGroupId": "020"
     }
   ]
 }

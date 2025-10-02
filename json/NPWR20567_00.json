@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20567_00",
   "title": "Minecraft: PlayStation®4 Edition Set 2",
   "platform": "PS4",
-  "trophySetVersion": "01.33",
+  "trophySetVersion": "01.34",
   "hasTrophyGroups": true,
-  "totalItemCount": 19,
+  "totalItemCount": 20,
   "trophies": [
     {
       "trophyId": 0,
@@ -176,6 +176,15 @@
       "trophyDetail": "Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/3F234F511AFB33E0B6B88133AC72664CADE36BC3.PNG",
       "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay Hydrated!",
+      "trophyDetail": "Place a Dried Ghast block into water",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/D44612740AD299EBBDFC564CFA232B77B2D81034.PNG",
+      "trophyGroupId": "007"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR42122_00",
   "title": "WINGSPAN",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
+  "trophySetVersion": "01.02",
   "hasTrophyGroups": true,
-  "totalItemCount": 54,
+  "totalItemCount": 65,
   "trophies": [
     {
       "trophyId": 0,
@@ -155,7 +155,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Wild goose chase",
-      "trophyDetail": "Score at least 16 points from the Omnivore bonus card.",
+      "trophyDetail": "Score at least 16 points from the Omnivore Expert bonus card.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/CB9D6038E52D18012B5FF740F21B4F0A4E88AD09.PNG",
       "trophyGroupId": "default"
     },
@@ -209,7 +209,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Fly Like an Eagle",
-      "trophyDetail": "Play 5 raptors in a game.",
+      "trophyDetail": "Play 5 predators in a game.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/AC8C2CD25BD61BCA50B30574B992E6570A46A7E5.PNG",
       "trophyGroupId": "default"
     },
@@ -491,6 +491,105 @@
       "trophyDetail": "Play at least once all the new birds of the Wingspan: Oceania Expansion.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/6D78D90F9B21B1DB22F57C8307B3E9B992D9FC51.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tailored Fit",
+      "trophyDetail": "Lay 15 eggs at once with the Common Tailorbird.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/C59A11B446948346E912A6D4D8E07E743B13F311.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Devoted to Duet",
+      "trophyDetail": "Place more than 15 Tokens on the Duet Map in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/013088C20E6791423667C8FAE3C116A86FD549F3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jackpot Cache",
+      "trophyDetail": "Use a push-your-luck bird to cache 15+ food on it.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/DBBA915E0912B22D05F716B09461DB77BC9347FB.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Like Your Birds, But Better",
+      "trophyDetail": "Score an opponent’s bonus card to earn more points from it than them.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/10AFCC5D92F7349201E49A8E436EDC2EFA8DC6B4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Owl Hands On Deck",
+      "trophyDetail": "Activate 5 predator powers at the end of a single round using the Oriental Bay-Owl.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/E7A54BCF50C3EFCBF59DEF002924BC18491F296C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We're SO Back",
+      "trophyDetail": "Win a game while scoring 21 points or more on the \"Endangered Species Protector\" bonus card.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/1D2CDF91DF4D91C18D0233A9466F1CC4942ED4C5.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Swan Song, Solo",
+      "trophyDetail": "In Duet Mode, place no tokens on bonus spaces and win the game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/16A68FDD1C053EAAA92AD643813DB3E499CAA028.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Egg-Finity and Beyond!",
+      "trophyDetail": "End the game with at least 3 of your birds having gone over their egg nest limit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/D7FE46F54A7DBD7BD5D4C65BA12999209990E4A8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flying International",
+      "trophyDetail": "Send 3 birds to an opponent's preserve.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/59B712C18110CA4319CF76C349609D69FA4D0C2F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Agent",
+      "trophyDetail": "Copy another player's bird power to move a bird to another player's preserve.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/1C8DBEC815B7B0512929E665E3FB352B82EE1DBD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Real Know-it-owl: Asia",
+      "trophyDetail": "Play at least once all the new birds of the Wingspan: Asia Expansion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42122_00_0077FD83C60B9A96A92A4816786B6FDC056E5F6776/ACC0BC6BDD21DC3D191BF3F9B408B2B33BD30ADC.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }
