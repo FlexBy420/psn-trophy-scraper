@@ -1,0 +1,595 @@
+{
+  "npCommunicationId": "NPWR51485_00",
+  "title": "Super Mining Mechs",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 65,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Mining Master",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/28800e60-8ebf-44b6-b6a5-fdb57895bce2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tutorial Complete!",
+      "trophyDetail": "Complete the tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a8f5698b-dc28-4736-ab3c-fc70f54fb11a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tier 1 Completed!",
+      "trophyDetail": "Complete all Tier 1 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/837181f0-e72e-4fcb-ae1d-1e9dfd803640.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tier 2 Completed!",
+      "trophyDetail": "Complete all Tier 2 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/7422b6e8-1b23-494b-9f66-94fe6b3c94e1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tier 3 Completed!",
+      "trophyDetail": "Complete all Tier 3 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/19a6dcac-ea6e-4271-b0e5-7400770486e6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tier 4 Completed!",
+      "trophyDetail": "Complete all Tier 4 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/e8ff16c0-31fb-4531-9f71-a63be9c75bd7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Mission Completed!",
+      "trophyDetail": "Complete the first mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a8f5698b-dc28-4736-ab3c-fc70f54fb11a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Missions Completed!",
+      "trophyDetail": "Complete 10 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a8f5698b-dc28-4736-ab3c-fc70f54fb11a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Missions Completed!",
+      "trophyDetail": "Complete 20 missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a8f5698b-dc28-4736-ab3c-fc70f54fb11a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Islandora!",
+      "trophyDetail": "Visit Islandora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/75bd4362-c13c-451f-9f21-56bf20d64a19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Frostera!",
+      "trophyDetail": "Visit Frostera",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/c2838e35-20ab-4696-9dd6-5a021b2e9b93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Vulcanar!",
+      "trophyDetail": "Visit Vulcanar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4aced1ee-81af-4653-ab5e-89f489081274.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take That, Storm!",
+      "trophyDetail": "Build a heater",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/c0b04cc7-cd5a-41f0-a1ca-bf46036a7707.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Take That, Magma!",
+      "trophyDetail": "Build a pump",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/def83fa7-8560-4d98-a7ea-4bec1491e4cb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Step Into The Light!",
+      "trophyDetail": "Build a portal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a7187301-a90e-4b70-b538-4b88dcb175bb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back on the Radar!",
+      "trophyDetail": "Build a radar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/0cc6d7de-16e4-4126-80db-c5581906f8c4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Time!",
+      "trophyDetail": "Use confetti",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/d9c9fbc7-4467-45d9-90e3-f6d90cb485e3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ballin'!",
+      "trophyDetail": "Save 10k",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/770191be-ec03-42f9-9f5d-1bf503b35ad3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Hundred Thousand!",
+      "trophyDetail": "Save 100k",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/cdc69c6f-f676-4092-bc84-538b13f9b2a6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Payday!",
+      "trophyDetail": "Sell 10k worth of resources at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/049e7f8c-2496-41e1-b55c-6bbd3b4a493c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pile it up!",
+      "trophyDetail": "Pile up 1.000 dirt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/21b0c345-6a3e-4be6-9e95-76b30c34927d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Professional Miner I",
+      "trophyDetail": "Mine 1.000 tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/28aef051-b57b-4da9-8290-41ba9303caaf.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Professional Miner II",
+      "trophyDetail": "Mine 2.500 tiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/082fc18d-fb2b-4ba1-b123-c62328a50c36.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Professional Hoarder I",
+      "trophyDetail": "Gather 100 resources",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/1342de24-66a3-4b39-bf60-8e9d564ba322.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Professional Hoarder II",
+      "trophyDetail": "Gather 1.000 resources",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/1342de24-66a3-4b39-bf60-8e9d564ba322.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Elements Discovered!",
+      "trophyDetail": "Discover 10 different elements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4764b8b0-cae6-4ca9-876d-1c36a0f03116.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Elements Discovered!",
+      "trophyDetail": "Discover 20 different elements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4764b8b0-cae6-4ca9-876d-1c36a0f03116.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Collect treasure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/ab7ff2ed-8eb7-4556-a09c-43085d37fd72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ohh look, it's shiny!",
+      "trophyDetail": "Find some jewelry",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/9fb70e5d-059e-4c70-84ee-a2a758184ce2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Environmentally Concious",
+      "trophyDetail": "Clean up some trash",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a970c362-9057-4f77-b168-e020d12e35e2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colony Discovered!",
+      "trophyDetail": "Discover a colony",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/8884f9e2-9256-419c-ac2b-c3755f051aab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Colony Rebuilt!",
+      "trophyDetail": "Rebuild a colony",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/8884f9e2-9256-419c-ac2b-c3755f051aab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meet Molly!",
+      "trophyDetail": "Meet Molly the mole",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/9c828fa7-c1d3-409d-8c75-8269f4aaa6b1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "500m Depth Reached!",
+      "trophyDetail": "Descend 500m",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/9570b099-5216-4252-9b8c-30fe83215987.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1.000m Depth Reached!",
+      "trophyDetail": "Descend 1.000m",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/1cd242e3-10a9-444b-b318-e6bdf58581c5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fair Split!",
+      "trophyDetail": "Define a fair split",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/9c828fa7-c1d3-409d-8c75-8269f4aaa6b1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot hot hot!",
+      "trophyDetail": "Overheat your mech",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/89ad3d5b-d500-493b-8f9f-b8e2dd640cff.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brrrr, that's cold!",
+      "trophyDetail": "Freeze your mech",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/b9cef263-6a3f-4b4b-b1bc-4932a3060359.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mine Factory",
+      "trophyDetail": "Build 10 mines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/8884f9e2-9256-419c-ac2b-c3755f051aab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My First Passive",
+      "trophyDetail": "Get your first passive",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f5c4d8e5-1360-45d6-9d6d-350e0a1dfdb6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Passive Levels",
+      "trophyDetail": "Level up passives 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f5c4d8e5-1360-45d6-9d6d-350e0a1dfdb6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Max Passives",
+      "trophyDetail": "Max out one passive skill",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f5c4d8e5-1360-45d6-9d6d-350e0a1dfdb6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlock All Passives",
+      "trophyDetail": "Level up all passives at least once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f5c4d8e5-1360-45d6-9d6d-350e0a1dfdb6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combo!",
+      "trophyDetail": "Get a combo of 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/9570b099-5216-4252-9b8c-30fe83215987.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wombo-combo!",
+      "trophyDetail": "Get a combo of 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/1cd242e3-10a9-444b-b318-e6bdf58581c5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C-c-c-combooooo Breaker!",
+      "trophyDetail": "Get a combo of 100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/5f8a98ba-389a-43ff-bfc9-0ef9b5d8fc61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sky is the Limit!",
+      "trophyDetail": "Fly up as far as you can",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/bce5f846-422b-4a76-8553-4131d56857e3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anything can be a hat.",
+      "trophyDetail": "Wear a hat!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/d75a5470-c7a1-4504-812b-bede42a35374.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Hydrogen\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"hydrogen\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4fa3e622-26f0-4006-9bc8-f9d81107676d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Alkali Metals\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"alkali metals\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/e51aafcc-c0a8-4758-8c2c-7e4a2ee0c00e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Alkaline Earth Metals\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"alkaline earth metals\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/a18cdc5c-a09e-4b6b-9c82-480c1f1750fb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Transition Metals\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"transition metals\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/75bd4362-c13c-451f-9f21-56bf20d64a19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Other Metals\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"other metals\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/808f5cf7-c387-40dd-92fd-4e15ea1a5bfa.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Metalloids\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"metalloids\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/46690ff6-7724-444f-b97b-c0612cae7b10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Non-Metals\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"non-metals\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/40924e3e-bd10-4646-9962-79e45a5ca200.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Halogens\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"halogens\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4a0e41e8-63db-4145-9242-ceed9f22009f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Noble Gases\" Category Discovered!",
+      "trophyDetail": "Collect an element from the \"noble gases\" category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f0109251-8bab-4630-9cf4-6583dc2067f6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Element Found! (Rarity 2)",
+      "trophyDetail": "Collect a resource with rarity 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/f5fb4eed-cfe1-4f90-9ae3-da492605a64f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Element Found! (Rarity 3)",
+      "trophyDetail": "Collect a resource with rarity 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/93d262f2-c852-4d5c-9878-86ab3b51ed37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Element Found! (Rarity 4)",
+      "trophyDetail": "Collect a resource with rarity 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/25e9df59-f2b5-4084-9898-4b8256628f23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rare Element Found! (Rarity 5)",
+      "trophyDetail": "Collect a resource with rarity 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/b7dfc68c-a1e0-4695-8c91-d11b6d9b874f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Category Completed!",
+      "trophyDetail": "Collect all resources of a category",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/4764b8b0-cae6-4ca9-876d-1c36a0f03116.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laughing all the way to the bank!",
+      "trophyDetail": "Store 10 resources in the bank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/597ee483-02de-4d99-8bb9-72109ace8d50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect treasure",
+      "trophyDetail": "Hit all the boxes of a treasure chest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/ab7ff2ed-8eb7-4556-a09c-43085d37fd72.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Prestigious",
+      "trophyDetail": "Get your first prestige level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51485_00/529a2b83-c053-4f30-b081-ea8c922acbd4.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

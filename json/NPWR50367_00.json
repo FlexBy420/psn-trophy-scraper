@@ -1,0 +1,550 @@
+{
+  "npCommunicationId": "NPWR50367_00",
+  "title": "Fatal Zone",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 60,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/532820EAC23340DC3E8EF4712ACE01A1CEDDC873.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Angel of Death",
+      "trophyDetail": "Defeat 300,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/23252AAC8DB0DD89C88DDB92989D50B26218CAD4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Apocalyptic Tank",
+      "trophyDetail": "Take 2,000 damage in total with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/418A88B2A09EB5C2F1313750453A9E9A4BE03D22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pain Don't Hurt",
+      "trophyDetail": "Take 5,000 damage in total with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/22CD511A729E18EA34B65D916D6BEA292801A3C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In the Name of Science",
+      "trophyDetail": "Reach lvl. 60 in a raid with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/3832D05FB34BE59AF89154C0C2B1D34A48297EFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scorched Earth",
+      "trophyDetail": "Defeat 100,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/6591809402DA9254ACC63E1F98866C378DFEA5E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I am Legend",
+      "trophyDetail": "Reach lvl. 40 in a raid with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/E1F3140B03A9089DDB77F3C27A26A909DCC4AF95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twelve Minutes Later",
+      "trophyDetail": "Hold out for twelve minutes in a raid while playing as a Survivor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/BD2563DF476C6AA548D911FEFBB970E1957ECA61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fatal Attraction",
+      "trophyDetail": "Use the Super Magnet item once",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/529FBBF3D0AEA87EB6988CCA020E0712A956EA2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortal",
+      "trophyDetail": "Hold out for 29 minutes in a raid while playing as a Survivor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/FE4A9DCE5A7DB3FA48D89985A7FD37B4BECF3727.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crate Crusher",
+      "trophyDetail": "Destroy 77 crates",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/F274AD25F8D4AA2D3C1B7DE604988E2FE6D32B95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just a Flesh Wound",
+      "trophyDetail": "Take 1 damage with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/7BDCE9741997FFD6D34419CCD6579DF3D4793BBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behind Enemy Lines",
+      "trophyDetail": "Complete a level at the Park location",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/6594E0AD74F8152BFB855E20ED09038E40BDC269.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explosive Temper",
+      "trophyDetail": "Take 7,960 damage in total with the Pyro class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/8F4EE8A131138A186883DAB348F5D6D4B9B97AB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Will to Win",
+      "trophyDetail": "Hold out for two minutes in a raid while playing as a Veteran",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/8AAA22867D0DAE5A041C5EB8DEB0847EA5BA8C4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad Street Brawler",
+      "trophyDetail": "Defeat 160 enemies with the Brawler class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/50ADA533782A577742E357A26504CA52A14FA874.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wild Gunman",
+      "trophyDetail": "Defeat 750 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/45242ED4615A1087387BCA9060BB8C90141FC9A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Splitting Headache",
+      "trophyDetail": "Defeat 333 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/80AD3DD4A9BB8A5286F3A4ED8DFDD6C91DD94B42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crate Smasher",
+      "trophyDetail": "Destroy 20 crates",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/BCEF75C231B18B73C12B494E94210AE2D06ADAA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Got This",
+      "trophyDetail": "Defeat 1,000 enemies with the Tank class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/EA79125ACD9B52ECB03443561FB1C2345F5B1E50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crushed by Gravity",
+      "trophyDetail": "Take 6,674 damage in total with the Survivor class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/BFD2ADFA19EA4F1037B3FC886B2E185A0157E103.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "More, more, MORE!",
+      "trophyDetail": "Defeat 1,000 enemies with the Scavenger class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/AA54DC5A12FD2419517696F363FD4A6EE5B0865D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror",
+      "trophyDetail": "Complete a raid with the Biotech class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/DF1781C1C3586877C878D638DA15CC3A3F2E1EA5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Light 'Em Up!",
+      "trophyDetail": "Hold out for ten minutes in a raid while playing as a Pyro",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/B765027C8797978A0A6384F7E0E544AC33BC1B84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fiery Party",
+      "trophyDetail": "Kill 8746 zombies at the Park location with the Pyro class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/6D77447C00EDE69424E617EF461AC5D5FA5F8032.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hello, World!",
+      "trophyDetail": "Reach lvl. 10 in a raid with the Saboteur class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/AE257C0C35101C68A949F31212A1E582A8A8BFFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fear the Reaper",
+      "trophyDetail": "Defeat 1,700 enemies with the Biotech class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/B38A49154BA3655F0FEE3D1FCA4AB4949FE59A7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dezombifier",
+      "trophyDetail": "Defeat 1,000 enemies with the Pyro class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/6D40D17D748ADA77FE12E563E705148BCC71AC9C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exterminator",
+      "trophyDetail": "Defeat 10,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/0339C5B7B3528A72FA3EAA5E0C2E0C8FFC708723.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mad Skrilla",
+      "trophyDetail": "Collect 1,000 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/65C527D448811D8A85F753A29BA4A23F6CDFF127.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taking Out the Trash",
+      "trophyDetail": "Complete a raid with the Scavenger class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/E14F384225580589EE2F5211CA88DDA65A244E08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One-Minute Hero",
+      "trophyDetail": "Hold out for one minute in a raid with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/A365AA03B89477E8D12C5B9D48FD13AECA97A7CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Way of the Fist",
+      "trophyDetail": "Defeat 8,000 enemies with the Brawler class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/3C3A57773AA01F0E8827A49E22E33A70E4BF8A10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not An Easy Stroll",
+      "trophyDetail": "Hold out for 20 minutes at the Park location while playing as a Brawler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/29566DBC10E94DA17FC05B73BFDE30AC046E668A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Hunter",
+      "trophyDetail": "Defeat 33 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/EE01D18EDB45AFAC13EE825A0C44FF022F8399F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hammer of God",
+      "trophyDetail": "Use the Airstrike item 15 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/1226AD717880CCA1A46106CD091CF2CDC0EC3E9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Survival of the Fittest",
+      "trophyDetail": "Hold out for seven minutes in a raid while playing as a Survivor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/66767A495ED936192E3A6EAABAE99CD43AE10D39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unbreakable",
+      "trophyDetail": "Reach lvl. 20 in a raid with the Brawler class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/9D564A4DA691330455BB9E0EDE1A862A25D2C9C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supremacy",
+      "trophyDetail": "Reach lvl. 20 in a raid with the Biotech class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/8802D359E5BD7CFE98DDFE338B9EE108E24EBC8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Year, New Weapon",
+      "trophyDetail": "Hold out for 9 minutes in a Raid at the Abandoned Factory as a Hacker",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/99030226F01D65444253D1CF938F35930EBD8917.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunning Success",
+      "trophyDetail": "Reach lvl. 30 in a raid with the Tank class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/75C99B59193038C6A60ACA48BF88D1B2C656627D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experienced Hunter",
+      "trophyDetail": "Defeat 1,500 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/F211DB6BD55E2F393CF7581B8C5E29EC5476A868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Last Man Standing",
+      "trophyDetail": "Defeat 5,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/36A1A04927636574B46319387C4F78B2A685330D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baby Steps",
+      "trophyDetail": "Kill your first enemy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/4EBFC9B31CE13CD8C3BC95DEA1E05713E2AD9975.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Air Support",
+      "trophyDetail": "Use the Airstrike item five times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/1978004C91103A9A43361A25440BF3F0425167DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Straight Fire",
+      "trophyDetail": "Reach lvl. 30 in a raid with the Pyro class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/15FCF17107E95F3EF2448B30FB6461C0A42B4091.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "How'd I Do That?",
+      "trophyDetail": "Hold out for ten minutes in a raid while playing as a Scavenger",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/93D2452EE11A448C8E95EFA496A2BB50615C0440.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hail of Bullets",
+      "trophyDetail": "Reach lvl. 25 in a raid with the Veteran class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/5A49730DDB692B6A0737CE1FD82F81A34DB7EF0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lethal Sample",
+      "trophyDetail": "Gather 17,000 resources in total with the Biotech class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/5DB1BE048D5CB6ABEEF6A809FF0C749D9D92BBEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tank Commander",
+      "trophyDetail": "Hold out for ten minutes in a raid while playing as a Tank",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/5B2F84645C18ED1F3E5B8F865B91AE11685BE8FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steadfast",
+      "trophyDetail": "Hold out for 10 minutes in a raid while playing as a Biotech",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/AA459C678349681B83D9B8F5C85C96DD521F9862.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For a Rainy Day",
+      "trophyDetail": "Collect 8,000 coins in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/000B856482C821F780DE32B9560D7A3EF659DEF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tesla Almighty",
+      "trophyDetail": "Use the Large Shock Grenade item five times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/373B9562D02254D34244147D768CD23F5AF62D92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Titan of Industry",
+      "trophyDetail": "Gather 10,000 resources in total with the Tank class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/16A9B59189229CAAEA97B6C4AE8418C682675DEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Support",
+      "trophyDetail": "Defeat 4,444 enemies with the Hacker class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/ACF4C728F648FD166546BC31915050D5B416B0D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zombies Slayer",
+      "trophyDetail": "Defeat 17,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/FAE2D0524A6F00E9FB40802277876DF2EBCB1F0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Headstrong",
+      "trophyDetail": "Hold out for five minutes in a raid while playing as a Brawler",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/494515B84ECAA7B92B4C2FA36FE158E6A7702047.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In Shock",
+      "trophyDetail": "Reach lvl. 10 in a raid with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/389988739C6F574E859C7E1B25B6580A6E3615E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look What I Found",
+      "trophyDetail": "Gather 18,000 resources in total with any class",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/AE657C98767FC94C0D19E7657D5B5F3CE03915D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrath from Above",
+      "trophyDetail": "Defeat 40,000 enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50367_00_007C64ADBB5F0AB9067D94DD1BDEA79874494B5193/BF1235B50C3FEC051E2E47F21CC424FE13D1DD67.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

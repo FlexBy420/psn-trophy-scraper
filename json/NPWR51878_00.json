@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR51878_00",
+  "title": "Heroes of Mount Dragon",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 48,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Hero of Mount Dragon",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/6dd8a460-e1cd-47f3-98d3-f93c0201eafc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragon in Training",
+      "trophyDetail": "Complete Adventure Mode on Easy Difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/050dd425-2f5e-4a5f-ac64-95de695d8eac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Valiant Challenger",
+      "trophyDetail": "Complete Adventure Mode on Normal Difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/de04b7e1-30bd-4a02-8016-d402eef8c94e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hardcore Hero",
+      "trophyDetail": "Complete Adventure Mode on Hard Difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/cc02eec2-13a4-40ee-89ea-4be4768e204f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Vanquisher of the Destroyer",
+      "trophyDetail": "Defeat Bismarck",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/b7a16ca2-51ae-4659-9428-7c87b0982046.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Spider Squisher Extraordinaire",
+      "trophyDetail": "Defeat Amaryllis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/c2a6617a-be86-4b50-994c-e070e920b026.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Purifier of Darkness",
+      "trophyDetail": "Defeat Vilandra",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/bd5f5a13-ed39-4fc6-a5e2-a026aa6f1af5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Breaker of Madness",
+      "trophyDetail": "Defeat Morloch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d223dbd1-86f6-4793-aeb5-4ee01a3d22fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Bane of Malverick",
+      "trophyDetail": "Defeat Malverick",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d4286af1-e13a-4e86-8ca7-2fe02aa29dcb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breeze Master",
+      "trophyDetail": "Complete Windy Shores",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d37d10eb-cb3a-42e7-ab38-3bb3e7cff4ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harvestor of Glory",
+      "trophyDetail": "Complete Golden Fields",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/3ec3508b-2c05-4c59-a967-a158bc1da6fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mayor of Mayhem",
+      "trophyDetail": "Complete Goblinburg",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/e3b95409-1909-4777-9837-2d8213e7f8ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cultivator of Triumph",
+      "trophyDetail": "Complete Farmville",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/652ff21e-2ff4-4c9b-9c4d-d5d7cbaf167d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warden of the Plains",
+      "trophyDetail": "Complete Dragon Plains",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d16c43b5-bd86-47a0-a02d-6aeefc04e820.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardian of the Frontier",
+      "trophyDetail": "Complete Elven Border",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/60d3883f-087b-40bf-babf-52979f0b0ba8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redeemer of the Damned",
+      "trophyDetail": "Complete Den of the Damned",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d60997cb-7816-4424-aaae-ece48107c2f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeker of Serenity",
+      "trophyDetail": "Complete Temple of Solitude",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/d86a0ffe-7713-4fc2-8a05-d918168ce6fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder Supreme",
+      "trophyDetail": "Complete Final Destination",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/69df68d7-b53d-4aa9-996f-08a8f9b82988.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liberator of the Sacred",
+      "trophyDetail": "Complete Forbidden Sanctuary",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/9c0cfdd0-82ea-457f-bd66-5d074266f8d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Path of Pain",
+      "trophyDetail": "Complete Forest of Thorns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/43a49e40-ba13-4ab7-93b3-573d34873f9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squish-Squashed",
+      "trophyDetail": "Complete Ogrefish Territory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/a9225d22-f323-4a86-8c8f-ad96bf345a05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost in the Woods",
+      "trophyDetail": "Complete Lost Rock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/88e6e7d3-c3a4-4562-8f36-2c49868b29b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Lizards",
+      "trophyDetail": "Complete Saurian Territory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/8e37db2d-5241-46a7-a7ea-4bb0d2a20e8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorer of Ruins",
+      "trophyDetail": "Complete Ruins of Eleria",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/b0bb0caa-1975-4c16-b7d9-461fa057f1ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thunder Struck",
+      "trophyDetail": "Complete Thunder's Dome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/f31e1751-ae90-4bfd-87ab-ef800e7a20ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sand King",
+      "trophyDetail": "Complete Sand Oasis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/e05941dd-f323-4979-b121-39753360ad51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baron of the Barrens",
+      "trophyDetail": "Complete Red Barrens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/072d8ef1-2d42-4cfa-b0c5-18b6469f920e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stingproof",
+      "trophyDetail": "Complete Hive Canyon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/fe2ddec0-8406-4e61-81f1-3c528cbbcc8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Picker of Bones",
+      "trophyDetail": "Complete Bone Desert",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/6fd9c99d-d3b1-4de5-bfa7-66fa864a9576.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Debut Duelist",
+      "trophyDetail": "Win 1 game in Competitive Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/c4eca9c0-262f-4877-b3c2-8207336df841.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Competitor's Crown",
+      "trophyDetail": "Win 10 games in Competitive Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/711eab76-141c-4315-b509-42d672b156af.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Co-Op Conqueror",
+      "trophyDetail": "Complete a level with a friend in Arcade Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/3e015d0a-ee2d-48be-bba9-8c3f84b4e565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orcslayer Supreme",
+      "trophyDetail": "Beat 100 Orcs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/6394ddfa-bb5b-4720-97d6-9ff13b060528.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goblinbane Extraordinaire",
+      "trophyDetail": "Beat 100 Goblins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/02248e5d-1781-4084-a77a-1ac6f823f3fd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shadowbane",
+      "trophyDetail": "Beat 100 Shadow Elves",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/24295462-1cd7-4053-8fcd-49828ff27577.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gnollhunter Supreme",
+      "trophyDetail": "Beat 100 Gnolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/17fc7713-924e-4169-aee2-adc9da7e6332.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scourge of the Scaled",
+      "trophyDetail": "Beat 100 Saurians",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/67e99f79-02af-42cd-9065-66a795854aad.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hexbreaker",
+      "trophyDetail": "Beat 50 Witches",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/187f808f-6d12-4ebb-afb2-6c52e0f2faf5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arachnid Annihilator",
+      "trophyDetail": "Beat 50 Arachnids",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/ed3a3fce-9fdc-4a25-b596-22e0104a3cf5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Troll Tamer",
+      "trophyDetail": "Beat 25 Trolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/0d5f4346-f07e-4e64-b952-b9cce52b3293.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beast Breaker",
+      "trophyDetail": "Beat 50 Four-Legged Creatures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/e98e9fd5-5d28-4add-8d30-d94a9765c3ff.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion of the Celestial Dragon",
+      "trophyDetail": "Beat 2500 foes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/56c04a2e-4b4b-41c2-a3b3-afe7fda14435.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2500"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Ozlow",
+      "trophyDetail": "Reach Max Level with Ozlow",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/6df0ba76-f0e7-480f-8c64-d03f44750ffa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Grog",
+      "trophyDetail": "Reach Max Level with Grog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/76e10a8c-0646-4884-988f-bebfbeee4c1e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Fenek",
+      "trophyDetail": "Reach Max Level with Fenek",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/c83e8f42-5703-4648-8de2-8de3a14e2738.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Eliadora",
+      "trophyDetail": "Reach Max Level with Eliadora",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/8840d1a7-de9b-4150-b6ca-af240abdd47b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Tiberius",
+      "trophyDetail": "Reach Max Level with Tiberius",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/fd1c3740-9768-4727-a7e3-c237c50c2415.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Altazar",
+      "trophyDetail": "Reach Max Level with Altazar",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51878_00/15f07a59-f7da-4236-8085-bc9d38c7885a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    }
+  ]
+}

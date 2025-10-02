@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR56095_00",
+  "title": "The Jumping Ball",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Jumping Ball",
+      "trophyDetail": "You have collected all trophies!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/A290032ADDEBB893207EB6B8B3FC873EA5B931DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 50",
+      "trophyDetail": "Star 50.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/FC632528C5F8B033CE84B6B3BA500BB32C3E7E32.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 100",
+      "trophyDetail": "Star 100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/523DB42081FA713E2FF45BCE8C4FD0C67C4B6AF9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 150",
+      "trophyDetail": "Star 150.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/CCF43A439CF59687A4384A5AD5C12D95F60035B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 200",
+      "trophyDetail": "Star 200.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/5431B2B6399853CEC767861930CC0D311643B36E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 250",
+      "trophyDetail": "Star 250.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/F6B5D6AEDB3BE0AB8F0C0C6A92CF5B025329684D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 300",
+      "trophyDetail": "Star 300.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/CDBB092244401F88BD98A0F722776703B61EAD21.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 350",
+      "trophyDetail": "Star 350.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/BC4C8C098F1FA340BA36DEB374FA1BC10266D6BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 400",
+      "trophyDetail": "Star 400.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/9B12E83939E5344D4E54DDFF72A2F0DF7D573E2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 450",
+      "trophyDetail": "Star 450.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/609969F508C4B1098A87B8FA55C54DA183C1F396.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 500",
+      "trophyDetail": "Star 500.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/E6C58E88D0A5BA5927B03CC662E9525340526DC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 550",
+      "trophyDetail": "Star 550.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/C0A1BF741467D8951346DDD9C9AFBD71F3598FDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 600",
+      "trophyDetail": "Star 600.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/6E4815CEB1801A5E2164B572A4C5D712E339E0A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 650",
+      "trophyDetail": "Star 650.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/67502A42C20543ABEDC419B7180FCF9DD2E4DD84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 700",
+      "trophyDetail": "Star 700.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/1C85A045C464DC378FF05C0C6D5C2E5146A63E23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 750",
+      "trophyDetail": "Star 750.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/0CA503F5D0F924A6294CE7C7B323C64C16732940.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 800",
+      "trophyDetail": "Star 800.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/70CCD1FCCFB1D7CD2D21E1390FD05CD70B2D3287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 850",
+      "trophyDetail": "Star 850.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/EA3BDAE2BE5B0C9DED1403CC9DAA51D740C72243.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 900",
+      "trophyDetail": "Star 900.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/240FD713BA5B5F245D9285ECF247C0B914F7FF71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 950",
+      "trophyDetail": "Star 950.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/3B98634ACC524002778EC7E6BF273B21F866634B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1000",
+      "trophyDetail": "Star 1000.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/F6F66E6C8A633DBBA872B7A8F76DD2FB8A621693.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1050",
+      "trophyDetail": "Star 1050.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/40A288263304F6F0FFB6F206006CAC687E36973D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1100",
+      "trophyDetail": "Star 1100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/2E92CB0CE47C93C987D7ED3DD438B9DF298196E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1150",
+      "trophyDetail": "Star 1150.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/D547407B31614FD782DA1F0D1833BFEB5C37D913.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1200",
+      "trophyDetail": "Star 1200.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/4D92022E84582DD461A86F695CDD76E44EE9BC3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1250",
+      "trophyDetail": "Star 1250.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/51132E1F665BCDA412ED95BC962B2013D843004C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1300",
+      "trophyDetail": "Star 1300.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/2DEB549CA4699504F2174A8D3449B5A46FFBAABC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1350",
+      "trophyDetail": "Star 1350.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/A4A4C12AB29DB183A0DFB1902D03DB2210B2D1C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1400",
+      "trophyDetail": "Star 1400.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/BB60D158DB0661E923528CC03F11070F5B683B29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1450",
+      "trophyDetail": "Star 1450.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/720FD77504E044AF0B92E2E028EE4F80AD832ECD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1500",
+      "trophyDetail": "Star 1500.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/84F8F6518B21B5F08E4A8094AAD50BE5755DB984.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1550",
+      "trophyDetail": "Star 1550.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/ED9A567789C9B0DC995AA5D05DBD4B50393A1F16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1600",
+      "trophyDetail": "Star 1600.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/6ADD1A8F18BB99C6C7E498BF7511E3866F07E2B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1650",
+      "trophyDetail": "Star 1650.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/35FB5E443D9DD6140FB1A102675BC4575AF0E186.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1700",
+      "trophyDetail": "Star 1700.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/0FD6DFD89644ACFE1A41EF5ED77209D2B4AC16B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1750",
+      "trophyDetail": "Star 1750.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/8EB24084BE26151D7E2A88445440E50FD08B34BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1800",
+      "trophyDetail": "Star 1800.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/2C0CBD44FDA4302958B6CF820053D85E2CAA7A40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1850",
+      "trophyDetail": "Star 1850.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/1197CB21E7CD7A6CF828264D1AFE5891C3CCA496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1900",
+      "trophyDetail": "Star 1900.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/7A681C78674D255283254F416E0B5B286E3EAA52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 1950",
+      "trophyDetail": "Star 1950.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/64685283BB4624904F88C4BC780609D3630F0E05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2000",
+      "trophyDetail": "Star 2000.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/B4CFEBE1B7F8B9575F2ECB80154E3784680846B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2050",
+      "trophyDetail": "Star 2050.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/967198308AEEAF16696A673C42E1FDBAFADC9D6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2100",
+      "trophyDetail": "Star 2100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/BAFCB376676F52D8BA462DB90B34EDE0DFD4D64F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2150",
+      "trophyDetail": "Star 2150.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/73FA64D753963BC64CBCFA14BB611C4A7ADA5E02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2200",
+      "trophyDetail": "Star 2200.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/1D2D57F3BDA3403A35778FF5CA674277415C4306.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2250",
+      "trophyDetail": "Star 2250.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/03DE6DB25EDA1CAE3744BF4E17B070B2A3ED5A75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2300",
+      "trophyDetail": "Star 2300.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/BD762C08F10C79FA00D512F65579A30D7BC990F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2350",
+      "trophyDetail": "Star 2350.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/984BFC799313AA752DD3FB4C138C07DF4F9BB702.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2400",
+      "trophyDetail": "Star 2400.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/197E7FCD48C9FB7DDBDB1AA1BBE93D50CF8C077B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2450",
+      "trophyDetail": "Star 2450.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/A86CB6F81DF94126355B03C8868220930AACB329.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2500",
+      "trophyDetail": "Star 2500.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/4AD99455FB502BCB859F37A0A9D7F75EC8E75A30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2550",
+      "trophyDetail": "Star 2550.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/EF8961E89CDF30EE0F9C7FDF6DA84D479A272D35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2600",
+      "trophyDetail": "Star 2600.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/F7F0319DA757DA74959AA6476C32A380A7FB0AE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2650",
+      "trophyDetail": "Star 2650.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/06BDE107098088202BB4CA7CD0A9A29F3EE96342.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2700",
+      "trophyDetail": "Star 2700.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/72AA5D42116BD5FAFBDFE334A19A0D990F68152A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2750",
+      "trophyDetail": "Star 2750.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/55BC7FB9FE21C3D0F65C9268A9E1B1EB51BA3171.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2800",
+      "trophyDetail": "Star 2800.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/30A72C4471B77EB7E39A8F57CCA3177906967D4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2850",
+      "trophyDetail": "Star 2850.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/5AA1242DDB77CFD297EFCAB9C81BE2490B1F5E76.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2900",
+      "trophyDetail": "Star 2900.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/F89BDCE4B1520F7D259335EC60C4180C6F39E8C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 2950",
+      "trophyDetail": "Star 2950.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/EBCEBDC7889E9980317D2A7FF63148F086578EA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3000",
+      "trophyDetail": "Star 3000.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/F17ADA48DEAB5F641F0978C354520EE056671CD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3050",
+      "trophyDetail": "Star 3050.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/AD9E1BAEC6ACC67616499A0ADCB4BBDEDB955EE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3100",
+      "trophyDetail": "Star 3100.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/FA2B47300A248B541E256220070716E2019BA975.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3150",
+      "trophyDetail": "Star 3150.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/9F7B8A7A1D234FF587C5D05639069498EEA9553F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3200",
+      "trophyDetail": "Star 3200.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/BD448BD716A1AB07ED12B7F76A6BE144F8CA5A0B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3250",
+      "trophyDetail": "Star 3250.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/2E80447FE498699283E82D4334929715F0A0D1E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3300",
+      "trophyDetail": "Star 3300.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/33BA9CBF44DC850C029F60519C46831248D35E81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3350",
+      "trophyDetail": "Star 3350.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/9EA77B39C8DC0990CF190B31BD620C55DF53676F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3400",
+      "trophyDetail": "Star 3400.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/B195937D5221F3579344775EC7FDA16A51C9FBC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3450",
+      "trophyDetail": "Star 3450.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/7B32AFE88F01B9B63CEE5B55E568A0BA48ACBD2B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star 3500",
+      "trophyDetail": "Star 3500.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56095_00_00E0535AC8656A01386D73C56DD331F5694AAD233C/3BEEB85D409BC7443CBA50C7D3C523C8DEB166E2.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

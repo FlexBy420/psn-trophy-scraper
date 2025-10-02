@@ -1,0 +1,82 @@
+{
+  "npCommunicationId": "NPWR55936_00",
+  "title": "Duck Hunt VR Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 8,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Feathers",
+      "trophyDetail": "Shoot your very first duck.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/3b393b09-5541-42f2-9129-b7c1856ee9d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Hunter",
+      "trophyDetail": "Clear Level 1 for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/f2230e7d-1115-475a-94cf-bb64c351b54b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Game Over, Man",
+      "trophyDetail": "Lose all your lives once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/bc4a3e8e-6dea-461f-9dd6-868da754e784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sharpshooter",
+      "trophyDetail": "Complete a level without missing a single shot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/6427ce61-c7ab-4030-8124-97f09a6a2c9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seasoned Hunter",
+      "trophyDetail": "Clear Level 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/987d0a3f-35fa-4637-9ccc-b725d9452baa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Hunter",
+      "trophyDetail": "Clear Level 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/2e91d07e-b94a-4f73-bff3-c354df358cd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Duck Slayer",
+      "trophyDetail": "Shoot 100 ducks in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/6efbc08c-c9b5-4b9e-abfc-9646667a25a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Duck Apocalypse",
+      "trophyDetail": "Shoot 1,000 ducks in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55936_00/e52b797f-afab-41b0-b76a-883248c93394.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}
