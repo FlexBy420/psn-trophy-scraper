@@ -1,0 +1,766 @@
+{
+  "npCommunicationId": "NPWR57245_00",
+  "title": "Hex Park",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 84,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Logic King",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/538424187A758F637A289C017D846B058E6715E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 20",
+      "trophyDetail": "Pass level 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/E78768A869E17753BF2168E77E21707A182A0EFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 19",
+      "trophyDetail": "Pass level 19",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4459F9CEB09C727D1802AB9EF1A3FF777E8A1C52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 18",
+      "trophyDetail": "Pass level 18",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/20E084DB4C3178E496E1ABC1B7231E6C183691CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 17",
+      "trophyDetail": "Pass level 17",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/0F58D171348DE0368B3D9B3469403203506931CB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 16",
+      "trophyDetail": "Pass level 16",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4EFACD87271816FD7500BA37064D45624F495688.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 15",
+      "trophyDetail": "Pass level 15",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/D6F08FE2A1F252884BB505371401F64F00CC13F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 14",
+      "trophyDetail": "Pass level 14",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/BF9FD38567DDBD1E96F032144DAA5814F3CF68A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 13",
+      "trophyDetail": "Pass level 13",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/5F18CF840897B80060ED7446CCD6443D2C707897.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 12",
+      "trophyDetail": "Pass level 12",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/B5DF62495E714BBFA54B2A36B6D05BDB67812005.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 11",
+      "trophyDetail": "Pass level 11",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4E080E3AA66E0A72A38600A2A30B31D6B51F76DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 10",
+      "trophyDetail": "Pass level 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/69AFA289B896C565E4CB18C9BF581D38955581EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 9",
+      "trophyDetail": "Pass level 9",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/465224D3E10C97AA6CAD922BC02DD376222FCE04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 8",
+      "trophyDetail": "Pass level 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/0F3F59CA420311D720D29F6E895DEBD84537E3B4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 7",
+      "trophyDetail": "Pass level 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/EE6A15E32C26A85F293C0077DEF3444B462F0F99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 6",
+      "trophyDetail": "Pass level 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/8A15AAED1CE9DA6946D57C8CB96E1F8AE04D1285.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 5",
+      "trophyDetail": "Pass level 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/A2DF385E9A196909BED8ECC14D17DD80D225B370.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 4",
+      "trophyDetail": "Pass level 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/E8EECD1E32F78CAC41A58CFF70BA7DAA6AA3C62E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 3",
+      "trophyDetail": "Pass level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/F4A62ED116B9FF1A49E6B00C4D0AA6CC7AB78A62.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 2",
+      "trophyDetail": "Pass level 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/951A7B1DD7751E233BEF834EE4C894D8B55AE572.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pass level 1",
+      "trophyDetail": "Pass level 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/C0EBEE03B6D173F8E45F86952FEE6B80300D6B89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use 5 power ups in total",
+      "trophyDetail": "Use 5 power ups in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/046B1A6B00D7D6E703A5B48F72DAAB4E93A1455C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use 4 power ups in total",
+      "trophyDetail": "Use 4 power ups in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4487E06EEA15F63DA55B946E706C71CBD1A7C36D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use 3 power ups in total",
+      "trophyDetail": "Use 3 power ups in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/CF012C6FC25840DFEF91C510783AA89B4662C0C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use 2 power ups in total",
+      "trophyDetail": "Use 2 power ups in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/3314BAB4513421A1089C9118325BB297D474D941.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Use your first power up",
+      "trophyDetail": "Use your first power up",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/BD85969364E6EAABEEBAA19A4C5BC61DC480AE53.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 10 tiles incorrectly in total",
+      "trophyDetail": "Move 10 tiles incorrectly in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/DA92802CFD14EA2202C9768E4D255AD6FF62C3D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 8 tiles incorrectly in total",
+      "trophyDetail": "Move 8 tiles incorrectly in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/EECE89A5A5A7012E92B9DF7F51077A3F7A5A8772.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 6 tiles incorrectly in total",
+      "trophyDetail": "Move 6 tiles incorrectly in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/BF28FD0ACDF1A628D61DDF601BE9BCF46637C318.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 4 tiles incorrectly in total",
+      "trophyDetail": "Move 4 tiles incorrectly in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/883A3FBA2C2E3F90B8EBA59FBBB49621273FAE7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 2 tiles incorrectly in total",
+      "trophyDetail": "Move 2 tiles incorrectly in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/982DEE787C8DB836DE4BED61529B8E363419B8FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move your first tile incorrectly",
+      "trophyDetail": "Move your first tile incorrectly",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/73F4651216CFD23E245E9817702766A4CF266185.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 76 tiles in total",
+      "trophyDetail": "Move 76 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/0AEF8E8B97D995E7E36D7A9BB328FE943B3D6361.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 74 tiles in total",
+      "trophyDetail": "Move 74 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/DAAF04009039739142244B81A168A6EFA9F9A643.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 72 tiles in total",
+      "trophyDetail": "Move 72 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/679D65015A26E69688E4B6128CA7380E89F42947.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 70 tiles in total",
+      "trophyDetail": "Move 70 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/21C17A4CBCF3D3E42EAC7C7799E09CFA78D9901F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 68 tiles in total",
+      "trophyDetail": "Move 68 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/B1EC7A81D0DF871343548BAA8BF8E8A05FD59E89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 66 tiles in total",
+      "trophyDetail": "Move 66 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/EEFCC6C2BDF5CB871019EEC00837BC54D5BD8763.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 64 tiles in total",
+      "trophyDetail": "Move 64 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/2A7F8AE01701EC204325D69171835F773D9F91B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 62 tiles in total",
+      "trophyDetail": "Move 62 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/1A4344C3F794A33BCD2D11A935713F6C8F852273.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 60 tiles in total",
+      "trophyDetail": "Move 60 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/ABEBDD9869EDB6E082749E53D2A2E52D692E91D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 58 tiles in total",
+      "trophyDetail": "Move 58 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/B1AE01E8DB68B4DD0FDDCB4D6BBB3DD5EC0A60A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 56 tiles in total",
+      "trophyDetail": "Move 56 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/670C8FF387391540BFC833A356F84870F2E3588E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 54 tiles in total",
+      "trophyDetail": "Move 54 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/B555CD58E3FD74EE5768091ED5035C7B5D9874F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 52 tiles in total",
+      "trophyDetail": "Move 52 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/1BB55319A0FC23CCD487D4A130B970DB43DF1CE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 50 tiles in total",
+      "trophyDetail": "Move 50 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/5467B3D89A0D4942C9C465186C503254F629C68D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 48 tiles in total",
+      "trophyDetail": "Move 48 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/5431E45E860089987E8AB76DBFCBD6C60D705AEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 46 tiles in total",
+      "trophyDetail": "Move 46 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/C7B8A3204F0A684296B034E91B74B479C526670A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 44 tiles in total",
+      "trophyDetail": "Move 44 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/EFB31A3A33F5132B84F10027624B566B0B969C19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 42 tiles in total",
+      "trophyDetail": "Move 42 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/9ED7E05B5F3BE936BC502AAC10A29038FEB07BCD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 40 tiles in total",
+      "trophyDetail": "Move 40 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/55A3EA638A9F2FC4B22717C5334A58A5414D10E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 38 tiles in total",
+      "trophyDetail": "Move 38 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/67DDA91EB9C56FFB47D780A0017281F83EFCEE00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 36 tiles in total",
+      "trophyDetail": "Move 36 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/722149C7556C2A3B85B082096A09F3B5ECA97FE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 34 tiles in total",
+      "trophyDetail": "Move 34 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/DBC7910D06A5CEAED1C487640F34B121481FA639.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 32 tiles in total",
+      "trophyDetail": "Move 32 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/EB52DB9BB80BE51127C2871387CB3F0064C38DF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 30 tiles in total",
+      "trophyDetail": "Move 30 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/693E688292AA9155DCB0815F49EFB96DD342DB07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 28 tiles in total",
+      "trophyDetail": "Move 28 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/A3714C2050650609BB301B1B9E1C2D496D9825CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 26 tiles in total",
+      "trophyDetail": "Move 26 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/80F61D546EF1D28DD56E6EA96423554E786ABE54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 24 tiles in total",
+      "trophyDetail": "Move 24 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/68EE7A890EEA96EAA54438B709C29164A375FC06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 22 tiles in total",
+      "trophyDetail": "Move 22 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/56170A246F3C54E4DACAC7562D0FCD30626E695C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 20 tiles in total",
+      "trophyDetail": "Move 20 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/700D9B908788A2F6EC75A971DEC49C61AAABC1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 18 tiles in total",
+      "trophyDetail": "Move 18 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/A45FD6A826AB46EE0341E8C8B73271583D3E3A27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 16 tiles in total",
+      "trophyDetail": "Move 16 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/622DE87829EEBDB98CB1AF040AB924926415781C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 14 tiles in total",
+      "trophyDetail": "Move 14 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/79C4B756879D75E05FB69CED0FBD98FC431424FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 12 tiles in total",
+      "trophyDetail": "Move 12 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4E4CFA5CC145674D7BF617B0869F03D14D8B2727.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 10 tiles in total",
+      "trophyDetail": "Move 10 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/1E2409585DCF77877AEB94BB065E1334AC0A743A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 8 tiles in total",
+      "trophyDetail": "Move 8 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/5922AE3D86BA387610B2BB1F5877962B140E810F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 6 tiles in total",
+      "trophyDetail": "Move 6 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/0CF2CAF6C148615C0E11335DC1E943BA783AFBEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 4 tiles in total",
+      "trophyDetail": "Move 4 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/55F8661155C8E5DEFA7C6F91BE7777EEB6772E63.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move 2 tiles in total",
+      "trophyDetail": "Move 2 tiles in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/7A9F65682412B78C5C17AB0EEB5FBD4DFC95889A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Move your first tile",
+      "trophyDetail": "Move your first tile",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/4FB812D5DA8DB5356AEBD372C6C152A8C72CDB88.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 13",
+      "trophyDetail": "Pass 13 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/3CD2411CC3237A1815DB5CD4A8765749DC1A4F9F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 12",
+      "trophyDetail": "Pass 12 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/759F78C3FB410AA8376F26BB0B13AAB6D04B7A49.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 11",
+      "trophyDetail": "Pass 11 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/1A3C1E902205C9DC1D819315A6B47C791D9EAA5B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 10",
+      "trophyDetail": "Pass 10 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/12E6588ACE89E0C15964B773E28A80FD3E2AE619.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 9",
+      "trophyDetail": "Pass 9 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/F051B9B234FD373D761F1B4D18188A261985A8B3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 8",
+      "trophyDetail": "Pass 8 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/A196F091DD7B983F18CB0C48F3056450A10DB333.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 7",
+      "trophyDetail": "Pass 7 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/50812852B3D0FF9264CE6A3A5D8522F6714267CC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 6",
+      "trophyDetail": "Pass 6 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/C985EBAF17435562E4F80C120E3557D3507667B1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 5",
+      "trophyDetail": "Pass 5 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/E4633DF03BCF711456EDEFE801ED84C22195A381.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 4",
+      "trophyDetail": "Pass 4 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/50ADBA4552936666EBF99DAC42E064D82E792663.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 3",
+      "trophyDetail": "Pass 3 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/AA15F7186282E54F9CEBFE7CD217E511F5CD5CFF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 2",
+      "trophyDetail": "Pass 2 DLC levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/8F1A415FE72A7427676EF99B715B1F9BD71C8E2D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 1",
+      "trophyDetail": "Pass your first DLC level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57245_00_0034273BF219DE71A53799248894839909B1AE19FF/C3B48108632B1BEF0785B39878039747536EB296.PNG",
+      "trophyGroupId": "001"
+    }
+  ]
+}

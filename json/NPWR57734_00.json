@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR57734_00",
+  "title": "Cannon Defender",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Breaker Of Red Swarms",
+      "trophyDetail": "Earn all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/74c9ab69-5896-4c13-bd42-3a0816c00932.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heal 2",
+      "trophyDetail": "Apply 2 heal boxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/b74a8722-1a1e-4c2f-b6db-2c4e0210ad78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heal 1",
+      "trophyDetail": "Apply 1 heal box",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/0a1d6947-fa8a-48ee-9437-0f1f677bb53f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rocket 2",
+      "trophyDetail": "Apply 2 rocket boxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/ad11ebbe-782f-4d60-8034-c924f5a62884.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rocket 1",
+      "trophyDetail": "Apply 1 rocket box",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/33bdc8a8-e38e-4e40-a310-63a7d7678440.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explosion 2",
+      "trophyDetail": "Shoot 2 exploding boxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/2d583a2e-d29e-4f8c-b903-d99aa7cfc0f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explosion 1",
+      "trophyDetail": "Shoot 1 exploding box",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/accf57ec-2273-414c-986d-59194237cc9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shield 2",
+      "trophyDetail": "Apply 2 shield boxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/483182ff-36c0-406a-a830-11b44d24d28d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shield 1",
+      "trophyDetail": "Apply 1 shield box",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/8c9d4ab4-ecc8-4739-84c8-1a83137a0016.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 125",
+      "trophyDetail": "Defeat a total of 125 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/2318a635-3385-4cfb-815b-1c5e4060d723.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 122",
+      "trophyDetail": "Defeat a total of 122 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/623d737f-475c-46e5-9b5c-3526c7b04c23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 120",
+      "trophyDetail": "Defeat a total of 120 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/42856566-0963-40e9-8bf8-877fe7b2cfd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 118",
+      "trophyDetail": "Defeat a total of 118 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/fd77c688-7410-4064-8f7b-5d238e0ac523.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 116",
+      "trophyDetail": "Defeat a total of 116 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/608201d6-880a-4336-8bac-e259c0db6b6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 114",
+      "trophyDetail": "Defeat a total of 114 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/5420c373-2a3e-4458-8c40-1a5833dc9392.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 112",
+      "trophyDetail": "Defeat a total of 112 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/550f39fa-794e-41da-ba5b-584d8c16a338.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 110",
+      "trophyDetail": "Defeat a total of 110 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/786bff98-8555-4aa8-8fbc-aae26d2e1112.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 108",
+      "trophyDetail": "Defeat a total of 108 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/519e68e3-b304-46e5-a228-4a4fbb180683.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 106",
+      "trophyDetail": "Defeat a total of 106 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/4ec9f7f0-4804-4113-96b6-1c17ad3b4145.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 104",
+      "trophyDetail": "Defeat a total of 104 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/304af604-b185-4ebc-86dd-5bf77af132e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 102",
+      "trophyDetail": "Defeat a total of 102 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/a92bcd51-55cb-4285-8b04-b5d9f6a21790.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 100",
+      "trophyDetail": "Defeat a total of 100 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/86c37804-33b3-4d7b-9687-48b7c10aaef9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 98",
+      "trophyDetail": "Defeat a total of 98 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/f7f4f79c-6182-4f28-aa75-74eb9de07716.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 96",
+      "trophyDetail": "Defeat a total of 96 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/f0525628-c7d3-4ff6-b6e4-e1fff76c0df1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 94",
+      "trophyDetail": "Defeat a total of 94 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/46eff9cf-2572-4063-97b1-7e74958b6812.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 92",
+      "trophyDetail": "Defeat a total of 92 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/8900ef26-aa24-42ce-b47f-19ffa073887e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 90",
+      "trophyDetail": "Defeat a total of 90 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/cc04b9d0-640c-43db-b5c4-13a64718f39c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 88",
+      "trophyDetail": "Defeat a total of 88 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/b27ef23b-2a94-43c0-af32-5fe9fdc4c333.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 86",
+      "trophyDetail": "Defeat a total of 86 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/d322e05b-8558-46dd-8d56-6028f2d19e16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 84",
+      "trophyDetail": "Defeat a total of 84 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/c71bc293-bd4a-4906-ac1e-d448e6a2f79e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 82",
+      "trophyDetail": "Defeat a total of 82 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/6e14b853-38d4-49a5-81b5-5a807adda60b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 80",
+      "trophyDetail": "Defeat a total of 80 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/cd25e590-dbd7-423e-a6ab-0cfe15fa70bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 78",
+      "trophyDetail": "Defeat a total of 78 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/9dfb2f9a-7579-494f-aa79-501002b66aad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 76",
+      "trophyDetail": "Defeat a total of 76 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/2c356cea-1858-4607-a5c4-7c56611f3960.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 74",
+      "trophyDetail": "Defeat a total of 74 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/36e09b4e-abc6-4e3a-960f-8342966a1158.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 72",
+      "trophyDetail": "Defeat a total of 72 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/e676670c-2e47-4c23-bec3-1ae0b6aa37ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 70",
+      "trophyDetail": "Defeat a total of 70 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/f585760c-62e3-49b3-9db9-25b6763959f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 68",
+      "trophyDetail": "Defeat a total of 68 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/dda1289a-9304-4be0-91a3-355629edf3cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 66",
+      "trophyDetail": "Defeat a total of 66 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/1ce34cdd-b011-4ca9-b4c4-4c49f3b7e74d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 64",
+      "trophyDetail": "Defeat a total of 64 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/462150a1-6f63-42f0-93e7-42cc9610b983.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 62",
+      "trophyDetail": "Defeat a total of 62 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/6a3d6a79-aa26-4886-9eec-51e87d073865.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 60",
+      "trophyDetail": "Defeat a total of 60 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/66fac04f-acab-4c23-90f5-53b90d01c45d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 58",
+      "trophyDetail": "Defeat a total of 58 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/334949af-8933-495d-a74c-812a2353f1a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 56",
+      "trophyDetail": "Defeat a total of 56 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/941a7cda-f934-4ad7-beeb-c60811618545.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 54",
+      "trophyDetail": "Defeat a total of 54 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/9f51b324-d596-47ff-9c90-847d2fc4cefa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 52",
+      "trophyDetail": "Defeat a total of 52 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/cc468ab4-8569-4249-ab88-b1e994d64133.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 50",
+      "trophyDetail": "Defeat a total of 50 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/1f179f5c-4c3c-4b9e-84b6-33ac7be4494b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 48",
+      "trophyDetail": "Defeat a total of 48 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/7822c722-e057-4af4-b7e7-d1017bbec0b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 46",
+      "trophyDetail": "Defeat a total of 46 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/10112c4c-8bcc-474b-9346-0056dded5edb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 44",
+      "trophyDetail": "Defeat a total of 44 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/c200c4c5-d751-480f-8fbd-475de23fa03f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 42",
+      "trophyDetail": "Defeat a total of 42 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/2202ddc7-c9c0-44eb-8d61-34f8d3f81565.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 40",
+      "trophyDetail": "Defeat a total of 40 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/0728d218-3680-4540-9b41-fa1a7a5011d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 38",
+      "trophyDetail": "Defeat a total of 38 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/40f906aa-2203-4526-b954-e639730a9e29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 36",
+      "trophyDetail": "Defeat a total of 36 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/c8e4991f-c4ed-47b0-a169-baa0156185dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 34",
+      "trophyDetail": "Defeat a total of 24 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/9f182470-b85d-4b63-84a2-1d2b20805f0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 32",
+      "trophyDetail": "Defeat a total of 32 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/bdfded65-4e7f-4f54-bfd9-116824103a46.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 30",
+      "trophyDetail": "Defeat a total of 30 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/1358c6f9-383a-4245-bc49-c5eca0f47222.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 28",
+      "trophyDetail": "Defeat a total of 28 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/10cb09cc-1a2d-43a5-a6ec-dd7aa89e3a41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 26",
+      "trophyDetail": "Defeat a total of 26 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/fa899091-be49-4032-b3a3-7a9f3214ae0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 24",
+      "trophyDetail": "Defeat a total of 24 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/98ff956e-9905-496c-997b-ccb56c6b9418.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 22",
+      "trophyDetail": "Defeat a total of 22 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/00c8a2be-81c8-456d-9ee1-1cc31d4504dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 20",
+      "trophyDetail": "Defeat a total of 20 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/0028a225-82b0-4a68-82a5-8211b766bb10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 18",
+      "trophyDetail": "Defeat a total of 18 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/a5716d06-e706-4e11-9053-deda25ba5d20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 16",
+      "trophyDetail": "Defeat a total of 16 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/8b930d8a-19dd-499a-b082-08a15aba4a5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 14",
+      "trophyDetail": "Defeat a total of 14 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/f06e5488-2bf0-49db-af3e-aeab393149c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 12",
+      "trophyDetail": "Defeat a total of 12 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/74568506-104e-4d2c-986b-33dfa97cb57f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 10",
+      "trophyDetail": "Defeat a total of 10 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/062f53db-a55e-4b1f-8bba-4103d451ae3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 8",
+      "trophyDetail": "Defeat a total of 8 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/61453a6e-6c23-4ac9-a59b-3f4659d48a4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 6",
+      "trophyDetail": "Defeat a total of 6 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/415050c3-8d0d-4bad-9581-b76b0d32454a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 4",
+      "trophyDetail": "Defeat a total of 4 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/46fc8a80-ebd9-4856-9eb4-fc2f156679c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy 2",
+      "trophyDetail": "Defeat a total of 2 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57734_00/4ecae6d9-bf12-4a06-8ba5-0e6cfd3be083.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

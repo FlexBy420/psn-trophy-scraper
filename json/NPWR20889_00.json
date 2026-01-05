@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20889_00",
   "title": "Clone Drone in the Danger Zone\n",
   "platform": "PS4",
-  "trophySetVersion": "01.12",
+  "trophySetVersion": "01.13",
   "hasTrophyGroups": true,
-  "totalItemCount": 60,
+  "totalItemCount": 62,
   "trophies": [
     {
       "trophyId": 0,
@@ -545,6 +545,24 @@
       "trophyDetail": "Can you defeat the Enemy Zombies?",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/E1110E5E92A5D8C86AC0C8034EBAE2564FF1B487.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ride or Die Challenge",
+      "trophyDetail": "Defeat the Ride or Die Challenge!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/CAA1CE30A25C9974057BC27555E393D15D24C587.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Co-op Ride or Die Challenge",
+      "trophyDetail": "Defeat the Co-op Ride or Die Challenge!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20889_00_004F855DF7A507FF11F6E49CAD47F6016E5CDB45CD/997A851F52EFDDFB2AED1745EBD903B4F6393410.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

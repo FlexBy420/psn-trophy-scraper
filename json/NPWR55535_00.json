@@ -1,0 +1,462 @@
+{
+  "npCommunicationId": "NPWR55535_00",
+  "title": "Reach",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "True Ferran",
+      "trophyDetail": "Unlock all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/6ed84aa4-32f6-409c-ba0c-8c1a55620624.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lights, Camera, Action!",
+      "trophyDetail": "Finish the shoot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bird's Eye View",
+      "trophyDetail": "Reach the top of the church",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bullseye",
+      "trophyDetail": "Acquire the Bow",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Like Niède Guidon",
+      "trophyDetail": "Discover an ancient civilization",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "These Do Come Off, Right?",
+      "trophyDetail": "Acquire the Gauntlets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You Shall Pass!",
+      "trophyDetail": "Open the gate to the mines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Poor, Short, Human Arms",
+      "trophyDetail": "Acquire the Grappling Drones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hunted",
+      "trophyDetail": "Escape the Terracore",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Friend in Need",
+      "trophyDetail": "Help Atlas in the Workshop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sticky Fingers",
+      "trophyDetail": "Acquire the Mag Gloves",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Between a Rock and a Hard Place",
+      "trophyDetail": "Meet Lithos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What's That Coming Over the Hill?",
+      "trophyDetail": "Escape the Terracore... again",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Charged Up",
+      "trophyDetail": "Acquire the Shield Charge upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Match Made in Heaven",
+      "trophyDetail": "Acquire the Grapple to Shield upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mechanic",
+      "trophyDetail": "Fix a Generator",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rush Hour",
+      "trophyDetail": "Exit via a Transport Hub",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "House Improvement",
+      "trophyDetail": "Fix an Entrapment Amplifier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Monster Falls",
+      "trophyDetail": "Escape the Terracore for the final time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Stone Cold",
+      "trophyDetail": "Defeat Lithos",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Full Set",
+      "trophyDetail": "Defeat one of each enemy type",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is it a Bird?",
+      "trophyDetail": "Grapple onto 5 consecutive bars without holding onto them in between",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Right Between the Eyes",
+      "trophyDetail": "Defeat an enemy with a headshot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wilhelmina Tell",
+      "trophyDetail": "Defeat 20 enemies with headshots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's Yours is Mine!",
+      "trophyDetail": "Steal an enemy weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunner",
+      "trophyDetail": "Steal each type of enemy weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invisibility Cloak",
+      "trophyDetail": "Perform 10 stealth takedowns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jack of all Trades",
+      "trophyDetail": "Use each of the special arrow types against enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "sdrawkcaB tI gnioD",
+      "trophyDetail": "Defeat at least 4 shielded enemies before defeating the accompanying Spotter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy Interrupted",
+      "trophyDetail": "Defeat a Shotgunner before it can teleport",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iced it!",
+      "trophyDetail": "Kill a frozen Shieldbearer without removing their shield",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out With a Bang",
+      "trophyDetail": "Hit at least 3 enemies with 1 explosive arrow",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike!",
+      "trophyDetail": "Hit at least 2 enemies with a single shotgun shot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chain Reaction",
+      "trophyDetail": "Chain the ice effect of a single arrow to 3 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Power play",
+      "trophyDetail": "Land 5 consecutive powershot headshots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Patched Up!",
+      "trophyDetail": "Use the Injector 30 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rosa Hood",
+      "trophyDetail": "Destroy 3 enemies in under 5 seconds using Standard Arrows",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Automatic",
+      "trophyDetail": "Destroy 3 enemies in under 5 seconds with a pistol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Empty Handed",
+      "trophyDetail": "Steal 3 enemy weapons within a single combat encounter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Belongs in a Museum",
+      "trophyDetail": "Find a Collectible",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Need Another Shelf",
+      "trophyDetail": "Find half of the Collectibles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Collector",
+      "trophyDetail": "Find all of the Collectibles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/5b4ce122-cb37-47b0-bdc5-d3c591ba7707.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enhanced Individual",
+      "trophyDetail": "Find one optional upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Superhuman",
+      "trophyDetail": "Find half the optional upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Goddess of the Underground",
+      "trophyDetail": "Find all optional upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/5b4ce122-cb37-47b0-bdc5-d3c591ba7707.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Health Conscious",
+      "trophyDetail": "Unlock your first health upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rude Health",
+      "trophyDetail": "Unlock all health upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/2f4382b9-f545-4c61-b680-9ac96aacb33c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Once Upon a Time",
+      "trophyDetail": "Use one lore interaction",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Informed",
+      "trophyDetail": "Use 15 lore interactions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/afa3ec48-1905-4e0b-b18f-384cb442c34b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Stun Artist",
+      "trophyDetail": "Finish the game on hard difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55535_00/5b4ce122-cb37-47b0-bdc5-d3c591ba7707.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

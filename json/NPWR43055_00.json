@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR43055_00",
   "title": "Commandos: Origins",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 51,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 60,
   "trophies": [
     {
       "trophyId": 0,
@@ -464,6 +464,87 @@
       "trophyDetail": "Complete operation 2-14 despite setting off a global alarm",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/12F8EDEEECDBD94931B052C1C25C9C4BC06A8DE0.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Island Vacation",
+      "trophyDetail": "Complete every mission of the Crete campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/F7C1E9748D92D6B3F13A8AC9CE7661200ADB3F6D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crete Veterans",
+      "trophyDetail": "Complete every mission of the Crete campaign on Veteran difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/B5FF3F998D3D542EBA9267B121C3F7476530790E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ghost of Crete",
+      "trophyDetail": "Complete each mission of the Crete campaign without triggering an alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/7D54A5ABCD88749CA84D0164E5A9E5ACE608709B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Back in Action",
+      "trophyDetail": "Rescue the Kyria Andris",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/3D85A1151BA960D7B795B767FA8DA94E4AE76FB7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quite the Catch",
+      "trophyDetail": "Unlock the optional Commando in Crete campaign mission 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/74A0607A557DC2F8F27A5CD58F3C64F44D0926C2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Happy Landing",
+      "trophyDetail": "Eliminate a Paratrooper",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/4A02CEA785D05CD278BD6A23794F1B1BF27FCB86.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ripe for the Picking",
+      "trophyDetail": "Shoot an enemy with a stationary gun",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/EE822024CEFE48DD50495984CD0FAA6B9F0E6215.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farming Sim",
+      "trophyDetail": "Give back to nature by hiding 10 bodies in the same hiding spot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/599D5BCE8311C6B9486CFC5CA150058298D6321D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accidents happen",
+      "trophyDetail": "Use environmental kills to kill 5 enemies in the same mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/5B06630B403401A09AF44DBC92C5223563A7FABA.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

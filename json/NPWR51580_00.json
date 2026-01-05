@@ -1,0 +1,622 @@
+{
+  "npCommunicationId": "NPWR51580_00",
+  "title": "Trophy Set Pampas",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 68,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Grand Master",
+      "trophyDetail": "Complete all achievements.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/a57e693d-af8e-4942-b325-e59fd91e39b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Cyclops Slayer",
+      "trophyDetail": "Defeat the demon Cyclops from the platform without touching the ground below.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/9a6a842f-88e6-4a0b-aec8-f957c99eb8f1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Arachne Slayer",
+      "trophyDetail": "Defeat the demon Arachne using only mines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/2afc7d1e-a815-48c1-a437-575d04f4581e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Moax Slayer",
+      "trophyDetail": "Defeat the demon Moax without stepping on any platform.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/5c8bd8de-9fc3-4cf1-9466-1996f04c115f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Nephele Slayer",
+      "trophyDetail": "Defeat the demon Nephele before it rests for the second time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/a4500838-8e58-419d-b54a-9cb1cd6b64fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Skorpios Slayer",
+      "trophyDetail": "Defeat the demon Skorpios without being poisoned.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d62fb6aa-002e-4cfa-9c76-8043a8fdd0f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Python Slayer",
+      "trophyDetail": "Defeat the demon Python before it comes out for the 4th time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c0501282-1af7-44bf-8c10-b2f8e323cab1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Drakos Slayer",
+      "trophyDetail": "Defeat the demon Drakos using only Selene.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/bee301db-c7d1-4166-9820-a3ed19c30b2f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Gorgon Slayer",
+      "trophyDetail": "Defeat the demon Gorgon without meeting her gaze, double jumping, or using an antidote.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/f3a62422-dc2c-4567-8a15-37fe124f233a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Kraken Slayer",
+      "trophyDetail": "Defeat the demon Kraken using only arrows.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/75f3f5fd-0b31-425f-b2b2-a6ae826eed99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Pyros Slayer",
+      "trophyDetail": "Defeat the demon Pyros without any long-distance fireballs hitting the floor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/9d1f43de-c540-4a09-9978-c3e4c4807dd4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Perfect Lich Slayer",
+      "trophyDetail": "Defeat the Lich without taking damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d1f3f70d-119f-4f61-9c3d-eb6d8b58de7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye For An Eye EX",
+      "trophyDetail": "Defeat 10 different enemies using their own souls in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/fac1b377-2b48-4cc0-b14c-50713f361c3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Free Fall EX",
+      "trophyDetail": "Stay in the air for 19 seconds without using levitators.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/cdbdac11-45a7-4b74-b43a-261392cd4f76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Setec Astronomy EX",
+      "trophyDetail": "Find every secret areas and hidden chests in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/4a9845db-764a-45a1-9b2b-f42d73b2e8c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smooth Start EX",
+      "trophyDetail": "Start a new game, obtain five items, and summon a demon without loading or taking damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/412fa076-f849-449d-a653-872635368b03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Multikill EX",
+      "trophyDetail": "Defeat 6 enemies in less than a second.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d75628dc-5b74-4825-adf1-6ecbc400f14a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mid-Air Massacre EX",
+      "trophyDetail": "Defeat 25 enemies in a row without leaving a levitator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/fae93004-7d1a-41d3-9794-c909a1d5b0b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cyclops Slayer",
+      "trophyDetail": "Defeat the demon Cyclops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/1d534bed-95b5-48fb-8214-42abbffe63f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arachne Slayer",
+      "trophyDetail": "Defeat the demon Arachne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/39e3810d-9600-4542-9f17-f683facb3927.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moax Slayer",
+      "trophyDetail": "Defeat the demon Moax.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/5aebb926-7734-4f22-93c4-9aa74f565411.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nephele Slayer",
+      "trophyDetail": "Defeat the demon Nephele.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/7010748b-b895-476c-bab6-778f25fbb657.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skorpios Slayer",
+      "trophyDetail": "Defeat the demon Skorpios.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/5a8b4aaf-d959-46d7-a138-25f94603b357.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Python Slayer",
+      "trophyDetail": "Defeat the demon Python.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/7658df44-2136-47cc-8442-f72c1a50ee15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drakos Slayer",
+      "trophyDetail": "Defeat the demon Drakos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/a836e0af-1899-4382-92f8-e34d40ca1a2c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gorgon Slayer",
+      "trophyDetail": "Defeat the demon Gorgon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/5ab3ecaf-5387-4e57-b6a2-9cb2f3906214.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kraken Slayer",
+      "trophyDetail": "Defeat the demon Kraken.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/03fd9f0d-3a33-46ae-9356-5c2107ed6ccb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyros Slayer",
+      "trophyDetail": "Defeat the demon Pyros.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/ee4ce430-2aa1-4aba-9380-be46e89903e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lich Slayer",
+      "trophyDetail": "Defeat the Lich.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/a4df2db4-954f-41ae-991b-6461fdb98060.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye For An Eye",
+      "trophyDetail": "Defeat an enemy using its own soul against it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/b9988873-36f3-4f57-9eea-99650b09131c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Free Fall",
+      "trophyDetail": "Stay in the air for 4 seconds without using levitators.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/07e80ad1-eb9d-49fe-b1ad-6ef9936bef8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Setec Astronomy",
+      "trophyDetail": "Just find a hidden chest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/b3b9a4f9-04b2-4a19-8075-3aae57bb030f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Smooth Start",
+      "trophyDetail": "Defeat a demon in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/88ec21e8-e1fe-4c89-ba20-1a8252257d4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Multikill",
+      "trophyDetail": "Defeat 2 enemies in less than a second.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/ef432a59-32e4-479b-871a-fb3723d34757.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mid-Air Massacre",
+      "trophyDetail": "Defeat 5 enemies in a row without leaving a levitator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c6095a9f-a44a-465b-84c4-0dc1e9249c2c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overheat",
+      "trophyDetail": "You got scorched by pouring a bucket full of lava on yourself!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/b763bf26-21aa-47b4-9223-8ca4839968b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The End",
+      "trophyDetail": "Finish the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c77c3268-e66c-44d4-9832-d6222e1a33bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Game Hunter",
+      "trophyDetail": "Defeat all 9 mini-bosses in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/6c43b29d-11e4-47ff-8a88-2094f2174a22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Archer",
+      "trophyDetail": "Have 1000 arrows.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/3315f7e5-cfb8-4004-8ab8-d0505bd06fce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sorceress",
+      "trophyDetail": "Have 500 magic power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/72861c1c-449e-4085-9aa1-2ed03a838172.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rune Master",
+      "trophyDetail": "Obtain 8 runes in a single life without loading or leaving the demon realm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/3f1f669d-4631-4442-8968-3b62cf9f6862.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coup De Grace",
+      "trophyDetail": "Use a soul to defeat a demon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/36300935-3056-4236-aaa3-26eaf9ca9536.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forget-Me-Not",
+      "trophyDetail": "Find an item that you haven't been asked to find yet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/2504ed16-1125-4535-9033-47a5beca1e66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Collector",
+      "trophyDetail": "Find every item in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/b6ef7d4d-5da8-4542-87bc-87c778b5f31b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "As You Wish",
+      "trophyDetail": "Complete every quest in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/96676b48-6877-4fb2-acf2-7406abeec473.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroes Never Die",
+      "trophyDetail": "Defeat a demon right before you would be defeated.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/8a95b889-4b15-46aa-ad0b-4169f7c1c5c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Nearly Got It",
+      "trophyDetail": "Fall to a demon right before it would be defeated.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/50b5966e-067f-40d3-bb88-8190444bf7c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Your Own Worst Enemy",
+      "trophyDetail": "Defeat 25 enemies with their own attacks in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/8ee6eca3-3812-4b0e-83f6-18fff40263eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is This Thing On?",
+      "trophyDetail": "Defeat yourself carelessly with the explosion of a mine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/48c7a113-89a2-4da3-aece-80d9b4f4d92b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prisoner Of War",
+      "trophyDetail": "Release a fairy and leave it alone so it can escape for a crime it didn't commit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/3af6d99d-fa15-4682-9807-60d7bd9eb6b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Music To My Ears",
+      "trophyDetail": "Find Euterpe, the Goddess of Music.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d89f0b5b-a69f-43e4-86ec-fc7f28506ee7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect!",
+      "trophyDetail": "Defeat a demon without taking any damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/01862561-9ea4-4714-957c-9d12d4307fdd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steeling Feathers",
+      "trophyDetail": "Obtain the feathers without defeating any of the nearby axeknights.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/4d9b42bc-4f9d-48a8-8658-835c175e3452.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Great Escape",
+      "trophyDetail": "Defeat 20 jellyfish in a row without letting any escape.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d9056abd-0463-4caa-ae55-d84d6a47d469.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fishing",
+      "trophyDetail": "Defeat 10 underwater enemies from outside the water in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c0225509-d0ca-4916-ac4b-f11b61a49768.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Floor Is Lava",
+      "trophyDetail": "Destroy 10 lava fireballs in a row in the same room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c3ae2baa-3249-4bbe-a1b8-f94804c20509.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sword Master",
+      "trophyDetail": "Slay a demon using only Pampas' sword.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/d67b935a-dac0-4279-92b4-66787984b57d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wand Master",
+      "trophyDetail": "Slay a demon using only Selene's ray.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/bce53c62-9362-4733-9c6b-ef8274206768.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pacifist",
+      "trophyDetail": "Visit 10 different rooms with enemies without taking or dealing damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/65a0de4e-2ac8-4d10-91b7-206be0bd48b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Step Ahead",
+      "trophyDetail": "Defeat 50 enemies from a ladder in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/92af1024-a1f5-4887-8483-87e5f6316340.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bone Breaker",
+      "trophyDetail": "Destroy 10 bones in a row thrown by the same skeleton.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c13d66c3-c45a-417a-9ff3-98de9c80a696.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Up Together",
+      "trophyDetail": "Pampas and Selene must level up in the same room before either of them leave it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/42d6efae-d8e2-4616-8355-049f2a15a86c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghost 2.0",
+      "trophyDetail": "Defeat 20 ghosts in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/9fa1d89a-9539-4d7b-a954-66ea42db60e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Apple A Day",
+      "trophyDetail": "Eat 10 apples in the same visit to a single room.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/12947d10-f7c8-473a-b769-f9ea7667096a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Karma",
+      "trophyDetail": "Defeat 20 enemies with the spiked helm in a single life without loading.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/ada450aa-a3ec-4273-8aad-bae33957c8c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rusty Armor",
+      "trophyDetail": "Stay underwater as Pampas for 14 seconds before coming up for air.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/c47d119c-2b5d-4724-b83c-71fcde49e2e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Prepared",
+      "trophyDetail": "Get 29 items before killing a demon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/153579bb-5d8f-4f48-8b79-67feb9a86a45.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksmanship",
+      "trophyDetail": "Defeat 50 non-demon enemies with your bow without missing an arrow.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51580_00/2e9b456f-d289-46da-8cf0-5cff920323af.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

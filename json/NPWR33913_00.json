@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR33913_00",
   "title": "Assassin's Creed® Mirage",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 51,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 62,
   "trophies": [
     {
       "trophyId": 0,
@@ -101,7 +101,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Self-Improvement",
-      "trophyDetail": "Unlock all skills",
+      "trophyDetail": "Unlock 23 Skills",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/1D2C550344AB31FA44B4FDEF113D78B4E3BA9D3B.PNG",
       "trophyGroupId": "default"
     },
@@ -137,7 +137,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Masquerader",
-      "trophyDetail": "Obtain both disguises",
+      "trophyDetail": "Obtain the two disguises in Baghdad",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/EED5E1009947C3E6244AFDAC0CB9A14D64C11BF0.PNG",
       "trophyGroupId": "default"
     },
@@ -164,7 +164,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Fearless",
-      "trophyDetail": "Synchronize all viewpoints",
+      "trophyDetail": "Synchronize all Viewpoints in the Baghdad region",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/CE7B6CA16EB379467F84F5871F3E3EC910CBC5F3.PNG",
       "trophyGroupId": "default"
     },
@@ -182,7 +182,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Explorer",
-      "trophyDetail": "Fully explore all territories",
+      "trophyDetail": "Explore all the Baghdad region territories",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/ADD8FD3A4353DB1DF73D5D9AAB3F35D6DB89ABDE.PNG",
       "trophyGroupId": "default"
     },
@@ -464,6 +464,105 @@
       "trophyDetail": "Hide 5 bodies in bales of hay",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/0621E477D1E8C2E2B54DD926A1C25490AD8F7897.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost and Found",
+      "trophyDetail": "Return all stolen goods to Hind",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/13DFA9EF022AEE42B4EE4626D2E2AFD6453E0767.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Once Upon a Time",
+      "trophyDetail": "Listen to all folktales",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/57324B92E90068F0568242CCBE6DE2BD08D44134.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Musician",
+      "trophyDetail": "Collect all Oud melodies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/6520F678D1633225CF1812AB5CD86486CFC40E07.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "If I Recall Correctly",
+      "trophyDetail": "Replay an Animus Sequence",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/5309FF287F810010B29349CD8BEAD4BC48303566.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Memory",
+      "trophyDetail": "Complete all challenges of an Animus Sequence",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/6625EFE986F9E93754F3B219DACC448362D84B32.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Playback",
+      "trophyDetail": "Unlock all Animus Sequence rewards",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/DE9442AD65F8E0F6676B74E2B346ADF2DD5AF5DF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Taste Your Own Medicine",
+      "trophyDetail": "Poison a Poisoner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/5C799F5EBE80075C6B6029FFDFB32B338E2782C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Like a Local",
+      "trophyDetail": "Complete all the AlUla territories",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/96F92D5006ED66E804A6ED8C7EE2BFE8E65FCD6B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Make a Break",
+      "trophyDetail": "Escape the AlUla prison",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/68F2669106C5A07AF264909526260D561F993CC3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Turn the Page",
+      "trophyDetail": "Say goodbye to Is'haq",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/F7E08CA8CD874DB511AE2E00F307C0D737A8D928.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Give it the Slip",
+      "trophyDetail": "Escape the AlUla prison undetected",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR33913_00_002A358850A11503F7B11C8E41D27184274AA1064B/BB7E067E9879FFEA9C0D804B7FD15B236C440A09.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

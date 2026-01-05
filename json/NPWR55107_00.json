@@ -1,0 +1,589 @@
+{
+  "npCommunicationId": "NPWR55107_00",
+  "title": "SEDAP! A Culinary Adventure",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 60,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Food Truck Maniacs",
+      "trophyDetail": "Unlock all achievements in the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/41566530-9661-409b-bf1b-9297c42169e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bagus!",
+      "trophyDetail": "Unlock all recipes with roots in Brunei.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/abd6e962-c64b-4774-8bff-76fc23f46318.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tŏu!",
+      "trophyDetail": "Unlock all recipes with roots in Cambodia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/26fdaa53-71e9-4227-bb40-453e6d70257e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mantap!",
+      "trophyDetail": "Unlock all recipes with roots in Indonesia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/9eb9d42b-289b-49ec-8b9e-721b13e7aa16.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aesb!",
+      "trophyDetail": "Unlock all recipes with roots in Laos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/8c7fb715-dcfd-4265-bc47-e4667c20839f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jom!",
+      "trophyDetail": "Unlock all recipes with roots in Malaysia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/6970b5ac-39eb-4b73-8d37-9865ae91025a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thwa Meh!",
+      "trophyDetail": "Unlock all recipes with roots in Myanmar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/a58828fd-c1b1-4b3a-95f8-df0175dacf2f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tara!",
+      "trophyDetail": "Unlock all recipes with roots in the Philippines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/846285f3-6863-4524-b574-002cad8429b7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steady!",
+      "trophyDetail": "Unlock all recipes that has roots in Singapore.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/614c043a-5a16-4ffd-9b94-ab5323f73f50.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pai!",
+      "trophyDetail": "Unlock all recipes with roots in Thailand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/19556ad7-2178-40e2-9fda-b4b27553911a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "9"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bá!",
+      "trophyDetail": "Unlock all recipes with roots in Timor-Leste.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/b11f9de9-ab33-49ff-b551-444f3e086798.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Đi Nào!",
+      "trophyDetail": "Unlock all recipes that has roots in Vietnam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/68f6f081-0732-41be-b3dc-f50ea6fc34f0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forest Dwellers I",
+      "trophyDetail": "Complete all levels in the Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/1544db01-9585-4179-8c06-c3ed425f9031.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beachgoers I",
+      "trophyDetail": "Complete all levels in the Beach.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/69884fe9-0236-44b0-adbf-6774ca6a0451.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain Climbers I",
+      "trophyDetail": "Complete all levels in the Mountains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/0d43d6a8-6fa7-44ae-bab0-455b0bd4c7dc.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Culinary Adventure",
+      "trophyDetail": "Beat the campaign.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/d4f1ee47-d3ea-43a7-a441-d16de92d2f52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5-Star Hidden Gem",
+      "trophyDetail": "Get only positive reviews in a single level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/3bbf75bc-a459-45ce-b3e1-dc76baa68e60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1-Star Visible Rock",
+      "trophyDetail": "Get only negative reviews in a single level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/ba7374ce-f5d0-4a33-94b7-de281ca3787a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Determination",
+      "trophyDetail": "Complete every level in single-player mode at least once without dying.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/d2502ff0-86fb-405b-8aa3-dcd3680ed715.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "42"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortals",
+      "trophyDetail": "Complete every level in multiplayer mode at least once without dying.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/ab78be8a-02ae-492a-a75a-8cf4a12524e9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "42"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Invincible",
+      "trophyDetail": "Complete a level without taking any damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/a534b737-7b5f-40b1-9980-ca1167886cd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Career Switch",
+      "trophyDetail": "Complete a level in multiplayer mode where the Hunter prepares all the dishes without fighting any Monsters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/33886218-1cb0-497d-bd27-9a0bdb6c77e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Chef",
+      "trophyDetail": "Complete a level with no QTE fails in cooking.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/830d4e2b-5690-473b-9dbd-c707435625c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forest Dwellers II",
+      "trophyDetail": "3-Star all levels in the Forest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/89ff854c-6c07-42b5-908e-08eddc2031b7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beachgoers II",
+      "trophyDetail": "3-Star all levels in the Beach.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/e44991e1-62b5-450d-9ac4-1b2273554f9b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mountain Climbers II",
+      "trophyDetail": "3-Star all levels in the Mountains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/a7ab2837-0084-4785-af21-23ec6ae3d8b3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "14"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Run!",
+      "trophyDetail": "Get your first 3 Pink Stars on a level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/9774ba5a-837e-4c09-bc5e-6be44b6ebeb1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pink Baloney Club",
+      "trophyDetail": "Get Pink Stars for all the levels in the game in multiplayer mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/32978935-a6e0-4fac-85ba-e73fe51f1a02.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "42"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Pinkfectionist",
+      "trophyDetail": "Get Pink Stars for all the levels in the game in single-player mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/32978935-a6e0-4fac-85ba-e73fe51f1a02.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "42"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aspiring Culinarian",
+      "trophyDetail": "Serve your first dish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/58e136c0-56dc-48b3-8e15-92f58d0ad9a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Aspiring Culinarian...?",
+      "trophyDetail": "Serve your first stinky dish.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/057c2cf8-3d5a-4a92-a09c-34104d934784.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peak Freshness",
+      "trophyDetail": "Serve every Dish in the game fresh at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/162632e2-750e-418d-9ebc-aaaa002e871f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "46"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It’s Going Down Now",
+      "trophyDetail": "Serve every Dish in the game stinky at least once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/38ac36c7-1ce6-40f9-aa6c-3bef136e41b0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "46"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Final Countdown",
+      "trophyDetail": "Complete an order in the final second.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/859d1be7-7faf-4075-9a10-f6ad4ac2a0ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ambuyat Arena",
+      "trophyDetail": "Cook all the Forest Dishes in the Forest Spirit Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/7994c4d7-c89c-4ae4-b7de-77da6d5d2653.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chilli Crab Conquest",
+      "trophyDetail": "Cook all the Beach Dishes in the Beach Spirit Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/9f9d970f-0d0b-472b-bf2e-035e1f1ad176.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tumpeng Tribulations",
+      "trophyDetail": "Cook all the Mountains Dishes in Nagarasa’s Spirit Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/9e7ac7d6-1618-46eb-b4a0-9cfa9b69fa30.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deja Vu!",
+      "trophyDetail": "Serve all dishes fresh and early during Rush Hour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/ce9f72dd-487b-4f3d-8ff9-c51de920c6fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Som's Kitchen",
+      "trophyDetail": "Unlock all Utensils.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/4febd671-24f3-4965-ae2c-785d0ddef175.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gon's Armory",
+      "trophyDetail": "Unlock all Weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/86021d54-dfd3-4928-95a4-11d5516ebe92.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artifact Collector",
+      "trophyDetail": "Unlock all Charms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/42205f53-8b66-4930-b903-217d507ca9ee.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "16"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dakila's Bestie",
+      "trophyDetail": "Buy everything in the store.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/6a4476b3-0200-4321-b02e-d9f277bb01b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Partners4Life",
+      "trophyDetail": "Revive your partner for the first time in multiplayer mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/eba2f85e-d921-4d83-a7bc-96478b44f520.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monster Slayer",
+      "trophyDetail": "Defeat a total of 500 Monsters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/ba642d9a-d0fd-4cfd-ac6b-5240556d6789.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monster Haunter",
+      "trophyDetail": "Defeat a total of 1000 Monsters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/45583c2e-0aa8-421b-a2be-675f16330150.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Not So Fireproof",
+      "trophyDetail": "Die to Nagarasa’s Fireball.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/0ab3bfc4-1534-4427-a8a4-5e784a90010a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Worm?",
+      "trophyDetail": "Defeat a total of 50 Sago Worms in the Forest Spirit Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/29a66ba4-2075-49b1-9e18-bc3d2d157695.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crab Rave",
+      "trophyDetail": "Defeat a total of 50 Crab Critters in the Beach Spirit Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/acd4a565-dee8-4e7d-ad45-8598e20c82c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Floor is Lava",
+      "trophyDetail": "Defeat a total of 50 Lava Monsters in Nagarasa’s Trial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/64dec5b2-321b-4e53-ad5d-89d45c21d551.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "An Issue of Skill",
+      "trophyDetail": "Die a total of 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/02fee584-8adc-4752-b97c-47425a9e0e03.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I’ll Go If You Go",
+      "trophyDetail": "Die at the same time in multiplayer mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/1501f8d7-46a2-4c6d-9fc7-8cd53fb3cfb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pee-Yew!",
+      "trophyDetail": "Defeat a Monster using a stinky item.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/a9563448-8f67-48b9-a297-be01917653aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Food Ninja",
+      "trophyDetail": "Obtain sliced Food from a Shooter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/ca8e2aef-418a-4904-bcc8-a069b7aa1b84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Telemaster",
+      "trophyDetail": "Use the Teletotems 200 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/d8486503-53c0-402c-af70-0451c9ef1490.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "200"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rage Bait",
+      "trophyDetail": "Get a charging Monster to destroy a breakable.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/a3996e7a-3ced-4e75-906c-2adfcd36cc89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keeping It Cool",
+      "trophyDetail": "Use the Cold Box 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/d3c292aa-b831-4771-a54f-73cafb88b655.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Go Fast",
+      "trophyDetail": "Use Speedsand 50 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/fd1e0143-ba00-402e-ad43-1d90eeffc41a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critical Hit!",
+      "trophyDetail": "Hit the weak spot of a Monster once.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/f0b0080b-427d-4aa4-9cb1-8d5e8c43b513.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Precisionmancer",
+      "trophyDetail": "Obtain a Chopped Tomato from the Tomatomancer's tomato projectile.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/2c9db53d-4ccf-4f7e-9a03-b430d0918486.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Karang Guni",
+      "trophyDetail": "Ring the bell in the Camp 30 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55107_00/29847d22-b52e-4d15-ae23-6a03ba30fbef.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    }
+  ]
+}

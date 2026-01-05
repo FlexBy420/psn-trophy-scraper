@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR28011_00",
   "title": "Railway Empire 2",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.11",
   "hasTrophyGroups": true,
-  "totalItemCount": 84,
+  "totalItemCount": 88,
   "trophies": [
     {
       "trophyId": 0,
@@ -761,6 +761,42 @@
       "trophyDetail": "Found a total of 40 rural businesses.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/6B91288B18ACE48A6B1F13ABD28DF089A0E7E303.PNG",
       "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bamboozling",
+      "trophyDetail": "Complete the scenario “Humble Beginnings“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/47CBBF853C5D6F8463B00C912100F1F8ED59038B.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capital Gain",
+      "trophyDetail": "Complete the scenario “Of Bicycles and Fireworks“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/B34CBC88BEF4E420BDF68DF6F4252834524202BB.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Topsoil",
+      "trophyDetail": "Complete the scenario “Journey to the West“.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/3CA0AB48D993E28AF4741641E311972087D20B6C.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Packin' Peking",
+      "trophyDetail": "Produce a total of 24 loads of each: fireworks, tools and bicycles in Peking in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR28011_00_00EEB6C6C4A1F1693CACAC0EA499F9C310E29574F8/A612277EDF04CE862F407869B1996093F648968D.PNG",
+      "trophyGroupId": "006"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20363_00",
   "title": "Ion Fury",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 30,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 37,
   "trophies": [
     {
       "trophyId": 0,
@@ -275,6 +275,69 @@
       "trophyDetail": "Proof that you've done it all",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/0CDF42428C84995A975CBB7EF55761B084613664.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You're Fired!",
+      "trophyDetail": "Get canned by the GDF",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/89522F9EE77CC539F98AC4B0276C927F6A5C9090.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "↑, ↑, ↓, ↓, ←, →, ←, →, B, A",
+      "trophyDetail": "Eradicate the Urban Eradicator",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/99644A6212FDB4B5E4302FF4D69BBFFC2F0A67F8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Two Thumbs Up",
+      "trophyDetail": "Finish the game without being dismembered",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/16EEB1DD3F922A33402A94B6E152F74E2855B10B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Keep It 100",
+      "trophyDetail": "Achieve 100% progress in Aftershock",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/94883FAC51C7E0BC52D6995510C8173F27CAB995.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defusal Expert",
+      "trophyDetail": "Collect one bomb from all 28 maps in arrange mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/48624D6491AD9665A9E138EC5E603BBFBA66BAB6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Through The Looking Glass",
+      "trophyDetail": "Complete arrange mode on any difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/FB3F401D384E2FA24FE1DAC403D602152D2B9CC5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Big Dick Stash",
+      "trophyDetail": "Find all Aftershock Mega-Secrets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20363_00_007835024F97AB3A16D621CF5C4E195972107ACAB9/EDC01FF111C6EBAFDE227CD27527C40ADFD39CC7.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

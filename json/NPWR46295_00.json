@@ -1,0 +1,433 @@
+{
+  "npCommunicationId": "NPWR46295_00",
+  "title": "Blood West",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 47,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ultimate Gunslinger",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/564ffded-6a98-4327-8286-6bb1b9c72ac0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bloody Roots",
+      "trophyDetail": "Defeat the final boss of Chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/00c3e2d0-58c3-486b-9ff0-99e2b0ce34c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Giant From Beyond",
+      "trophyDetail": "Defeat the final boss of Chapter 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/d969c5b3-2be7-47fb-acaa-03edbb64f9cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Old Friend, New Enemy",
+      "trophyDetail": "Defeat the final boss of Chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/32994697-a9f3-4bf7-a1cd-2dfe6a1a17dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Undead, meet The Undead",
+      "trophyDetail": "Meet the Undead",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/c4479812-3050-4776-b0c8-84b9be1ee22c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Man of the Cloth",
+      "trophyDetail": "Meet the Priest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/4d61c8f3-7160-48c6-bf28-8be084a6036f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Voodoo Daughter",
+      "trophyDetail": "Meet Twen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/fd0c6249-502e-41c2-9bea-c3be28590901.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Masked Mystery",
+      "trophyDetail": "Meet Anabelle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/25900eb1-63f3-42b4-9929-7d65464e0e18.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Explosive Soul",
+      "trophyDetail": "Kill a Spirit using dynamite",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/e39c8695-c6fd-4dba-8199-782c1cda76cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The bush is moving!",
+      "trophyDetail": "Kill a Vendigo while being under negative influence of alcohol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/ecbb22b7-ef75-4998-bd39-1377fc7b7d7c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Love is a burning thing",
+      "trophyDetail": "Kill 50 enemies using fire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/f9d9713c-94a8-4d41-ad76-d965dca08130.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Spike Dancer",
+      "trophyDetail": "Kill Chapter 1 final boss without taking damage from the spikes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/abf66d98-fa8d-4d4b-8dbf-66305a1a69a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Pondering my orbs",
+      "trophyDetail": "Kill Chapter 1 boss without destroying any of the orbs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/87e1bbb5-4213-430e-93af-45ce6656b535.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'd like to keep it on",
+      "trophyDetail": "Kill a Prodigal Daughter with headshot without removing her mask",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/58289bd2-651d-43cd-b729-bc7c243c43c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Headhunter",
+      "trophyDetail": "Kill 100 enemies with headshots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/8fc2c331-2aa5-4460-af14-df7c6b48aa81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Bada Boom",
+      "trophyDetail": "Kill 5 enemies with a single dynamite",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/10d58233-5d57-4b36-931c-59ba866d167a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shouldn't have peeked",
+      "trophyDetail": "Headshot a Half-Risen Dead while it's still in its coffin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/f47e1ec9-ef52-4f10-8b42-f51f6b27390e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tomahawk Expert",
+      "trophyDetail": "Headshot and kill 10 enemies in a row using tomahawks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/1d1556db-fbf1-44b1-ba29-48afd3020552.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drunken Brawl",
+      "trophyDetail": "Kill 50 enemies while being under negative influence of alcohol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/9abc4408-1313-4377-8388-194dbc27998a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "For Whom the Bell Tolls?",
+      "trophyDetail": "Decide who receives the cure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/69fe8f09-6454-4b93-8267-acbe51a6755e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta catch’em all",
+      "trophyDetail": "Collect all Cursed items in Chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/f822e3c8-6033-4263-8e74-90124e6a05c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Loremaster of the Barren Lands",
+      "trophyDetail": "Find all notes and codex pages",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/8b0dbb8d-b5a6-4bdb-a728-a21060f127d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Alvaro’s friend",
+      "trophyDetail": "Discover Alvaro in Chapter 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/28facdaa-0254-438f-bb55-d69520c25a0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Alvaro’s best friend",
+      "trophyDetail": "Discover Alvaro in Chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/8b5d6f26-e866-49c2-b73b-2d32f7710a23.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blood Money",
+      "trophyDetail": "Complete Jim's quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/c1e2a734-fb84-4454-b602-b8ae1e447eaf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Romance ain't dead, It's just me",
+      "trophyDetail": "Give Anabelle her favorite flower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/8c011f5a-9ed0-43ee-b825-5aee4e343086.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Price of science",
+      "trophyDetail": "Complete Doctor's quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/f774a5d4-afe0-4961-9647-0e5c6d9ce193.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Skin Dancer",
+      "trophyDetail": "Complete Boo Hag's quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/0f1a25b9-7a9e-4445-8acf-d996fc96af45.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trial by Roots",
+      "trophyDetail": "Complete Chapter 1 without dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/21ac9aca-dbf6-4f02-a142-28d255981ec4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trial by Tentacles",
+      "trophyDetail": "Complete Chapter 2 without dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/09c1b5b7-4d2c-4b60-bbdf-f4f302c266b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trial by Fire",
+      "trophyDetail": "Complete Chapter 3 without dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/88a10964-4c3d-48e3-96f1-9e123bc2aa6b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wilhelm Scream",
+      "trophyDetail": "Survive a fall that last at least 2 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/f6f7e0c5-fae8-47c9-aaef-5314f56fde1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Serial Headshotter",
+      "trophyDetail": "Kill 5 enemies in a row with headshots",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/6a8ac7a9-9b3a-4f89-91af-1edb880946ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'm Perfect the way I am",
+      "trophyDetail": "Complete any Chapter with at least 4 active curses",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/ab14a07c-e454-4df3-af5b-fc477a81200a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Personal coach",
+      "trophyDetail": "Tire Skin Collector at least 3 times during single fight",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/1add4ae9-d7a8-4c51-9d4e-00de0c86388e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Live Again",
+      "trophyDetail": "Complete tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/7a6c6ae0-7975-4b13-b5b3-83a39c9247e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You tried…",
+      "trophyDetail": "Die in the Blood, Sweat and Tears mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/489dadf2-48ee-4c48-8908-479fb7b6b859.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Start of a new journey…",
+      "trophyDetail": "Meet Maria Espinosa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/8b93be2e-4c66-4019-bfb2-761d48e50e71.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spirit Talker",
+      "trophyDetail": "Help all lost souls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/29deb31a-e14d-448e-a809-297db138ba26.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Ultimate Weapon",
+      "trophyDetail": "Forge The Ultimate Weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/1574b2f0-059a-4ae4-8500-7f77ea42043c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Otherside",
+      "trophyDetail": "Explore a new, hostile world",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/4b550f88-d96f-461f-8541-06fce1ad8ce7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dark Sun",
+      "trophyDetail": "Defeat the interloper and regain your life",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/c38a1e67-f0d2-4ed0-a286-b811f59174de.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puppet Master",
+      "trophyDetail": "Have two different summons active at the same time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/73f53619-956d-4950-a610-8aab23f7831a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Essence Baron",
+      "trophyDetail": "Accumulate over 2000 Soul Essence",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/cd4204c5-92f5-43b6-a38e-47d36be88e41.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ain’t No Second Chances",
+      "trophyDetail": "Decide the fate of John Delaney and the Bone Chalice",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/34eb4bdb-c501-4c66-a588-fc61a16741b9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Taken by the devil",
+      "trophyDetail": "Find piece of soul of the Rotten Skeleton and decide its fate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/b2733c35-e5b4-43b9-96d3-07d8f908fcfb.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hellish Pick-pocketer",
+      "trophyDetail": "Steal from a Hellfire Cultist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR46295_00/03a643ff-b6df-4ca1-9160-4847f479570f.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

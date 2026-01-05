@@ -1,0 +1,631 @@
+{
+  "npCommunicationId": "NPWR50657_00",
+  "title": "Harvest Moon: Home Sweet Home Special Edition",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 69,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Home Sweet Home",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/6aeb292f-99d6-4f5f-9166-dffbb19f1d17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back to Your Roots",
+      "trophyDetail": "Complete Chapter 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Good Start",
+      "trophyDetail": "Complete Chapter 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprentice Farmer",
+      "trophyDetail": "Complete Chapter 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Local Cuisine",
+      "trophyDetail": "Complete Chapter 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fresh Breeze",
+      "trophyDetail": "Complete Chapter 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Operation Promote Alba!",
+      "trophyDetail": "Complete Chapter 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dum-Da-Da-DAA!",
+      "trophyDetail": "Complete Chapter 7.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot Spring Village",
+      "trophyDetail": "Complete Chapter 8.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Bird",
+      "trophyDetail": "Complete Chapter 9.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Festival of Restoration",
+      "trophyDetail": "Complete Chapter 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Four Seasons Leader",
+      "trophyDetail": "Complete Seasonal Requests in all seasons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/754ea378-966b-47f5-88e2-d7f5ee67a83d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grass Grower",
+      "trophyDetail": "Harvest Grass.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Asparagus Grower",
+      "trophyDetail": "Harvest Asparagus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Broccoli Grower",
+      "trophyDetail": "Harvest Broccoli.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cabbage Grower",
+      "trophyDetail": "Harvest Cabbages.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Celery Grower",
+      "trophyDetail": "Harvest Celery.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Corn Grower",
+      "trophyDetail": "Harvest Corn.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Carrot Grower",
+      "trophyDetail": "Harvest Carrots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eggplant Grower",
+      "trophyDetail": "Harvest Eggplants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Green Bell Pepper Grower",
+      "trophyDetail": "Harvest Green Bell Peppers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lettuce Grower",
+      "trophyDetail": "Harvest Lettuce.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Onion Grower",
+      "trophyDetail": "Harvest Onions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pumpkin Grower",
+      "trophyDetail": "Harvest Pumpkins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pineapple Grower",
+      "trophyDetail": "Harvest Pineapples.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Potato Grower",
+      "trophyDetail": "Harvest Potatoes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Strawberry Grower",
+      "trophyDetail": "Harvest Strawberries.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Soybean Grower",
+      "trophyDetail": "Harvest Soybeans.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spinach Grower",
+      "trophyDetail": "Harvest Spinach.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tomato Grower",
+      "trophyDetail": "Harvest Tomatoes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Turnip Grower",
+      "trophyDetail": "Harvest Turnips.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wheat Grower",
+      "trophyDetail": "Harvest Wheat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Watermelon Grower",
+      "trophyDetail": "Harvest Watermelons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grass Farmer",
+      "trophyDetail": "Sell 50 Grass.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Asparagus Farmer",
+      "trophyDetail": "Sell 50 Asparagus.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Broccoli Farmer",
+      "trophyDetail": "Sell 50 Broccoli.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cabbage Farmer",
+      "trophyDetail": "Sell 50 Cabbages.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Celery Farmer",
+      "trophyDetail": "Sell 50 Celery.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Corn Farmer",
+      "trophyDetail": "Sell 50 Corn.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Carrot Farmer",
+      "trophyDetail": "Sell 50 Carrots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eggplant Farmer",
+      "trophyDetail": "Sell 50 Eggplants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Green Bell Pepper Farmer",
+      "trophyDetail": "Sell 50 Green Bell Peppers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lettuce Farmer",
+      "trophyDetail": "Sell 50 Lettuce.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Onion Farmer",
+      "trophyDetail": "Sell 50 Onions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pumpkin Farmer",
+      "trophyDetail": "Sell 50 Pumpkins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pineapple Farmer",
+      "trophyDetail": "Sell 50 Pineapples.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Potato Farmer",
+      "trophyDetail": "Sell 50 Potatoes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Strawberry Farmer",
+      "trophyDetail": "Sell 50 Strawberries.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Soybean Farmer",
+      "trophyDetail": "Sell 50 Soybeans.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spinach Farmer",
+      "trophyDetail": "Sell 50 Spinach.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tomato Farmer",
+      "trophyDetail": "Sell 50 Tomatoes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Turnip Farmer",
+      "trophyDetail": "Sell 50 Turnips.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wheat Farmers",
+      "trophyDetail": "Sell 50 Wheat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Watermelon Farmer",
+      "trophyDetail": "Sell 50 Watermelons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farming Phenom",
+      "trophyDetail": "Have 12 Local Specialties certified.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/cb499908-6586-4a95-a320-aaa1755fcc42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Local Promoter",
+      "trophyDetail": "Earn 10,000G at the Unmanned Store.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/eb0dbc78-0b33-48a3-8553-4342e2b4ff6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Moneybags",
+      "trophyDetail": "Get 10,000G.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/eb0dbc78-0b33-48a3-8553-4342e2b4ff6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mega Moneybags",
+      "trophyDetail": "Get 1,000,000G.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/902b1887-40e4-4e13-91b7-16c0e05e1b55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Make Everyone Happy",
+      "trophyDetail": "Get maximum Happiness in one day.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/e002a09d-7532-4947-895a-d843de04e4ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Jockey",
+      "trophyDetail": "Contests: Win a Race.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/62e11307-8ad3-4a25-8b20-d3ba86bdb538.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fine Farmhand",
+      "trophyDetail": "Contests: Win an Expo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/62e11307-8ad3-4a25-8b20-d3ba86bdb538.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rod Savant",
+      "trophyDetail": "Contests: Win a Fish Faceoff.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/62e11307-8ad3-4a25-8b20-d3ba86bdb538.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Garden Guru",
+      "trophyDetail": "Complete the Flowers Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Agricultural Scientist",
+      "trophyDetail": "Complete the Crops Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ore Expert",
+      "trophyDetail": "Complete the Ore Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Angler",
+      "trophyDetail": "Complete the Fish Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hawkeye",
+      "trophyDetail": "Complete the Found Items Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gourmet",
+      "trophyDetail": "Complete the Culinary Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Valued Veterinarian",
+      "trophyDetail": "Complete the Animals Encyclopedia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50657_00/98e5b376-bf76-4558-8ba6-47785791aa2e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

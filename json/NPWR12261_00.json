@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR12261_00",
   "title": "The Elder Scrolls Online Additional Trophies",
   "platform": "PS4",
-  "trophySetVersion": "01.57",
+  "trophySetVersion": "01.61",
   "hasTrophyGroups": true,
-  "totalItemCount": 56,
+  "totalItemCount": 58,
   "trophies": [
     {
       "trophyId": 0,
@@ -509,6 +509,24 @@
       "trophyDetail": "Complete both Naj-Caldeesh and Black Gem Foundry on Veteran.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/1C8DD3265110A457A24E81D8E4F1A75D3CD3CFF9.PNG",
       "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Champion of Solstice",
+      "trophyDetail": "Rally the Fellowship, ride out with your allies, and finally end the threat of the Worm Cult across Western and Eastern Solstice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/859E0A8717C848D2DE6D7C89381A5513E883EC97.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hero of Eastern Solstice",
+      "trophyDetail": "Complete quests, defeat bosses, and explore delves to become the Hero of Eastern Solstice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/91325571691F6AF673D7831D060A0883BE2444ED.PNG",
+      "trophyGroupId": "021"
     }
   ]
 }

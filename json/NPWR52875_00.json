@@ -1,0 +1,640 @@
+{
+  "npCommunicationId": "NPWR52875_00",
+  "title": "Sacrifice For Sale",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 70,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Sacrifice For Sale Platinum",
+      "trophyDetail": "Good job! Completed all tasks!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/30f79f25-43ff-4200-88aa-9d81dafdb938.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amour Fou",
+      "trophyDetail": "Kiss Mia",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/f9882cd7-f584-41bc-90f9-5b7faa7e229c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Offer You Can't Refuse",
+      "trophyDetail": "Have Vinny make you an offer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/6b099a82-f4a8-48f6-a409-49ae2d75cb21.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back then...",
+      "trophyDetail": "Have Vinny talk about how Mia joined the Cult",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/45b0ae3c-1d95-454c-87b2-021201af9e3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broken Skull",
+      "trophyDetail": "Get suplexed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/65c24e09-630e-4ff4-9daa-33469e02513e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feline fine",
+      "trophyDetail": "Discuss which animal Mia is",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/3cac8a62-f4db-4cca-87d0-b1bd732bfd69.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bye-Bye",
+      "trophyDetail": "Return home with Vinny, then tell her to leave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/a375273c-fe81-4987-b074-594db3bbd3be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Call me",
+      "trophyDetail": "Get a phone number",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/67df3ea9-933e-4202-b765-8a7b0b40a7db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capitalism, ho!",
+      "trophyDetail": "Find the political joke.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/ee98ce88-8a82-42b8-b510-1c88d2381488.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clever Girl",
+      "trophyDetail": "Stand completely still",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/329c7c1f-5c3d-4c28-a57d-93660247b921.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coffee Time",
+      "trophyDetail": "Offer Mia some coffee",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/8bb831b7-47e4-4c7d-8595-976775a36fd2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cold War",
+      "trophyDetail": "Have someone give away the time period during which the story takes place",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/6efb56ef-2fcd-4bb5-ac9c-93b00d9f346a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Date Mia",
+      "trophyDetail": "That was weird.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/59f48da8-ff60-4753-aff8-d089767ed235.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Disturbing Realization",
+      "trophyDetail": "Have Vinny realize that something is very wrong",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/48f689db-cffe-48fc-b420-502f7e1c6af4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deprogramm",
+      "trophyDetail": "Get Vinny to doubt the cult's legitimacy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/ffe80286-f6fd-449d-a949-7b1506f7850c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drop The Cat",
+      "trophyDetail": "Drop Mia",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/fc75f6b4-a980-4c56-bbb5-ac46cb9c3e1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Depth of a Saleman",
+      "trophyDetail": "Reflect on your day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/30e8dd4c-96c6-43a5-bddb-41c2f07bbe00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Dreams",
+      "trophyDetail": "Sleep soundly",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/bf0aed51-accd-4158-9ff7-06fea28507d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dead End",
+      "trophyDetail": "Block the attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/dea9509f-7fc9-4bc1-b6d4-4e3ab8dbfd64.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back To Work",
+      "trophyDetail": "Get ready for your next workday",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/285f9b90-ec32-4786-94be-7121c1e4b91c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacrifice For Sale",
+      "trophyDetail": "Enter a mutually beneficial deal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/7ad9a365-5e42-46a3-ae92-ddd33e580bca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stinger For Two",
+      "trophyDetail": "Stingers over dinner",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/e5e10d2f-8d4a-40ff-982b-d07580a277dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dinner For Two",
+      "trophyDetail": "Cook homemade stew for dinner",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/2c6baefd-b903-4faa-9f93-7455d9ac0226.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Worth It!(?)",
+      "trophyDetail": "Was it worth dying for?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/73f45f76-1b3f-4ea1-b857-5277dd3c0113.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "(Not Your) Happy Ending",
+      "trophyDetail": "Have the cultists reunite against you",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/6663cac2-19d7-4228-a471-0f2535e1fdb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stabbed In The Back",
+      "trophyDetail": "Get backstabbed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/76b22f15-7f23-43c4-85d7-b15fa507f101.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saleswoman",
+      "trophyDetail": "Convince Vinny to get a job",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/07918921-e0cd-45d4-9e3a-ce0476703d0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Housing A Zombie",
+      "trophyDetail": "Get Vinny to live with you",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/c7658f62-dd92-4fac-ab9e-cc8d5f8b0548.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not Sacrificed (But Still Dead)",
+      "trophyDetail": "Convince the cultists not to sacrifice you, but die anyways",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/9bf94cb8-c121-47ab-b69b-f55b435653a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cult Life",
+      "trophyDetail": "Join the cult",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/3fedbc19-6e3b-431d-be48-257799d89c98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacrificed",
+      "trophyDetail": "Get sacrificed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/02d8397b-af95-47d5-9235-b815a9e0d150.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacrifice In Training",
+      "trophyDetail": "Delay the sacrifice until \"later\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/f2ef1469-c362-456a-92e8-327810fd0e13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zombie Of Theseus",
+      "trophyDetail": "Get *really* close to Vinny",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/37d19612-1120-416f-b42e-2dd322eb5f8e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Refusal Of The Call",
+      "trophyDetail": "Refuse to engage with your client",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/43656b7b-3514-46c9-bdf4-bb231964f103.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escape Together",
+      "trophyDetail": "Escape with Vinny and make it to your apartment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/5aafefe3-0e6b-4b8d-a0ca-217a4653a9e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Famous Last Words",
+      "trophyDetail": "What are you going to do? Stab me?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/fd98aafb-f9e6-487e-8485-7140b5af3823.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fight Club",
+      "trophyDetail": "Fight Mia in the basement and land a hit on her",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/9d88ca8b-089a-43c9-923e-a52a5e6cb222.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flirt",
+      "trophyDetail": "Flirt with Vinny",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/ba8f175b-4171-43bb-91fc-b3a5a07a282c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gagged",
+      "trophyDetail": "Get gagged by Vinny",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/7403f889-4eac-43b0-bc21-211cd053faec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Sale",
+      "trophyDetail": "Sell a vacuum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/37a8206a-375f-4cfb-87eb-e50f8c0e67c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gimme Money",
+      "trophyDetail": "Ask Vinny to bribe you",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/1e23e8fa-b59f-42f3-9d0a-4b999c5e550f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good Boy",
+      "trophyDetail": "Be called a good boy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/0da18d90-e086-46c8-a682-e334846b6194.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Got The Tiger By The Tail",
+      "trophyDetail": "Grab Mia's tail",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/51e12c48-8036-48a7-b584-f58bf8460b4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "<3",
+      "trophyDetail": "Form a heart with your hands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/5d54f0d7-e14c-4802-a9ef-43bb7fe04e87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home Alone",
+      "trophyDetail": "Be alone in your home",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/6e461aa0-b215-4740-b095-d7f9cbd4ae76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Houdini",
+      "trophyDetail": "Dislocate your shoulder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/95d8b012-1d36-4e90-8cc1-b89c4197a1a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "How do you do fellow cultists?",
+      "trophyDetail": "Pretend to be a cultist.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/2ebf7370-2d47-4eef-84d5-47e1debee5f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greatly exagerated",
+      "trophyDetail": "Die, but get better.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/5031875d-5e4b-452f-b20f-069ea8eb16c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I can work with this",
+      "trophyDetail": "I can change her!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/fd7eb9e4-2c14-45ca-bcff-8e4ffcab349a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "(I Just) Died In Your Arms",
+      "trophyDetail": "Die in Mia's arms",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/87b5114d-5b42-4bc4-a7a5-a3c3a5afa3f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knock On Wood",
+      "trophyDetail": "Knock on the front door",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/714dc431-f3ad-4832-bcf3-e81dc80d6025.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Masochist",
+      "trophyDetail": "Request that the ritual is made particularly painful",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/357c0b02-c46f-4278-9abb-add3106d874f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meanie",
+      "trophyDetail": "Insult Vinny and get away with it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/c81cd824-75d9-4c1b-824c-26e1feddd64b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Munnie",
+      "trophyDetail": "Earn $100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/714dc431-f3ad-4832-bcf3-e81dc80d6025.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My life as a vacuum salesman who never sells anything",
+      "trophyDetail": "Clutch failure from the jaws of success",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/714dc431-f3ad-4832-bcf3-e81dc80d6025.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My job here is done",
+      "trophyDetail": "Have Mia enter your apartment and then have her leave, without receiving any additional context",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/6bfdadb2-2210-417a-afba-4a368eaf99d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oh Behave",
+      "trophyDetail": "Claim to be a double agent",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/a375273c-fe81-4987-b074-594db3bbd3be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Philosophy Club",
+      "trophyDetail": "Discuss Utilitarianism or Kantian philosophy with Vinny",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/00103c0f-58d5-4a5f-94bc-ef9866504ecf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pocket Sand!",
+      "trophyDetail": "Throw something unexpected.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/285f9b90-ec32-4786-94be-7121c1e4b91c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polite",
+      "trophyDetail": "Close the door to the house",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/714dc431-f3ad-4832-bcf3-e81dc80d6025.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recontextualize",
+      "trophyDetail": "Realize that the other endings weren't as they seemed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/c88edf5b-ef7f-45bb-aa46-7fc4fda13534.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sacrifice",
+      "trophyDetail": "Choose to be sacrificed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/17a0daaa-c140-4737-bef7-118711bdc53d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stealth 100",
+      "trophyDetail": "Sneak out of the basement",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/1606db60-50ac-4ce6-ac8e-455d4f89bc35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Successful Con Artist",
+      "trophyDetail": "Lie to Vinny at the front door and get away with it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/c3394360-7e91-415b-9490-5686590fdc31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Greater Good",
+      "trophyDetail": "Truly get to know Vinny's motives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/9a602e61-5ad8-4641-80de-d03b9ff881ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Secret of Sacrifice Island",
+      "trophyDetail": "Get the reference.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/43656b7b-3514-46c9-bdf4-bb231964f103.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Is Fine",
+      "trophyDetail": "Just trust that Vinny will get you out of there",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/a85d606d-bc79-4396-911d-e97829af7321.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tragic Backstory",
+      "trophyDetail": "Listen to Mia's tragic backstory.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/075baf5e-6248-43ca-92d1-4cb355a9ff74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "W Rizz",
+      "trophyDetail": "Kiss Mia, and live",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/ab20b2b1-d140-45f2-a3de-d1ceb5275fa3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What a nice Birdhouse",
+      "trophyDetail": "Tell Vinny that you really liked her birdhouse without lying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52875_00/f4c8be95-7192-4e69-a176-0a9264b09756.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

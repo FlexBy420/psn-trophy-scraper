@@ -1,0 +1,485 @@
+{
+  "npCommunicationId": "NPWR48810_00",
+  "title": "Bee Simulator: The Hive",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 51,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "A Real Achiever",
+      "trophyDetail": "Collect ALL the other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/fba891eb-6a08-44f7-9c3d-06bc3f06f3ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To Bee Or Not To Bee",
+      "trophyDetail": "Finish The Tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/bcfebd0d-9c63-4f08-b1a6-f977c09d81cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bee To The Rescue",
+      "trophyDetail": "Bring the bee home",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/26f9f666-ccde-475c-bc16-bb36cba5fda0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hello Friend",
+      "trophyDetail": "Unlock an animal statue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/d165a71b-959f-4d25-afd8-c7ca6e93f48e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Expert Collector",
+      "trophyDetail": "Gather pollen for the winter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/a50bb863-d521-4bfc-938f-ac0ee27d3a62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rebeelious",
+      "trophyDetail": "Get in trouble",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/c690508f-a245-4fbb-bee1-44b586728c37.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bee Hero",
+      "trophyDetail": "Be a bee hero",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7de306e6-17f8-4ad1-921c-5f3039002e3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flight Of The Intruder",
+      "trophyDetail": "Discover what a drone does",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/48cc1958-4177-4b11-9f94-1a00e41bcffc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Roof Over Your Head",
+      "trophyDetail": "Find the new hive",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/04df68eb-512b-4199-9cd0-4f54c30dc02d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Exodus",
+      "trophyDetail": "Complete the main story",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/afaac914-5057-42f4-ab11-95e377183212.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's A Zoo Out There",
+      "trophyDetail": "Report to the Queen about animals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/319e13fd-fbe3-4c22-922a-3f6b360b587d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Hunger",
+      "trophyDetail": "Feed the little bees",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/b2e6ff05-2d82-4ed9-9909-724a8c13feff.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chicco In Trouble",
+      "trophyDetail": "Find a guardian for the little squirrel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/0c06b5ef-aa64-4d5f-9165-55515c522b77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spider's Lair",
+      "trophyDetail": "Uncover Anna's web of conspiracy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/c3dd20d9-3492-4552-9d0d-98412a228f93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dodge The Tongue",
+      "trophyDetail": "Collect pollen from the giant water lily",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/729a5211-453b-401d-82b3-ae9276849a4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Foster Family",
+      "trophyDetail": "Help the mother squirrel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/02dd6bb4-7bc1-4509-b63a-1ca660ffd2c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Great Crossing",
+      "trophyDetail": "Help the ants across the water",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/b58b5075-e613-4f80-ad83-92d77e8bef3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord Of The Flies",
+      "trophyDetail": "Defeat the fly gang leader",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/3c11b575-69cd-49fd-9c50-d28222ed1835.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O-Bee-Wan",
+      "trophyDetail": "Find the wise-bee's flower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/15643c6a-fb44-477e-a68c-a30d71fe5e3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hackerman",
+      "trophyDetail": "Take control of the drone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/15313a4f-4a70-4dcd-b661-3120aaa8d8f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Came From Beneath",
+      "trophyDetail": "Drive the mole away",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7a57a8fb-76fc-43bc-91e6-26d976963b19.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interspecies Relations",
+      "trophyDetail": "Dance with a bee from another species",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7eed4a4a-5b24-4f11-a36e-f308b974f940.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flower Power",
+      "trophyDetail": "Collect pollen from 1000 flowers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/808dd4a8-9da5-4105-aa44-0afe0d4df257.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ready To Retire",
+      "trophyDetail": "Collect pollen from 3000 flowers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/d106dc80-bf70-4535-a4c8-2b6d7f94c60c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3000"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast Bee",
+      "trophyDetail": "Complete all the chase challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/5347b6cc-a55f-4879-8970-9a2a437f8507.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dance Revolution",
+      "trophyDetail": "Complete all the dance challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/512bba4b-9f52-4e6d-ab94-47e55381cb7a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "36"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Furious Bee",
+      "trophyDetail": "Complete all the fight challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/23375573-a234-455c-ae92-a8ab49820cc0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "49"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Active Bee",
+      "trophyDetail": "Interact 50 times with the environment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/e74f6ec5-7579-4955-9608-8b80262f31a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bee-zilla",
+      "trophyDetail": "Destroy 20 balloons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/4cebe75a-e660-4fd6-a892-760a4b91f009.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Deluminator",
+      "trophyDetail": "Switch the light in the street lamp",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/b1e2d412-2e67-4f65-815d-96242fa5903c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bee-J",
+      "trophyDetail": "Change music in a boombox",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7237a3ac-f8ba-4747-b02c-0b8da4fadef9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Bee Of The Ring",
+      "trophyDetail": "Find a hidden message",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/b36275c6-afd0-4a34-8e37-5323be977d2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Enigma",
+      "trophyDetail": "Enter found password on the computer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7b106f84-f410-46ee-bece-c33973ec1fc4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unbearable",
+      "trophyDetail": "Sting the bear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/ae09133f-01b5-4168-bda3-9b4a83bf12d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Your Honor",
+      "trophyDetail": "Find the lawsuit notice",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7f26ff10-e8fe-4224-ba62-6190972cedf0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Easter Egg",
+      "trophyDetail": "Find the easter egg",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/e29beec7-3c61-42ce-870f-d6b2c7d0d795.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hyperdrive",
+      "trophyDetail": "Activate Beetro Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/d5e646de-6a1a-41cf-ad62-f75429f9ff29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Changing Point Of View",
+      "trophyDetail": "Use bee vision",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/4365a635-bc3b-4a61-b24e-64aa8598122b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Catch 'Em All",
+      "trophyDetail": "Unlock all animal statues",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/d7d8c209-d4c4-4f29-a1a5-a160362d13bb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "11"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The New Me",
+      "trophyDetail": "Unlock new bee skin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/100d3dbc-6f0f-4932-89eb-98b9d9ed63bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Basketcase",
+      "trophyDetail": "Get all the pollen from the flower lady 15 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/3c2fb20e-98f0-49f4-9ca7-5dc2e7b9e83c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Close Examination",
+      "trophyDetail": "Unlock a 3D animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/d44f72b6-5dd5-4940-91f2-f39b8e6e52f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escape Artist",
+      "trophyDetail": "Complete all the spider web challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/cf8fb68d-336e-4683-8e4c-82c3c83fccc9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "19"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bully-free Zone",
+      "trophyDetail": "Complete the Bully challenge 3 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/f2301acc-3b7d-4901-8b7b-132c434876a5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Early Access",
+      "trophyDetail": "Unlock the Trophy Room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7fea904d-5298-4a96-a0bf-d14af3d8bc00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Access Granted",
+      "trophyDetail": "Unlock the Cave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/06a811ff-6fa2-4194-8809-dc3059542fc6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You Shall Not Pass!",
+      "trophyDetail": "Defeat Harry the Hornet in single combat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/811e8218-e935-4cb0-b55a-9511f943b30d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "To Infinity And Beyond",
+      "trophyDetail": "Fly a total of 10 kilometres",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/7e5b573f-d33e-4941-82df-b46fbb8bc9f0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I Won't Do This?",
+      "trophyDetail": "Complete all challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/25c6e41d-90fc-4d78-bfaa-dde82d90edd0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "124"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sweet Stuff",
+      "trophyDetail": "Feast on human food 30 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/38ee8dc6-4f30-4143-b285-c76606e5464c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Little Bees",
+      "trophyDetail": "Find all the little bees in the park",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48810_00/1e7bf5b4-ab45-4196-802e-d68650bc0c26.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    }
+  ]
+}

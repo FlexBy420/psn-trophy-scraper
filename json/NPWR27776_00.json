@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR27776_00",
   "title": "Gas Station Simulator",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 66,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 75,
   "trophies": [
     {
       "trophyId": 0,
@@ -599,6 +599,87 @@
       "trophyDetail": "Bought / Found 25 decorations.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/3BAF3E4F26442C00BE160B62830DCBF7ACFB27A6.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faithful Servant",
+      "trophyDetail": "Make an offering to Chunchumanchu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/E1C3C7990B881F5389AFFF30D29B1F77E4282BB1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Week",
+      "trophyDetail": "Last a whole week without volcanic eruption",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/57D98DF36EA85A49244DAD1156DDF48D2BC63772.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savior",
+      "trophyDetail": "Drive the shark away before it manages to devour its first victim",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/469D00A86121E0282785482EB92EB413CA3C6733.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Star Service",
+      "trophyDetail": "Last 2 days without any accident on Scuba diving & Surfing stands",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/6AEAA6F701326906CC673D910E1DB07B9098B9EC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deck Hand",
+      "trophyDetail": "Refuel 100 boats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/DBD3D31232273B0E8145B99BCB6E972690A4DC98.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Island God",
+      "trophyDetail": "Learn the wrath of Chunchumanchu",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/BD3AD60FDD3CAC91034D554ACEB443405EEE47E3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lover of Ocean Art",
+      "trophyDetail": "Buy all new oceanic landmarks",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/26290734F07ADE813757F1466E8873D176DE05AB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Global Businessman",
+      "trophyDetail": "Buy all station upgrades",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/96F6580BA13638BE5671C467DA7F8A9339FB55B1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nothing But Net",
+      "trophyDetail": "Hit the coconut at least once from each of the 3 spots near the cauldron",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27776_00_005DCFE026E9A5231BECDEE4421558F1C44714E07A/8B3409247514232408584F238625F7FC42F0B35E.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

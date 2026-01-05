@@ -1,0 +1,541 @@
+{
+  "npCommunicationId": "NPWR45512_00",
+  "title": "Slime Heroes",
+  "platform": "PS4",
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": false,
+  "totalItemCount": 59,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Complete All Other Achievements",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/18AC6DE42307E7CBE6D05CEE1F882BC34794F5EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Purpose",
+      "trophyDetail": "Complete the Tutorial",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/4447EAB33D1B0894E7953F6CA5B4E37EB238138B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "Save Silva",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/F0D33FC0D07599E461A55E2F48DC2876B1F7D265.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fiery Heart",
+      "trophyDetail": "Save Ignis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/D6607E5D721C738648AB45FE73EFBE9667CBCAD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frost Bite",
+      "trophyDetail": "Save Frigus",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/953CADEA15001BFD0890CC154137E98739173851.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Light in the Darkness",
+      "trophyDetail": "Save Lux",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/5E91B3D67E31FB2E77A2C7F73B8A9D5A041809A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shifting Sands",
+      "trophyDetail": "Save Arena",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/0E0E75CCF9041CE53A3174A055599D68A215B22E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Illusion",
+      "trophyDetail": "Save Corrumpo",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/2F092CDA9EE86B4675B48627945312389C3FF780.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Redemption Arc",
+      "trophyDetail": "Save Lotred",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/46887DB3297A488A2E72D72E6B655291F02A77A7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Balance Restored",
+      "trophyDetail": "Defeat Lotred",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/8B7FF4C5BD86F94C4E419B65BB568AFA618023CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Reunited",
+      "trophyDetail": "Save your Friend",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/A80E37F3971080AE8A79D506B0E678021B07A8C4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Glimpse of the Past",
+      "trophyDetail": "Meet Pazmut, the Archaeologist",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/6CDFEC31D3E6EFACE806B6B1253D23C088D226BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tales of a Lost World",
+      "trophyDetail": "Meet Orion, the Last Geyser Shepard",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/E9A477F7DD861C6D7A23E789DE273238FA0B7013.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ranger",
+      "trophyDetail": "Complete Projectile in the Game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/91F85BDB6F9D4AED4ADE137B68D7D63E945849AE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Push and Pull",
+      "trophyDetail": "Complete the Breath Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/4DD0F552B86BC93EFA24F9E2470BA98A0A752020.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cyclone",
+      "trophyDetail": "Complete the Whirlwind Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/BF119B851532B7B642B19EFB5E1BFF09E7767C35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shielded",
+      "trophyDetail": "Complete the Barrier Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/67556DCE4E45142C408C0D0FA9D5CDC08B536882.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faithful Companion",
+      "trophyDetail": "Complete the Spawn Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/21157B491678BF12F27A59BE6375CC637C00A41A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Duplication",
+      "trophyDetail": "Complete the Decoy Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/0A8C87DB590E15EEF7189421C4AD72137CC2DBBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Far Reaching",
+      "trophyDetail": "Complete the Grapple Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/0A78C7289A45EAFE8E32F17AA5FAE404513367B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mirror Mirror",
+      "trophyDetail": "Complete the Reflect Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/5E89CBB321FDD5C3EE1295FBFA796AAAE7E73FF5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Around and around",
+      "trophyDetail": "Complete the Roll Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/B792655C01FF611A17F623D311137EC6016F2E17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lights On",
+      "trophyDetail": "Complete the Pillar Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/F05C71430B277A27C312E9E2B56220E7C263721F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ensnared",
+      "trophyDetail": "Complete the Root Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/60F9719ECA56C966713E1CE4A3362657DA6EED5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stealth mode",
+      "trophyDetail": "Complete the Gas Dungeon",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/E1318CFC87EFB6082DD0D3CD3E0210480E49F207.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Master",
+      "trophyDetail": "Complete All Puzzle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/B115B4FD0A01852202DE959B061170A7623F3F9F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weed Trimmer",
+      "trophyDetail": "Complete all Forest Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/2DA1A66DE893BAC29AA44E061BE2364A0E4E65D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire Extinquisher",
+      "trophyDetail": "Complete all Fire Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/E317A3ADF7CB7EA07FFCD1C788F01C68C5D43670.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Melting Snow",
+      "trophyDetail": "Complete all Ice Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/414F371DC1FEE8A7AACE6F933B103710FC60FE4F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bioluminescent",
+      "trophyDetail": "Complete all Cave Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/40FD8553B9B5AC82140EE4BA9297F8CA257EDF99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deserted",
+      "trophyDetail": "Complete all Desert Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/8B8CDCF53B07B220840091DBEA1A7F6493232876.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Murky Waters",
+      "trophyDetail": "Complete all Swamp Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/E16F39E0E4466151E865DA890057EB79128D4F97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Master",
+      "trophyDetail": "Complete All Battle Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/4D784FA01746CB6D458181A3FC2B1D434DBFB00F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dungeon Diver",
+      "trophyDetail": "Complete All Dungeons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/9D5A80762E0C9C24E776B5257005FAD28BA15850.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hat Rack",
+      "trophyDetail": "Collect All Hats",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/230FA9944C6BACE06224186977117187169A832E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arsenal",
+      "trophyDetail": "Collect All Weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/BA7147D8D71A5FE5E98C8B7769FE4B9F5637B042.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Artisan",
+      "trophyDetail": "Collect All Skills",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/86E743414623BA1F835F5AE0769F74D5770BD859.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Projections",
+      "trophyDetail": "Find the Cave Projections",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/8B1F81A3C84AC551751B3987CC50958854B05534.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ominous Origins",
+      "trophyDetail": "Find the Dark Seal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/ED3101111D3EEF7A1A902BC175AB95DFCDE70ADB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creepy Crawlers",
+      "trophyDetail": "Find the Spider Nest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/D6D9771D169C2B9F069737F186BBE80EA15B8549.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Banksie",
+      "trophyDetail": "Have 8000 Shards of Experience Banked",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/A234F9B0A0905F3FA6A45DE67565F1D861C0C824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unstoppable",
+      "trophyDetail": "Save 100 Enemies without Dying",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/AD35397E3511738712E4077162D875DBFB9F247D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One More Try",
+      "trophyDetail": "Die 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/55AF0F8518772B34574E511C3A4D71CFFA391700.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Remote Detonation",
+      "trophyDetail": "Spawn a Skill from your Decoy",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/6337ADC03C217175572233C031833F54DF91ED97.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broken Shells",
+      "trophyDetail": "Find the Wigal Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/B1493134CA8AE113F8A05FE689E3CD6F1D3D9520.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bee Pods",
+      "trophyDetail": "Find the Botee Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/ECBFA9A9E6AFC284BB42727693EFDC1985E1701C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystalline Pools",
+      "trophyDetail": "Find the Spiker Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/42BF6730F04E2AA63FCFF1A0B0B4C83CDD4AF8D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acorns and Icicles",
+      "trophyDetail": "Find the Peguis Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/F4D047FCB7E87663F2FCE2DFF1A36659F73FE3B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sandy Sanctuary",
+      "trophyDetail": "Find the Bunny Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/1DDB2C45EA176FF30909BDFE753C8A00139DF03B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mossy Resort",
+      "trophyDetail": "Find the Flower Village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/8A778E76D78DD7769A8D648643C9F93136459190.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sluggish Savior",
+      "trophyDetail": "Save the Wigals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/33A3C803A77113A7E3677D83F0262D4EC4691267.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Busy Bee",
+      "trophyDetail": "Save the Botees",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/42964943CEB494E79D93729008CC5C94B3392693.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From the Ashes",
+      "trophyDetail": "Save the Spikers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/611FB68000946F5FDA21F5A47EC6F521A2E0F293.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Neighboring Corruption",
+      "trophyDetail": "Save the Peguis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/9B6F42528D721FD49669FC8EB024E75AA48B8086.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hopping, Helping, Healing",
+      "trophyDetail": "Save the Bunnies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/05430568E14313E3204FBC92B2DD7421234B145F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Through the Fog",
+      "trophyDetail": "Save the Flowers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/042DF0E37D961CD88FA9EADFA3683C5A6595B9A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Powerhouse",
+      "trophyDetail": "Deal 500 points of damage in one attack",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/47BD73B02513BDE95C77C0768E9BB00C35FDA0EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "C-c-c-combo Breaker",
+      "trophyDetail": "Use 10 Unique Skill Combinations",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/8C6E12362C2BDB99BF1519D41A34E71AEF83E173.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wet Sand",
+      "trophyDetail": "Find the Desert Oasis",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45512_00_00FD7E176E7A50E48A90B55D5EB1E79E29104FBEB8/F30DEE9E2F61E1E5A057664562A54DEA981A2A48.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "npCommunicationId": "NPWR57418_00",
+  "title": "Anarchy Racer Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 23,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "King of the Wasteland",
+      "trophyDetail": "Unlock all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/0c88170b-f089-4b18-bb4a-a9b95d16a5c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Blood",
+      "trophyDetail": "Destroy your first 50 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/dd5fd05f-9c06-4655-933d-9cb15cd9ee99.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safe Delivery",
+      "trophyDetail": "Win 10 Escort missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/2ea80ec0-56d8-4301-8ca5-1f7e053cf767.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ring Ripper",
+      "trophyDetail": "Win 10 Arena missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/4a06ed97-e89c-49f8-b170-c5a37ab758e0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speedster",
+      "trophyDetail": "Win 10 Racing missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/5382efa0-46d5-46d6-9279-49b329fa92cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turbo Grab",
+      "trophyDetail": "Collect 100 Nitro boxes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/616fdff7-3085-4002-9871-2ef1453ceaa7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ammo Raider",
+      "trophyDetail": "Collect 100 Ammo boxes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/bc669892-9acd-4539-9358-459f05595cba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Med Grabber",
+      "trophyDetail": "Collect 100 HP Boxes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/abba5b30-d6b8-4880-9467-a2520fb82f50.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grease Money",
+      "trophyDetail": "Earn 25,000 coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/bf67e3e1-9d40-4553-a99c-3cb771854316.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25000"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wrecking Rampage",
+      "trophyDetail": "Destroy 500 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/c61ab657-96ec-4cad-a6dd-8a40721f5145.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Convoy Commander",
+      "trophyDetail": "Win 30 Escort missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/530e10b8-9dbb-47b6-ac6e-d48273e8771e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blood in the Ring",
+      "trophyDetail": "Win 30 Arena missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/6ca7fd04-72aa-4033-bfe6-633cae6ed9c8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boost Burner",
+      "trophyDetail": "Win 30 Racing missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/895cbc5c-08bd-4834-9d5b-7978c1ce533c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Paint Job",
+      "trophyDetail": "Collect 5 rare skins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/05b97d4a-7179-4c43-a071-d504ef9e2363.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scrap King",
+      "trophyDetail": "Earn 50,000 coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/f0c6891c-c7af-4ff7-a638-c55ecc24d4c1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Total Carnage",
+      "trophyDetail": "Destroy 1,000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/5b55b97f-81c8-4380-958b-f547e37af3d6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Unstoppable",
+      "trophyDetail": "Win 100 Escort missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/52fe99f1-944a-4af4-b9c7-e605ecddd8c8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Chaos Champion",
+      "trophyDetail": "Win 100 Arena missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/0ecfeb0a-cbef-49ad-b086-23c62fc06cb6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Road Reaper",
+      "trophyDetail": "Win 100 Racing missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/5aaec38d-9990-4bbd-8a57-6ef52656d558.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Skin Collector",
+      "trophyDetail": "Collect 20 skins in total.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/e478ce42-1a15-43f5-acf8-56464d092bba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Mad Fortune",
+      "trophyDetail": "Earn 100,000 coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/f2f530db-a24e-400c-8355-19d17adef474.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Legend Hunter",
+      "trophyDetail": "Collect 50 Legendary car parts.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/0082ed7c-da43-4ddd-8c98-f07acd39e251.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Battle Scars",
+      "trophyDetail": "Take a total of 1,000,000 damage units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57418_00/b60b1e13-fc0a-4581-956a-138a3f633fc3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39995_00",
   "title": "Clue",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 20,
+  "totalItemCount": 22,
   "trophies": [
     {
       "trophyId": 0,
@@ -83,7 +83,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Appearances Matter",
-      "trophyDetail": "Play a game with an alternative customization item equipped ",
+      "trophyDetail": "Play a game with an alternative customization item equipped",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/6BD5AA35BD52BB835ACA4B3F3A57335D191B06AA.PNG",
       "trophyGroupId": "default"
     },
@@ -92,7 +92,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "A Victorious Token",
-      "trophyDetail": "Win a game with an alternative Token equipped ",
+      "trophyDetail": "Win a game with an alternative Token equipped",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/FE2E4303F894443EA9FBF395B9EE7E99E28FE515.PNG",
       "trophyGroupId": "default"
     },
@@ -155,7 +155,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Playing God",
-      "trophyDetail": "Complete the (Whispering Pines Retreat) Case File",
+      "trophyDetail": "Complete the Whispering Pines Retreat Case File",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/1D36C92D316D2521D33BB1D54A02507AC4043423.PNG",
       "trophyGroupId": "002"
     },
@@ -185,6 +185,24 @@
       "trophyDetail": "Play 5 games at the Polar Research Station",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/3AE2C260E337BA3A00A5AB30930C9C301642CE41.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The City Never Sleeps",
+      "trophyDetail": "Complete the (Noir Mansion) Case File",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/B0954B746654E924E4CF021C73ED79E3BCE172CD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent Mansion",
+      "trophyDetail": "Play 5 games at the Noir Mansion",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39995_00_008772C46048A329BB9DEF79DD715B0F3AF7CFE2D8/FE98B388D0D80206D89842FB26295F572E83895F.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

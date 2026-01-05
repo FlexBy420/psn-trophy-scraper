@@ -1,0 +1,766 @@
+{
+  "npCommunicationId": "NPWR50354_00",
+  "title": "Screw Master",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 84,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Screw Mage",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/9fde7f0e-0c78-4561-b696-0eb511ff3545.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 15",
+      "trophyDetail": "The time ran out 15 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3d447567-21ab-432e-a220-46dbc6ef15da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 14",
+      "trophyDetail": "The time ran out 14 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/8c7ccfac-927f-45e3-9b67-e86647e0eddb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 13",
+      "trophyDetail": "The time ran out 13 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/4bb351d5-194f-45f2-88bf-57dec23d5182.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 12",
+      "trophyDetail": "The time ran out 12 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/eae5332b-ab85-42a9-81a9-b8ab29a81cd8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 11",
+      "trophyDetail": "The time ran out 11 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/97a21fb2-55d4-4376-9341-4a0fb571d18e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 10",
+      "trophyDetail": "The time ran out 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c027a153-9404-442a-adef-d993d3b8f623.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 9",
+      "trophyDetail": "The time ran out 9 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/1b3fc651-36e7-4647-9a57-fb1b66005a97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 8",
+      "trophyDetail": "The time ran out 8 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/af75243e-642f-4d12-a6ca-6949928a3a34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 7",
+      "trophyDetail": "The time ran out 7 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/d67a8d94-be94-4ad6-97d1-5e6cc1d4ab9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 6",
+      "trophyDetail": "The time ran out 6 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/edbdba8f-7522-4412-beef-efc5022b1be8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 5",
+      "trophyDetail": "The time ran out 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3d27a7e3-fddc-4cc3-8699-4849370cae9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 4",
+      "trophyDetail": "The time ran out 4 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/2790418b-57d6-41c4-bf01-8ece847638fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 3",
+      "trophyDetail": "The time ran out 3 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/965d89eb-5584-4f6e-b7d3-dcbdefa72e42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time 2",
+      "trophyDetail": "The time ran out 2 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3a0dac57-0bb7-4708-a118-f7b146699e89.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time",
+      "trophyDetail": "The time ran out for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/dc9314be-067f-4d5f-bd26-0b614ba2ff58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "60 Seconds",
+      "trophyDetail": "Complete a level with less than one minute left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/21742217-fec3-4e3b-ac59-96635d458493.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "55 Seconds",
+      "trophyDetail": "Complete a level with less than 55 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/1d17d3e1-aad8-4173-b7a2-6570b073e0d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 Seconds",
+      "trophyDetail": "Complete a level with less than 50 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/b6407f9f-d4dc-4d25-83f0-2777adddd84d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "45 Seconds",
+      "trophyDetail": "Complete a level with less than 45 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/9f72ddfd-9926-4f01-8fd6-e7d2f440e2b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "40 Seconds",
+      "trophyDetail": "Complete a level with less than 40 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/55aeaa67-53b7-4185-ae56-0bed160d0a43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "35 Seconds",
+      "trophyDetail": "Complete a level with less than 35 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/18f7da95-b51a-4717-9489-935b1f71fd1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "30 Seconds",
+      "trophyDetail": "Complete a level with less than 30 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3e283825-d3a1-4835-9010-f038fe22965d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "25 Seconds",
+      "trophyDetail": "Complete a level with less than 25 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/8173af71-b155-4d6d-86bf-26505c22dccd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Seconds",
+      "trophyDetail": "Complete a level with less than 20 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/82760938-bd66-4d6c-81b7-3d2df6dc0665.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "15 Seconds",
+      "trophyDetail": "Complete a level with less than 15 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/f4a3dd86-f85a-4819-8dbb-c70a9ecbe069.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Seconds",
+      "trophyDetail": "Complete a level with less than 10 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/81ec2bd2-4510-4f6d-89dd-df17d3493627.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Seconds",
+      "trophyDetail": "Complete a level with less than 5 seconds left on the clock",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/e0fe5d64-0132-490e-adac-691e8f31dc87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 43",
+      "trophyDetail": "Complete Level 43",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/7c00c9de-8efb-416a-a0e3-ae3c45462979.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 42",
+      "trophyDetail": "Complete Level 42",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/ebe4865b-cedb-4f4d-ad21-33bdd8928eb1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 41",
+      "trophyDetail": "Complete Level 41",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/5e37941f-37b1-42f6-8f95-bc8a515c185c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 40",
+      "trophyDetail": "Complete Level 40",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/9dcf6d5e-9120-480d-89c1-bd19de4134fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 39",
+      "trophyDetail": "Complete Level 39",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/e51ad53b-7b4b-44bb-9053-04ad75860c1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 38",
+      "trophyDetail": "Complete Level 38",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/58f7ac4d-71f2-4739-bf96-671fc6a2f383.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 37",
+      "trophyDetail": "Complete Level 37",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c7113dbd-7dc7-4abb-b8e2-0527a8eb666b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 36",
+      "trophyDetail": "Complete Level 36",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/8e03f6b5-30dd-4994-aa24-27f0052e34af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 35",
+      "trophyDetail": "Complete Level 35",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c22a461d-66b3-4790-8bdb-c84102b37dc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 34",
+      "trophyDetail": "Complete Level 34",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/d494eb1a-d316-439e-a5e6-3310e3fa2261.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 33",
+      "trophyDetail": "Complete Level 33",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/22c17942-1419-4cf9-92d5-bfd36d9da6e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 32",
+      "trophyDetail": "Complete Level 32",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/a9a2d40a-ba33-4aa2-bbdd-71fd6c89e710.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 31",
+      "trophyDetail": "Complete Level 31",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/ae042784-4b0d-4853-bade-11d928c867b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 30",
+      "trophyDetail": "Complete Level 30",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/18ec5fdc-3128-4c3d-b6ce-454dc3ad467d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 29",
+      "trophyDetail": "Complete Level 29",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/1655a5ed-f680-4976-8673-be6919879710.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 28",
+      "trophyDetail": "Complete Level 28",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/49e90225-7b0e-40e1-a898-b360ee607b47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 27",
+      "trophyDetail": "Complete Level 27",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/1654a7d5-bc50-4720-a89b-a87c4e19c62d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 26",
+      "trophyDetail": "Complete Level 26",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3f14bb5a-fda9-4645-ba1e-2e31182ddc08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 25",
+      "trophyDetail": "Complete Level 25",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/7cbb2701-2e67-4ef3-ab75-174b6922e362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 24",
+      "trophyDetail": "Complete Level 24",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/62545a84-3f77-4d7c-9506-7d366c6b4c35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 23",
+      "trophyDetail": "Complete Level 23",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/749f388a-e329-4213-a8c3-646c883e526a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 22",
+      "trophyDetail": "Complete Level 22",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/497faf1f-1e6c-4ed3-bf02-985e783dac3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 21",
+      "trophyDetail": "Complete Level 21",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/38414192-9d2e-4481-a2f6-dca638c7e969.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 20",
+      "trophyDetail": "Complete Level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/2cbd268b-ed3f-4af6-9b49-61195d42f295.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 19",
+      "trophyDetail": "Complete Level 19",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/13070943-2f45-4fc5-9b77-bd204359d6a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 18",
+      "trophyDetail": "Complete Level 18",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/fe033e94-1bf3-42b8-8bd8-76b63c6683b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 17",
+      "trophyDetail": "Complete Level 17",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/31a93860-3b68-497f-a877-009e2ecd05db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 16",
+      "trophyDetail": "Complete Level 16",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/b7aa5040-68e9-40d8-b508-1901411872aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 15",
+      "trophyDetail": "Complete Level 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/5aa31d74-ba30-491b-9c36-8eeb4e052a53.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 14",
+      "trophyDetail": "Complete Level 14",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/586c9f53-4752-4da7-b0f6-a91703e6b137.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 13",
+      "trophyDetail": "Complete Level 13",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/68150f07-2b4e-4144-a1b3-03d55eaa8bb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 12",
+      "trophyDetail": "Complete Level 12",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/6e45f4a6-6b5b-4f01-a219-064b67f647a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 11",
+      "trophyDetail": "Complete Level 11",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/f46bd187-96ad-4e13-b926-00f65345d8f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 10",
+      "trophyDetail": "Complete Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/e6dd04f7-f73f-4bdb-a277-fb63b2f00627.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 9",
+      "trophyDetail": "Complete Level 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/1bc2a35a-a72b-480a-a401-1f9e6ce90ed1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 8",
+      "trophyDetail": "Complete Level 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/9aceaee0-2c44-4d9a-abc3-176bb6a0552e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 7",
+      "trophyDetail": "Complete Level 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c6f0efd6-9296-47e4-a5b7-4a219997fdb3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 6",
+      "trophyDetail": "Complete Level 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c6a3f9f4-7030-446c-8dfc-0661507b7e12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 5",
+      "trophyDetail": "Complete Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/9f349247-2ecc-40ee-a2f0-f90543d3a6ee.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 4",
+      "trophyDetail": "Complete Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c5fc1ef3-0706-45ca-a31a-ebfbaede51b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 3",
+      "trophyDetail": "Complete Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/f2d964c2-864f-45fc-a525-4e9c394aefe7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 2",
+      "trophyDetail": "Complete Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/c895f23d-ee2c-435c-af4e-213e69837ad1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 1",
+      "trophyDetail": "Complete Level 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/e10d7e07-c730-4681-b92a-b0db06fc57b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 13",
+      "trophyDetail": "Pass 13 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/8cfd7497-be4e-4786-b368-b0b8691b13d5.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 12",
+      "trophyDetail": "Pass 12 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/8600f314-5ad6-46f1-8c73-051d8e1585fa.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 11",
+      "trophyDetail": "Pass 11 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/888ab4f5-128c-4582-817e-0c84ef32ab6d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 10",
+      "trophyDetail": "Pass 10 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/57059ef1-e8d5-4967-b374-aec1af532550.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 9",
+      "trophyDetail": "Pass 9 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/2fb082fa-bbb3-41e2-b709-5c2bbf81cd1f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 8",
+      "trophyDetail": "Pass 8 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/01edfaba-1e19-4211-b5d5-ab685ee23b27.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 7",
+      "trophyDetail": "Pass 7 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/03adcc04-084a-4a0b-a063-dd89b5392658.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 6",
+      "trophyDetail": "Pass 6 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/43e9408d-3c34-4dde-831a-b9045343f406.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 5",
+      "trophyDetail": "Pass 5 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/0bb0fe3c-ec6a-4b58-98ab-6d77983ac298.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 4",
+      "trophyDetail": "Pass 4 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/4087f02c-4da4-4e0e-b2fe-c2b9bffe3db6.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 3",
+      "trophyDetail": "Pass 3 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/3d1eae7c-748b-4d79-a1a7-7fd84e0a9023.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 2",
+      "trophyDetail": "Pass 2 DLC levels",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/d4e6cfbc-02ce-405f-8873-b5b737df236f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DLC Level 1",
+      "trophyDetail": "Pass your first DLC level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50354_00/b1e3795f-0909-40b6-b369-001559722e6b.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

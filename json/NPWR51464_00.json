@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR51464_00",
   "title": "Cat From Hell - Cat Simulator",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 10,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 16,
   "trophies": [
     {
       "trophyId": 0,
@@ -95,6 +95,60 @@
       "trophyDetail": "Frame the black cat and make grandma kick him out of the house",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/752CFB659C9DAB8AB2D9319F1F65D415AC5CFEE6.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Balloon Apocalypse",
+      "trophyDetail": "Pop all the balloons in the birthday location",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/5EC7615DC938B71EE3D645E6FEE891DCB5C34C41.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bald Truth",
+      "trophyDetail": "Shave the grandma with hair clippers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/66C3901BC236A977B35231383391E01A7EB0B49A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sweet Joy",
+      "trophyDetail": "Make the grandma happy with a cake",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/2CF850C7B9B73C89AC484684641E62E98B1E34E5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boomerang ",
+      "trophyDetail": "Poison the grandma with a cake",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/1B5B7242674539C75D9CAAACDF39A9E22E259D59.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ignition Cake",
+      "trophyDetail": "Set the grandma on fire with a cake",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/2ED83EC53D29766090084ADC6B7A72BE79A8AFF4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surprise",
+      "trophyDetail": "Hit the hanging piñata 10 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51464_00_00D809B4697E22E445B63D09BDC1FC0872D0511EF0/45B3B779FA6BE42433AB1C657C2138BAAE919222.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

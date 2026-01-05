@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR44662_00",
   "title": "Against The Storm",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
+  "trophySetVersion": "01.01",
   "hasTrophyGroups": true,
-  "totalItemCount": 69,
+  "totalItemCount": 81,
   "trophies": [
     {
       "trophyId": 0,
@@ -626,6 +626,114 @@
       "trophyDetail": "Create 20 experimental cornerstones in the Ashen Thicket. (Keepers of the Stone)",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/4319DAAC883FAC16B8060D75EF99BE8F3727F438.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bat Utopia",
+      "trophyDetail": "Win a game with 30 Bats, 15 x Bat House, 1 x Academy (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/5A2E612EC7A6AA127B99ECF9D5EC4BEFADE08A9C.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Rocky Ravine",
+      "trophyDetail": "Win a game on the Rocky Ravine biome. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/38531ECC5BC20E86A111CD18DFE294936C522843.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bamboo Flats",
+      "trophyDetail": "Win a game on the Bamboo Flats biome. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/9595F86262DD7C29F01AB44DDF7A1D6D86754CDB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exiled",
+      "trophyDetail": "Exile 50 villagers in the Manorial Court. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/25C867FE18A88637535F940D69ABBBCB3147D06D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Weakest Link",
+      "trophyDetail": "Exile 15 villagers in the Manorial Court in one game. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/C28A097B50DAA21AF3F827E204E263C10F16FD02.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shady Dealings",
+      "trophyDetail": "Complete 50 transactions on the Black Market. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/312CCA125EE6A80DA266B9270261AD56AB7492EB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Living on Credit",
+      "trophyDetail": "Buy goods worth 500 Amber on credit on the Black Market. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/55296795B85007AFC060FD3AAAECE2203AC649F3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "Win a game after building at least 40 Fertile Fields in the Bamboo Flats. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/A43FA61EC8AF6F62A369A91DB41D0AA82D1516EB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peaceful Life",
+      "trophyDetail": "Keep the Fluffbeak's well-being at 75% or higher for at least 20 minutes. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/997C9B98C300232EA136A42144311A925F739AD5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drylands",
+      "trophyDetail": "Win a game near the Drylands modifier. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/07F879A5F90C16E34F0D660C00C450E58B3FC2FB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent Dominion",
+      "trophyDetail": "Win a game near the Silent Dominion modifier. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/2F763FBB3ED5EAB8C02F9CE5C16B0991EE6314D0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Riverlands",
+      "trophyDetail": "Win a game near the Riverlands modifier. (Nightwatchers)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR44662_00_00AE10C807B5A408444F6050031FABFE586C3CE742/B7AE0BB7C9AD1EE162038E7173FD5F3899B04F17.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

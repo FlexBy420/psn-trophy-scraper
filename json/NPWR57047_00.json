@@ -1,0 +1,199 @@
+{
+  "npCommunicationId": "NPWR57047_00",
+  "title": "ION Shift",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 21,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Survivor",
+      "trophyDetail": "Complete the game on normal difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/8a5a909a-1ae4-4937-9490-cb7beb48473e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cold-blooded",
+      "trophyDetail": "Complete the game on hard difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/865d3414-1ed2-4b5d-8dfd-7f2761e74959.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Demon",
+      "trophyDetail": "Complete the game on hardest difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/00ecde48-289a-472d-8787-424d39f910ed.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Steel balls",
+      "trophyDetail": "Complete the game on impossible difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/f1434b7c-f44f-4034-91dd-581aebb7e5b7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No toys",
+      "trophyDetail": "Complete a level without using toys. Levels 7, 15, and 16 are not counted.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/19ff3a94-d0fd-4733-a3b3-c640066fac4a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Untouchable",
+      "trophyDetail": "Complete a level without dying on any difficulty. Level 1 is not counted.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/e1451060-c6ac-4365-aa73-27eb18ad4bf0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Iron man",
+      "trophyDetail": "Complete the game without dying on any difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/65474213-ed2d-4464-b451-92dd9087b71a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bloodbath",
+      "trophyDetail": "Kill 10000 soldiers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/2d1677c0-e227-448a-b2b0-3addeef66498.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Please, no more!",
+      "trophyDetail": "Die 1000 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/ea422fb9-ea4a-42b1-ac8e-bdda37bead2c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friendly fire",
+      "trophyDetail": "Use turret to kill two soldiers at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/7d9eee73-437e-4d4e-a754-14191fc2f3d1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slingshot",
+      "trophyDetail": "Use charge drone to kill two soldiers at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/58ee1f9a-c66e-411f-9495-25170df85053.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beam breaker",
+      "trophyDetail": "Kill a laser drone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/e50cb161-5850-4fe1-a5e0-13d2096efe7b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fireworks",
+      "trophyDetail": "You blown two soldiers at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/5bb04734-93d9-40f8-ad3b-33bd05dab42b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wreckage",
+      "trophyDetail": "Kill a turret",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/02909733-212b-4742-a021-915606363459.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dazed and defeated",
+      "trophyDetail": "Kill stunned regular or shielded soldier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/cdb323c5-1d2c-4236-af4c-a35df4ab0f40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Predator",
+      "trophyDetail": "Kill all soldiers on level 13",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/a65a8349-6844-4db2-8dbe-4191b12f6615.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "True hunter",
+      "trophyDetail": "Kill all soldiers on level 14",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/a65a8349-6844-4db2-8dbe-4191b12f6615.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Firefighter",
+      "trophyDetail": "Used a fire extinguisher to put out the fire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/12a52ce9-f8a3-4772-9102-2bd400eecd4a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cat and mouse",
+      "trophyDetail": "You have escaped from Joe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/7ffc3ab3-d1f2-4049-b930-1458c80fad45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Not this time",
+      "trophyDetail": "You have escaped from Joe in a second time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/e046f363-da1c-4b38-846a-4ff6f5e7011a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Burn baby, burn!",
+      "trophyDetail": "You have become Joe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57047_00/b9d9ed29-b319-4634-afb8-721fdf856558.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

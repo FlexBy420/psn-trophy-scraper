@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR42322_00",
   "title": "Ticket To Ride",
   "platform": "PS4",
-  "trophySetVersion": "01.06",
+  "trophySetVersion": "01.07",
   "hasTrophyGroups": true,
-  "totalItemCount": 79,
+  "totalItemCount": 85,
   "trophies": [
     {
       "trophyId": 0,
@@ -716,6 +716,60 @@
       "trophyDetail": "In Africa, win 5 games against 4 Hard AI",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/3C4C348EE0193C53A58C115721835058A921102B.PNG",
       "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Trip",
+      "trophyDetail": "In Germany, win a game while having claimed at least two 7-length routes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/9D66A6B649E21BEC8C0F883F9EBBBFE45F231BDE.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "People-person",
+      "trophyDetail": "In Germany, win a 4 player game while having collected more Passengers than any other player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/5C8697294AD02DAD8CB1DC12F0C82B0AC8304FFC.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Layover",
+      "trophyDetail": "In Germany, win a game while connecting at least 3 other countries",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/ED8BC488AE37A79A61DAAB8F560B03210D7B3325.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crowded",
+      "trophyDetail": "In Germany, win a 4 player game while having the most Passengers of at least 3 different colours",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/6A58873C6A4EB742808BE17C8AFCD9D3083344C1.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In for the Long ride",
+      "trophyDetail": "In Germany, win a game while having completed at least 5 Long Tickets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/197603BD82C37FAA82DAA142E4E64BE4415D24DC.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Select Audience",
+      "trophyDetail": "In Germany, win a 3 or 4 player game while having collected all 10 Passengers of a single colour",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42322_00_0006A4FA4F84C1058CFF8DAF1C2D3063472894EC02/3FD07122B9C746760A069E6BBF7620F536254A05.PNG",
+      "trophyGroupId": "009"
     }
   ]
 }

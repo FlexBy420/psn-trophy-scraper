@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR17093_00",
   "title": "Human Fall Flat",
   "platform": "PS4",
-  "trophySetVersion": "01.12",
+  "trophySetVersion": "01.13",
   "hasTrophyGroups": true,
-  "totalItemCount": 100,
+  "totalItemCount": 103,
   "trophies": [
     {
       "trophyId": 0,
@@ -905,6 +905,33 @@
       "trophyDetail": "Use the spring boards to get across the chasm in \"Underwater\"",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/FD931CAE3E8C44614E04128BB1A734E7FD34C9B2.PNG",
       "trophyGroupId": "016"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ship it",
+      "trophyDetail": "Complete \"Dockyard\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/7F92103E71C8CC98CACD3C02754B0E812B4D55A5.PNG",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Olympic Grandeur",
+      "trophyDetail": "In \"Dockyard\", use the chains to swing directly to the window",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/8EF07B9623E40A163CE722014C53FB28519F69DA.PNG",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shattered dreams",
+      "trophyDetail": "Smash all the glass in \"Dockyard\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/30624878043FEC066807429C9265B0EF1FD4D79C.PNG",
+      "trophyGroupId": "017"
     }
   ]
 }

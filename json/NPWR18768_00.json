@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR18768_00",
   "title": "Guilty Gear -Strive-",
   "platform": "PS4",
-  "trophySetVersion": "01.03",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": false,
   "totalItemCount": 39,
   "trophies": [
@@ -65,7 +65,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "I'll have a Little of Your Time",
-      "trophyDetail": "[VS CPU] Win against a CPU opponent.",
+      "trophyDetail": "[VERSUS] Win against a CPU opponent.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18768_00_00256FF57BFB93774AC523BA84D63A93C60E1024A0/950D879867C701E370FCCCD2D32FA00B86AC18D4.PNG",
       "trophyGroupId": "default"
     },
@@ -137,7 +137,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Gateway to the Tower",
-      "trophyDetail": "[ONLINE MATCH] Fought a match in the Rank Tower.",
+      "trophyDetail": "[LOBBY MATCH] Fought a match in the Duel Tower.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18768_00_00256FF57BFB93774AC523BA84D63A93C60E1024A0/BE2EBDE3F266AA43E43218082F9B7350A6C94E69.PNG",
       "trophyGroupId": "default"
     },
@@ -146,7 +146,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "To the World Outside",
-      "trophyDetail": "[ONLINE MATCH] Fought a match in the Open Park.",
+      "trophyDetail": "[LOBBY MATCH] Fought a match in the Open Park.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18768_00_00256FF57BFB93774AC523BA84D63A93C60E1024A0/2DE6CEAE9FB30719BEA206C8B5F2ED418E425F72.PNG",
       "trophyGroupId": "default"
     },
@@ -155,7 +155,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "The Room where Demons Dwell",
-      "trophyDetail": "[ONLINE MATCH] Completed the Network Mode Tutorial.",
+      "trophyDetail": "[LOBBY MATCH] Completed the Network Mode Tutorial.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18768_00_00256FF57BFB93774AC523BA84D63A93C60E1024A0/03E2C21CC4C860565B29341D410DEAF4B0E28D8C.PNG",
       "trophyGroupId": "default"
     },
@@ -271,7 +271,7 @@
       "trophyId": 29,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Extraordinary Denfensive Instinct",
+      "trophyName": "Extraordinary Defensive Instinct",
       "trophyDetail": "Successfully block an attack with Faultless Defense 100 times while in a match.\n(Excluding Tutorial Mode and Team of 3 Mode)",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18768_00_00256FF57BFB93774AC523BA84D63A93C60E1024A0/58B95726ED88A480CB9B0B705499EF6B194F077C.PNG",
       "trophyGroupId": "default"

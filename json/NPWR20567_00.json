@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20567_00",
   "title": "Minecraft: PlayStation®4 Edition Set 2",
   "platform": "PS4",
-  "trophySetVersion": "01.34",
+  "trophySetVersion": "01.35",
   "hasTrophyGroups": true,
-  "totalItemCount": 20,
+  "totalItemCount": 21,
   "trophies": [
     {
       "trophyId": 0,
@@ -185,6 +185,15 @@
       "trophyDetail": "Place a Dried Ghast block into water",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/D44612740AD299EBBDFC564CFA232B77B2D81034.PNG",
       "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mob Kabob",
+      "trophyDetail": "Hit five mobs in the same Charge attack using the Spear",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/689E9AA613B5741E4807995F3F59E144FDD71331.PNG",
+      "trophyGroupId": "008"
     }
   ]
 }

@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR51005_00",
+  "title": "Blocky Blast",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Block Boss Supreme",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/40E200DC66A2582CD0496D3F392CDDD3983E15ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Gem Grab",
+      "trophyDetail": "Collect 10 gems in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/10E2A7C4DFA6E7FDA82CD469C9CA25FD4A697821.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Gem Trouble",
+      "trophyDetail": "Collect 30 gems in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/CC9B1308E3FFBE13343466067AFB2F08AD705E1C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oops Gem Grabber",
+      "trophyDetail": "Collect 60 gems in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/453327585EEF475F3897D2E95BB42F4D4852537A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gem Tumbler",
+      "trophyDetail": "Collect 100 gems in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/57BDFF374CDA2605819EA93285392618B1C03C09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiny Block Blaster",
+      "trophyDetail": "Place 10 blocks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/1FCA23C2F5B9377C096F0C7319EFEF616D1FAC89.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Stack Attack",
+      "trophyDetail": "Place 50 blocks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/24049E07A15C2FD2B955463187DDF041E8EF5C87.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Block Hoarder",
+      "trophyDetail": "Place 100 blocks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/1CE2D0A83511E4C1F69EF1FA6A67CDA97750E6D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tile Fanatic",
+      "trophyDetail": "Place 150 blocks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/C70CFB11FAE173131F6BADA3AB68494BE69E39E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grid Filler Supreme",
+      "trophyDetail": "Place 200 blocks in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/620359EE2EFDCC06339936D7E88A8FD222661B61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beginner's Luck",
+      "trophyDetail": "Pass level 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/17A5A3D74FF837EABD3BA616C7E01BBE2E8913EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 2",
+      "trophyDetail": "Pass level 2",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/2697799CC3F0610836F584FC3434D96F90A2F5D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Third Time's the Charm",
+      "trophyDetail": "Pass level 3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/257C1F6F260EC9518B6E94B2218B88AFB221915F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 4",
+      "trophyDetail": "Pass level 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/3F8F37774BD04AB7D0F59C223AE0D2706AB888D5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 5 Crusher",
+      "trophyDetail": "Pass level 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/2EEA06F03DBB21C7AF360098461A841454EFDE19.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 6",
+      "trophyDetail": "Pass level 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/E9C01A6715CEC9E5A7961D6448F7C769B01E97C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Level 7",
+      "trophyDetail": "Pass level 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/551FFB59E18930A5E357500FA17377D7F0C063C1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 8",
+      "trophyDetail": "Pass level 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/38F33803DFDF71753749DC06C39BC1A552C3EC08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 9",
+      "trophyDetail": "Pass level 9",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/0A0ADE422193714069746D851F3BFDBD77AD51B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 10 Crusher",
+      "trophyDetail": "Pass level 10",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/8B80ADD36E73964E604AEF8E0747A5009BC42246.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 11",
+      "trophyDetail": "Pass level 11",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/B7083F72C21779DF175D6F3009A21F6873C8128E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 12",
+      "trophyDetail": "Pass level 12",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A7CF244960A37AA66DEC04C2E15E47FDB29BB146.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlucky 13",
+      "trophyDetail": "Pass level 13",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/F62743AEA535A27D9CA89F1B4D62D3D4CCF12D6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 14",
+      "trophyDetail": "Pass level 14",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A807E4927EB739BFE18FAF468C3BA2BFF6EE8AD9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 15 Crusher",
+      "trophyDetail": "Pass level 15",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/DDBFFA453363F5FBEACEB8A30EF95EC2D992479E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 16",
+      "trophyDetail": "Pass level 16",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/89ABA21FB0535E22148838913F659A02CF0DF263.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 17",
+      "trophyDetail": "Pass level 17",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/34E85E35E451C8EC7462941147EB11EBED281558.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 18",
+      "trophyDetail": "Pass level 18",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/17737C58477BE112D8A52083DA7A9B8C20B3E5DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 19",
+      "trophyDetail": "Pass level 19",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/F4213EF18898AB756D499660425621AF65760B18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 20 Crusher",
+      "trophyDetail": "Pass level 20",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/545BC491D8D4972AB6AB53B3901B37846F05D318.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 21",
+      "trophyDetail": "Pass level 21",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A4A7686A17BC5185649A7431FDCBB6AB777BAFB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 22",
+      "trophyDetail": "Pass level 22",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/C0BF8B3887550B021376B5946A576EF835609797.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 23",
+      "trophyDetail": "Pass level 23",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/6D99530435504642B2D39A4DD91B05AF0F6BEEF9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 24",
+      "trophyDetail": "Pass level 24",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/91821A61FEFC39D1D8618EBCF7D67BED783851BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 25 Crusher",
+      "trophyDetail": "Pass level 25",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/9BB255A1B873297136874E217F1E865DE926A11D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 26",
+      "trophyDetail": "Pass level 26",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/2C7E455B8285D09C6B46C4A76C7A9EC8630E3824.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 27",
+      "trophyDetail": "Pass level 27",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/EC6B4287F681EED866C36EDF37E6E55F73DCF8E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 28",
+      "trophyDetail": "Pass level 28",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A9D005BC4B4F2EC8248D9C4E7A21D0B624AE8B75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 29",
+      "trophyDetail": "Pass level 29",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/1ED6CB2DF31C281EC464066CC9EDEE74AFF4D141.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 30 Crusher",
+      "trophyDetail": "Pass level 30",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/15654AF87C8EA0D2A3FA577EFFA3912098E35269.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 31",
+      "trophyDetail": "Pass level 31",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A2056405869101AD64569BDB4831BF57AB6D91E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 32",
+      "trophyDetail": "Pass level 32",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/1FD00E5C878605CF3AF3B6223E1A80595A1A2C09.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 33",
+      "trophyDetail": "Pass level 33",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/78A0AE0B9B70C1BC68A7CEAEF36D84600CCB7DEC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 34",
+      "trophyDetail": "Pass level 34",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/F48054B122D0AE84D457F4AE32C62F3D770D1105.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 35 Crusher",
+      "trophyDetail": "Pass level 35",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/38D367016BBA767D91C3E12B3ACE16DADED48A37.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 36",
+      "trophyDetail": "Pass level 36",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/AEF7808C23E19CA7777790846EA76AA2EFB6F83D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 37",
+      "trophyDetail": "Pass level 37",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/FA4F58C108227854C1EEDA4C8E7FEA7DE0C570BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 38",
+      "trophyDetail": "Pass level 38",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/AB79AED583C8D5EAE2720D5904D7469F6D1C6E79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 39",
+      "trophyDetail": "Pass level 39",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/0A6FE5F00EE1461A76AA39EDAFCC03710ABA40FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 40 Crusher",
+      "trophyDetail": "Pass level 40",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/134BF45A83C5B253BF7D1A377C6304DEDF5AF1F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 41",
+      "trophyDetail": "Pass level 41",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/21CAB5048FD869ECFC6BEE269AC92F61FA3B7502.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 42",
+      "trophyDetail": "Pass level 42",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/098DF72146C50C7EA66B5B8E3E933C94BBDF1B12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 43",
+      "trophyDetail": "Pass level 43",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/C08D2310B92A9F992666C0118FAB68F591EB3C79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 44",
+      "trophyDetail": "Pass level 44",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/87135E81CB3B684EE467DC7AAFCBAE013DE2B085.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 45 Crusher",
+      "trophyDetail": "Pass level 45",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/4060B5AEA1EA8F91646296A8F2E967CF43A8BFDF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 46",
+      "trophyDetail": "Pass level 46",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/7E367538C3B0E83333603DD4890A337D154CA070.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 47",
+      "trophyDetail": "Pass level 47",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/CD4AB2A0FCFC828BF394454A93A7ED9E524D0424.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 48",
+      "trophyDetail": "Pass level 48",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/E4DFF83B0CA46FC90C89453A2A55C86867F403DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clear Level 49",
+      "trophyDetail": "Pass level 49",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/221D276A3B381F56FFB0D4BE750316F37F35E933.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Level 50 Crusher",
+      "trophyDetail": "Pass level 50",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/87A4874C9E111F9B084FAF16F8EB2FEE1F329127.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oops Rookie",
+      "trophyDetail": "Fail 1 level",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A10B94DC4B86D84DC22E689A9EA37082E9DA2DE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Drop",
+      "trophyDetail": "Fail 2 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/BDC5D2FFE7ADDE19847C30077AE57E7BC89F47BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Triple Trouble",
+      "trophyDetail": "Fail 3 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/A0C6FB4375E85FFD5241E47FFB38281D2CFF59B1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Four Block Blunder",
+      "trophyDetail": "Fail 4 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/69CAA333CD5B8A486C780AC7C629C66D187544FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five-Time Fumble",
+      "trophyDetail": "Fail 5 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/DD1999333A72F7A2DCAFB366E699DAC74394ABFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Six Slip-Ups",
+      "trophyDetail": "Fail 6 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/AE8F13E462B3758DCC29FDC9F8FB4E8C50352A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Number Fail",
+      "trophyDetail": "Fail 7 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/671689FE7DDA995B3EFB2DE5EFA764C435163D64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eight-Time Error",
+      "trophyDetail": "Fail 8 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/6E48218FD58A705E73C70663E3A38E80D6317434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ten-Time Trip-Up",
+      "trophyDetail": "Fail 10 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/B1BAF028CC0D2E301BDA4015CF4C852A6306C1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twelve Oopsies",
+      "trophyDetail": "Fail 12 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/62E3E6E2A27CD16EEF9B2217402DC148346153E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fifteen Falls",
+      "trophyDetail": "Fail 15 levels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51005_00_00432F0A0A1F69F51A229ABF639812311D583B376B/1C911DF287322C9ECB2E6284E645175049D2F859.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "npCommunicationId": "NPWR57860_00",
+  "title": "It's Quiz Time",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 39,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Trivia Legend",
+      "trophyDetail": "Unlock every trophy in It's Quiz Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/cbb9cd21-c830-418b-9ddf-163293b1b874.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trivia Newbie",
+      "trophyDetail": "Complete a game with friends",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/7a141418-8998-4345-9306-6c62ed8a1bd5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trivia Loner",
+      "trophyDetail": "Complete a game of Solo Score Attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/e974c940-aa20-4026-8dd6-628c35332639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trivia Fan",
+      "trophyDetail": "Complete 10 games with friends",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/ce7d14b8-d12d-47df-8371-dceb4c8aae59.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trivia Junkie",
+      "trophyDetail": "Complete 30 games with friends",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/cd61a8c0-20e6-47b2-8b2c-1eee72d13c68.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rematch",
+      "trophyDetail": "Play two back-to-back games with the same players",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/fff24b1a-5ddd-4189-8db3-9a78b30c119f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full House",
+      "trophyDetail": "Complete a game with 8 players",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/5ffd8e37-4871-472b-9f4b-c9349f86be35.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "On a Roll",
+      "trophyDetail": "The same player wins three games in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/ba4b516f-cdb1-40c5-93b3-de5dedc41e1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beginner's Luck",
+      "trophyDetail": "A new player wins the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/5606cffd-bbdc-4698-bc15-c31ca1ebbaeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Late to the Party",
+      "trophyDetail": "Someone joins mid-game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/4889ffbf-7f64-4511-8377-0f9fd8790a48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Good Start",
+      "trophyDetail": "All players answer every question correctly during the Starter Round",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/f62c3219-4e5a-494e-89ca-a90f45355206.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Well Connected",
+      "trophyDetail": "No-one answers incorrectly during a round of Connections",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/dacb192e-2633-4552-ab3d-5062aec15614.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Order Up",
+      "trophyDetail": "The same player answers every question correctly during All in Order",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/05084aca-52ce-47cf-9268-a29bd7a7e50b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out of Order",
+      "trophyDetail": "The same player answers every question incorrectly during All in Order",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/da49a603-ec2f-46e3-9093-f13dcbc95602.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "At least you tried...",
+      "trophyDetail": "A player guesses only one clue during Describe It!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/52dd5ab6-5ee0-4933-8db2-094e5c238543.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chatterbox",
+      "trophyDetail": "A player correctly guesses every clue for a subject in Describe It!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/870b20f4-b3ae-4d0e-b083-1a29d57eaea5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shenanigans!",
+      "trophyDetail": "Someone calls 'Shenanigans!' during Describe It!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/78384663-484d-41d6-8870-55c27dc69d57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Harsh but Fair",
+      "trophyDetail": "A clue is removed during Describe It! after someone calls 'Shenanigans!'",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/7c14d302-cc48-43f2-b2ff-1a8366ecfb97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "O ye of little faith",
+      "trophyDetail": "A player answers correctly during Trust or Bust when all other players predicted otherwise",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/ee9cc63d-2bc6-4293-9325-c23e242e5cef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Busted!",
+      "trophyDetail": "No-one answers correctly during Trust or Bust",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/4b4df32d-250e-4f41-80df-423afadfb34f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trusted!",
+      "trophyDetail": "The same player correctly predicts that everyone will answer correctly during Trust or Bust",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/7fbdd59e-c095-4ec7-8c56-daff199ee262.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faithless",
+      "trophyDetail": "The same player correctly predicts that everyone will answer incorrectly during Trust or Bust",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/c2944e9c-fc4a-400c-b3b6-5070f655d887.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well, this is awkward...",
+      "trophyDetail": "Everyone answers correctly in Best Friends Forever, apart from the best friend",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/8817dcc2-aefc-41c2-8e3e-53d0e7ef4dfd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Et tu, Brute?",
+      "trophyDetail": "Best friend fails to correctly predict player's answer in Best Friends Forever",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/f2b73f27-b421-46d2-bbd1-c99735c06d65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "People Person",
+      "trophyDetail": "The same player is chosen as the best friend by all players in a round of Best Friends Forever",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/e2424ebf-22e7-47dc-aaff-81748b1f51b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gang Warfare",
+      "trophyDetail": "A team of two or more players beats the leader in Showdown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/15794595-7956-4c26-ba69-23d78285fbdc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Outsider",
+      "trophyDetail": "The leader beats a team of two or more players in Showdown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/990a3f1e-791f-451c-be97-be4781aeba03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Watch the Throne",
+      "trophyDetail": "The same player works alone against a team of two or more players in Showdown 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/e90f1ddc-9a65-4698-b80f-cda976d448cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thinking Alike",
+      "trophyDetail": "All players choose the same specialist subject during The Big Finish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/02456784-2181-470e-8b00-11afa7fa08b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fast Finish",
+      "trophyDetail": "A player scores over 450 points on a single question in The Big Finish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/365de820-8c98-4d03-9157-5aa963ff31af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Specialist",
+      "trophyDetail": "A player correctly answers all specialist subject questions during The Big Finish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/8424e5f0-aec9-4480-b614-134e0a98441a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Comeback King",
+      "trophyDetail": "A player goes from last place after the first round to winning the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/c5305390-2e17-4b5c-aa76-4c398600df30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Domination",
+      "trophyDetail": "The same player is leading at the end of every round and wins the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/881e5399-1a02-4c1f-b67c-f12dba8a6ab1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "All your points are belong to us",
+      "trophyDetail": "All players in a 4-player multiplayer game finish with over 7,500 points",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/ca1ce419-be4e-4f83-85f0-fa1c34c8b1d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Not Completely Pointless",
+      "trophyDetail": "A player scores over 9,999 points in a multiplayer game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/6e64b9f7-b729-4942-9ed3-dcc341146c58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Professional Troll",
+      "trophyDetail": "Answer every question in a game of Solo Score Attack but end with zero points",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/f26c6a61-4c13-42bd-819a-e61cb89d38f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "High Score Chaser",
+      "trophyDetail": "Score over 8,000 points in the Solo Score Attack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/901d1349-37d7-4d15-a83f-4afafacea063.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I ain't afraid of no ghost!",
+      "trophyDetail": "Play on October 31st",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/bcb30c65-fdc8-458d-adaa-edb5a8ae1d41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merry Quizmas",
+      "trophyDetail": "Play on December 25th",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57860_00/f514c058-e4a0-439e-97b6-7298512e66dd.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

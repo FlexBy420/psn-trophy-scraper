@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR42376_00",
   "title": "Goat Simulator 3",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 54,
+  "totalItemCount": 64,
   "trophies": [
     {
       "trophyId": 0,
@@ -491,6 +491,96 @@
       "trophyDetail": "Help all the patients as Dr. Pilgor",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/945781EB5F06D5E74D4F3CF03C767FE0CC56B475.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vault 55",
+      "trophyDetail": "Open the Vault",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/C1A52EAFA6B9CEF1677A6E8060488014E497D8E0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Utopia",
+      "trophyDetail": "Fully Upgrade Pilgor Town",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/D29D2EBBB9EAE9C335510F0E98C40B4C5DB355BF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Live Free and Try Hard",
+      "trophyDetail": "Find all Baadlands Trinkets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/1420BFC01A91BD769CCEA6CA1D57B47E999146D1.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wheels of Fortune",
+      "trophyDetail": "Find all Golden Wheels",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/9DEC378911177D91B4964F8700366CE03DC5DD19.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Daredevil of the Wasteland",
+      "trophyDetail": "Jump off all Ramps",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/D8BB7E5D3C663471E0581DC0A97690A98A2C0E17.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maximus Instinctus",
+      "trophyDetail": "Complete all Baadlands Instincts",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/01E6075A2F0310E6F06BB934E76FAD8C2B3C2374.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crash Course",
+      "trophyDetail": "Complete all Hooferdome Courses",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/9F9E9C6BE4F7E769A8B07DA3D8D6582D0E853952.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marathon Rider",
+      "trophyDetail": "Drive 42.195 km with your motorcycle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/CECBEB4ABD870E1E524250B84D2D8A2A9C943882.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deliciously Disgusting",
+      "trophyDetail": "Make a pineapple pizza",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/CA7802691E021A57FF98C9B7FC2B5602CFAFFC54.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dude, where's my square car?",
+      "trophyDetail": "Drive a compacted vehicle",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR42376_00_00D0333664C5A1439AB94B70EABC7388D28D756847/22B77E8767A09BEE017F1ADE203E9E1D3AFE22DB.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

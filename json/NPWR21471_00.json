@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR21471_00",
   "title": "Mars 2120",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
-  "hasTrophyGroups": false,
-  "totalItemCount": 44,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 54,
   "trophies": [
     {
       "trophyId": 0,
@@ -401,6 +401,96 @@
       "trophyDetail": "Disassemble a golem with parry",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/7013F3AE538EF6303E2A037CE2246EC0D8AE809C.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experiment I-17 +",
+      "trophyDetail": "Defeat Arachnida Glacius on NG+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/961BEBE75000B7B158FF6519405DAF1B87869756.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experiment F-08 +",
+      "trophyDetail": "Defeat Draconis Magma on NG+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/FD54D8DBB53CC434A36704A8C66E21370A8AA6CB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Security Unit: Aerial Patrol +",
+      "trophyDetail": "Defeat Vigil Avis on NG+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/D8F1CB41D1E1FA6B8EC146636870A55ADCD6BD04.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superior A.I. +",
+      "trophyDetail": "Defeat Fictus Sotiras on NG+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/B5F888ECE2263C6DC8439355B08DEE2ABC5C387A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The final frontier +",
+      "trophyDetail": "Finish the game on NG+",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/815994D3D5BB43A4467B914DC217FD3D40297A24.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experiment I-17 ++",
+      "trophyDetail": "Defeat Arachnida Glacius on NG++",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/09A3DB52BF02B45EB559041F7CCA37E3E71FFE4F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Experiment F-08 ++",
+      "trophyDetail": "Defeat Draconis Magma on NG++",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/D9ED2A636DA6FA496FDEA3DBEE57A33AE7556603.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Security Unit: Aerial Patrol ++",
+      "trophyDetail": "Defeat Vigil Avis on NG++",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/D6160A60933EA2892DDE6633264739895B51C870.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superior A.I. ++",
+      "trophyDetail": "Defeat Fictus Sotiras on NG++",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/146246B0333A0C51DCFFB2EB34017D8B1AAB3BCC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The final frontier ++",
+      "trophyDetail": "Finish the game on NG++",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21471_00_000CE5616B129BE36329221CDA546BD631964F3A68/C7C40072F441BB4F2163DCCEBFEA9EC841199F7F.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

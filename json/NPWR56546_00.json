@@ -1,0 +1,316 @@
+{
+  "npCommunicationId": "NPWR56546_00",
+  "title": "ORDER 13",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 34,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "ORDER 13",
+      "trophyDetail": "Complete all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/e35d1bc7-8135-49b2-b8f1-5ae4c941ce05.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loyal Employee",
+      "trophyDetail": "Complete Day 13",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/80233ecb-c6cb-4a7e-bcda-8b8eef1169cb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Basement 1 Manager",
+      "trophyDetail": "Purchase the Basement 1 Certificate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/0eaca5a9-b1fd-4aa2-bb5c-819347c680f3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Basement 2 Manager",
+      "trophyDetail": "Purchase the Basement 2 Certificate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/2d810235-ca29-48bd-adeb-49a94a154a77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Manager Manager",
+      "trophyDetail": "Purchase the HR Certificate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/4de5335f-cd63-4692-b278-d85b56473462.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where is my order?",
+      "trophyDetail": "Ship an empty box",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/d3ce08dd-cbff-4509-84db-9a4224fd26f0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freight Master",
+      "trophyDetail": "Ship 100 orders",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/9911f923-a2a4-4131-b267-6a3fd8f1cd3b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cat Person",
+      "trophyDetail": "Pet your cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/b5d05962-1737-4d7f-ba01-e144a9868b1f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chonk",
+      "trophyDetail": "Feed your cat 5 days in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/736164d4-65af-4ed7-ad34-c0a741e839f3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Play Antigraviator!",
+      "trophyDetail": "Interact with the Antigraviator poster",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/bde26589-59fe-41d2-aecb-7e53610a79a1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Own it All!",
+      "trophyDetail": "Buy every item in the shop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/cf1bef89-c88d-476d-bd16-a882faeb3029.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Delivery Specialist",
+      "trophyDetail": "Ship 10 orders from the warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/7505ea48-3f06-46d8-9940-e6e39609bee0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Basement 1 Delivery Specialist",
+      "trophyDetail": "Ship 10 items from basement 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/44a22e78-1614-46f7-a16d-200ecab60df0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Basement 2 Delivery Specialist",
+      "trophyDetail": "Ship 10 items from basement 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/bec266b8-5822-4727-9b45-bbeb8327b612.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "HR Delivery Specialist",
+      "trophyDetail": "Ship 10 items from HR",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/a31b3973-b1fd-4258-a2cc-fda658df0994.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "W Game",
+      "trophyDetail": "Escape the warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/aa01738e-a2da-45b6-b0e8-a0f093f03dab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "I Want More!",
+      "trophyDetail": "Continue the game after opening the exit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/666ddb9a-9a70-4884-af81-3ce23987a35a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meo-ha-ha!!!!",
+      "trophyDetail": "Interact with the catLol picture",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/18ade22a-0e4f-4b1f-8b2e-d0113a67fa73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What's in the Box!",
+      "trophyDetail": "Ship a bodypart",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/9a84d5e6-f92e-4b19-8d00-e9875e0ac807.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "MEGA CHONK",
+      "trophyDetail": "Purchase all types of catfood on the same day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/f6771ac2-f32c-45e2-b384-2018437da1f2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "We got your Package right here!",
+      "trophyDetail": "Purchase any item from the shop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/16b56f8b-1129-4914-8a2e-64c74144675b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No Longer a Trainee",
+      "trophyDetail": "Ship 1 box without mistakes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/c0eaef06-6aa4-455d-bb2a-0c69229e5d71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All in a Days Work",
+      "trophyDetail": "Survive day 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/e97cfe78-d1ce-4e6e-880d-1ffcb5c8b348.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Time has Come…",
+      "trophyDetail": "Scan 66 orders",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/14019f98-acf7-4716-93f4-7b383b33ed61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fear of the Dark",
+      "trophyDetail": "Complete the game without purchasing the flashlight",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/f791c488-7539-49b7-8cc9-9cc09839408f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Dog Person",
+      "trophyDetail": "Complete the game without purchasing more than 3 cat toys",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/67091b1b-e934-4eaa-a63f-bbd0e6502e15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Slowpoke",
+      "trophyDetail": "Complete the game without purchasing running shoes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/4d8fccd0-3e52-4e0e-a7c6-fe31558c28bd.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sharp-Minded",
+      "trophyDetail": "Complete the game without purchasing the scanner",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/7b845635-2611-4383-9744-4f500e95605c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Monotasking",
+      "trophyDetail": "Complete the game without purchasing the backpack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/16ebf923-95a9-42f5-89c3-5d3b3d48bcd5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Certified Employee",
+      "trophyDetail": "Buy all certificates on the same day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/93f4b219-7bc0-4dc0-b333-9ad2af7956b3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I don't do Overtime!",
+      "trophyDetail": "Complete the game on or before Day 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/6f84792a-fb0e-4598-84fb-9e20707deaff.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Employee of the Week",
+      "trophyDetail": "Purchase the \"Employee of the Week\" trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/2ba6e706-d46e-43da-b459-f9cb1d0d1b99.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Employee of the Month",
+      "trophyDetail": "Purchase the \"Employee of the Month\" trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/5bda0c82-ab02-465f-9e20-0289ed901689.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Employee of the Year",
+      "trophyDetail": "Purchase the \"Employee of the Year\" trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56546_00/2f4e8c60-cec7-4eae-ad90-7da6d885ac50.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

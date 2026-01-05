@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR10505_00",
   "title": "Neverwinter",
   "platform": "PS4",
-  "trophySetVersion": "01.26",
+  "trophySetVersion": "01.27",
   "hasTrophyGroups": true,
-  "totalItemCount": 116,
+  "totalItemCount": 118,
   "trophies": [
     {
       "trophyId": 0,
@@ -1049,6 +1049,24 @@
       "trophyDetail": "Complete the Shackles of Divinity",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/52F3B127F588C3B1F7B60EF59225967ED518337C.PNG",
       "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 116,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Soul Collector",
+      "trophyDetail": "Complete The Soul Collector Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/BDB4CA994CEF2A9429FA44B76FD367A0D9DE2AA6.PNG",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 117,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Harvest",
+      "trophyDetail": "Complete the Soul Harvest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/68E03CCC74F5FFC3942A4FC8F7E344AC72FB902D.PNG",
+      "trophyGroupId": "018"
     }
   ]
 }

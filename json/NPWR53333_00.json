@@ -1,0 +1,541 @@
+{
+  "npCommunicationId": "NPWR53333_00",
+  "title": "YAKUZA KIWAMI 2",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 59,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "YAKUZA KIWAMI 2",
+      "trophyDetail": "Obtained all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/977f8351-776d-42f1-8c2d-01ee4a9792b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Majima Factor",
+      "trophyDetail": "Completed the Majima Saga.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/17b80ab5-b5e3-4572-8370-f55d7e7cad5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Dojima Legacy",
+      "trophyDetail": "Completed Chapter 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/cc549884-9115-4320-b60f-815510145d0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fireworks",
+      "trophyDetail": "Completed Chapter 2.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/8260ec7b-0b2b-4901-a6f3-e0c029964ac4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Enemies on All Sides",
+      "trophyDetail": "Completed Chapter 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/81053845-714a-4502-9016-eecd83ea86f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Contest of Kings",
+      "trophyDetail": "Completed Chapter 4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/af9b1a25-be2c-4656-a6f4-35ac627a449c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Secrets Long Buried",
+      "trophyDetail": "Completed Chapter 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/f6bc8c1f-0059-4344-92d3-9c9c50b78556.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Shots Fired",
+      "trophyDetail": "Completed Chapter 6.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/4a798949-7611-4d13-8858-5530db7b3998.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Caught in the Act",
+      "trophyDetail": "Completed Chapter 7.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/7f17b5b3-e227-4043-93d8-aae86ea9c317.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Prisoner of Shangri-La",
+      "trophyDetail": "Completed Chapter 8.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/036e4c30-d6f6-45ad-92aa-3dbe42c19328.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Honor and Betrayal",
+      "trophyDetail": "Completed Chapter 9.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/f77950ed-5dbc-4f7c-9f81-e289fd56d91c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sotenbori Lights",
+      "trophyDetail": "Completed Chapter 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/fdb274eb-ee0b-4cda-b8c3-20143b4d7cb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Creed of Hatred",
+      "trophyDetail": "Completed Chapter 11.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/81ed4773-ee6c-448c-8dd5-a9158999e1d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tiger Drop",
+      "trophyDetail": "Completed Chapter 12.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/45d4df19-0184-4215-9954-dee914d07898.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Demon, Killer, Father",
+      "trophyDetail": "Completed Chapter 13.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/af224385-8b13-45de-aeb6-b3baa8646e56.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "There Can Only Be One Dragon",
+      "trophyDetail": "Completed Chapter 14.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/b8f0a4fa-12da-42dc-a996-c23dea0fdad9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dragon's Blood",
+      "trophyDetail": "Completed Chapter 15.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/30ca76b2-e0a6-4a9c-b5a4-a2de6d27ca48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Thank You!",
+      "trophyDetail": "Completed the final chapter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/be2a4afd-045c-4c5d-871d-fc39438948a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dragon of Legend",
+      "trophyDetail": "Completed the game in Legend mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/f90e41ca-86a7-41f7-9a03-1770a5e5ff7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tell Me a Story",
+      "trophyDetail": "Completed 10 substories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/de045114-b585-46ab-a13d-b9b4d64b8287.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hero of the Story",
+      "trophyDetail": "Completed 30 substories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/7f566920-ab31-4e4c-a12b-5644a51d2e9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Story of My Life",
+      "trophyDetail": "Complete all substories.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/897432e2-f1ef-4f6f-9916-08bebdaf001f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Getting Started",
+      "trophyDetail": "Completed 10 items on the Completion List.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/166926f3-97ae-44da-bcd7-d1dbc254da6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making Progress",
+      "trophyDetail": "Completed 30 items on the Completion List.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/498d20b1-6e7b-402b-92d7-4e13189fdb6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maybe You Can Do It",
+      "trophyDetail": "Completed 50 items on the Completion List.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/8f54ed9d-b32b-40fb-9506-e68bfebfad49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Done",
+      "trophyDetail": "Completed 100% of the Completion List.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/606eff8e-bb57-4a6f-879b-225b01f32e51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle Skills Master",
+      "trophyDetail": "Learned all Battle Skills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/3f34fdab-0405-4c57-8498-fb6df7c364cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heat Action Master",
+      "trophyDetail": "Learned all Heat Actions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/085dedd9-ba96-4d8d-8959-acd9c0d7275d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life Skills Master",
+      "trophyDetail": "Learned all Life Skills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/8a08252b-e3ec-425f-9f53-36574b844813.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For the Children",
+      "trophyDetail": "Donated 1,000,000 yen to Sunflower Orphanage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/2a5c0c2a-03a6-49a0-863d-0f0693e3bbb1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Skill Master",
+      "trophyDetail": "Learned all skills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/968e01b9-32b1-4c76-af18-66b4addfa658.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life of the Dragon",
+      "trophyDetail": "Raised Health to a natural 180.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/89f98dbe-3481-4017-b383-0c6763e76ef4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strength of the Dragon",
+      "trophyDetail": "Raised Attack to a natural 180.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/dd814bf4-3beb-4eaa-89c4-b32a0d2cc3cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vitality of the Dragon",
+      "trophyDetail": "Raised Defense to a natural 180.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/70b92073-6c0f-4f3f-be96-a95980f4430c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heat of the Dragon",
+      "trophyDetail": "Raised the Heat Gauge to a natural 180.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/be9a85b2-29c0-4d01-a0ef-042cb42b6bc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Limit Breaker",
+      "trophyDetail": "Broke the limit on a base stat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/a1f0471e-a435-48df-8f66-7b7493a7b17b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Peak Kiryu",
+      "trophyDetail": "Raised all base stats to maximum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/35011084-ba3c-4a36-ba3b-ba9d4b69ba4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Amon Defeated",
+      "trophyDetail": "Completed the \"Ultimate Assassin\" substory.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/72bed755-2e05-4a23-819f-5bd5a1e09743.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weapon Master",
+      "trophyDetail": "Defeated 100 enemies using weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/9193f151-fdb9-4515-a57f-b897991db86c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What a Player",
+      "trophyDetail": "Played all minigames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/13b221b0-0169-4524-a214-6a070ff5b8f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Half Performance, Half Raw Power",
+      "trophyDetail": "Win all the Coliseum's tournaments.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/87a1999a-f58f-4e0d-ad25-0f41b9519e01.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're Not Welcome",
+      "trophyDetail": "Completed all bouncer missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/9bb82679-d58c-425c-b946-a89c8b33f9ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shine, Shine, Four Shine",
+      "trophyDetail": "Joined Club Four Shine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/b7ff8d3a-4dcc-4ed7-ab10-8f9de343a78c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "An Eye for Talent",
+      "trophyDetail": "Registered 30 hostesses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/3f1eacbf-3bfa-4107-8228-fb4fdc2db4de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Champion is Born!",
+      "trophyDetail": "Won first league championship in the Cabaret Club Grand Prix.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/a6ac0ddd-a83f-45c0-a91f-5c472eaf04b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legends of the Nightlife",
+      "trophyDetail": "Completed the Four Shine storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/c15e4c59-097f-44e4-a9e5-a5eebef25aae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Be True to Yourself",
+      "trophyDetail": "Lent an ear to all the platinum hostesses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/dbec33f8-6b69-4de8-b23b-f7950966bd64.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Movie Buff",
+      "trophyDetail": "Watched all the videos.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/ed6dbdac-6b92-44c0-8735-ade708d94c3e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Boss is Crazy",
+      "trophyDetail": "Became a Majima Construction employee.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/28a19039-44f4-4259-be94-7ce53c86fcb4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Majima Construction Benefits",
+      "trophyDetail": "Recruited over 50 workers into Majima Construction.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/eedd5fcf-a4c4-42e7-b3f2-82aa8deed8f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's Build Some Hills",
+      "trophyDetail": "Completed the Clan Creator storyline.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/2d623889-c5f9-40ef-b877-ce0362984f6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Majima Construction Foreman",
+      "trophyDetail": "Possessed over 200,000 points in Clan Creator.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/04cb52c8-e098-4c3e-b28c-6f352088ea11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Coin Locker Conqueror",
+      "trophyDetail": "Opened all coin lockers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/6e3c1ef4-b6e4-4f04-9f9e-482de56696ed.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Taste for Japan",
+      "trophyDetail": "Ate at all restaurants.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/cbb02e9c-aad1-4a8c-a87f-33f8bf77919e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tourist Season",
+      "trophyDetail": "Took 10 photographs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/db45a14e-c721-49dc-9876-63ea32cdc1ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Opening Up a Can",
+      "trophyDetail": "Drank all drink types from vending machines.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/4dd7beb0-0d67-4314-a794-d8e20cbe81e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Repeat Offender",
+      "trophyDetail": "Destroyed an establishment three times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/8e3e5675-f74c-435b-a4a1-eefda7ef595f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Like it's 1988!",
+      "trophyDetail": "Possessed over 10,000,000 yen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/4816fdd1-a213-4d8d-a2d5-38b613ae9cea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion of the City",
+      "trophyDetail": "Defeated all street bosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53333_00/76d4e10b-3d2a-4655-8e8e-f71d00b1e084.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "npCommunicationId": "NPWR56895_00",
+  "title": "Hexa Chippy",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 24,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Supreme Squirrel",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/05ab3735-3804-4ea0-bd89-c23e1bf2f05b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Footsteps in the Forest",
+      "trophyDetail": "Complete Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/4826d2b9-dde5-439f-b862-c3d7d1948e3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Deep Woods",
+      "trophyDetail": "Complete Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/52d37177-1466-495b-8ee8-88fe32ba904a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golden Leaves",
+      "trophyDetail": "Complete Level 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/e0b2bfee-c1e2-40ff-b3fe-95c1a9a4d96b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Puzzle Master",
+      "trophyDetail": "Complete Level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/222a6481-3628-4393-ac50-855b68709091.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Shuffle",
+      "trophyDetail": "Use Shuffle for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/80b02432-5c4f-463f-8540-7a54273e65f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mix and Match",
+      "trophyDetail": "Use Shuffle 6 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/3c2c7b0b-9d2c-4f8f-946f-0ac269cfcad3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Shuffle Master",
+      "trophyDetail": "Use Shuffle 12 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/d8460bf9-790e-436b-9a46-8d076d3a0cc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Hint",
+      "trophyDetail": "Use Hint for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/b08ffed8-3759-4c7a-b58f-71b55353baf8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wise Chippy",
+      "trophyDetail": "Use Hint 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/66995c44-41a9-48c2-ae5e-c0968b8d4ecc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Forest Sage",
+      "trophyDetail": "Use Hint 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/7563a0f8-b132-4419-a15d-804d47b6f3c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Revolving Bridge",
+      "trophyDetail": "Cross a Revolving Bridge for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/387d67b0-68b3-4f81-a59d-f3e608492856.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spin and Turn",
+      "trophyDetail": "Cross Rotating Bridges 3 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/f50fd9b1-6651-4ad6-93cc-06d3bedef172.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bridge Dancer",
+      "trophyDetail": "Cross Revolving Bridges 6 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/78102885-3c55-40cb-8475-2ac0fd1253a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nut Hunter",
+      "trophyDetail": "Pick up a Nut for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/5b35d270-03cc-4893-9417-cff40a369bd6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Snack Collector",
+      "trophyDetail": "Collect 4 Nuts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/9e7ac2ad-083a-40fb-bf1a-c3337bbeb8ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Nut Friend",
+      "trophyDetail": "Collect 8 Nuts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/f623bd14-19b6-4c79-987b-1427bd55bb08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathfinder",
+      "trophyDetail": "Swap pieces 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/254107e4-ade5-4051-b730-4e6fde860e51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Path Creator",
+      "trophyDetail": "Swap Pieces 20 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/94374a04-0040-4fbb-a2d0-9219595c481b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Path Builder",
+      "trophyDetail": "Swap Pieces 30 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/11159b4a-9913-455c-976e-8dd53501b1f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Spin",
+      "trophyDetail": "Rotate Pieces 12 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/126b16a7-dc4e-4e37-bc37-e7affca94232.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Spin Master",
+      "trophyDetail": "Rotate Pieces 24 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/a8ef8742-ce23-40e2-9df3-80154f8791a6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Head-Spin",
+      "trophyDetail": "Rotate Pieces 36 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/d0672422-acb9-4254-876f-08ac2244b295.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Family Reunion",
+      "trophyDetail": "Bring 3 Chippys to their homes on the same level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56895_00/808aa12e-131a-47a3-bb3d-022dddee7418.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

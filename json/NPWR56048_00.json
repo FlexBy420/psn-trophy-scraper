@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR56048_00",
+  "title": "Golf: Minigolf",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Golf it all away!",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/07472FEA3EABF25230C00C5F8DA2306BA9264572.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 54",
+      "trophyDetail": "Hit the ball 54 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/8B6734AB0C8F13504F1EE217EC4E46B3FF3B70A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 53",
+      "trophyDetail": "Hit the ball 53 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/38D229FB3B2DBBB636B6C7F23B5EB775C2BA9F2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 52",
+      "trophyDetail": "Hit the ball 52 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/4376EBD3F8EE368686E3C799970747306772BB6E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 51",
+      "trophyDetail": "Hit the ball 51 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/1DF1AD4BFBB0FFEBAE223D4197AD05F347F84084.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 50",
+      "trophyDetail": "Hit the ball 50 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/4B831022446CB46119DBEB1EB3F4890DFA16DD90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 49",
+      "trophyDetail": "Hit the ball 49 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/C6E85638040894495B2B487E1D8ED39122C27907.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 48",
+      "trophyDetail": "Hit the ball 48 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/C0C0B67E8999F1ED16263A5D4CC590F74446D0DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 47",
+      "trophyDetail": "Hit the ball 47 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/0F335AE3639C10722658C30CFD27DDE19573B7A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 46",
+      "trophyDetail": "Hit the ball 46 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/E8221E53B30D778A0503B3E083009F0DD36533A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 45",
+      "trophyDetail": "Hit the ball 45 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/0DD699A3DAAA527DCD3B97DEEC9DA26D80AB3C1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 44",
+      "trophyDetail": "Hit the ball 44 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/F414A355A5D3B8144E98D3A7F784D3F22D3BF8CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 43",
+      "trophyDetail": "Hit the ball 43 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/FB755AB42E930E38FD28756F40848069F43184F5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 42",
+      "trophyDetail": "Hit the ball 42 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/874355285186D9E9F354EEF7C0FB6E8B0471B145.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 41",
+      "trophyDetail": "Hit the ball 41 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/E369D253DEE26DEC34879E7D980190746E35D9E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 40",
+      "trophyDetail": "Hit the ball 40 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/590B53363E8F57D60DF72EC68C6901304284FF28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 39",
+      "trophyDetail": "Hit the ball 39 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/3A668996CC728BA6645F5A081629CF5C3FBDEBF8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 38",
+      "trophyDetail": "Hit the ball 38 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/13189D43D3E6E2F7CD6204A176CA3D1E2E024D24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 37",
+      "trophyDetail": "Hit the ball 37 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/97560CB2FA3DBFC81C2DA1E5E8544A55F2F69598.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 36",
+      "trophyDetail": "Hit the ball 36 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/98061A35F6A57DE84A798BB0BA07A6258A2AAD06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 35",
+      "trophyDetail": "Hit the ball 35 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/8C3D40EC70C7A02F274FE451E152199B293064AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 34",
+      "trophyDetail": "Hit the ball 34 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/C3D348D271A34A673A7BB7920CF1677DD9350EE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 33",
+      "trophyDetail": "Hit the ball 33 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/E7A955ED5B818D4E03B6BA9D054467E079AF1E1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 32",
+      "trophyDetail": "Hit the ball 32 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/6CF2D49C559AC1CACC0226E116189D6B5852156C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 31",
+      "trophyDetail": "Hit the ball 31 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/6243C2D082D50C41ADAB0627F6359B9AB0C200EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 30",
+      "trophyDetail": "Hit the ball 30 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/92D60B25A6D6D5CCDEB91599E2136BD6A94AED3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 29",
+      "trophyDetail": "Hit the ball 29 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/317052DA986E2BC2FA2A2F305A6CD202622DF90D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 28",
+      "trophyDetail": "Hit the ball 28 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/F2354A36ED7A588FF3830F49C5BA86560E334D59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 27",
+      "trophyDetail": "Hit the ball 27 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/AFE8A343031BE9EE5B8B8FBE51B0E9B790C2AD84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 26",
+      "trophyDetail": "Hit the ball 26 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/F0E2405C95ECE0205076FE9338E6638110E3B0E3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 25",
+      "trophyDetail": "Hit the ball 25 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/1F1B625903CF7E34B8F1D26D9D580C870A00EACC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 24",
+      "trophyDetail": "Hit the ball 24 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B3E64DF6BB9383209A05E41CB5D531F745562496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 23",
+      "trophyDetail": "Hit the ball 23 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/3B616BDFD9D9FF64643C86AD8018E0BE21368208.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 22",
+      "trophyDetail": "Hit the ball 22 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/73CAFEB0A7942773267052B8EA3EE8289EE6BEDB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 21",
+      "trophyDetail": "Hit the ball 21 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/148B3A5A5DE7F0C2CD743214E9BBF606061FCECA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 20",
+      "trophyDetail": "Hit the ball 20 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B526E500576E2328B0E4FFD0E143ACFBB4BC8280.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 19",
+      "trophyDetail": "Hit the ball 19 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/2DAC8994A088C73C72F540DEF5442D6D47581622.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 18",
+      "trophyDetail": "Hit the ball 18 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/6FBEE7A4ADA6E0F55CA2A668004F2E738B7495B7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 17",
+      "trophyDetail": "Hit the ball 17 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/83D30065E0055A15F20B63A211B739EDDBF65EAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 16",
+      "trophyDetail": "Hit the ball 16 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/C5DBB704442A20ED3836BC44CDE2F9024810C61C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 15",
+      "trophyDetail": "Hit the ball 15 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/8CA6337469DDACD7FB524CF6D000F54FE42F633B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 14",
+      "trophyDetail": "Hit the ball 14 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B510844E73D9B7B73EF560BFA101BB5A3F01FCDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 13",
+      "trophyDetail": "Hit the ball 13 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/ACA1800D72E82C1C25C491CFFCE698B86086B452.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 12",
+      "trophyDetail": "Hit the ball 12 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/161130F2381C80D404192653DBC47AD9C8A8BE08.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 11",
+      "trophyDetail": "Hit the ball 11 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B21E439D64C8F3A5FA284FCF33C1FB712DA6725E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 10",
+      "trophyDetail": "Hit the ball 10 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/80D2622E19510A890076BAC8733328FBAC239A61.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 9",
+      "trophyDetail": "Hit the ball 9 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/5264D9F8AE96F1BE980FDA5E9C101686F7D11C26.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 8",
+      "trophyDetail": "Hit the ball 8 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/6E3CEFF4371580A4D3C5EC1ED89C18CB527990E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 7",
+      "trophyDetail": "Hit the ball 7 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/2786FA743016AB599651D96D91E8AB4E7F45314F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 6",
+      "trophyDetail": "Hit the ball 6 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/054CD66BA013E1867372F8D5F94F8F3B609D1497.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 5",
+      "trophyDetail": "Hit the ball 5 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/8B8D37E7F0B2DD60946D063D2CDDAA2EB6316D51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 4",
+      "trophyDetail": "Hit the ball 4 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/82E4520F9A9F19542971E1B0F1E3EFBEF65A7FE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 3",
+      "trophyDetail": "Hit the ball 3 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/5C6656681B13D075EA81B216268319E8C61C0EEA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit 2",
+      "trophyDetail": "Hit the ball 2 times in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/EA21FFD43CA42EC19C42BEC564A8FE3FC0BD217D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hit it",
+      "trophyDetail": "Hit the ball for the first time",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/C191490999EE10E3CB63BF408C3F566514321EB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball 9",
+      "trophyDetail": "Win the hole under 9 hits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/0ED6B89A89A35DF7A8912B4499499D4E4ECC7993.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball 8",
+      "trophyDetail": "Win the hole under 8 hits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/43944C1788C67F1A1F4250DDF060FA40CBEBB7ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball 7",
+      "trophyDetail": "Win the hole under 7 hits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/7CF6161D282959F9C21FB5B11F4D17EBD959BF0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball 6",
+      "trophyDetail": "Win the hole under 6 hits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/7A9B570459851EDEA2E3C42F770B8796BC9A9CD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ball 5",
+      "trophyDetail": "Win the hole under 5 hits",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/6E2090263264BB71CB5ABB0A4F3A61E33DBF42CA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forrest Biome",
+      "trophyDetail": "Play at least one hole in forrest biome",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/12DD7A06A11DC932D9F99D04BFE268951D159E0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snow Biome",
+      "trophyDetail": "Play at least one hole in snow biome",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/791DB22869137C4B06BFA88790A6E80F63EB1C29.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desert Biome",
+      "trophyDetail": "Play at least one hole in desert biome",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/4FF368F8370320653DDF65F90BEE8B316CCC4496.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 8",
+      "trophyDetail": "Win any 8 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/774223380AC9950E75C74F5DEF4AFCE433A2D5C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 7",
+      "trophyDetail": "Win any 7 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/52303E86BB51DF69D499E13544888E5EFD5D3EF3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 6",
+      "trophyDetail": "Win any 6 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B1C4D5038D19FFBBD7221744017D61219678AD1A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 5",
+      "trophyDetail": "Win any 5 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/B049166882E653A760D26C7E5E2AF059350BA996.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 4",
+      "trophyDetail": "Win any 4 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/FAFC95C37B3CEE48E510039BCC571DEF5F3CAB84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 3",
+      "trophyDetail": "Win any 3 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/0DC9253AA4FC73708BB13186307727A4D2AF9168.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 2",
+      "trophyDetail": "Win any 2 holes in total",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/EE52AF310E7A001D59797CB24C80E1B6837663AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hole 1",
+      "trophyDetail": "Win any hole",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR56048_00_00C3FCEEAE1B03AA39468D986C5E5A466589A05568/9A2EA432015ABE10330A7B3F72415DA588BB2AB5.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

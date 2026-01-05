@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR53162_00",
+  "title": "Karous",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "全てのトロフィーを獲得",
+      "trophyDetail": "全てのトロフィーを獲得した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/0DDFE5D1B6EA4CE4946328A2F2E9B9A2F7B357FF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "神の像を破壊",
+      "trophyDetail": "真ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/61EFFADBD1312DCD15B5C7D971B7A088AADD4792.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "トータルレベル200到達",
+      "trophyDetail": "トータルレベルを200まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/6C544F9D0CF63E6A26EE6D867CE1C6CE1028834B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ノーマルモードクリア",
+      "trophyDetail": "ノーマルモードをクリアした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/1C534294364F92E7509B558285994E1ED4DC13B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ハードモードクリア",
+      "trophyDetail": "ハードモードをクリアした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/84CCD96DB10719C5197713CAC970AAA363FFA7C0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "フロントアリスを撃破",
+      "trophyDetail": "4面ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/55878D9B39436D1902E56ADAC2B8A2E3F22C01C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "真月燐DEFを撃破",
+      "trophyDetail": "5面ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/067772CC7F1D88368E12963DD90AA8533A292AF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ショットレベル100到達",
+      "trophyDetail": "ショットレベルを100まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/51F103ECA9F1658F8AC7861140648C9533A5544E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ソードレベル100到達",
+      "trophyDetail": "ソードレベルを100まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/F1AB978821681E659654CF38589A7E8D44730C51.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "シールドレベル100到達",
+      "trophyDetail": "シールドレベルを100まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/2FC3E3F0C49042259BE97AFCD4D3119AC44F2423.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "しけいだくんを取得",
+      "trophyDetail": "しけいだくんをゲットした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/D626EFC6DF8F1A139C9FA71527E6E5E31543E690.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "スコア2億点到達",
+      "trophyDetail": "スコアを2億点稼いだ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/8E85838A089DC7D50B87F72B75E9AD7CEE854BC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "イージーモードをプレイ",
+      "trophyDetail": "イージーモードをプレイした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/DA277A74CB50F75D3B86A289F0F46C027BB18C73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "イージーモードをクリア",
+      "trophyDetail": "イージーモードをクリアした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/A6AE477C7C1F83EF22A6E7A665BB9AB3911A167D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ノーマルモードをプレイ",
+      "trophyDetail": "ノーマルモードをプレイした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/9B261A3A1196C9A806B0EB52818C736390F442E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ハードモードをプレイ",
+      "trophyDetail": "ハードモードをプレイした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/559C89AA0D4431C1FCE6C5987629A80A30270815.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "真月燐を撃破",
+      "trophyDetail": "1面ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/DD9B2609BCDC6052E7B811218E6620854D190BB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "太公望6.0を撃破",
+      "trophyDetail": "2面ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/2936A5AC1255891E2A7996050DCE3F465772BF07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "夜明前ver.185を撃破",
+      "trophyDetail": "3面ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/9E99A8D41F3AF60AF54608DE0F7BB0C64E40746C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "PHATBOWIE-SLMを撃破",
+      "trophyDetail": "3面中ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/0E24E08EBC72C180AE6BED6AFC6538DDA9A6FC90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "FUGLを撃破",
+      "trophyDetail": "4面中ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/3A2F1694B246EE959510413F9BC8052A94F8068D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": ".'en Cを撃破",
+      "trophyDetail": "5面中ボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/9752DBDD2D6A52C9A8DF19C117C756AED670DBFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ショットレベル50到達",
+      "trophyDetail": "ショットレベルを50まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/826019AF2948BF10A94CF580C19B496E87D0913E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ソードレベル50到達",
+      "trophyDetail": "ソードレベルを50まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/58EDC4C22753CF7AECEB7D367278AEE9A39BCC06.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シールドレベル50到達",
+      "trophyDetail": "シールドレベルを50まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/93C5EB58983D1B80D1D06A24E2394B65EDB8548D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "トータルレベル100到達",
+      "trophyDetail": "トータルレベルを100まで上げた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/9257B7BB162A8D2430957FBF3FA78AF6B798D282.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "三段斬り成功",
+      "trophyDetail": "三段斬りを決めた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/D059F343716CF98C39256FC6CFA612622560A0DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レフショット発動",
+      "trophyDetail": "レフショットを放った",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/658554B84FB326DCE7C4B1103863A517C30B5C7D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "シールドで敵弾を消す",
+      "trophyDetail": "シールドで弾を消した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/022B587E01272685555C92940E41CD0FCDC956BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "D.F.S.発動",
+      "trophyDetail": "D.F.S.を展開した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/AD0722DB263E78A0CC4C23096F713E921717AFC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "回復アイテム取得",
+      "trophyDetail": "回復アイテムをゲットした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/9A8DCC1328A7A89065030A272B2095547D5E74CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "敵編隊を全滅させる",
+      "trophyDetail": "敵編隊を全滅させた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/D804CCE15641EE6876EA9A5BDEAB92E853CEC072.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "隊長機を最初に破壊",
+      "trophyDetail": "隊長機を一番最初に倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/65922B6F2B576FBA440A7DED8812FEE9C8157B81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ライフエクステンド",
+      "trophyDetail": "ライフエクステンドした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/943FF7E2DFCABFBEA3C49D93E8F7A7F4D3644226.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "スコア5千万点達成",
+      "trophyDetail": "スコアを5千万点稼いだ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53162_00_002B8E061E472B4BD513D5C0F3FD6304FF87D8ADCC/32BFBAAAD28FFFC93F7F0930596F40D597068043.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

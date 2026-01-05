@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45743_00",
   "title": "I'm in Love With Your Dead Grandmother: Online Battle Royale",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 8,
+  "trophySetVersion": "02.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 15,
   "trophies": [
     {
       "trophyId": 0,
@@ -77,6 +77,69 @@
       "trophyDetail": "Achieve Rank 100.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/394A5EFA010170E15D0604C014317106E5699921.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beep Booping u",
+      "trophyDetail": "Complete all the tasks to finish Challenge 2\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/B9320543F01AF5E81D68DA5BDF9D2F32FC9DFCA6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ur Trash",
+      "trophyDetail": "Complete all the tasks to finish Challenge 3\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/A98C074D81663CDFAC1278D8A201F7A65F2BF521.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twerking Time!",
+      "trophyDetail": "Complete all the tasks to finish Challenge 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/6C9ADBB1E5456761D6E6087C8DEB1E9FF8C982AF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Queen is Queening",
+      "trophyDetail": "Complete all the tasks to finish Challenge 5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/D1E03E22F2FEAEBDCBA14ECFF5276AA0A5B20A0F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poop? Poop.",
+      "trophyDetail": "Complete all the tasks to finish Challenge 6",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/543BF4C206BB59D8CA28A979189AEE93AC6AB990.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Honey? I BEAR-ly know her",
+      "trophyDetail": "Complete all the tasks to finish Challenge 7",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/7EC58E98256D12C7B431C0010D57D29969343A39.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "I swear my saber isn't normally like that",
+      "trophyDetail": "Complete all the tasks to finish Challenge 8",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45743_00_00BB28B654AD796C30A5CE26A6CF7EB0632B35A617/B5077CA3564FE1A0E3FBB436A28653D26DE77056.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

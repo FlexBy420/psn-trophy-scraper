@@ -1,0 +1,595 @@
+{
+  "npCommunicationId": "NPWR54999_00",
+  "title": "A Tower Full of Cats",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 65,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Beyond Purrfect",
+      "trophyDetail": "unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/422a12d3-1be5-4d42-a4c3-c8604010bd29.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prehistory",
+      "trophyDetail": "Find all cats in Prehistory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/a2aec256-b270-475e-b7da-0fd415ef1457.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Egypt",
+      "trophyDetail": "Find all the cats in Egypt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/dfb3afd5-abde-48b4-a202-058be0e7881c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lens of Truth",
+      "trophyDetail": "Get the magnifying glass",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/2d9465f7-de85-4fa1-b715-ed3993ea1b00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greece",
+      "trophyDetail": "Find all the cats in Greece",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/7579740f-2fbf-41dd-9d41-a6aef7112afa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timber!",
+      "trophyDetail": "Get the Axe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/936f9bf5-9551-4780-ba59-040c0b33b3c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavecats Lair",
+      "trophyDetail": "Find the den cats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/f72e4363-dc57-4cff-ae23-b6127c1135d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jurassic Purr",
+      "trophyDetail": "Find all cats outside the tower in Pre History",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/ca97e7b8-c736-48c5-89a1-f875feb5dc56.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye of the Guardian",
+      "trophyDetail": "Get the Eye of Ra",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/237984f0-5c58-4641-a2c6-0e1d4527ef24.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scholar",
+      "trophyDetail": "Collect all cat-wisdom scrolls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/23bb6b69-3df5-4949-8ba3-865754e840bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Medieval",
+      "trophyDetail": "Find all the cats in Medieval era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8a2a6805-a956-4ff1-81f3-f6c7bb7ecf72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Bath on the Nile",
+      "trophyDetail": "Find all cats outside the tower in Egypt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/a74e857a-a66c-4b97-86a5-1f8ac4e3dca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cavecats Ho!",
+      "trophyDetail": "Find the cave cats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/6d380f8a-7821-4dae-8770-2956ecdb2445.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marble Litterbox",
+      "trophyDetail": "Find all cats in the bathroom",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8a41c470-6739-4ce1-832b-f59cc61ca115.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purrthenon",
+      "trophyDetail": "Find all cats outside the tower in Greece",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/e286dd76-709b-479a-99e3-5ec78b2780e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lily's Mission",
+      "trophyDetail": "Uncurse all the cats in the castle on medieval era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/62ac0ee6-1f24-40bc-bb07-f4c3bec653c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Revolution",
+      "trophyDetail": "Find all the cats in the Industrial Revolution",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/feb2b30a-6a93-498e-b3c8-601d043639e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goddess of the Cats",
+      "trophyDetail": "Find all cats in Bastet's room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/a415f001-b2c8-4a51-87dc-394b4bb43ad6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tree of life",
+      "trophyDetail": "Get the bag of seeds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/2b140867-d986-43f0-9d36-040a7045f492.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fur in the Tomb",
+      "trophyDetail": "Find all cats in the pyramid",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/5bdca9d3-ca27-4256-af0d-522a7ca0e231.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Just Milk",
+      "trophyDetail": "Find all cats in tavern",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/c29b3603-2d56-456b-bf74-e7f36d73dc94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pisces Pursuer",
+      "trophyDetail": "Collect all fish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/5ad29e4a-96e3-4226-a44c-d72769900c82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "Sow the seeds in the industrial era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8daef09a-9bda-473d-a635-6a815b2c490d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20th Century",
+      "trophyDetail": "Look through any window",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/40b98d46-1609-45bd-8fd9-919d8c2101d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fast Travel",
+      "trophyDetail": "Use Fast Travel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/0e7f499d-dd4d-4b4e-a63f-fc4f9648cca1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blighttown",
+      "trophyDetail": "Find all cats outside the tower in medieval era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/7fc45239-911a-4562-a945-83db4ea60455.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Mind",
+      "trophyDetail": "Sow the seeds in the 20th century",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/367d932d-5051-40ce-b66b-e64bc45d6ef6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Repurrblic",
+      "trophyDetail": "Find all cats in the library",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/e82e1d05-7348-4db4-891f-008475a8e362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Future",
+      "trophyDetail": "Find all the cats in the Future",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8344cdb2-6d05-4d3d-9fba-16e46b930a3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Re-cy-cle!",
+      "trophyDetail": "Collect all trash plastic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/27bcc7f9-f514-42ae-ba13-066e67f2bd7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinitunafactory",
+      "trophyDetail": "Find all cats in the factory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/658e2297-58b2-4ba5-b42e-dbf704a5f3f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shopping Spree",
+      "trophyDetail": "Find all cats in the store",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8566947e-56cf-4b42-bc49-c723bfd3bc3e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old Key",
+      "trophyDetail": "Get the tavern key",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/bcbd7fff-ae99-4900-84b8-377315fd1f36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bolt Seeker",
+      "trophyDetail": "Find all screws and nuts in Egypt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/79788f2b-74ca-488d-b1be-34f25c707f67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cool Cats",
+      "trophyDetail": "Find all cats in 1960",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/c2478084-64a2-4c24-9e38-a44d1699f2c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Screw Gatherer",
+      "trophyDetail": "Find all screws and nuts in pre history",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/2f3fe3a4-f56a-4bcd-996e-a93c8ed46a97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Now they're vintage",
+      "trophyDetail": "Find all cats in 1980",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/80f0a8b4-a0f2-46d4-a6cb-cf72ae9dc053.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Building Full of Cats",
+      "trophyDetail": "Find all cats outside the tower in the 20th century",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/18ab3a1b-a047-4d4c-8cb3-a9882b07d4c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Millenials",
+      "trophyDetail": "Find all cats in 2010",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8933c4b6-db28-4338-94a2-3b6b863c32ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing Stops this Train",
+      "trophyDetail": "Find all cats outside the tower in industrial era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/f7c8c5dd-9184-4813-9563-0286919a602f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Starship",
+      "trophyDetail": "Finish the Starship puzzle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/a76c2783-a89a-4d41-9289-1832766c67da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mission Control",
+      "trophyDetail": "Find all cats in control room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/28f725e5-ebdd-4fe1-b784-06b53b758580.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Access Card",
+      "trophyDetail": "Get the access card to the control room in the Future",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/22f0d30a-1650-47d3-a12f-5051b2b25e70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watch Your Steps",
+      "trophyDetail": "Find all cats in stairs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8b1af820-f728-4bdc-8152-c560bcd44506.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20XX",
+      "trophyDetail": "Find all cats outside the tower in the future",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/f5fc4101-b85b-499b-abe9-558d0647ce4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nuts and Olives",
+      "trophyDetail": "Find all screws and nuts in Greece",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/3117e0db-fa7f-4b0a-a06d-b78a6c80a06e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cozy Room",
+      "trophyDetail": "Find all cats in the bedroom",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/9233cba9-1232-4e0d-87f0-c25c17441573.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The End(?)",
+      "trophyDetail": "Finish the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/d817db0c-2224-4517-bcf9-b05919fce393.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Blessing in Disguise",
+      "trophyDetail": "Get the crystal from Horus in Egypt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/830ec8ee-35d4-4cb6-940e-1222f14bb08e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Call the Mechanic",
+      "trophyDetail": "Find all screws and nuts in the 20th century",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/cb270a52-5aa8-42ee-b6eb-c03cafde16ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gear Entrepeneur",
+      "trophyDetail": "Find all screws and nuts in industrial era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/310ba7c6-552d-47e9-9968-69268f631f41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Planet",
+      "trophyDetail": "Unlock the new planet Felinus B",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/d77f02ff-0207-489f-baa1-2abe176956ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Give me Alchemy",
+      "trophyDetail": "Get the potion from Bastet at the Medieval Era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/8676e48a-89c3-436f-a907-0ffdb06d4f6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They Turn",
+      "trophyDetail": "Find all cats in laboratory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/ffb1e728-aaa9-4b9a-b484-868fa402aebe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spin Doctor",
+      "trophyDetail": "Rotate the Planet on Felinus B",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/6c542428-0f00-4c1a-bdf4-b02a90081f41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Felinus B",
+      "trophyDetail": "Find all cats in the planet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/b3c4c242-77a3-42bc-9b73-3990d2691b6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just like Sci-Fi",
+      "trophyDetail": "Find all screws and nuts in the future",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/fd77ac3c-ef67-42c7-9007-1da27e254680.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All work no play...",
+      "trophyDetail": "Collect all toy rats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/7dfcf996-1d11-4c2b-b37a-ebde13b14a8b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tech Hunter",
+      "trophyDetail": "Find all screws and nuts in medieval era",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/64a3eea1-39c8-4b59-8bd0-7038a4da278b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Metal Head",
+      "trophyDetail": "Get the metal detector",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/2a65175f-581f-4063-81b6-f4f1567cf2ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Talkative Cats",
+      "trophyDetail": "Talk to All Cats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/e6bee165-27aa-4fc5-972a-847addcb1d49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aperture Magic",
+      "trophyDetail": "Get the teleporter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/ac5f7387-d71f-4a08-a7a6-0ca0b8d839e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Purrfectionist",
+      "trophyDetail": "Find all messed era cats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/a3bc2935-ccac-4f05-b867-c929f419110e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Home",
+      "trophyDetail": "Sow the seeds in Gattaca",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/dedfb52a-bc13-4930-b956-94a7ee6d29cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gattaca",
+      "trophyDetail": "Find all cats in Gattaca",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54999_00/37e8caa5-0c3a-456a-8416-38678367e4a1.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

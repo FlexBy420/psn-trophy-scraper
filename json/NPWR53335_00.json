@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR53335_00",
   "title": "Knightica",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 31,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 41,
   "trophies": [
     {
       "trophyId": 0,
@@ -284,6 +284,96 @@
       "trophyDetail": "Reach Infinite Defense on a Troop",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/70DE6804497A91126D61DB86A9B10601A352CC8A.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trinket Collector",
+      "trophyDetail": "Unlock 20 Trinkets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/02DB547EDAF6FFCCD708618BA5D57183F60A6C25.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trinket Curator",
+      "trophyDetail": "Unlock 40 Trinkets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/4AEC6B9400AE5722810C27094702A9A72746F3E1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trinket Conservator",
+      "trophyDetail": "Unlock 60 Trinkets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/3CA1E01C7C29B3487F43C6B1AD4FE3231DCDAE65.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Trinket Archivist",
+      "trophyDetail": "Unlock 80 Trinkets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/3C98525F004B9FE8003F23E7B0AB549D92A26E4D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holy Heresy",
+      "trophyDetail": "Use a Curse while playing the Cleric",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/2FEBF74423910C5EAE63E2122C88C1F218630479.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire, Faith and Arrows",
+      "trophyDetail": "Launch a fight with the Ranger, the Pyromancer and the Paladin on the Field\n",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/4A1DACF483CBE1AAC279F9B955B64C646AE18C00.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Modest Path",
+      "trophyDetail": "Win a Campaign run with the Power Crisis Trinket",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/BC8DB0AFE4FC6DDE734F3F4ECE35250D4C30F40E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boundless Madness",
+      "trophyDetail": "Unlock all Tiles with the Limited Space Trinket",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/CD14A0FD1DA609B1209E3042E5334D5613C3CB88.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double Trouble",
+      "trophyDetail": "Unlock the secondary Trinket Slot",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/B2FA19D563AFB2A40678AB4873084B4F16E60B27.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rulebreaker",
+      "trophyDetail": "Fight the Spider Queen with an Epic Troop on the Field",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53335_00_00094D6599AE1F352FA38DA8429093378F44E6F6C8/4EAF3A505AEFC19677FE3C0012D0E15BD82D1B87.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

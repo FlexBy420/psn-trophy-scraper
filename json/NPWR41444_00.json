@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR41444_00",
   "title": "Top Racer Collection",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 25,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 32,
   "trophies": [
     {
       "trophyId": 0,
@@ -230,6 +230,69 @@
       "trophyDetail": "Finish a Race in Time Attack Mode in Top Racer Crossroads.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/4A49AAB92AA750DE0DD3B1D54BAFE238E06E2465.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stylish race",
+      "trophyDetail": "Finish a quick race in first place with a custom car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/BF39C0DCD88E84F44B3FB965440A21DB6E116DC8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Against the clock, against all",
+      "trophyDetail": "Finish a race in Time Trial mode in first place with a custom car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/F7839CBB733723501EDE804CF674A4729C7A1471.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Custom campaign",
+      "trophyDetail": "Finish any Campaign race in first place with a custom car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/696FC29F7E62F1727650BE1A45F7282BAA381AEC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maximum speed",
+      "trophyDetail": "Finish a race in first place with a custom car set to maximum speed and nitro speed",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/7292355AE1595CA1867420C3CE8EEDB811729876.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minimum speed",
+      "trophyDetail": "Complete a race with a custom car set to minimum speed and nitro speed",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/EA15443EC6D894BB5F7F0E9E024DDA9E9AFAB9DA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Custom in the Cup",
+      "trophyDetail": "Complete a Custom Cup with a custom car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/6A81F32AB4FA17CB9F5721E7F06D60CFFA01F3C6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "King of the road",
+      "trophyDetail": "Complete the Campaign with a custom car",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR41444_00_00BF7C209968D00399B52DAA330668C9BA51CB7BF6/352D7447D150FEA86511846193CAAB28EF99813D.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

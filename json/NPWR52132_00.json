@@ -1,0 +1,442 @@
+{
+  "npCommunicationId": "NPWR52132_00",
+  "title": "Atelier Ryza 3: Alchemist of the End & the Secret Key DX",
+  "platform": "PS5",
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": false,
+  "totalItemCount": 48,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Alchemist of the End",
+      "trophyDetail": "Acquired all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/ad1a30a2-103e-42d5-9623-9992644e0781.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Off on an adventure!",
+      "trophyDetail": "The four set out on an adventure.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crafts of reconciliation",
+      "trophyDetail": "Stirred up the conflict of Sardonica.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Through the Gate",
+      "trophyDetail": "Once again landed in the Underworld.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unexpected reunion",
+      "trophyDetail": "Reunited with Fi.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Last key",
+      "trophyDetail": "Created the Key of Truth.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Summer's end",
+      "trophyDetail": "Set out on a journey to find someone to entrust your legacy to.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Never ever forget",
+      "trophyDetail": "Completed Klaudia's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Past settlement",
+      "trophyDetail": "Completed Lent's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Growth and change",
+      "trophyDetail": "Completed Tao's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Your own answer",
+      "trophyDetail": "Completed Patricia's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Honest alchemist",
+      "trophyDetail": "Completed Empel's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Warrior's day off",
+      "trophyDetail": "Completed Lila's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "First and last adventure",
+      "trophyDetail": "Completed Bos's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Those who stand between",
+      "trophyDetail": "Completed Federica's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What is strength?",
+      "trophyDetail": "Completed Dian's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Curiosity of youth",
+      "trophyDetail": "Completed Kala's side story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A new base",
+      "trophyDetail": "Built an atelier.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Another hideout",
+      "trophyDetail": "Expanded an atelier to maximum size.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "The essence of alchemy",
+      "trophyDetail": "Completed the Alchemy Skill Tree.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/a7addf5c-d7d9-45bd-87ca-3bdbb2e7279c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Visiting famous places",
+      "trophyDetail": "Discovered a Landmark for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Love sightseeing!",
+      "trophyDetail": "Discovered all landmarks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Beyond the horizon",
+      "trophyDetail": "Made friends with the Water Beast.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To the ends of the earth",
+      "trophyDetail": "Made friends with the Land Beast.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The power of mother nature",
+      "trophyDetail": "Created a key at a landmark.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master key",
+      "trophyDetail": "Created an especially rare key.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Off to higher heights!",
+      "trophyDetail": "Activated 6th stage effect using Link Morph.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Completely compatible",
+      "trophyDetail": "Successfully synthesized a level 3 recipe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "An incredible tool!",
+      "trophyDetail": "Successfully synthesized an item with super traits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The secret chef!",
+      "trophyDetail": "Collected all cooking recipes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lucky day!",
+      "trophyDetail": "Obtained an item from a rare supply point.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Skill user",
+      "trophyDetail": "Acquired skills by using Core Crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Expert adventurer",
+      "trophyDetail": "Obtained all Exploring and Adventuring Tools.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "One step ahead!",
+      "trophyDetail": "Raised a level 50 Puni.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A little clue",
+      "trophyDetail": "Discovered a memoir for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Rumor-chasing adventurer",
+      "trophyDetail": "Discovered all memoirs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/a7addf5c-d7d9-45bd-87ca-3bdbb2e7279c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "People person",
+      "trophyDetail": "Completed all world quests in one region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Journey round the world",
+      "trophyDetail": "Completed at least one world quests from every region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Offering help",
+      "trophyDetail": "Completed a random quest for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Isn't it a little big?",
+      "trophyDetail": "Caught an insect of a specific size.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Big catch! Big catch!",
+      "trophyDetail": "Caught a marine creature of a specific size.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ultimate swordsmanship!",
+      "trophyDetail": "Completed request of the 3 sword master brothers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fighting together!",
+      "trophyDetail": "Used Order Drive for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A special weapon",
+      "trophyDetail": "Defeated an enemy using Key Modification.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The key to victory!",
+      "trophyDetail": "Used Key Creation on a tough enemy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It is all coming together!",
+      "trophyDetail": "Activated all Fatal Drives.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/af6af08d-3ff5-4371-b462-863656d755c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Being versatile",
+      "trophyDetail": "Manifested all Roles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/0470556e-e2c6-49e0-8068-05658bd648a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "History coming to an end",
+      "trophyDetail": "Defeated the Code of the Universe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52132_00/a7addf5c-d7d9-45bd-87ca-3bdbb2e7279c.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

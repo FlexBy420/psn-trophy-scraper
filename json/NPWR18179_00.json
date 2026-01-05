@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR18179_00",
   "title": "Risk of Rain 2 Trophy Set",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 42,
+  "totalItemCount": 44,
   "trophies": [
     {
       "trophyId": 0,
@@ -383,6 +383,24 @@
       "trophyDetail": "Defeat the False Son.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18179_00_003051661992B0D996F805ED67712E943D3E488C7D/73FCB46701A6456E540DC01A7A3A30086728F832.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lost in Transit",
+      "trophyDetail": "Freed the survivor from the vault in Solutional Haunt",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18179_00_003051661992B0D996F805ED67712E943D3E488C7D/BD57A83FB2A5CC7CDE66CAD55EA229A98B426B3B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Trial of Prestige",
+      "trophyDetail": "Completed the Trial of Prestige",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18179_00_003051661992B0D996F805ED67712E943D3E488C7D/2908B8D7598E5B93E2706291813CDE8AE420A7D2.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

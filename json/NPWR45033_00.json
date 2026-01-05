@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR45033_00",
+  "title": "Junkyard Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "King of the Junk",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/70724bed-96e8-4054-89e6-4b1d8751d99d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blue Car",
+      "trophyDetail": "Discover the blue car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/3d353a2b-20a2-4a0b-823a-6a49cd0a222c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pickup1950",
+      "trophyDetail": "Buy the 1950 Pickup car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/6077de98-dc82-4081-9c2a-210762cdd960.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conveyor Belt",
+      "trophyDetail": "Buy the 1st branch of Conveyor Belt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/c1e1919a-da26-4625-bbdc-83f35de0512b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Two-column Lift",
+      "trophyDetail": "Unlock two-column lift",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/f5e2488f-fd9a-4ead-8a6a-adb33356a691.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stationary Press",
+      "trophyDetail": "Buy the Stationary Press",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/face3b7f-2dfe-4de9-a775-2fce6bb8242b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Renovation Stand",
+      "trophyDetail": "Unlock the renovation stand",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/e8f6968a-31cb-4951-a936-f5e5f65c960e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Container",
+      "trophyDetail": "Open the 1st container",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/af89122e-6a23-4612-b47c-9a52be6a2da9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bob",
+      "trophyDetail": "Meet a new client - Bob",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/3add0732-dbd7-499f-8172-d96a65760744.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Felix",
+      "trophyDetail": "Meet a new client - Felix",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/3d9ce890-b33e-47b2-ae2f-92b5a8b5a87c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucy",
+      "trophyDetail": "Meet a new client - Lucy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/750de528-887c-4f60-a0af-39005bae1320.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Old Lady",
+      "trophyDetail": "Meet the Pawnshop owner",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/93f52fd0-56bd-4b28-a349-d03da754282b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make a bundle 1k",
+      "trophyDetail": "Earn $1.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/75051ee4-ab33-4076-857b-ca5ca94b30b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make a bundle 1M",
+      "trophyDetail": "Earn $1.000.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/d8070296-3600-463a-93c5-0a3b40267a52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make a bundle 10k",
+      "trophyDetail": "Earn $10.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/d8e5038f-7e8a-46bd-b0c9-a33290c03e66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make a bundle 10M",
+      "trophyDetail": "Earn $10.000.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/9884f080-dad2-4419-83af-61abcc893739.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Make a bundle 20M",
+      "trophyDetail": "Earn $20.000.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/4ec50abc-e419-4170-98c5-a6f574ff522e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Make a bundle 50M",
+      "trophyDetail": "Earn $50.000.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/54e7497a-2158-4706-806f-7b029cd658e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Make a bundle 100k",
+      "trophyDetail": "Earn $100.000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/c62b7fb2-f73a-484e-95d6-72852f23da4f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aluminum raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Aluminum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/cfbbf6c3-a4b6-4366-ac44-d23dadcb036e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tin raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Tin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/040b079a-186d-4b26-af0e-05645d25a764.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zinc raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Zinc",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/fd53df81-2b71-41b3-b7f6-d10c7ced35ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wood raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Wood",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/ca8e13fe-8c74-4b51-a01c-a473f7517039.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magnesium raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Magnesium!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/3dde8d53-137f-4f8a-803a-63e24bb65b1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wastepaper raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Wastepaper",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/55ca43fe-9cb3-40ea-845f-2feb9bea5cd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Copper raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Copper",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/3a547b70-6dfb-4fc2-8628-8c02e465b526.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brass raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Brass",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/c9f0263a-54c7-4cfc-8a7f-2b6f8e2efafd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lead raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Lead",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/488ceb99-8bb6-4f54-9c3d-ed53c57ad645.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Organic raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Organic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/fd5dda0c-0224-4384-8414-d3bde07d3385.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plastic raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Plastic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/2d64d3ff-7e2c-44ad-8ee9-91665ec52085.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glass raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Glass",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/ce89b993-19ba-41a9-b64f-a7c039cbc986.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fabric raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Fabric",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/f04c0bee-d1a6-401b-b10e-1ebde674a523.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iron raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Iron",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/dde2e4a5-dd4d-4e7e-8940-bc01e6ee8ecf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cast Iron raw materials",
+      "trophyDetail": "Accumulate 1.000 kg of Cast Iron",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/2cdb4989-d9d7-4028-8339-9ab5e50cd5ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Factory",
+      "trophyDetail": "Visit a Factory",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/25e8b081-2488-4783-be9b-10d28eb03d62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raw Materials Marketplace",
+      "trophyDetail": "Visit a Raw Materials Marketplace",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/4a174b76-bb99-48da-a437-0d8248b4d59e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pawnshop",
+      "trophyDetail": "Visit a Pawnshop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/6a81045b-105e-45e5-a27b-e353fddff6bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Motel",
+      "trophyDetail": "Visit the Motel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/36885530-e23e-4d90-814d-2a5c387e89fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Car Park",
+      "trophyDetail": "Visit the Car Park",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/dc121ac9-2402-4e3f-9257-93742570997a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Visit the Stationary Press",
+      "trophyDetail": "Visit the Stationary Press for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/face3b7f-2dfe-4de9-a775-2fce6bb8242b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Antelope",
+      "trophyDetail": "Discover a Antelope car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/1f41f292-198d-4ab1-ac4a-245ac66c66c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ben 190",
+      "trophyDetail": "Discover a Ben 190 car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/8be92d0a-cdb7-42fc-a9ba-4eaabd6e8613.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mercury",
+      "trophyDetail": "Discover a Mercury car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/7423c91d-8da7-43f3-8eb4-fc03b58e3c26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop",
+      "trophyDetail": "Visit a Workshop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/0d8d2969-5c18-4c2d-974a-ef22188f1b7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Great Collection",
+      "trophyDetail": "Collect all the cars for renovation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/a95a2536-4907-4d57-a8f7-7ce2dbff8df2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Junkyard",
+      "trophyDetail": "Find the Junkyard. Welcome home!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/db5424f8-0bb3-4c84-a19e-94a2c818da22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Junkman's Cart",
+      "trophyDetail": "Discover the Junkman's Cart",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/a2af86cd-e3af-4b9f-a9ff-15e62f96319c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This is your junkyard lot",
+      "trophyDetail": "Buy a junkyard lot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/fe3713f7-9b4d-42cf-b1f9-005fa5ed25a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You are hardworking! You have completed 100% of sector A",
+      "trophyDetail": "Complete 100% of sector A",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/671d4026-1b03-466e-9546-7797bfbc8ca1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector B",
+      "trophyDetail": "Complete 100% of sector B",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/182ef346-c2cb-455f-ae96-82bdf563982f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You've done 100% of sector C",
+      "trophyDetail": "Complete 100% of sector C",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/5cda7cd1-6540-44a7-94cc-8d350a9e1cbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector D",
+      "trophyDetail": "Complete 100% of sector D",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/b53d00cc-28d8-41cd-9ca4-1e836edd6287.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector E",
+      "trophyDetail": "Complete 100% of sector E",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/1f809e77-1eb5-4448-84b0-859d7fa11966.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You've done 100% of sector F",
+      "trophyDetail": "Complete 100% of sector F",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/b04e6249-b754-4276-99d6-ab61f385644e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector G",
+      "trophyDetail": "Complete 100% of sector G",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/8b738a20-edb2-4f85-826b-105de2d0437d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector H",
+      "trophyDetail": "Complete 100% of sector H",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/c169d525-d9b2-41e6-886d-d76da04644f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You have completed 100% of sector I",
+      "trophyDetail": "Complete 100% of sector I",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/f456d60b-384a-4644-947d-ed3c2ff45367.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Benz",
+      "trophyDetail": "Discover the Benz car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45033_00/cdc3c525-ff70-46d1-8fb7-4e1e13459a03.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

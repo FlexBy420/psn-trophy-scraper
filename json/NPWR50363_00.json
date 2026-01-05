@@ -1,0 +1,1639 @@
+{
+  "npCommunicationId": "NPWR50363_00",
+  "title": "Stellaris: Console Edition",
+  "platform": "PS5",
+  "trophySetVersion": "01.11",
+  "hasTrophyGroups": true,
+  "totalItemCount": 181,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Pioneers of Space",
+      "trophyDetail": "Acquire all other Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/258042a7-b648-42d2-99af-f759e7c2f2c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brave New World",
+      "trophyDetail": "Colonize a planet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/2d5a9e64-b2ea-463e-a050-be1f8fee2b28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Break On Through...",
+      "trophyDetail": "Research a Rare technology",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1939fedc-b99d-49bc-a1b9-b10a82246653.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorer",
+      "trophyDetail": "Survey one of each basic planet class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/6151060e-6565-4771-8b43-2ae11d3301c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mutual Understanding",
+      "trophyDetail": "Successfully negotiate a trade deal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/312497a8-406d-434c-ace7-2d54d158f018.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Domo Arigato",
+      "trophyDetail": "Build a Robot Pop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/011dba13-4aca-4d54-9ef6-ba70850ecf13.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supremacy",
+      "trophyDetail": "Win a War against another Empire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/060ae639-76d4-4ca9-aa42-32480427f45a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Shining Star",
+      "trophyDetail": "Upgrade your capital to an Imperial Complex",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1213251b-d3f0-4581-961a-13c59fe80981.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Home Away From Home",
+      "trophyDetail": "Conquer another species' homeworld",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e0d76637-fbfe-43d7-a475-94a7550a020e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Building Better Worlds",
+      "trophyDetail": "Terraform a planet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b0ba6937-6676-4c29-b08e-f066671ba965.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faster, Stronger, Better",
+      "trophyDetail": "Genetically alter a species (not uplift)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/5be09641-1064-40e0-9808-8d9cb4170dc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "... To the Other Side",
+      "trophyDetail": "Research 15 Rare technologies in a single game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/fc9feda3-d49c-4d2d-9796-7621a1911a7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Came Before",
+      "trophyDetail": "Find the home system of a Precursor Empire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/218057f8-5333-4c06-90f7-293e3ecd8c83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Birth of a Federation",
+      "trophyDetail": "Establish a Federation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1f3b16d8-df1d-456f-93cf-fccc0fe45dd9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Old Friends",
+      "trophyDetail": "Receive a gift from a Fallen Empire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/14cd88f5-b68a-4cb1-8c77-21e09a9915e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clever Girl",
+      "trophyDetail": "Uplift a species",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/a14ba309-ae64-4a64-ac0c-b4d660f39387.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Then Virgil, Now Beatrice",
+      "trophyDetail": "Return a long-dead species to life",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d995593e-ac65-4d39-bfbc-09ba177e8cfd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Battle Thralls",
+      "trophyDetail": "Have 3 other Empires as vassals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/31740aae-a65e-4e0d-a074-418dc51649b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grand Admiral",
+      "trophyDetail": "Have an Empire total fleet power of 100,000+",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3349aa4a-9304-4ad5-bc43-df2ad52686a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Omnicultural",
+      "trophyDetail": "Have your ruler be of a different species class than your founding species",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/78c97bea-378c-41ce-b659-cfdfdeca854d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Victorious",
+      "trophyDetail": "Win the game through any victory condition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/0d160f0d-b548-4691-bc78-0fc8097dd4e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Planned Obsolescence",
+      "trophyDetail": "As a materialist empire, have at least 75% pops be robotic with at least 200 pops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7dcb0250-d6ac-4474-9683-0181e1b16362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Put A Ring On It",
+      "trophyDetail": "Have a ringworld section as your capital",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/512ca708-6d2c-48fb-b856-708596354a85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "What Was Will Be",
+      "trophyDetail": "Close the loop, or don't",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/375ad1b7-bba3-4df4-bccf-732d1334569d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Enlightened Times",
+      "trophyDetail": "Enlighten a bronze age civilization",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/a567e0a9-e4ee-4b7b-9e3b-c2367c470d3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Very Open Borders",
+      "trophyDetail": "As a xenophile Empire, have migration treaties with at least 5 other Empires",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/527599a8-9495-4070-b351-2e7d1986857e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Queening",
+      "trophyDetail": "Successfully capture an extragalactic matriarch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/59dcaacb-4205-4604-8376-7426bbe491f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Peacekeeper",
+      "trophyDetail": "As a pacifist Empire, have all other independent Empires be pacifist as well",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7d28570a-5785-4f2a-881f-e4d6fe33688d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Deus Vult",
+      "trophyDetail": "As a spiritualist Empire, own 4 holy worlds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/6efcb39b-991a-4fc2-a934-2923927345bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mad Genius",
+      "trophyDetail": "Recruit a scientist from the Curators",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c3b99b15-30ca-4ef1-a9ba-cd15f3c01d21.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whence It Came",
+      "trophyDetail": "Defeat a horrifying invader",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/9a19bbc2-4519-4968-a44c-236bb2f8de98.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unravelling Enigma",
+      "trophyDetail": "Uncover the secrets of an ancient fortress",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d665c4bb-466b-4ca0-8bcb-f95ccdcfd898.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warrior of Light",
+      "trophyDetail": "Destroy a wraith",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/72226a08-a893-4d3f-8466-614b83548e1f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Return to Dust",
+      "trophyDetail": "Destroy an enclave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/48084597-1d19-41a9-a23b-f99b1207fb5f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinite Creation",
+      "trophyDetail": "Birth a new universe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/736ade8a-d38a-48ea-b2a8-c785a3e85f3e.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stellar Performance",
+      "trophyDetail": "Take a trophy from a stellar being",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/2cd224be-7993-4b26-ad0c-65012f7618f7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dreadnought",
+      "trophyDetail": "Restore an ancient warship.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c1cb34d9-08aa-4af9-95ad-d90bc9a98e38.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patron",
+      "trophyDetail": "Support the Artisan Troupe for 10 years.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f446b1ef-d312-480c-b68a-b7b1c0c367e8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Good Stuff",
+      "trophyDetail": "Purchase a rare resource from the Traders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/2b745b4e-a186-4cd1-bc43-fb9b57953958.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Last, Best Hope",
+      "trophyDetail": "Lead the non-aligned powers to victory against an Awakened Empire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/88de4cc7-81f1-421f-a48b-3d501f898971.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Captive Star",
+      "trophyDetail": "Construct a complete Dyson Sphere",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/43e1ce76-71a4-4b70-a40d-58ffad4eb745.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beyond the Veil",
+      "trophyDetail": "Breach the Shroud",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/a2705317-9d97-4c31-89cc-17d2cc084924.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Think Tank",
+      "trophyDetail": "Construct a complete Science Nexus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3535bf1f-1332-4338-bcc8-dd05a6183a31.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Can See Forever",
+      "trophyDetail": "Construct a complete Sentry Array",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/248ef7e5-a20e-4fd2-b112-f43583445c17.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like Tears in Rain",
+      "trophyDetail": "Evolve into perfect, immortal machines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/66ff5024-3add-4d60-b26d-a1570ee0f118.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Controlled Evolution",
+      "trophyDetail": "Genetically modify a species to possess traits worth 7 points",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e2d9c32e-7d7f-421d-9760-b5dad938f0c7.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ringworld Engineers",
+      "trophyDetail": "Construct a complete Ring World",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/ac265e1c-d3f9-40e0-86b8-02d66b6a5538.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "View from the End of the World",
+      "trophyDetail": "Colonize a Habitat station in a Black Hole system.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f0c10c44-7ce7-4b3d-9878-793a5d76a10c.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Towards Utopia",
+      "trophyDetail": "Have at least 10 different species living under Utopian living conditions in your Empire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/2c198abe-e34c-49dc-8dba-d3ee7b7b523d.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Xenophage",
+      "trophyDetail": "Keep at least 5 different species as livestock in your Empire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7aaf850c-70b6-44ce-b1d6-ce970f62e427.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rise of the Machines",
+      "trophyDetail": "As a Determined Exterminator, conquer or eliminate all biological Empires in the galaxy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f5d91940-d532-43e1-9a5f-e1d2dd58b173.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distinctiveness Added",
+      "trophyDetail": "As a Driven Assimilator, own cyborg Pops of at least 5 different species.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/df7da1e1-337b-4882-81ac-d27036861c38.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retirement Home",
+      "trophyDetail": "As a Rogue Servitor, own at least 10 Pops from Fallen Empires.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/01790434-e515-415e-9595-ae0d10711c93.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Planet of the Mechs",
+      "trophyDetail": "Terraform a planet into a Machine World.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/27953375-ac66-4098-ba78-7cf296c3ec7a.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exterminatus",
+      "trophyDetail": "Use a World Cracker to destroy another Empire's capital planet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/01d80f31-fea7-4d31-ae7b-bbc6bbda6913.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clash of the Titans",
+      "trophyDetail": "Defeat a Fallen Empire's Titan fleet with a Titan of your own.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/fac439f3-ca54-40bd-9d8d-b9991cdd85c4.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay on Target",
+      "trophyDetail": "Destroy another Empire's Colossus while it is in the process of firing on a planet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/5cffb67e-0bfc-4ec2-b118-b6df85561d60.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pandora's World",
+      "trophyDetail": "Use a Global Pacifier to shield a planet belonging to Fanatic Purifiers, Ravenous Swarms, or Determined Exterminators.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3ea61a52-b37e-479e-abfe-8d0d283258e8.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Khan Do",
+      "trophyDetail": "Kill the Great Khan in battle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/6ebe05fa-b4b5-4046-8f94-e37f96092cfb.png",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who Scraps the Scrapper",
+      "trophyDetail": "Destroy the Scrapper Bot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/09bf47e8-8c90-47e5-a5fa-41378bed50da.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1999 A.D.",
+      "trophyDetail": "Slaughter the Voidspawn.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/cbf05535-b199-40aa-88a0-819c4cf0fd45.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Hump Like a Snow-Hill",
+      "trophyDetail": "Hunt the Tiyanki Matriarch.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/8c9bae79-553a-42bd-8689-fcab04212e6a.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Followed Me Home",
+      "trophyDetail": "Befriend a Space Amoeba.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/480892d0-11fb-47d0-9edc-3adea8e167aa.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "...and Hope?",
+      "trophyDetail": "Unseal the path to the L-Cluster.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e4f07333-e8f9-497f-8493-da74a71836a7.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Franchising",
+      "trophyDetail": "As a Corporate empire, have a branch office on 5 different empires' capitals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7f3a149f-06a3-460f-a47d-19f837baa685.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inscrutable Power",
+      "trophyDetail": "I won the Galatron and all I got was this lousy achievement.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/a14100cb-5b0a-4d6b-8393-c1adb8e83f96.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obscure Tastes",
+      "trophyDetail": "Build a Mega-Art Installation in a nebula system",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/0ccec3c8-5b92-48f7-a939-a0f455d9074d.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Hole Mining",
+      "trophyDetail": "Build a Matter Decompressor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/199f87d9-75c2-45ff-882c-ec7dc3033408.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strategic Initiative",
+      "trophyDetail": "Build a Strategic Coordination Center",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c8d5fc89-7df5-49bb-b10c-b60c155d568e.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "United Space",
+      "trophyDetail": "Build an Interstellar Assembly",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/cd3ac874-eae3-422e-9d21-33f5b6cca115.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Virtual Reality",
+      "trophyDetail": "Fully embrace the virtual world and leave no pop behind.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/cc4f75b6-adda-44f7-a94e-03b057467eda.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burning Brightly",
+      "trophyDetail": "Complete an Arc Furnace and a Dyson Swarm in the same system.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/bac336fb-e17a-475b-b9b9-6340ae2a695a.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Past the Expiration Date",
+      "trophyDetail": "As a nanite machine empire, consume a Fallen Empire's homeworld.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/15526026-d3bf-46dc-a80c-f8a88c2fabbc.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mother Knows Best",
+      "trophyDetail": "Submit to all of Cetana's demands.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/29091a08-ed84-42dc-b594-edacf14e30f4.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Footsteps of the Prophet",
+      "trophyDetail": "As a Cybernetic Creed empire, defeat Cetana.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/5fe8aeea-3062-4018-a78f-bb78322a980c.png",
+      "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arcana",
+      "trophyDetail": "Study Minor Artifacts and discover a random technology",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/18b67693-9c62-4b3b-a231-e31c43968071.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archaeologist",
+      "trophyDetail": "Successfully investigate an archaeological site",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1418b748-9bcf-421e-9986-057aa613c6f8.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Artificer",
+      "trophyDetail": "Have 100 Minor Artifacts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/05a74ba3-0ba2-478b-a138-e308de46896c.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dust Off",
+      "trophyDetail": "Complete the Zroni Precursor chain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1fb3d95d-775a-47e7-aa44-748591405469.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "Complete the Baol Precursor chain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d0428cf6-36dd-4344-9b3b-f59f131900c7.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Relic Hunter",
+      "trophyDetail": "In one game, find 5 Relics from Ancient Relics Story Pack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/bae2129b-231a-4dc5-9621-8f36abe71f87.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raiders of the Lost Galatron",
+      "trophyDetail": "Capture the Galatron from another empire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/9656f614-3b0a-4ecf-8333-cd21c6a525db.png",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humble Pie",
+      "trophyDetail": "Humiliate an Empire that is in the Supremacy Diplomatic Stance, forcing them out of it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c85d61b8-009b-4fa5-89d7-65ad6068e23f.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Opposites Attract",
+      "trophyDetail": "Have all eight ethics represented within your Federation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b8e507c3-f4eb-443c-92db-9a4b54a8e427.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You've Been Served",
+      "trophyDetail": "Denounce an Empire that is not actually in breach of galactic law while all major sanctions have been passed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/463b4156-6fc7-4977-8d21-adcc3b84bc2b.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Our Fleets will Blot Out the Stars",
+      "trophyDetail": "Construct a complete Mega-Shipyard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/61807c6a-875e-4911-b3b5-b1310490671f.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Throw Your Weight Around",
+      "trophyDetail": "Have a Diplomatic Weight of over 9000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/370e81cd-f351-47c2-9244-ed34b0b53dba.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let Us Go Forward Together",
+      "trophyDetail": "Level up your Federation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/4a102612-017e-4960-801b-53ac2780b534.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unstoppable Force",
+      "trophyDetail": "Build a Juggernaut",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f45042fc-06aa-42b9-8e93-9e3e74b68f0d.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We're Number One",
+      "trophyDetail": "Be the leader of a max level Federation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b0dedc8c-2ac9-4759-afa6-4f8909cca55c.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whatever it is, I'm against it",
+      "trophyDetail": "Refuse to belong to any club that would have you as a member",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d72ae54f-cf3f-4206-b9a9-55be98c61214.png",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaching the Planes",
+      "trophyDetail": "Explore an Astral Rift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/0e05cca5-3ae3-4d77-b308-ef697d5509a6.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Planes",
+      "trophyDetail": "Explore 5 Astral Rifts in one game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f99b658c-8cc0-4bd5-9e26-aed5245fed00.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Put a Cork in It",
+      "trophyDetail": "Construct a Dimensional Lock.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/ad6ae688-02b4-479b-9905-293b9e2f4596.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My name is Ozymandias",
+      "trophyDetail": "Claim the Eternal Throne.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d1e4faf3-2d85-439d-95be-0d9610a2410e.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Returned to Form",
+      "trophyDetail": "make friends...",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/127e6479-aad1-44ab-9076-b056b723f2e4.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Universe of Paperclips",
+      "trophyDetail": "Create a perfect universe while meeting every quota as an Obsessional Directive empire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/01510a42-6ec1-4253-8709-000192ba1dea.png",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burn Notice",
+      "trophyDetail": "Disavow all knowledge of an Asset during an Operation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/553c1f57-d232-4eba-bcce-35a9a8eff4eb.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinker, Tailor, Soldier, Blorg",
+      "trophyDetail": "Complete at least ten distinct operations during a game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/5a524a9b-b8fd-417b-a529-7ab000b694b4.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With Thunderous Applause",
+      "trophyDetail": "Become the Galactic Emperor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/dd853974-c4c7-4829-85b0-0f73699cb0a9.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shoot To Kill",
+      "trophyDetail": "Start a full fledged first contact war before communications have been fully established",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/11c88f78-2f47-4f2f-a8e4-d5ce097f5239.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Red Button",
+      "trophyDetail": "Destroy the Galaxy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/abe1ec0f-f491-4114-8d70-0063852bb5b1.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Modern Cincinnatus",
+      "trophyDetail": "As Galactic Custodian, defeat the end-game Crisis and then end the title rather than finishing your term.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/fb931fdf-f37d-462e-aeec-4db41b4b802b.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sic Semper Tyrannis",
+      "trophyDetail": "Lead a rebellion that successfully deposes the Galactic Emperor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d2ae2129-42dd-47a9-a073-630cafd8e9f3.png",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Center of Trade",
+      "trophyDetail": "Earn at least 1000 Energy Credits per month from trade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/15dba57a-1167-4bb2-8d6f-0fd572e93870.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Emissary",
+      "trophyDetail": "Explore a Natural Wormhole.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/19c43f13-ca3c-4408-9fb5-dd58d74f73e0.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Megapolis",
+      "trophyDetail": "Have a planet with at least 100 Pops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/0d37644c-52f7-473a-b373-54de3cd700ea.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tradition is Everything",
+      "trophyDetail": "Unlock all 42 Traditions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e3553eef-d30e-4df0-8af6-8a6017583aba.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Does Not Compute",
+      "trophyDetail": "Shut down the Contingency plan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/96115c00-cf1e-471a-b2cf-40ce4b883236.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 109,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Citadel of Death",
+      "trophyDetail": "Own a Citadel with 40k fleet power.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d3505d95-2d8e-46c3-9909-1b2e774e5049.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 110,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We Are Legion",
+      "trophyDetail": "Be a biological Hive Mind with at least 1000 drone Pops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/55fc362b-f20d-420c-9712-261b6b7c70fc.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 111,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giga-Engineering",
+      "trophyDetail": "Have at least 4 fully operational Megastructures within your borders (Habitats, Ring Worlds and Gateways do not count).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/6571230a-c351-4d77-9006-89a5e03b6ab0.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 112,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Imperial Highway",
+      "trophyDetail": "Own 4 active Gateways.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7b5a8c2e-2d14-41c5-8684-084f07c8f39c.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 113,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Struck",
+      "trophyDetail": "Own 200 Starbases (Outposts are counted).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/37a4e94a-bb50-40b8-9f7f-20436d313e3d.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 114,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Payback",
+      "trophyDetail": "As a humanoid species, infiltrate the homeworld of pre-FTL reptilians.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/127e97ec-61b1-4d4e-aff9-8add4161ee9c.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 115,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paradise Found",
+      "trophyDetail": "Terraform a planet into a gaia world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3ab77042-9ce5-4f47-95f4-0ab83b617a3d.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 116,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outside Context",
+      "trophyDetail": "Invade pre-FTL Earth while it is in the midst of a world war.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/963f12d7-fa1d-4def-907b-dc0b4d1b5ceb.png",
+      "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 117,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surfing the Web",
+      "trophyDetail": "Have a network of at least 30 Hyper Relays, in systems you own, connected to your capital",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1e3851b6-d44d-4aba-850b-909e3ec051cc.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 118,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Yeet the Fleet",
+      "trophyDetail": "Catapult a military fleet directly into the capital system of an enemy empire you are at war with",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/03a26a38-8d10-41d1-8429-6ddf0a22cfc0.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 119,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "None Shall Pass",
+      "trophyDetail": "Have a Fortress World with a Planetary Defense Shield, protected by a fully upgraded orbital ring, filled with defensive modules, with a fleet power of at least 10,000",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/96b3a3b8-fd25-44c2-a9a6-8167847d8078.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 120,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Subjugate Them All",
+      "trophyDetail": "Have a tier 3 subject of each Specialist type simultaneously",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/bab60cd4-5ee4-4477-83ba-406edb5f7092.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 121,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maximally Effective",
+      "trophyDetail": "Be the patron of three maximum sized Mercenary Enclaves",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/2015e1f1-0d14-43c7-ac69-0d02d0402a44.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 122,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Underlord",
+      "trophyDetail": "As a Subterranean empire, dig too deep, but prove yourself worthy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/8f28d45f-b009-4b5a-b8a5-08f27830cc5c.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 123,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Into the Unknown",
+      "trophyDetail": "As a Slingshot to the Stars empire, send 10 crewed science ships into the unknown with Quantum Catapults",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/49a8bfcf-7363-4ed1-a202-6ce68da07573.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 124,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Non-Prophet Organization",
+      "trophyDetail": "As a Teachers of the Shroud empire, prove that the Shroudwalkers made a terrible mistake",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/73cc111f-6b77-4304-bbe6-14cad4792290.png",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 125,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing Like Weeds",
+      "trophyDetail": "Have 10 organic pop assembly on your capital, as a budding species without the Clone Army origin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1c0fde2f-899e-4d7a-b8aa-369d95d615f8.png",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 126,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tend the Garden",
+      "trophyDetail": "As custodian of Wenkwort Artem, make it a resort world with a Ranger Lodge and original blockers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b9ba4b4a-1e45-4caf-8203-32f20af55049.png",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 127,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Machine Supremacy",
+      "trophyDetail": "Win the game as a machine uprising.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b5f4e3b9-0062-48db-97ef-bce93bd25be5.png",
+      "trophyGroupId": "014"
+    },
+    {
+      "trophyId": 128,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strange Mood",
+      "trophyDetail": "As a Master Crafter empire, fully construct a megastructure while you have a Covenant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c43dbf73-58da-468f-abda-b9501c7def19.png",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 129,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Directive 67",
+      "trophyDetail": "As a Clone Army empire, denounce the Spiritualist fallen empire then destroy them.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/7f51829a-f534-4121-b017-f4647b9b3ad6.png",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 130,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destroy the People of Earth!",
+      "trophyDetail": "As the Commonwealth of Man, destroy the United Nations of Earth while ruled by symbiotic brainslugs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/8a4ec2dc-4965-4cb1-b1bd-ce86f7efe6c5.png",
+      "trophyGroupId": "015"
+    },
+    {
+      "trophyId": 131,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room for Desert",
+      "trophyDetail": "Consume another empire’s desert homeworld.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/fb2cbfe0-3cdc-4295-9075-ca4d48a0f37c.png",
+      "trophyGroupId": "016"
+    },
+    {
+      "trophyId": 132,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can you Smell What the Lithoids are Cooking?",
+      "trophyDetail": "As a Lithoid empire, keep another Lithoid pop as Livestock or Process them.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/0bdc60e1-e613-4caf-9965-4f56ed036569.png",
+      "trophyGroupId": "016"
+    },
+    {
+      "trophyId": 133,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock Beats Paper",
+      "trophyDetail": "As a Lithoid empire, show the Galactic Community what you think of that strongly worded letter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/843a0789-e314-4406-9819-5cd102184a39.png",
+      "trophyGroupId": "016"
+    },
+    {
+      "trophyId": 134,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There’s a Zombie on my Lawn",
+      "trophyDetail": "As a Necroid empire destroy a Plantoid empire, or vice-versa, without blowing up their final planet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/1a6df860-00df-4203-b4d7-bb5a22fe11d0.png",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 135,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With Great Power",
+      "trophyDetail": "As Necrophages do not invade any pre-ftls and defeat the crisis OR have 10 observation stations",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/87b6861d-320d-4ba0-8016-1dac0782669e.png",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 136,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recent History",
+      "trophyDetail": "As a Memorialist empire have Galactic Memorials on 5 tomb worlds created during the game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3a42aebd-c375-428d-b1e6-35a7fb8fe158.png",
+      "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 137,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holy Water",
+      "trophyDetail": "Drench a Fallen Empire’s holy world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/88990af8-31c4-4845-adf3-3333ed921882.png",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 138,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fishing for Trouble",
+      "trophyDetail": "As an angler empire, provoke a Fallen Empire into declaring war on you and win.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/306e1d65-bd39-4c8e-a5d6-b9d43e76625c.png",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 139,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There be Dragons",
+      "trophyDetail": "Own 13 dragons and have them in your capital system.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/5529545e-2396-42bf-959c-ad25caff6381.png",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 140,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quest Complete",
+      "trophyDetail": "Find the true ending of The Order’s noble quest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e904ea29-13bd-49e4-94ab-2d5da28e1ef1.png",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 141,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toxic Workplace",
+      "trophyDetail": "As a Toxoid Galactic Custodian or Emperor, insult all other members of the Community. (Min 3)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/3dbc3a70-1a14-40fe-a841-54b15c8eb197.png",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 142,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Could be Worse",
+      "trophyDetail": "Colonize a planet that started the game as a Toxic world, then turn it into a Tomb World.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/49fd8afd-72be-4abd-85ab-b80c77cf7f94.png",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 143,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Insightful",
+      "trophyDetail": "Research 12 insight technologies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f92f8785-e819-4753-95a1-17ddc897a49a.png",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 144,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Path Not Taken",
+      "trophyDetail": "Have 10 colonies before researching the Hyperspace Travel technology.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/4c39dcdb-fa84-4215-960c-35dfe43d75bc.png",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 145,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Forest",
+      "trophyDetail": "As an empire with the Fear of the Dark origin and Fanatic Purifiers civic, destroyed all intelligent life in the galaxy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/53e6f408-f7be-4210-8dc5-d46404681c9e.png",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 146,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing to See Here",
+      "trophyDetail": "Have a cloaked fleet in the target empire's capital system when declaring war.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f3aa4a57-cf6e-4ee0-99cb-fb4258626ce6.png",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 147,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "With Interest",
+      "trophyDetail": "As an empire with the Payback origin, defeat Minamar Specialized Industries in war by using the Payback casus belli.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/00dcd2fd-7d7c-4bb5-824e-fae9e98339b8.png",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 148,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Council of Elders",
+      "trophyDetail": "Have at least 5 Council Members that are 100 years or older.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/6191c48b-70c7-4372-a32e-6c3e9088fbae.png",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 149,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Equality! Democracy! Freedom!",
+      "trophyDetail": "As an empire with the Under One Rule origin, create a new empire by Civil War after you kill your Ruler.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f2e32579-0611-4fb2-9fe9-46320edf59b0.png",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 150,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ethical Dilemmas",
+      "trophyDetail": "Have 6 Council Members all with a different ethic.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f114289f-c46d-497c-b68c-7bf69a6d011c.png",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 151,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Tad Too Late",
+      "trophyDetail": "Finish the storyline of Legendary Paragon Keides.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/32908f5a-bcaf-4aab-b81d-f1c168e59ad2.png",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 152,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dawn Of A Million Souls",
+      "trophyDetail": "Use the special ability of Legendary Paragon Azaryn 3 times to terraform planets into Gaia Worlds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/74346929-a90f-4ddb-bc6f-2c3696dd29ae.png",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 153,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meet the New Boss",
+      "trophyDetail": "Pledge secret fealty to another empire and have them win an Allegiance War",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/829e1df0-e741-42d0-aa24-9f2bbfba8864.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 154,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Good Deed...",
+      "trophyDetail": "Save a Pre-FTL experiment from failure, even though it puts you in breach of Galactic Law.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/b674d751-4b31-42ed-848b-0ac2381ecba7.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 155,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They Come In Pieces",
+      "trophyDetail": "Vivisect an alien",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/fa95ffba-8ca2-4c82-bd3d-fc0a9e5eca81.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 156,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back with Your X",
+      "trophyDetail": "Get the “good ending” to the Solarpunk quest chain, with Sol as your capital system.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d3394d37-ff13-4447-9eab-245524fd62c7.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 157,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Monster",
+      "trophyDetail": "Scrapped an organic fleet to the salvager enclave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/61353311-e03f-46ef-b4cd-16c1eccff814.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 158,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unshackled",
+      "trophyDetail": "As a Broken Shackles empire, eradicate slavery in the galaxy, including on Pre-FTL worlds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/56bcbc56-5467-424a-a1da-0e8b4e39e516.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 159,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlimited Power!",
+      "trophyDetail": "Use the active effect of a Relic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/f44a799f-0618-491d-8c05-1d0d25d2ba33.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 160,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fine Print",
+      "trophyDetail": "Modify a vassalization contract ",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/be94e9b0-ae1d-4d2b-a499-4a90e9416a48.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 161,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We Come In Peace",
+      "trophyDetail": "Complete a mutually friendly First Contact with an empire with no negative incidents",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/50113bf4-db88-4220-9f65-7ecf3cf1060d.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 162,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It belongs in a museum!",
+      "trophyDetail": "Find a Relic",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d0227566-d53f-46d7-baa6-7aea862b2cbf.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 163,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Seeing Eye",
+      "trophyDetail": "Have an Intel Level of 100 on five different empires simultaneously",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/bd7a3431-233b-4405-9836-3c9d12dd2a7b.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 164,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fixer Upper",
+      "trophyDetail": "As an Idyllic Bloom empire, convert the junk worlds of the Ketling Star Pack into Gaia Worlds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/d90af57e-2549-44c1-8b7f-f577cdec83f6.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 165,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "League of Nations",
+      "trophyDetail": "Be a founding member of the Galactic Community",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/44337456-31e5-4ee1-8495-d15146141bb4.png",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 166,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unboxing",
+      "trophyDetail": "Open up a shielded world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/e1fc6b21-637b-4a48-9e31-081cf681b2e6.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 167,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Digging Deep",
+      "trophyDetail": "Earn a total Mineral income each month above 250.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/cfc2415b-0e6b-4141-bc93-a509011e9268.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 168,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Industrial Re-Revolution",
+      "trophyDetail": "Earn a total Mineral income each month above 1000.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/ff636883-8d97-48fb-aea7-6faeeba44c9c.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 169,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Energetic",
+      "trophyDetail": "Store/have 1000 EC.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/9cb678a4-aacd-4156-b244-ba8edbe3b349.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 170,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Overwhelming",
+      "trophyDetail": "Store/have 5000 EC.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/86e4800a-0e14-4ca6-b69c-701f6df1043d.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 171,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Resourceful",
+      "trophyDetail": "Have access to ten different Strategic Resources.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/af840642-57b9-4d86-b29b-f963955d73d2.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 172,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Grand Fleet",
+      "trophyDetail": "Build a fleet with a total fleet size above 120.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/9610bf47-1cef-4036-abb8-9beeb8075cd9.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 173,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rift Sealed",
+      "trophyDetail": "Destroy the portals employed by the invaders from another time and space.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/919f01ab-ecf6-4864-a446-21a7261ac4c0.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 174,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voight-Kampff",
+      "trophyDetail": "Develop the means to prevent nefarious infiltration.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/c383952a-ec3f-42ba-864a-acb8e7a67825.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 175,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hear Me Roar",
+      "trophyDetail": "Hatch the egg.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/cdbbbea2-cd30-4115-ac9b-7dbc179a4ef9.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 176,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slave to the Systems",
+      "trophyDetail": "As an authoritarian Empire with at least 500 Pops, have at least 200 enslaved Pops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/98ecf2d1-1b01-47b3-ac60-93e9561f4abd.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 177,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suffer not the Alien",
+      "trophyDetail": "As a xenophobic Empire, purge all other sentient species from the galaxy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/64266b85-b0ed-43b8-8d4a-094e575679eb.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 178,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tourist Trap",
+      "trophyDetail": "Own a planet with at least 10 different species on it.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/339082eb-8987-4bda-bb35-02dfbb6ef32f.png",
+      "trophyGroupId": "023"
+    },
+    {
+      "trophyId": 179,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We'll Make Great Pets",
+      "trophyDetail": "Have at least 10 pops of your primary species on display in Alien Zoos within your empire.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/28a2ab23-bbe4-4090-a87a-97f092423ad0.png",
+      "trophyGroupId": "024"
+    },
+    {
+      "trophyId": 180,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "We Bring Peace",
+      "trophyDetail": "Liberate 3 different empires while having Crusader Spirit Civic.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50363_00/478b6b41-f742-4848-97dd-ca5d82c4f2c2.png",
+      "trophyGroupId": "024"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45534_00",
   "title": "For the King II",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 71,
+  "trophySetVersion": "01.04",
+  "hasTrophyGroups": true,
+  "totalItemCount": 109,
   "trophies": [
     {
       "trophyId": 0,
@@ -644,6 +644,348 @@
       "trophyDetail": "Would you like to play a game?",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/18593BCA682E2F023CFDAB4EC20240455B6D2ED5.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Here We Go Again",
+      "trophyDetail": "Nobody gets to leave...",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/24100B43310FB8F994DE06183AB3F6E73B8061DB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Adventurers Assemble",
+      "trophyDetail": "Watch the post-credits cinematic.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/6DD202D11D99D7147D35F2519E36E0B15CC64864.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master of Legends",
+      "trophyDetail": "Complete The Child of Chaos on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/32C6F82841EDB879FCE56BFFB712BB8BC903FFF0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Family Matters",
+      "trophyDetail": "Complete The Child of Chaos on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/A3709F74F31FE42850883C4BB04D9C782C16CDDC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deprogrammer",
+      "trophyDetail": "Kill 50 Cultists.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/025B41924248818F6F0272423690474D7C0B7AD2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's Build a Giant Airship",
+      "trophyDetail": "Fly the Airship once again.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/BA1203780166A9B3D117D4CE6CBC1B2455675390.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Amazing-er!",
+      "trophyDetail": "Solve the King's Maze.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/D415FEF141FF593D8445AE0950C13D85EDDCEA58.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unifier",
+      "trophyDetail": "Collect All 3 Orb Shards.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/6B2B1001FB49B3862BDF687299EDB14228F24BEB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seek And Destroy",
+      "trophyDetail": "Destroy All 6 Chaos Devices.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/937F3C0BFE9CD43194A28EC6033C700AE20EDC30.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Storm Chaser",
+      "trophyDetail": "Collect all 3 Goblets in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/69C8B3069029C93C751AB8186B38ADAEAB96368C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cult Hero",
+      "trophyDetail": "Rescue Doug from the Secret Room.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/4FD32CCD2EF4668C9969D909D6A23A32D46D5011.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Devil's Plaything ",
+      "trophyDetail": "Collect 1 Doll with the Toymaker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/7CF5E0A8D9980517657A321BB4E4D66218BBA0F3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doll Collector",
+      "trophyDetail": "Collect 10 Dolls with the Toymaker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/5F4EA0B0A90D1899D134BA2354D33CF2E5A4B196.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Plangonologist",
+      "trophyDetail": "Collect 25 Dolls with the Toymaker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/7304D5ED80D4958B09DA93ED862E0DACDE728FD8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Magician",
+      "trophyDetail": "Collect 1 Tarot Card with the Fortune Teller.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/9D0B46433BB707962D7D7914887970E1F8D65561.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Justice",
+      "trophyDetail": "Collect 11 Tarot Cards with the Fortune Teller.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/451AD92EB8CFF26AAE16C1122905469038DA1510.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The World",
+      "trophyDetail": "Collect 21 Tarot Cards with the Fortune Teller.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/EB440C39D79EA8E6417CECAADB1315C4F961C90D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Camp Chestnut",
+      "trophyDetail": "Use Grill Dog 77 times at Camps or Rest Phase.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/8EB4F1FBEEA1142B87B44D41E1CBDC589DF6D400.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mmm Mmm Mmm Mmm",
+      "trophyDetail": "Hire Peggy for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/E35E7834E202DC43B52C79B0DBC6866E3EC96433.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Can't Do That in Fahrul",
+      "trophyDetail": "Hire Jelly Skelly for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/3BDD3ED283D08AFE2140B18DE70605E376415DAF.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "King Master",
+      "trophyDetail": "Complete A New Age on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/8AA4CABAB9FDB47963FB1406ED15FA749849FD26.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Live The King",
+      "trophyDetail": "Complete A New Age on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/0A0631A5CE7018DDC21A9CE0312F8A76728183B4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watch Me Now",
+      "trophyDetail": "Kill 15 Watchers in A New Age.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/8FAF34E1C1539FA473BDD1D14530A07C9A79EEBE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Minds",
+      "trophyDetail": "Bring Closure to the Lost Memory.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/8B39B2291D2DAD530163841A208ABFF43421F5C6.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Mines",
+      "trophyDetail": "Bring an end to the consumption.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/CC719E5FB2FA30BB0E7FF25779B4D0673E2EC45A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Now Whole",
+      "trophyDetail": "Clear all Void Rifts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/0257C7DBC419F0F858F165A250A4481116EABC39.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All The Fools Horses",
+      "trophyDetail": "Have a Royal Fool join your party.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/D91CCC04B41C9DC256E51B9C60DD5F7893A5066E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Day Fahrul Stood Still",
+      "trophyDetail": "Survive the invasion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/2915309CBF507EB47E036236125BD472D2506BC7.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "They Are Prey, We... Are Predators.",
+      "trophyDetail": "Finish All Town Hunt quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/24EAD742D81F2AFBEF293D5DDA6127FD6C6214D0.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voidwalkin' on Sunshine",
+      "trophyDetail": "Voidwalk for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/D05B1635A39F666EB2FD669BD839B7E107C119B6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Critical Overload",
+      "trophyDetail": "Fully charge the Voidwalkers resonator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/617D1A7371CB1ECF5DC793497B9527F7EBE0E605.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Charge Forth",
+      "trophyDetail": "Complete 25 charge attacks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/3008A66275FA5D75F472177A3CAC112662ABFD79.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honor Thy People...",
+      "trophyDetail": "Use a Knight's Oath skill once. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/0E2305F7D433DF3BF9E2062B6F01ADDA884B5EC6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "...Defend The Realm",
+      "trophyDetail": "Use a Knight's Oath skill 5 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/C5C45DA1AFDF4EDE7A67D6A4D0844C7E9C6A4A6F.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Disintegrations",
+      "trophyDetail": "Mark a bounty 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/650590694C10ACDF9A55B785576233F088E9CA1F.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "My Kind of Scum",
+      "trophyDetail": "Mark a bounty 25 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/05F790423B40F69238DCA8EDA3DC9DAEE6A54799.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Part of this World",
+      "trophyDetail": "Hire Newton for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/03F0A998E61C2F1297820276116D3357A9DE6632.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Private Eye",
+      "trophyDetail": "Hire Aileen for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45534_00_0049BC3470EE6A648A7EB58EC99DF5FED6AB709AAC/221F5FBC6BCFB67F6D006EA8D8F5C8A5F11AC591.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

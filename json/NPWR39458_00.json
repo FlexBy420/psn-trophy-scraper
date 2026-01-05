@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39458_00",
   "title": "Gems of War",
   "platform": "PS4",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.15",
   "hasTrophyGroups": true,
-  "totalItemCount": 32,
+  "totalItemCount": 37,
   "trophies": [
     {
       "trophyId": 0,
@@ -293,6 +293,51 @@
       "trophyDetail": "Win 5 Monolith Battles.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/955FD04BE98F60E932E18C6A57EAD9649D1CCD28.PNG",
       "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Paragon of War",
+      "trophyDetail": "Earn the Paragon rank in a Guild Wars event",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/3A06BEB8D600F372412E024BB00C4A1144A3FC45.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anger Management",
+      "trophyDetail": "Match 100 Enrage Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/44979FEAF54B65EE4AB73B33E0F8554FF80F1423.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's A Trap!",
+      "trophyDetail": "Defeat 10 Trap Rooms in the Underspire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/0E36A23A5E9AB68A30F077AC40E16363B947ABFE.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drums in the Deep",
+      "trophyDetail": "Find 5 Cursed Mines in the Underspire",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/E12FF8DE5D0333F68C7FE57F27CDF800E326A273.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Double the Powder",
+      "trophyDetail": "Find 5 Powder Rooms in the Underspire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39458_00_00B0D52086809B20D1A6F7037988158DC4112E90F3/6E7750DDFE8C4070811DF5C41BA27346D214D2A4.PNG",
+      "trophyGroupId": "006"
     }
   ]
 }

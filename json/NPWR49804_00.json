@@ -1,0 +1,401 @@
+{
+  "npCommunicationId": "NPWR49804_00",
+  "title": "RENNSPORT",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 41,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "RENNSPORT Legend",
+      "trophyDetail": "Unlock all other trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/3ba48faf-ccab-4cf9-b7a2-b7531b3aa72b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to RENNSPORT!",
+      "trophyDetail": "Complete the tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/c0e32434-6d4d-4d47-99df-c128e6330a76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Racer",
+      "trophyDetail": "Reach Account Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/fd1fcdc5-8b6c-4a4c-b694-a4b74dae0766.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasoned Driver",
+      "trophyDetail": "Reach Account Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/f5e9d6d5-1fec-4cd0-a743-1c94e5136d94.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Veteran Racer",
+      "trophyDetail": "Reach Account Level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/8dce1ac3-9cc0-4cfa-b212-f636cf5a5c6d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite Competitor",
+      "trophyDetail": "Reach Account Level 40",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/7498ee2e-ccb2-4054-8ae9-a119dce6648b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of the Track",
+      "trophyDetail": "Reach Account Level 60",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/c9a4b1ee-2d05-4e0b-a29e-9b21076da6c6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "60"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Maxxxxed out!",
+      "trophyDetail": "Reach Account Level 80",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/96e10619-20e6-4ad1-8194-a73ba5853570.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "80"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gettin' Started",
+      "trophyDetail": "Drive 40 kilometers (25 miles) in total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/c393a150-cef8-4ce3-abd0-c639b0e8947f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "40"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gettin' Further",
+      "trophyDetail": "Drive 80 kilometers (50 miles) in total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/d041a684-e9c6-4727-b7e2-8a7843c784b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "80"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Gettin' There",
+      "trophyDetail": "Drive 800 kilometers (500 miles) in total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/f8a2a32c-fbb5-4c05-b297-5e6a5577f2b0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "800"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the List",
+      "trophyDetail": "Complete a valid Time Trial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/3c417940-be3a-4994-90de-7eeb34b86d9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Globetrotter",
+      "trophyDetail": "Drive at least 1 lap on each track",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/e99f0eb1-9cee-4300-861d-549e524da151.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "13"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pole Sitter",
+      "trophyDetail": "Get your first pole position",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/c5b5eaa9-41cc-4a8b-b5c4-199f6fc091d2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Twice Around The Clock",
+      "trophyDetail": "Drive for 24 hours in total",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/e6a0d351-8e33-485f-ac41-84b4acb0215d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "24"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "“And through goes… you!”",
+      "trophyDetail": "Overtake two cars in a close time frame",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/bcc606d5-6792-4dc5-81cd-3f9ae7c1925d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From Stuttgart With Love",
+      "trophyDetail": "Complete 20 races using any Porsche",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/205f0b52-4e37-4031-a28c-16f13c892e61.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bavarian Club",
+      "trophyDetail": "Complete 20 races using any BMW",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/f887fe6a-8a6a-4ef6-a270-966ac125fa89.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rings of Power",
+      "trophyDetail": "Complete 20 races using any Audi",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/d0f48ff3-c8a4-4f38-a274-659afcf3db51.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "License to Thrill",
+      "trophyDetail": "Complete 20 races using any Aston Martin",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/821dc412-f6cb-4bef-83a1-d8d006f16a08.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Praga Pro",
+      "trophyDetail": "Complete 20 races using any Praga",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/42a604d8-d8d4-4967-b760-d26df03c113e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Merc Maestro",
+      "trophyDetail": "Complete 20 races using any Mercedes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/022bfdb6-5271-48c2-82c9-ee3b39cc765a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hyundai Hero",
+      "trophyDetail": "Complete 20 races using any Hyundai",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/2094f9d9-fd3d-430e-bf97-3f1509640d8a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monza Master",
+      "trophyDetail": "Complete a race on Autodromo Nazionale Monza",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/519b0c80-790d-4c8d-8668-24fa2d16f079.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spa Triomphe",
+      "trophyDetail": "Complete a race on Circuit de Spa-Francorchamps",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/9b34cde8-3e29-4459-8b0f-d3988da2fbc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Daytona Dominator",
+      "trophyDetail": "Complete a race at Daytona International Speedway",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/a9a1cc93-3666-418f-bcc3-32668158ab85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hockenheim Meister",
+      "trophyDetail": "Complete a race on the Hockenheimring",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/5deb2327-286b-4c42-bb30-741db8dc34db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jeddah Jetset",
+      "trophyDetail": "Complete a race on the Jeddah Corniche Circuit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/05b370b2-f327-4205-98fd-ef3fe357eaca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road Atlanta Ace",
+      "trophyDetail": "Complete a race on Michelin Raceway Road Atlanta",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/3f59f132-5650-4de8-bc67-85a052b308c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nürburgring Navigator",
+      "trophyDetail": "Complete a race on Nürburgring",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/869c57a8-6c26-4bec-a0dd-64be2a91b8de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Combined Effort",
+      "trophyDetail": "Complete a race on Orchard Road Street Circuit or Crest Da Cauras",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/8078ec3d-bcad-46db-b688-468c83b61665.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Online Debut",
+      "trophyDetail": "Complete your first official online race",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/17b0c8a3-9535-4663-9138-59699ad90e45.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frequent Racer",
+      "trophyDetail": "Complete 5 official online races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/4bc188cc-a99c-4a76-8f3b-537107adc218.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dedicated Competitor",
+      "trophyDetail": "Complete 10 official online races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/524cf219-8b63-4912-aae8-1811fd2d4b40.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Online Veteran",
+      "trophyDetail": "Complete 25 official online races",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/af747e2c-1dbe-48fd-82d8-62049e4347f4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "RENNSPORT Ranked",
+      "trophyDetail": "Get your online ranking",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/f5cbbe77-143a-44af-a506-dd9a016c016a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I’m on TV!",
+      "trophyDetail": "Watch a replay for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/ec8ba379-3bef-433f-8902-cf893b478f5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "On the rise!",
+      "trophyDetail": "Win an official online race",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/a6014db8-e92e-4957-9664-3473bbbba071.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Box, box, box!",
+      "trophyDetail": "Make a pitstop in a race",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/1b72863f-9b70-4a6e-8c47-22298aae8b61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Special Agent",
+      "trophyDetail": "Do 7 consecutive races in an Aston Martin without getting a single pole position or win",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/70630ede-5f9c-483b-841e-a7dc0cbcf68d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Time Trial Titan",
+      "trophyDetail": "Set a top 10 time in any Time Trial leaderboard for current platform",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR49804_00/483ef392-00d0-4957-b237-26384bada883.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

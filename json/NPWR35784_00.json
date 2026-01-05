@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR35784_00",
   "title": "Puzzle Quest 3",
   "platform": "PS4",
-  "trophySetVersion": "01.09",
+  "trophySetVersion": "01.10",
   "hasTrophyGroups": true,
-  "totalItemCount": 52,
+  "totalItemCount": 53,
   "trophies": [
     {
       "trophyId": 0,
@@ -473,6 +473,15 @@
       "trophyDetail": "Defeat Teltherasus, The Last",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/0B1BC6FC35F62F5E948B474043C5FD7C7DCA18BC.PNG",
       "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Baby Dragons",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/08D0C8B53CF7B0ADE6D930CBB58F53EC9D17E41C.PNG",
+      "trophyGroupId": "010"
     }
   ]
 }

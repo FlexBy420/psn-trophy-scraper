@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR50975_00",
   "title": "Monument Valley 3",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
-  "hasTrophyGroups": false,
-  "totalItemCount": 15,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 23,
   "trophies": [
     {
       "trophyId": 0,
@@ -140,6 +140,78 @@
       "trophyDetail": "Enter the lighthouse after completing the main story",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/5DED29BC51207FD96A4E151A423100C01C792D15.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spread Your Wings",
+      "trophyDetail": "Complete The Garden of Life",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/ABC44D5D956CFCC8C5ADAC676C633EFDB522288D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reflection Eternal",
+      "trophyDetail": "Complete Looking-Glass House",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/2AEB8C63DF0CB80DF212ED72402ADD3E64888980.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hitting All The Right Notes",
+      "trophyDetail": "Complete Harmonious Enclosure",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/D537056C382095E42E3AFE62D7951896E00FDE84.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Fruits of Labour",
+      "trophyDetail": "Complete Gift of Light",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/329AC80447A9A40E50B97B5996FAF3B111237E92.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Memory Master",
+      "trophyDetail": "Complete All Memories",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/B2EE7CD236D949E5F33E631D09CE3218C4588E9B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Venture Into The Fog",
+      "trophyDetail": "Go into the fog area in the village",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/8D93C400A7AB0CC4C4F1B19BC33A6F9BD6398EE1.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "School Time",
+      "trophyDetail": "Get the fish in the village to follow your boat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/C8BF501FC529D436B9042680D9ACEB9268DD4DEE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Reminiscence",
+      "trophyDetail": "Replay a memory",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50975_00_00D956436E52EA917F08C8FE0405DBF453D209C6BC/8929DF5AA891A3D478BCA34815D1BBA89E0CED22.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }
