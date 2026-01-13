@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR25833_00",
   "title": "Lawn Mowing Simulator",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 55,
+  "totalItemCount": 59,
   "trophies": [
     {
       "trophyId": 0,
@@ -500,6 +500,42 @@
       "trophyDetail": "Find the valuable in the T-Rex paddock",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25833_00_008DA79AC19D64A5BC8337F545833693C3FF88B7BF/F455C0681EDAC5E4F158C2267580C54001424B7D.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Made someone's day",
+      "trophyDetail": "Find a valuable in Mill View Park or Roskell Quarry Park",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25833_00_008DA79AC19D64A5BC8337F545833693C3FF88B7BF/5702E55CBF9127FB65F62A3B8BF21935DB741591.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upstanding citizen",
+      "trophyDetail": "Find all valuables in Roskell Quarry Park and Mill View Park",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25833_00_008DA79AC19D64A5BC8337F545833693C3FF88B7BF/8648F4DBA3EAEBD2DC0C0213D06092633A262BB0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patterson Vs Park",
+      "trophyDetail": "Complete a career contract on either Mill View Park or Roskell Quarry Park with the Patterson ZTA XL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25833_00_008DA79AC19D64A5BC8337F545833693C3FF88B7BF/CE92F129844BB980639FF4C2AEA70503707E8B8E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bigger, Better, and Cheaper!",
+      "trophyDetail": "Purchase the Patterson ZTA XL",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR25833_00_008DA79AC19D64A5BC8337F545833693C3FF88B7BF/601FF215F3378EEF4B8FD8C0B0231E7A8086D6A0.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }
