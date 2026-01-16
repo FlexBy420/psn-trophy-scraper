@@ -1,10 +1,10 @@
 {
   "npCommunicationId": "NPWR52085_00",
-  "title": "Hatsune Miku logic Paint S+",
+  "title": "Hatsune Miku Logic Paint S+",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 24,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 31,
   "trophies": [
     {
       "trophyId": 0,
@@ -199,7 +199,7 @@
       "trophyId": 21,
       "trophyHidden": true,
       "trophyType": "gold",
-      "trophyName": "Room Item collector",
+      "trophyName": "Room Item Collector",
       "trophyDetail": "Acquire all of the room items.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/04FB645A34FB3A61DB633108102FC7A7DE29E779.PNG",
       "trophyGroupId": "default"
@@ -221,6 +221,69 @@
       "trophyDetail": "Acquire 39 illustrations",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/B8EFED3BA8FECD342B62DBC6A9B8AE2D1079DC75.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SNOW MIKU Sky Town Assistant",
+      "trophyDetail": "Switch up your characters' costume with the \"SNOW MIKU Sky Town\" employee apron!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/FBC354E17250F7084CB7FA650FFFB3EFD7916D52.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SNOW MIKU Transformation!",
+      "trophyDetail": "Change into the SNOW MIKU costume with Hatsune Miku.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/02BA8543337ECA668DA6BEC66E734A0C52FFAF57.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to SNOW MIKU Sky Town!",
+      "trophyDetail": "Try one of the \"SNOW MIKU Sky Town\" DLC puzzles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/42B3DDFF0991CCB8B8709BE271D21129DDFEA71A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "SNOW MIKU Puzzle Master",
+      "trophyDetail": "Complete all of the \"SNOW MIKU Sky Town\" DLC puzzles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/0E85230AC2606C2EAF659D6538381FEEC4FCD867.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SNOW MIKU Fan",
+      "trophyDetail": "Collect 3 stars from the \"SNOW MIKU Sky Town\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/A42962C7596884A9999E4AC08057B37DE936F536.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SNOW MIKU Holic",
+      "trophyDetail": "Collect 39 stars from the \"SNOW MIKU Sky Town\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/B77600CA1A1A6981AAD99378C3F370A89D22E8CA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "SNOW MIKU Meister",
+      "trophyDetail": "Collect all of the stars from the \"SNOW MIKU Sky Town\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/29A6B67EDA60B28DCA17DE3594BBCD6D9CF71FB3.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

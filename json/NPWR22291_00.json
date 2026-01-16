@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR22291_00",
   "title": "Gravity Heroes",
   "platform": "PS4",
-  "trophySetVersion": "01.03",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": false,
   "totalItemCount": 53,
   "trophies": [
@@ -29,7 +29,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Junkyard Intruder",
-      "trophyDetail": "Complete the Abandoned Warehouse.",
+      "trophyDetail": "Complete the Abandoned Warehouse map.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/DC06CE936CD3129B27B3DC7E79A9846BEAE9D4D0.PNG",
       "trophyGroupId": "default"
     },
@@ -38,7 +38,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Council Defender",
-      "trophyDetail": "Complete the Seat of the Council.",
+      "trophyDetail": "Complete the Council Headquarters map.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/0622795E35CA0D95AA83F6186BCD8799BF9D829E.PNG",
       "trophyGroupId": "default"
     },
@@ -47,7 +47,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Caves Explorer",
-      "trophyDetail": "Complete the Colony.",
+      "trophyDetail": "Complete the Synthetic Colony Map.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/7FE84763309B7D7BC6DC01099488945516943F40.PNG",
       "trophyGroupId": "default"
     },
@@ -55,8 +55,8 @@
       "trophyId": 5,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "The Manufacturer",
-      "trophyDetail": "Complete the Factory.",
+      "trophyName": "The Blacksmith",
+      "trophyDetail": "Complete the Synthetic Factory map.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/3C3D579DBE070B6B9C9680633DBBBF4655008C77.PNG",
       "trophyGroupId": "default"
     },
@@ -65,7 +65,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Everybody's Hero",
-      "trophyDetail": "Complete the Lunar Base.",
+      "trophyDetail": "Complete the Lunar Base map.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/B972B324D7DD24FE4DE1BDB1ADC16CC64E279801.PNG",
       "trophyGroupId": "default"
     },
@@ -74,7 +74,7 @@
       "trophyHidden": true,
       "trophyType": "gold",
       "trophyName": "Gravity Heroes",
-      "trophyDetail": "Complete the Lunar Base in hard mode.",
+      "trophyDetail": "Complete the Campaign mode on Hard difficulty.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/7701B94F6C72792F2380D23CF17F238EB826D58C.PNG",
       "trophyGroupId": "default"
     },
@@ -110,7 +110,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Ping Pong",
-      "trophyDetail": "Beat 1000 enemies of Ball type.",
+      "trophyDetail": "Kill 1000 ball type enemies.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/BD0C7AAE5B0A078CF9F79CBB25EF9439BC39FB26.PNG",
       "trophyGroupId": "default"
     },
@@ -181,7 +181,7 @@
       "trophyId": 19,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Evade Master",
+      "trophyName": "Evasion Master",
       "trophyDetail": "Make 100 Bolt Patrols destroy themselves.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/9105AE8F5EB9E635415BC3AA2585D417EF1CF432.PNG",
       "trophyGroupId": "default"
@@ -190,8 +190,8 @@
       "trophyId": 20,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Worm Killer",
-      "trophyDetail": "Beat 10 Worms.",
+      "trophyName": "Wormhole",
+      "trophyDetail": "Kill 10 Worms.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/28B469440BE9CA1AB0AECF6081E22D26FF80DAB4.PNG",
       "trophyGroupId": "default"
     },
@@ -200,7 +200,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Accident Happens",
-      "trophyDetail": "Explode yourself 50 time in any ball type enemy without dying.",
+      "trophyDetail": "Explode yourself 50 times on any ball type enemy without dying.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/7855B6B44D057663D4E568B6CAB7ED5AA5948BCF.PNG",
       "trophyGroupId": "default"
     },
@@ -263,7 +263,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Untouchable",
-      "trophyDetail": "Finish a campaign stage without any players taking damage.",
+      "trophyDetail": "Finish a Campaign stage without any players taking damage.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/C221E89AC359BDB5383C1E545D40C5824E0DB3A0.PNG",
       "trophyGroupId": "default"
     },
@@ -271,7 +271,7 @@
       "trophyId": 29,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Throw Master",
+      "trophyName": "Throwing Master",
       "trophyDetail": "Throw 50 grenades.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/A5C56ED3F7524C6085000C1F4F345F1448F1B0E3.PNG",
       "trophyGroupId": "default"
@@ -298,7 +298,7 @@
       "trophyId": 32,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "With Friends is Coolest",
+      "trophyName": "Better with Friends",
       "trophyDetail": "Finish the campaign mode with more than one player.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/5FD40FD434B317BBEA9FCF0B04D7DD7F8974D4D9.PNG",
       "trophyGroupId": "default"
@@ -335,7 +335,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "The King Is You",
-      "trophyDetail": "Win the King Beetle boss.",
+      "trophyDetail": "Defeat the King Beetle boss.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/FC805784EEDFBAEAB29CAA6C0CBD10331DB39BE2.PNG",
       "trophyGroupId": "default"
     },
@@ -344,7 +344,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Opening The Eyes",
-      "trophyDetail": "Win the Blind Vigilant boss.",
+      "trophyDetail": "Defeat the Blind Vigilant boss.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/6672D4FCB4048CB08771A4ECC0F86A0FAD320B2E.PNG",
       "trophyGroupId": "default"
     },
@@ -353,7 +353,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "The Opposite Twins",
-      "trophyDetail": "Win the Tera Ice and Tera Fire bosses.",
+      "trophyDetail": "Defeat the Tera Ice and Tera Fire bosses.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/966C2EE06632A3B6A964B00906B3D0E7AE1757D2.PNG",
       "trophyGroupId": "default"
     },
@@ -362,7 +362,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "All Under Control",
-      "trophyDetail": "Win the Patriach boss.",
+      "trophyDetail": "Defeat the Patriach boss.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/73228BA5BBD68D6ADAF0950582DA3E096400E3DA.PNG",
       "trophyGroupId": "default"
     },
@@ -371,7 +371,7 @@
       "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Evil Extermination",
-      "trophyDetail": "Win the Saied boss.",
+      "trophyDetail": "Defeat the Saied boss.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/912581C294CF041007A8E35295362E12C44EE637.PNG",
       "trophyGroupId": "default"
     },
@@ -379,7 +379,7 @@
       "trophyId": 41,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Shiver",
+      "trophyName": "Shivering",
       "trophyDetail": "Stun 100 enemies with the Ghost.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/497BD28C3D8932330B7F35F01C1DC548FF5D8222.PNG",
       "trophyGroupId": "default"
@@ -407,7 +407,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "The Survivor",
-      "trophyDetail": "Survive more than 5 minutes on the Survivor mode.",
+      "trophyDetail": "Survive for more than 5 minutes in Survivor mode.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/8D322CEBBF9DE18F771356B774D186D2AA42A65F.PNG",
       "trophyGroupId": "default"
     },
@@ -415,7 +415,7 @@
       "trophyId": 45,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "World Dominator",
+      "trophyName": "The Expert",
       "trophyDetail": "Survive more than 15 minutes on the Survivor mode.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/C91993F9281DB9D6D705E25B895408A52B9CEFA7.PNG",
       "trophyGroupId": "default"
@@ -424,7 +424,7 @@
       "trophyId": 46,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "You are the Last One",
+      "trophyName": "The Professional",
       "trophyDetail": "Survive more than 30 minutes on the Survivor mode.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/6230B967933BB715A17065F7E8F8E6A756533B7F.PNG",
       "trophyGroupId": "default"
@@ -433,7 +433,7 @@
       "trophyId": 47,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Army Of One Soldier",
+      "trophyName": "Army of One",
       "trophyDetail": "Survive more than 20 minutes on the Survivor mode playing with only one player.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/AB371A2959FCBEB739B7EAD8D98782F1861BE6E4.PNG",
       "trophyGroupId": "default"
@@ -461,7 +461,7 @@
       "trophyHidden": false,
       "trophyType": "bronze",
       "trophyName": "Genius",
-      "trophyDetail": "Solve all bosses puzzles.",
+      "trophyDetail": "Solve all boss puzzles.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/5D844B80105C9DB147D26A661EE6F0E9D0B95323.PNG",
       "trophyGroupId": "default"
     },
@@ -470,7 +470,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Almost Perfect",
-      "trophyDetail": "Earn medal A or higher at all stages of a Campaign.",
+      "trophyDetail": "Earn medal A or higher in all stages of a Campaign.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/F29C6EE465B0AB83E527A428E63470A6353890E6.PNG",
       "trophyGroupId": "default"
     },
@@ -478,8 +478,8 @@
       "trophyId": 52,
       "trophyHidden": false,
       "trophyType": "gold",
-      "trophyName": "Excellence",
-      "trophyDetail": "Earn medal S at all stages of a Campaign.",
+      "trophyName": "With Honor",
+      "trophyDetail": "Earn medal S in all stages of a Campaign.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR22291_00_004AFE9C5F66D3BDE036E8FDB44B98E951106975DC/2713C4D97D3C7FCFD8B6A5C692E775CD482EE5BC.PNG",
       "trophyGroupId": "default"
     }

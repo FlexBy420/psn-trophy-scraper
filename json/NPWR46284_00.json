@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR46284_00",
   "title": "Starlight Legacy",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 22,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 27,
   "trophies": [
     {
       "trophyId": 0,
@@ -203,6 +203,51 @@
       "trophyDetail": "Complete the Bestiary.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/3149195E7798284EB7E736C145138792C5BCA6F6.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super First Steps",
+      "trophyDetail": "Leave Pinewood in New Game+.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/D7D6866577D11B6AB9B0FA79731ABE050B5DA9CF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Super Evaria Protector",
+      "trophyDetail": "Collect all four Starlight Relics in New Game+.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/0278861DD9724DDB95930817366BAD12FD32979F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Super Starlight Warrior",
+      "trophyDetail": "Clear the Tower of Trials in New Game+.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/A4477FE919E72C53EAB57326E2E6FAAD6208581C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Super Saviors of Evaria",
+      "trophyDetail": "Defeat the final boss in New Game+.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/FC462E58237FE9EC9C64A7BE02BD9D3EAE2E8A98.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Super Monster Expert",
+      "trophyDetail": "Complete the Bestiary in New Game+.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR46284_00_00DFE663E0363CB969DFCD05ADDF7DB7B7A8BB79E9/0BAD3B2E1F284E9C6C5243F9B83FE52C13050E37.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

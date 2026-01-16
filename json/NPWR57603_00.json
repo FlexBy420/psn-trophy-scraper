@@ -1,0 +1,550 @@
+{
+  "npCommunicationId": "NPWR57603_00",
+  "title": "Tilting Tiles",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 60,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "傾いたタイル",
+      "trophyDetail": "Tilting Tiles ですべてのトロフィーを集めましょう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/69DBAE73FE617CA33476338BB14E06EA57457024.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ1",
+      "trophyDetail": "ステージ 1 を 8 手以内で完了します。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/1284895C76F1F2EB7884F71A4512F13560AA8EB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ2",
+      "trophyDetail": "ステージ 2 を 9 手以内で完了します。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/CAE814FE8F6F27A6ED61D7A2942C5243873EC8C9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ3",
+      "trophyDetail": "ステージ 3 を 22 手以内で完了します。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A177AA8E46C1EB932CCB3836DB8D877A60A46DE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ4",
+      "trophyDetail": "ステージ 4 を 32 手以内で完了します。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/5BC8F3392B34FDA85DF3B407476EE0FC55D25B3C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ5",
+      "trophyDetail": "ステージ 5 を 4 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/DE29C03CE75474909B1221E48EDF2B49C4D6A91E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ6",
+      "trophyDetail": "ステージ 6 を 17 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A40259F56D7AF84D00766F84A2C5473F91BE31EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ7",
+      "trophyDetail": "ステージ 7 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/D91AC9804FA12BC72D98366125CC8DA9B864CA65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ8",
+      "trophyDetail": "ステージ 8 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/ACF42E1E23E411DF355F94BED8EE00CFB6BB9CC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ9",
+      "trophyDetail": "ステージ 9 を 10 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/1C3210D3BE2D488CD5D8E3BC5233B229FA45DBA6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ10",
+      "trophyDetail": "ステージ 10 を 8 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/89E97C74596A627052717E1404AA5D4BBD094475.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ11",
+      "trophyDetail": "ステージ 11 を 15 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/884D944BE34C9690812F52481B2052ACBA48F5F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ12",
+      "trophyDetail": "ステージ 12 を 17 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/C20497B11E20C297E3231E38BE173B6CB6B85A0D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ13",
+      "trophyDetail": "ステージ 13 を 9 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/72D3CE564D9E927F314ABD4207B3D5FB51D52A0A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ14",
+      "trophyDetail": "ステージ 14 を 20 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/96F954918763894BF0C910BA7D228A66C969C027.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ15",
+      "trophyDetail": "ステージ 15 を 11 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/7846999CC272C3A438530EB45BCFB0030713700E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ16",
+      "trophyDetail": "ステージ 16 を 15 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/80233A4AB0648D46881F357D1D3E5E0317BEC723.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ17",
+      "trophyDetail": "ステージ 17 を 24 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/8B6433EF2A6F075ACAAD3BFBB3EEAC1179381513.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ18",
+      "trophyDetail": "ステージ 18 を 10 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A191742762996C699761A88F2C3897078C715706.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ19",
+      "trophyDetail": "ステージ 19 を 12 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/F4CC7389F414F9C470E500174263B09354292CC9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ20",
+      "trophyDetail": "ステージ 20 を 15 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/8FD859E9EA1A9E82524B8DAE1A1289836823B9B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ21",
+      "trophyDetail": "ステージ 21 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/37298F893A20918E3E0BDB8D2C3C2F4922007807.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ22",
+      "trophyDetail": "ステージ 22 を 23 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/DB215F43BE491D2CBE2DF67E1B455340A9ACF6B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ23",
+      "trophyDetail": "ステージ 23 を 29 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/CA18075A7B8BE463F2987B1D3913E931D1DFD993.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ24",
+      "trophyDetail": "ステージ 24 を 15 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/2647055360840FC84DC82D8AA606D7860C379D30.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ25",
+      "trophyDetail": "ステージ 25 を 23 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/69D0FC47F938CCB77ECCD9C9A2C76FC2E4087839.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ26",
+      "trophyDetail": "ステージ 26 を 3 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/88F45383881ADE1D6AA8CF9C3EA978D1C9E6F6CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ27",
+      "trophyDetail": "ステージ 27 を 12 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/8313A784ABA58D94FC835BE1286ECC8D69B2B8A4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ28",
+      "trophyDetail": "ステージ 28 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/B125A0C8F12468526A1E66DBC037BD53E0FB1F5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ29",
+      "trophyDetail": "ステージ 29 を 12 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/03E51739C7473FCECD0783F28321BEFCEF584BAB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ30",
+      "trophyDetail": "ステージ30を8手以内でクリアしてください。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/2CACEAE9A74E6BA3B2A52A39FFE39C175AE18027.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ31",
+      "trophyDetail": "ステージ 31 を 18 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/B1CF66D0FBA4C78CF68BCCEA357DFCF477FA2266.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ32",
+      "trophyDetail": "ステージ32を9手以内でクリアしてください。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/3162706985420D058AF82D336712D377CD32B87C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ33",
+      "trophyDetail": "ステージ33を6手以内でクリアしてください。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/61DDFF5799F9552DFD7ABCFA5F9F9ED4051544EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ34",
+      "trophyDetail": "ステージ34を2手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A46ACF37941D8D524CDEE03B2028C47F2A0F2CAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ35",
+      "trophyDetail": "ステージ35を9手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/982238932EC5F9036EF70344F2DBF718A3B24FD0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ36",
+      "trophyDetail": "ステージ 36 を 23 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/91465BC4FD3697F57AF0BE5FF72456F425F6A56E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ37",
+      "trophyDetail": "ステージ 37 を 15 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/F489683D96DB86199694CA6393580A5315BF34BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ38",
+      "trophyDetail": "ステージ 38 を 11 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/3A3319AB1DFDD23366453063DBC20B321AB260A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ39",
+      "trophyDetail": "ステージ 39 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/3ED42398BB5F8605D17C9A6AA8E4B702815AF945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ40",
+      "trophyDetail": "ステージ 40 を 34 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/73CC093AB177654345D0F4BFEB45603E9D126679.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ41",
+      "trophyDetail": "ステージ 41 を 4 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/D401266EA93D6E1E6D88176087E9D81DDD099D94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ42",
+      "trophyDetail": "ステージ 42 を 12 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/1C954F5250EA406567DB8AA0DB4793A039B25477.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ43",
+      "trophyDetail": "ステージ 43 を 10 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/BFF700025BF4CFDA5EFFCC7438AD2E44F1C2FFF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ44",
+      "trophyDetail": "ステージ 44 を 12 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A821C09E69398A4D3B799F7F4285A9BD6BB16DA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ45",
+      "trophyDetail": "ステージ 45 を 14 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/450A8166A1E2EDFB11EC0C77F671DFB8C4F2E4DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ46",
+      "trophyDetail": "ステージ 46 を 23 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/9B3B27549738F4D49422657C90725F4774DDBBDC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ47",
+      "trophyDetail": "ステージ 47 を 21 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/6B70964514FB829417C040986B87379D63AC28D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ48",
+      "trophyDetail": "ステージ 48 を 10 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/A9CDC524C7AF988B84BB6E0D89122EC43473552D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ49",
+      "trophyDetail": "ステージ 49 を 33 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/539A1502C2AD5F7633C9EB1F00404101AE1EEFAE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ50",
+      "trophyDetail": "ステージ 50 を 36 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/6C77FC160B55D50835F781A5D1E37C1889CD41F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ51",
+      "trophyDetail": "ステージ 51 を 19 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/B6CA794CE2A5459578FE6791EB2649D7F4B21F65.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ52",
+      "trophyDetail": "ステージ 52 を 27 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/19E9F338FC459F61A902B6A5268C0F511FA83829.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "ステージ53",
+      "trophyDetail": "ステージ 53 を 19 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/5F87E2126F38B3990BD4101019E1B7ECFC8CCCDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ54",
+      "trophyDetail": "ステージ 54 を 18 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/7608329216F1AF6B7F8368A27B783CDD89264B83.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ55",
+      "trophyDetail": "ステージ 55 を 16 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/6E99749BBF4213F37588AA0892A6630B79E4B467.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ56",
+      "trophyDetail": "ステージ 56 を 17 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/4B96AF994C2533E9040C0418120BDE45134BAC25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ57",
+      "trophyDetail": "ステージ 57 を 49 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/5A41DD8092701E27DF4F853379D1DCB877BD9DE9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ステージ58",
+      "trophyDetail": "ステージ 58 を 11 手以内でクリアします。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/218B3DE288375F183B32AB49FE513D0093A4BC27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "首謀者",
+      "trophyDetail": "オリジナルステージ全58ステージをクリアしましょう。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57603_00_00018D243F3020FA3F36177BC14147AED4191BE457/1FC0FAFE5162B675799789C046A458DB8FB6729A.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
