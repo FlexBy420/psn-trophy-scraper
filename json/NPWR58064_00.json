@@ -1,0 +1,334 @@
+{
+  "npCommunicationId": "NPWR58064_00",
+  "title": "Pulse",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 36,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Pulse",
+      "trophyDetail": "Complete the entire story and reach the final scene — Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/D156242E02306ACC41B3E22AFAFBABB111FC9B50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alone All Along",
+      "trophyDetail": "Deliver the antidote while talking to “Ross,” then discover you were the only survivor.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/270A62140C4CDAAFB0657C70E6FC0D8A7AD230C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Radio Silence",
+      "trophyDetail": "At 14% charge, cut comms and trail Ross through the storm, alone with the ringing in your helmet.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/66FF9A75752FC50A25CB702141EF1B153AEE267B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Seventeen Percent",
+      "trophyDetail": "In the dust storm, argue to press on, then turn back at 17% charge under Ross’s command.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/B1F095C03C295B8633ADBC029A6F424E4A53CE2F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hold for Coordinates",
+      "trophyDetail": "Reunite in the dust storm, check vitals, and wait for coordinates before pursuing the signal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/7AD3B64549861F53A39D9823486C9BBB42959D6D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Purple Haze",
+      "trophyDetail": "Switch to UV, then hold position as a dust storm shreds comms with Ross.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/5A7ADFED33157C0064B215D51A17C7A09E218C35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ghost Coordinates",
+      "trophyDetail": "Reach the ping site with Ross—find no footprints, only silence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/BA017606CC5611C2A0386BDFA07EFC40CE964B04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heartbeat in the Static",
+      "trophyDetail": "Endure radio silence, face a lone shadow, then reconnect with Ross.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/2302256E873E7F3DC093FCE9AD150923D4473A81.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Converging Signals",
+      "trophyDetail": "Hold position as Ross locks your location, then regroup near the anomaly.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/F88B1777E0CB91793F75DAB64B30F730318653F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tethered in the Dark",
+      "trophyDetail": "Step outside the station and agree to split up while staying on comms.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/D9D903A0924BDA2673609ECDACB44EE5D9772A40.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hiss of the Unknown",
+      "trophyDetail": "Steady your nerves and confirm the airlock to the outside.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/7BCF83C3378778CE6DD46956C1CD866457161374.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Zero-Gap Protocol",
+      "trophyDetail": "Enter the main airlock, double-check every valve, and seal your helmets for the first sortie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/6C029CC3D564EB7F70BD75B51ED72A10E4FB8205.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Coordinates Locked",
+      "trophyDetail": "Power up the scanners, glimpse 115 vs 61 on the biomonitor, then choose the last heat-flare and head for the main airlock.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/4437E4D8B3EB2AE2346CADE497F29B3AE51E542F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hushed Advance",
+      "trophyDetail": "Cross the ruined corridors in silence, shadowing Ross back to Command.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/6BCE5D72A9E6F0350C3D1DBFFA78DCD9D0B8311E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Protocol Over Panic",
+      "trophyDetail": "Agree to Ross’s plan, gear up by the book, and pack the lab for the outside mission.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/0874E3FF1102E19E7DE7FA7EFC049D346D7BD132.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Turning Back",
+      "trophyDetail": "Defy fear, confront Ross, and vow to go out—forcing him to come along.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/DD8BDD783A520947342C9D324E41E868AACDFD4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Chasing the Pulse",
+      "trophyDetail": "Dash from the command deck to pursue the anomaly, ignoring Ross’s warnings.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/CE2B8360B3968D25D0FD4591B1C3DD56FDD27DED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Into the Unknown",
+      "trophyDetail": "Decide to investigate the anomaly alone despite Ross’s hesitation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/C74759C69F8E468FFEC07F5566B3449E6840FC64.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Echo of Life",
+      "trophyDetail": "See the red dot return and identify a faint living heat signature.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/13579465ED4E4F431F8A497380AA0E81FED2ED5B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pulse on the Horizon",
+      "trophyDetail": "Scan for hours until a lone blip breaks the silence.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/EC5D7927B72D3B7FBCF4B9DEBBA6926132B8C602.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Handshake with the Void",
+      "trophyDetail": "With power stable, key in the external scanner codes—hands shaking, hope louder than fear.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/DC2E82E351D3693E9835B01080210515ADC3B6DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wake-Up Protocol",
+      "trophyDetail": "Jolt Ross awake in a panic, then confirm the grid is stable.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/F09602348ACB2A159CB1D0DB73531C4DD1D504FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Systems Steady",
+      "trophyDetail": "Confirm the generator is stable and rush to tell Ross.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/E29711F11A069951D92D009E5A14BEA21356EA79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Quiet Watch",
+      "trophyDetail": "Wake before Ross, slip out softly, and head for the command deck alone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/54BB475549C7FCD5D99BE4001F3EC3BED6F29597.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shared Vigil",
+      "trophyDetail": "Settle into an intact bunk room and ask Ross to stay nearby.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/A5995586FA2E5E8D1E5F070147AEB9EFC1DE717B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Not Alone Tonight",
+      "trophyDetail": "Reach the sleeping quarters and choose a safe room to share with Ross.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/0019085FA7889D9D8E98F41110D3D9A6104D9662.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stay Close",
+      "trophyDetail": "Admit your fear and ask Ross to stay nearby—choosing company over silence after the reboot.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/1178653CF972D21A0BDC2BDE79E0F8CB734175DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heartlines Online",
+      "trophyDetail": "Power up the generator, reboot the deck, and watch twin heart rates pulse back onto the screens.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/6BA687F6178431008CC98A130DFC2EAECD3BE87C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Haul of Hope",
+      "trophyDetail": "Hold the light, help Ross clear the area, then lift the generator and start hauling it to the command deck.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/667FE61A148F724BFF4CC0B06B9E49F3696FF030.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blackout Descent",
+      "trophyDetail": "Enter the dark lower section, take Ross’s flashlight, and spot the generator amid wires and dust.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/0921CB2F7880C273DA89513CFCD8E3422CA29923.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Vanishing Shift",
+      "trophyDetail": "Walk the ruined halls, mourn your missing crew, and press on with Ross toward the generator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/D89E4FA24ACF5271D0892677F92AE7E24A891A69.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yellow Flicker",
+      "trophyDetail": "Reach the ruined command module, spot a coded SOS, and head below to revive the generator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/0ACA232CDB3E29DD01243BC155073CB451E582E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crimson Pulse",
+      "trophyDetail": "Push through flickering red corridors toward the command module, crew gone without a trace.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/3848ACA01BFAFF8A4CD163E86F15A82618F4F82B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Aftershock Recon",
+      "trophyDetail": "Survey the wrecked lab with Ross and set out to check the station.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/CB6F8752B5417E0C2246B4E37EADEE8820B2AA18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Signal Answered",
+      "trophyDetail": "Meet Ross and get freed from the debris.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/8DC449A257B800AAE7A4155F499F6B86F807E16E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heartbeat in the Dust",
+      "trophyDetail": "Stabilize the station, find the signal, bring back “VIRUS–ANTIGEN √164.” 61 BPM—still there.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58064_00_00DD7BC599E206B35DB5669E59DDE0205ACA7B1FB0/A264BE6F1B3C4A7E379990FCDEBD3B4574804539.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

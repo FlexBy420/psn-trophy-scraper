@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR38862_00",
   "title": "The Last Faith",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
-  "hasTrophyGroups": false,
-  "totalItemCount": 53,
+  "trophySetVersion": "01.03",
+  "hasTrophyGroups": true,
+  "totalItemCount": 57,
   "trophies": [
     {
       "trophyId": 0,
@@ -482,6 +482,42 @@
       "trophyDetail": "Reach the true ending.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38862_00_0082C90333F17D1AE00400D502F4799A030CF735B4/D27E8062B6720EEE1B0CEF02F2D44919CFE57011.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Impurity Slayer",
+      "trophyDetail": "Complete the Boss Rush mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38862_00_0082C90333F17D1AE00400D502F4799A030CF735B4/42FEAE8532D2461B6701DB97E021BB2139557F19.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desperation Survivor",
+      "trophyDetail": "Complete the Tower of Despair mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38862_00_0082C90333F17D1AE00400D502F4799A030CF735B4/9773FE42951753B1354C87A232A63EC41D12648E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Lost Memory",
+      "trophyDetail": "Complete the Memories of Mythringal",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38862_00_0082C90333F17D1AE00400D502F4799A030CF735B4/3E25F0ABC9DD005F22963E3F44856239F14FC96E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Longest Run",
+      "trophyDetail": "Complete the first new game plus mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38862_00_0082C90333F17D1AE00400D502F4799A030CF735B4/9652DB385F887532C633CF5DA2CD5196EEE20944.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

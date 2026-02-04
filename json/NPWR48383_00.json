@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR48383_00",
   "title": "For the King II",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.04",
   "hasTrophyGroups": true,
-  "totalItemCount": 91,
+  "totalItemCount": 109,
   "trophies": [
     {
       "trophyId": 0,
@@ -803,7 +803,7 @@
       "trophyHidden": true,
       "trophyType": "silver",
       "trophyName": "Camp Chestnut",
-      "trophyDetail": "Collect 77 Dogs in a Campfire.",
+      "trophyDetail": "Use Grill Dog 77 times at Camps or Rest Phase.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/1B68A432C5070C48397BD2691385E262EE10C17F.PNG",
       "trophyGroupId": "002"
     },
@@ -824,6 +824,168 @@
       "trophyDetail": "Hire Jelly Skelly for the First Time.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/790BAC79761E115F4079844134F94BC4F0463EA2.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "King Master",
+      "trophyDetail": "Complete A New Age on Master Difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/7CB418705D45ED300B5D50B89EF1D5E1A533D00D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Live The King",
+      "trophyDetail": "Complete A New Age on any difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/EEABA169812A75466DA23ECDA68AF6F224D3ABF4.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watch Me Now",
+      "trophyDetail": "Kill 15 Watchers in A New Age.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/AC5F343F6A56C97FD3ED8C6E52708F821D24253E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Minds",
+      "trophyDetail": "Bring Closure to the Lost Memory.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/FB80D2AC66D9725E2A57398878D5A30547253AEC.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Mines",
+      "trophyDetail": "Bring an end to the consumption.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/1113916B1A5E97BB4AA62EABD1607E7F048EE4D6.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fractured Now Whole",
+      "trophyDetail": "Clear all Void Rifts.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/F4560A18C8A762C8D953DA599258AF36691D7F12.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 97,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All The Fools Horses",
+      "trophyDetail": "Have a Royal Fool join your party.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/527D9ECACDB1902BDFE98DBD994D5341478EB02E.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 98,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Day Fahrul Stood Still",
+      "trophyDetail": "Survive the invasion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/782E6E59B6B1CB837A92AD8EB5B7534B95F39C5C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 99,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "They Are Prey, We... Are Predators.",
+      "trophyDetail": "Finish All Town Hunt quests.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/D7FDD01F102ED4709FE1D0B698B523A0D17F2740.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 100,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voidwalkin' on Sunshine",
+      "trophyDetail": "Voidwalk for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/B8176F9042ED2B49037887907E92E8969072E229.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 101,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Critical Overload",
+      "trophyDetail": "Fully charge the Voidwalkers resonator.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/CFA11F0DB07AEAB9DF877B79CDA8E4330B9144EC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 102,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Charge Forth",
+      "trophyDetail": "Complete 25 charge attacks.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/D080B0D3133BC9289875660CFE4405EDCCCA6D72.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honor Thy People...",
+      "trophyDetail": "Use a Knight's Oath skill once. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/D58E5ED05E6A7A3C0E196A4FBF7F432CA9EA41A2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "...Defend The Realm",
+      "trophyDetail": "Use a Knight's Oath skill 5 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/109CE4BC1807A29D1AC7D5307A9316A94DCB9404.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Disintegrations",
+      "trophyDetail": "Mark a bounty 10 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/CEEBB933E1C9EAD5AEA1B35FF16FFAB778E663FC.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "My Kind of Scum",
+      "trophyDetail": "Mark a bounty 25 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/BDBBEA060DC1D2C3F5AF79239F36067E150DC67E.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Part of this World",
+      "trophyDetail": "Hire Newton for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/A079AA1BF2CE505E9A6EA5DB89C04E336DA9494B.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Private Eye",
+      "trophyDetail": "Hire Aileen for the First Time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR48383_00_009B08E00A37CC6F78C91ABBFE59FD07776865405D/980E5238986AB888C5433AA8C233ECE925EBBB70.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

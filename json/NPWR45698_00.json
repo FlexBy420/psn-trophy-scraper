@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45698_00",
   "title": "Dead by Daylight 3/3",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.11",
   "hasTrophyGroups": true,
-  "totalItemCount": 30,
+  "totalItemCount": 36,
   "trophies": [
     {
       "trophyId": 0,
@@ -236,7 +236,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Death Flight",
-      "trophyDetail": "Injure Survivors after you vaulted during a chase 20 times.",
+      "trophyDetail": "Injure Survivors after you vaulted during a chase 20 times in public matches.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/5108F5B98B02C63A54D7A8FC8503E8708DF1AADF.PNG",
       "trophyGroupId": "007"
     },
@@ -275,6 +275,60 @@
       "trophyDetail": "Escape with Vee Boonyasak using only her 3 unique perks in a public match.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/C9A8AB9920B9181899960C5B12BDDAF06F2D25CF.PNG",
       "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Torn Asunder",
+      "trophyDetail": "In public matches, damage a Survivor using the Vine or Undergate Attacks 50 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/31FAF3C84CFC06115566D373D18EA3A3A0AA29D6.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Manipulator",
+      "trophyDetail": "In public matches, damage a Survivor while they are healing another Survivor or repairing a Generator 5 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/F2B6DFC26D815B7643DCF4F0444D1B69F5B724DE.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept First",
+      "trophyDetail": "Achieve a merciless victory with The First using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/2167D7F7629F9796FF94B93EC7C0710EE54C4694.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stranger Sightings",
+      "trophyDetail": "Reveal or see the Killer's aura 11 times in a single trial in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/E22357A932E167214F58389EADC580C061FEE305.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Adept Dustin",
+      "trophyDetail": "Escape with Dustin Henderson using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/8EC5930B8B939D2D3099FBB2D528051F056B29E7.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Eleven",
+      "trophyDetail": "Escape with Eleven using only her 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/3DE2997E6900F7F7C9887F1F8941F760829A7C8C.PNG",
+      "trophyGroupId": "008"
     }
   ]
 }

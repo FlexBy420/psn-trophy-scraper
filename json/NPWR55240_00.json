@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR55240_00",
   "title": "Unknown Castle",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
+  "trophySetVersion": "01.01",
   "hasTrophyGroups": false,
   "totalItemCount": 16,
   "trophies": [
@@ -10,7 +10,7 @@
       "trophyId": 0,
       "trophyHidden": false,
       "trophyType": "platinum",
-      "trophyName": "Playful Spirit",
+      "trophyName": "Playful Creatures",
       "trophyDetail": "You have played a lot with the tricky wonders of the Castle!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/CA909573C588DDC5122FA3FB5C8B957491FCE15B.PNG",
       "trophyGroupId": "default"
@@ -19,7 +19,7 @@
       "trophyId": 1,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Curious Spirit",
+      "trophyName": "Curious Creatures",
       "trophyDetail": "Get into the Castle",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/B8DA175541A89BE8A7A9E6639EA7B593EDC35AF4.PNG",
       "trophyGroupId": "default"
@@ -29,7 +29,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Barebone Basics",
-      "trophyDetail": "One of the ghosts in the party has read a signboard",
+      "trophyDetail": "One of the creatures in the party has read a signboard",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/DCF80E1916817114EB530373FCDB13987C04368F.PNG",
       "trophyGroupId": "default"
     },
@@ -38,7 +38,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Key",
-      "trophyDetail": "One of the ghosts in the party has picked a key. Observe the doors unlocking.",
+      "trophyDetail": "One of the creatures in the party has picked a key. Observe the doors unlocking.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/BDC0280016D9E244DF25A931D6AD9D37C47FAD84.PNG",
       "trophyGroupId": "default"
     },
@@ -47,7 +47,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Halli Valli makes it out",
-      "trophyDetail": "In singleplayer mode, at any level, guide the violet ghost Halli Valli to the designated exit. Scored when the ghost exits the door.",
+      "trophyDetail": "In singleplayer mode, at any level, guide the violet creature Halli Valli to the designated exit. Scored when the creature exits the door.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/0025828F167862525556D18C3193AF5BFA552D0C.PNG",
       "trophyGroupId": "default"
     },
@@ -83,7 +83,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Shiny thing",
-      "trophyDetail": "Your duet has collected a crystal. Scored by any ghost.",
+      "trophyDetail": "Your duet has collected a crystal. Scored by any of the two creatures.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/EE9A4B43ED254EDBBB3655A2D7CD10C1B1F5D619.PNG",
       "trophyGroupId": "default"
     },
@@ -119,7 +119,7 @@
       "trophyHidden": false,
       "trophyType": "gold",
       "trophyName": "Things are set into motion",
-      "trophyDetail": "One of the ghosts has pushed a lever",
+      "trophyDetail": "One of the creatures has pushed a lever",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/FC33CDBD0FDBF5A7B410ABB4C780629830F339B1.PNG",
       "trophyGroupId": "default"
     },
@@ -136,8 +136,8 @@
       "trophyId": 14,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Library Ghost",
-      "trophyDetail": "The ghosts have read 3 different signboards",
+      "trophyName": "Library Dweller",
+      "trophyDetail": "You have read 3 different signboards",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55240_00_001441FBD4ABF601815A83E3FA4A7856712295BBC9/702C29FF87486BCE48D26672894E79BA867C9918.PNG",
       "trophyGroupId": "default"
     },

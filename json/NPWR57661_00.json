@@ -1,0 +1,469 @@
+{
+  "npCommunicationId": "NPWR57661_00",
+  "title": "Car Dealer Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 51,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/df2603aa-e8bf-4d1b-9869-db1b1532c958.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Steps",
+      "trophyDetail": "Pick up your first car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/438fc3d1-dd77-4dc5-ba1e-0cd24b117a60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Buck Spent Is a Buck Earned",
+      "trophyDetail": "Buy your first supplies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/142359c1-ffd1-4c51-a471-f7aa6edf8c7e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Is the Way We Wash Our Cars",
+      "trophyDetail": "Wash your first car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/4b1a8ef4-c2d3-4cc6-ab48-7e10a59afa03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ka-ching!",
+      "trophyDetail": "Buy your first car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/bcc865c3-8b65-46f3-ae05-b3e20f8a6385.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sold!",
+      "trophyDetail": "Earn your first money.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/755e9436-028d-4c3e-a9a4-674c3f0d9a0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Independent",
+      "trophyDetail": "Make a total of 20.000 dollars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/241aff35-4005-4e3d-a2b9-712d806ebde2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Yep, This One’s Going in My Car Compilation",
+      "trophyDetail": "Capture all 7 points with your camera.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/a6ac13ed-2559-44a1-94d9-1553ed559406.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "What’s Yours Is Mine",
+      "trophyDetail": "And what’s mine is my own. Update the banner.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ff0af600-a392-4b4d-a6b3-4704baee9b5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bubble Bath",
+      "trophyDetail": "Cover 10 cars in foam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/188676d3-ae56-4051-84ef-309abb5d7b31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gas Station Simulation",
+      "trophyDetail": "Buy some gas.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/0c979690-5cb5-4ebe-9b88-48b83fe7a4d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rains Down in Winston Springs",
+      "trophyDetail": "Wash down 10 cars with water.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/cea37f3d-f567-48f2-b687-39c3e671b12b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Roger's Bar",
+      "trophyDetail": "Visit Roger's bar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/04a2c02b-10ce-4c6e-9a07-26a02d9f4b90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wax On, Wax Off",
+      "trophyDetail": "Wax 10 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/68632477-47d7-4d18-95a8-e85c2bc400d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Management Position",
+      "trophyDetail": "Recruit your first employee. Congratulations, now you can officially call yourself a proper manager!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/07f2b720-65f2-4f61-a90e-35c8c55e2007.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polish Game",
+      "trophyDetail": "Polish 10 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ee156f3d-6a74-478a-86b3-b224f7e55fb9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Consumerism Enjoyer",
+      "trophyDetail": "Buy 100 items in the shop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/7343b5b0-ee4f-4cc5-a972-b9ff6268a7c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bring the Thunder!",
+      "trophyDetail": "Buy and sell 10 Phantom Thunders.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/c1d321cb-d6ea-49e5-a1b8-78b24fadef2d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Metal Grinding",
+      "trophyDetail": "Scrape rust from 25 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/831f32ec-0bc5-4e5b-a71f-2bf13342e7f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Striking Combo",
+      "trophyDetail": "Buy and sell 10 Apex Motor Striker.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/0208f93a-7449-4518-a7bd-bf9bac4a3e33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Putty Up",
+      "trophyDetail": "Apply putty to 25 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/3b0bfd1f-bfaa-4baf-861b-912c173a6112.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vanguard Legions",
+      "trophyDetail": "Buy and sell 10 Apex Motor Vanguard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/25566e01-7241-4845-8b14-7f4dcd660502.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smooth Operator",
+      "trophyDetail": "Sand putty from 25 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/f3f60b8f-205b-4b53-b0c6-e21029f2a3a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Palm Beach Resort 600!",
+      "trophyDetail": "Buy and sell 10 UMX 600C.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/5143ca5e-ee71-49b3-abc6-1dc64e54e639.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Thick Layer",
+      "trophyDetail": "Paint 25 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ed1d2d64-04d2-43fd-b06f-334f67ab286d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ain’t No Mountain High Enough",
+      "trophyDetail": "Buy and sell 10 Off-Rider Boulder.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/24aabfcb-e3fc-4f37-94c1-374f50fec84c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "King of the Hill",
+      "trophyDetail": "Get on top of the car pile in the junkyard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/5202d027-13bf-4873-89ff-63dfefb2dedb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Never Knew You Were a Pickup Man!",
+      "trophyDetail": "Buy and sell 10 Off-Rider Canyon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ee4ce3fd-7b4b-4c88-932b-9e0a483591f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mogul",
+      "trophyDetail": "Purchase office upgrade IV.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/5dcae7d2-c9ec-4088-ba69-426896790af1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back from the Future",
+      "trophyDetail": "Buy and sell 10 Harmonia Vehicles Andante.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/58ce710c-52fc-4a80-9e2c-2c7adf67921e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pantocrator",
+      "trophyDetail": "Purchase body workshop upgrade IV.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/f0c4edc9-0120-444b-ad69-454ef653a937.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Millionaire at Large",
+      "trophyDetail": "Buy and sell 10 Harmonia Vehicles Largo.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/141c092c-2813-4daa-81a3-5368eefcce66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poseidon's Kiss",
+      "trophyDetail": "Purchase car wash upgrade III.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ade2a466-01c4-4849-bde6-02a030998b92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Villa Cruiser",
+      "trophyDetail": "Buy and sell 10 Harmonia Vehicles Allegretto.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/996a3f2a-202d-4545-ad7a-daaef49f9e30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Technical Heavy Metal",
+      "trophyDetail": "Purchase mechanical upgrade III.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/48844f28-9f91-45bb-8c11-4de8fda514ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "City Dweller Supplier",
+      "trophyDetail": "Buy and sell 10 NGD Pulse.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/a59c64a5-8acd-4b54-8474-bf9b18cca0c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pump It Up!",
+      "trophyDetail": "You got to pump it up. Upgrade your private gas station to level 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/ae8921f2-045d-4a36-b392-c591fd4e06f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nirvana in Your Palm",
+      "trophyDetail": "Buy and sell 10 Zen Motors Journey.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/3245b4c1-1fa1-4db5-a007-e456d0ec2019.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traveling Companion",
+      "trophyDetail": "Buy and sell 10 CargoWise P3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/6e1f517b-ee41-495e-ae03-10aa28b7c217.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can't Stop, Won't Stop",
+      "trophyDetail": "Buy and sell 10 Cargo Wise P4.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/e7d6eb58-51d3-48e9-a154-47f16bf6c2e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "On My Own",
+      "trophyDetail": "Buy the business from Sam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/a76510e4-e742-43f1-b547-420b7768862f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making Dough",
+      "trophyDetail": "Make a total of 50.000 dollars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/dbad1051-2b25-4350-9e67-3adfbb2b07f7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Salesman",
+      "trophyDetail": "Make a total of 100,000 dollars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/1cda9ab5-36bc-4bfb-9e63-ad1d38353579.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Halfway There!",
+      "trophyDetail": "Make a total of 500,000 dollars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/470dbd47-e500-4687-8c39-761866867808.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rich! Millionaire!",
+      "trophyDetail": "Bombocar! Make a total of 1,000,000 dollars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/e7f68f5d-b853-4471-9abe-d378a9f267e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "I Am Speed!",
+      "trophyDetail": "Pass 100 km/h in a tow truck.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/f59e6e62-b39a-4287-90df-040f8430ed75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sleazy Salesman",
+      "trophyDetail": "Reach reputation level 3.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/e780d2fc-7437-4570-abda-55ef3352b24a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Recognizable",
+      "trophyDetail": "Reach reputation level 7.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/3fa59731-e7ff-4780-be4c-5784a7b63350.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Well-Known",
+      "trophyDetail": "Reach reputation level 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/a494bc99-1eaf-45a0-a5e9-e4d77cfd810b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bruh Moment",
+      "trophyDetail": "Let the intruder dirty up your car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/2647d995-d403-4b5e-9988-0061387af710.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gas Mosquito",
+      "trophyDetail": "Let the intruder steal gas from a car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57661_00/d2aa72ef-5a43-4072-8a07-908d92017d47.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

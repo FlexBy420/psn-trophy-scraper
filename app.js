@@ -5,7 +5,7 @@ let allTrophies = [];
 let currentConsole = 'all';
 const entriesPerPage = 50;
 let currentPage = 1;
-let sortColumn = null;
+let sortColumn = 'npCommunicationId';
 let sortOrder = 'asc';
 
 const SORT_ASC = 'asc';

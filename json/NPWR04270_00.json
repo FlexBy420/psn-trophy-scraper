@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR04270_00",
   "title": "Terraria",
   "platform": "PS3,PSVITA,PS4",
-  "trophySetVersion": "01.06",
+  "trophySetVersion": "01.07",
   "hasTrophyGroups": true,
-  "totalItemCount": 48,
+  "totalItemCount": 51,
   "trophies": [
     {
       "trophyId": 0,
@@ -437,6 +437,33 @@
       "trophyDetail": "Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/D6ADA7E5187E89131456D260C3732B777E859825.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Shimmer In The Dark",
+      "trophyDetail": "Shimmer an item into another item. What other transmutations can you find?",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/7489205F0223FFABB764E64F29FEEE10570D55AD.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "And Good Riddance!",
+      "trophyDetail": "Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/1A76A55877438ABAA656840D367F43D4E0BDBBC4.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Torch God",
+      "trophyDetail": "Invoked the wrath of the God of Torches, and survived long enough to earn its blessing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/6650CAA0EDA912C74C12742FB03946EA3D4557AA.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

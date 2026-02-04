@@ -1,0 +1,327 @@
+{
+  "npCommunicationId": "NPWR56028_00",
+  "title": "Highguard",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 33,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Pendragon",
+      "trophyDetail": "So... the legends are true. These mythic tales of old are more than just words",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/d8e62abe-a539-4374-84e6-ec18426898e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rite of Passage",
+      "trophyDetail": "Complete the Tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/ea86a456-3112-4ff2-bc10-484c155d434e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle-Hardened",
+      "trophyDetail": "Complete 10 Raid Mode matches",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/36bf590f-2d3e-446a-aed5-ba090fd0ee36.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trial by Combat",
+      "trophyDetail": "Complete a Raid Mode match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/d8efadca-9415-4b0b-af5a-09271daa1dc6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A True Warden of Highguard",
+      "trophyDetail": "Win 20 Raid Mode matches",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/ab179641-0657-4b73-b09e-13a9857a85eb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking and Entering",
+      "trophyDetail": "Plant the Shieldbreaker to start a raid (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/0f11f303-2019-40c7-a57e-0adb16f7e9c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tip of the Spear... And My Axe",
+      "trophyDetail": "Complete 5 Raid Mode matches with any Assault Warden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/5d4904d7-ffb2-4f63-a4b1-840a86b663a7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Have My Shield",
+      "trophyDetail": "Complete 5 Raid Mode matches with any Defensive Warden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/10e12d20-5272-4f89-a369-2ee0491eabce.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Seeing Eye",
+      "trophyDetail": "Complete 5 Raid Mode matches with any Recon Warden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/69b03237-7757-443d-bb25-fc3e88e2bbb2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Got Your Six",
+      "trophyDetail": "Complete 5 Raid Mode matches with any Support Warden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/03b838d4-6377-4996-bc98-7fad7cd69a7c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carved a Path",
+      "trophyDetail": "Complete 5 Raid Mode matches with any Destruction Warden",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/76420e03-3e1d-428e-a8a9-a6fb197575ab.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Mate",
+      "trophyDetail": "Revive a teammate (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/b87756c5-4d2a-478d-ac49-e56851771417.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Eater",
+      "trophyDetail": "Destroy 30 enemy soul orbs (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/055e11a0-84ef-41ad-909b-88632bed77bb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saboteur",
+      "trophyDetail": "Sabotage 20 generators when raiding an enemy base (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/cf2c113f-ad81-4b2d-a380-630d811c7064.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cordcutter",
+      "trophyDetail": "Defuse 20 generators when defending your base (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/18c95184-81b0-47d9-863c-31d37947eca2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lambs to the Slaughter",
+      "trophyDetail": "Wipe the enemy team during Overtime - 10 times (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/9bc7afb7-9070-4856-928d-c01dfeb33cc6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Animal Control",
+      "trophyDetail": "Eliminate 20 enemy mounts (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/3e9b16d1-54fa-4f71-a1d8-29c3959420c8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Heavy \"Cavalry\"",
+      "trophyDetail": "Eliminate 10 enemies while riding your mount (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/ece789ae-45e1-414a-8adb-b7d3ac13a95f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Suppressive Fire",
+      "trophyDetail": "Acquire the BigRig LMG and destroy at least 3 iron walls with the weapon in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/fe8fab10-6069-4568-97ce-e32452a29452.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plunderer",
+      "trophyDetail": "Open and acquire loot from at least 15 chests in a single match (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/a5cd1d0f-385f-4518-b92a-a7920367d2a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Blade vs. Bullet",
+      "trophyDetail": "Eliminate 10 enemies with your axe (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/caf00832-73ce-442c-9b7c-6576cfb1f66a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Slow Blade Penetrates the Shield",
+      "trophyDetail": "Plant a Domesplitter to enter an enemy base (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/2cb25745-073a-4a10-b157-56c8d1950482.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legendary Armaments",
+      "trophyDetail": "Equip at least 3 Legendary items within a single match (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/461c5583-440c-4fcb-9864-7b840a74ddb1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pocket Full of Vesper",
+      "trophyDetail": "Buy 10 Rare items or better from the Vendor in a single match (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/e2ef65a5-f73c-42a7-afe8-4a3f1500ca7a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shock and Awe",
+      "trophyDetail": "Use your Ultimate Power at least 3 times in a single match (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/b5c6cc78-7104-4148-a37a-126068ced417.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord of Destruction",
+      "trophyDetail": "Destroy at least 20 walls of any type (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/935758e8-a509-41c7-88e6-3c25e569d49e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "One Shot, One Kill",
+      "trophyDetail": "Win 5 Raid Mode matches by destroying the enemy base via Anchor Stone only",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/bda7da75-8dc6-4516-a34f-313481d31f51.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Overwhelming Force",
+      "trophyDetail": "Win 5 Raid Mode matches in under 10 minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/88b43d49-7110-4eb4-b070-f6272fee7e45.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Go for Broke",
+      "trophyDetail": "Win 5 Raid Mode matches individually spending at least 77 Vesper at the Vendor in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/0ce4affb-b054-43a3-a7a4-1c881c31d0f7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Send Their Regards",
+      "trophyDetail": "Eliminate 77 enemies with Legendary Weapons (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/bcb74fb3-8528-413c-8ce8-016a87df036a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "77"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfectly Balanced",
+      "trophyDetail": "Win 5 Raid Mode matches without entering Overtime",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/f8759ac8-e82d-4bb0-bdd4-bd564120c76e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Our Last Stand",
+      "trophyDetail": "During Overtime, wipe the enemy team as the last man standing (Awarded on match completion)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/8a029234-2a45-4d49-b728-4400c7b2f26d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Protocol Three",
+      "trophyDetail": "Win a Raid Mode match in under 12 minutes with at least one member of your team never dying",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR56028_00/84b71da1-ae75-4e6d-9876-d980821b0598.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

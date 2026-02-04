@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR04563_00",
   "title": "テラリア",
   "platform": "PS3,PSVITA,PS4",
-  "trophySetVersion": "01.07",
+  "trophySetVersion": "01.08",
   "hasTrophyGroups": true,
-  "totalItemCount": 48,
+  "totalItemCount": 51,
   "trophies": [
     {
       "trophyId": 0,
@@ -437,6 +437,33 @@
       "trophyDetail": "ガイドを殺す このひとでなし！",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04563_00_0032AC9F9555476226BF67781D6A1CEEBDFBE546E2/7966A53DB14FE35521DB24C77B17AF44B621AFD6.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "くらやみの中のキラメキ",
+      "trophyDetail": "アイテムを キラメかせて 別のアイテムにする。 ほかに こんな変化するもの ある？",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04563_00_0032AC9F9555476226BF67781D6A1CEEBDFBE546E2/54F3C3DBFAFC894AED7DEDB2B02D331D727C0E9E.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "清々した！",
+      "trophyDetail": "じゃあくな大地、 しんくの大地、 せいなる大地をすべてじょうかする。 ドリュアスが満足するまで！",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04563_00_0032AC9F9555476226BF67781D6A1CEEBDFBE546E2/A3B7B513BBCE55ADAA04538F87F21DD4A433C9CB.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "たいまつのかみ",
+      "trophyDetail": "たいまつのかみの 怒りをかい めぐみをうけるまで 生きのこる。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04563_00_0032AC9F9555476226BF67781D6A1CEEBDFBE546E2/B5612F2883648CEA27649C7C4E947B2EA16F9CAB.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

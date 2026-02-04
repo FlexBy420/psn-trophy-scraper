@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40413_00",
   "title": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 26,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 38,
   "trophies": [
     {
       "trophyId": 0,
@@ -239,6 +239,114 @@
       "trophyDetail": "Awarded for completing a scenario with an original officer as the protagonist.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/7C304E8314E33D908AC1BE79F0898E38BF48E873.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of the Shining Stars",
+      "trophyDetail": "Awarded for unlocking all Gem Types except Common.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/1BD571E9AE3FEF1B08819DF82E54ABEBE4BD90EC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seeker of the Stars",
+      "trophyDetail": "Awarded for fully unlocking the Gem Types: Ruler, Chieftain, and Viceroy.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/6DCA89B0DBD527B97AA7F65133A4E1FCCB29EF8B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Who Lives Among Earthly Stars",
+      "trophyDetail": "Awarded for fully unlocking the Gem Types: Governor, Tactician, and Common Officer.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/871EC5D49ACCD209E5CF62352CE00DFCFFC33B57.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One who Yearns for Others' Stars",
+      "trophyDetail": "Awarded for fully unlocking the Gem Types: Free Officer, Warrior, Literary Person, and Villain.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/E838C200370923CCDD2720CCDF4DDE19A2822A46.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Morning Star",
+      "trophyDetail": "Awarded for unlocking a Gem for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/D74338D88193E99966FA638A0F5E9399D3D0A714.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sky Full of Stars",
+      "trophyDetail": "Awarded for fully unlocking one Gem Type in a single playthrough.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/06182725EDF942E7B7E1B8881972DD3EC84EB4AC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Junction Observer",
+      "trophyDetail": "Awarded for having activated a Turning Point for the first time.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/1397A570DD0D6CD3E73A2B4B26B6A70E8E57F217.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Obtainer of the Perfect Spouse",
+      "trophyDetail": "Awarded for clearing the Tale: Lady of Gems.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/B911D33D2DCDCB59D02260383A1030257C546761.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compiler of History",
+      "trophyDetail": "Awarded for having watched the movies: A Great Star Falls and Thus, History is Written.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/C6412EA7F63645E47B40F966E31355F07C120FC4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Commoner's Attendant",
+      "trophyDetail": "Awarded for having watched the ending event: Commoner's Attendant.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/D0C837A36DBD88F4BB5B508702B645FB2B691E50.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rebel to the Stars",
+      "trophyDetail": "Awarded for clearing the game through unification without unlocking even one Gem.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/922D99CC224BF7C08F2BC47FCE9234F9A35946C4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Solitude",
+      "trophyDetail": "Awarded for clearing the game through unification as a Ruler, without having developed a Synergetic Relationship with an officer or with anyone else.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40413_00_006083A2E968CE13451D9E66A59D0FB1DBD04AEB59/DB07F6B6311807E555DE5629EE89DE42D122173F.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

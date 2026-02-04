@@ -1,0 +1,491 @@
+{
+  "npCommunicationId": "NPWR50773_00",
+  "title": "Cairn",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 53,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Free",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/0f15869e-06ea-4b7c-92cf-c5266d408217.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Mandatory warm-up",
+      "trophyDetail": "Complete training on Tenzen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/fadf1af4-9c5c-454c-983a-7d842b117425.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Those who come back down",
+      "trophyDetail": "Meet a broken climbot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/82f79950-daaa-4728-b9e4-7784efe08c71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Moment of cool",
+      "trophyDetail": "Take a break at the waterfall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/864f1183-cd51-413a-883e-d13ae5ea0099.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Interloper on the wall",
+      "trophyDetail": "Meet Marco",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/da10fb11-b6e5-4d62-b84e-59533c0ba470.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Everything else disappears",
+      "trophyDetail": "Witness an aurora borealis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/ca77c2e9-d6f3-4471-804c-fb92aaa14f1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "One hell of a night",
+      "trophyDetail": "Wake up on the mountain in top shape",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/531e2bd3-3182-43f6-81ab-8dc69680119b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Neither a success, nor a failure",
+      "trophyDetail": "Meet Damas Al Fatri",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/f7d15050-0d3c-4281-bebf-3d5ff74ac26d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Upstream",
+      "trophyDetail": "Survive the avalanche",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/bb891de5-4bac-4ce7-a1b0-d74e79200415.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Part of a whole",
+      "trophyDetail": "Reach Kami's summit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/9ed3f4bf-627f-4faf-ac1e-e6462f683373.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not even a scratch",
+      "trophyDetail": "Survive a 15-meter fall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/da6028f5-b8ce-405f-b2b5-fff5717a1d5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just a bit too late",
+      "trophyDetail": "Fall while planting a piton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/b781a92c-fb11-463c-b86f-37af1d90adf3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't stop me now",
+      "trophyDetail": "Climb 30 meters without using a piton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/07cfc31d-d45c-493a-a631-8147e3b94f47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Serious training",
+      "trophyDetail": "Open the box in the gym room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/6142c262-6f7c-47c3-afc4-459dc964557b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ain't scared",
+      "trophyDetail": "Jump from the ground and latch onto the wall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/8c3a0479-1317-42f5-8341-a7a852afd7e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honest heist",
+      "trophyDetail": "Collect wild honey from the wall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/d2790b53-9857-4ee3-abcd-27c42982ecf8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leave no trace",
+      "trophyDetail": "Compost 10 trash items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/07f316a7-3d92-4198-9aee-73eb5e1e70e4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kami sashimi",
+      "trophyDetail": "Catch a fish",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/298f53db-235b-4108-a7e5-d7043e85fdce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lick responsibly",
+      "trophyDetail": "Become woozy from licking a frog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/5d8cf6d4-1efe-47a8-b70b-88b53fb657e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Return to Source",
+      "trophyDetail": "Catch a weird salamander",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/8d8e552b-e06b-4dbd-a638-fc2267c9e7f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Luxurious grip",
+      "trophyDetail": "Compost coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/a0c2945b-6557-481b-90fb-d31a98b0a12c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "All that glitters",
+      "trophyDetail": "Find glow-in-the-dark gloves",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/818e374b-b3ad-4eac-a54f-975260985e06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Herbalist",
+      "trophyDetail": "Cook the ultimate infusion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/ab39b6bd-4310-4744-94de-2006ebff6cbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master chocolatier",
+      "trophyDetail": "Cook up an easter egg",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/484d4f78-6650-429a-a8b1-4b27237fd03e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Rope Club",
+      "trophyDetail": "Make an alcoholic cocktail",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/7c52cabb-dff2-4ab0-820d-707a7aa42214.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Doped up",
+      "trophyDetail": "Combine the effects of burst, grip, extra grip, focus and grit in one go",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/fa8dd0a1-4390-4d1a-902f-5824361bb8c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No thanks",
+      "trophyDetail": "Interrupt Marco's rambling",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/764a4758-697a-4cb6-a61f-ee435ae8c60d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bird’s eye",
+      "trophyDetail": "Check your route from the remote view mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/02bd11af-c9e3-4861-afd5-6095043c83b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Grizzly woman",
+      "trophyDetail": "Survive the bear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/4293d673-6cc4-46d8-8198-ee66a15ac106.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Light up the sky",
+      "trophyDetail": "Shoot fireworks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/b6d0e04a-5aa5-4664-95e6-c9fcb810d918.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heartbeat",
+      "trophyDetail": "Find an Edelweiss",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/79e4764c-8e55-49a5-bbf7-03f005ac3ed1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Child",
+      "trophyDetail": "Find the first guardian's troglodyte piton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/7d2c095c-9277-4f76-af6d-a105f9b4d73b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Ancient",
+      "trophyDetail": "Find the second guardian's troglodyte piton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/86c7d67b-aae9-4bcb-bc99-a6c0d2fd26b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Secret",
+      "trophyDetail": "Find the third guardian's troglodyte piton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/43f777fd-cef8-4197-bae2-750faa0fb7a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "End of the Rope",
+      "trophyDetail": "Reach the furthest extent of the rope",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/03452cec-584c-416b-873f-48b5225fca3d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Siesta",
+      "trophyDetail": "Enjoy a nice outdoor nap",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/0fea1ddc-d159-4115-98bf-f9270270f023.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Picture for Chris",
+      "trophyDetail": "Use the photo mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/36ed7d1a-1b7c-478b-982c-5704db76e439.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Close call",
+      "trophyDetail": "Survive to a near-deadly fall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/c39cf08e-fc80-4169-851f-e34669595fce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lactic acid",
+      "trophyDetail": "Recover stamina by shaking your arm over 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/e5fcb985-a343-421e-84af-707714e09cb9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nurse",
+      "trophyDetail": "Tape your fingers 20 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/e444d82a-c345-44ef-9120-b2b073ab0a35.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Engineer",
+      "trophyDetail": "Craft 15 pitons from scraps",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/52571374-7da5-475b-9b72-f8d92b1b7f01.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I did it!",
+      "trophyDetail": "Reach mini-Kami summit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/2cd7c42a-1fb2-4dc6-b3d8-d6998bad219c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bag maniac",
+      "trophyDetail": "Did you really think you could keep your bag tidy?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/4af77234-e00f-4405-b45f-5031bbc79c1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Aava Porter Bridges",
+      "trophyDetail": "Deliver Rody's letter to the shepherdess",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/34abf8c4-953f-42fb-a766-f34d31a7d960.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "One day, I'll be rich!",
+      "trophyDetail": "Bring all crystal shards to the crystal-cutter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/7c708cfa-c4ad-4b0a-8f47-d76cb0cb822a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spotted!",
+      "trophyDetail": "Find Marco with the binoculars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/4f2d34ab-7704-41b0-8bbc-76f8a6502e52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hungry like a wolf",
+      "trophyDetail": "Loot food from a corpse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/8c8d70e1-b531-4c90-a094-72406ace9bff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meteorologist",
+      "trophyDetail": "Assemble the 3 doll pieces",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/a4df075e-c1d2-409f-9ea0-391a9dc4ecca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Your story",
+      "trophyDetail": "Watch your completed ascent",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/752c764b-deab-420c-9946-85b225a4684c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Love birds",
+      "trophyDetail": "Let loose Rody and Johanna's kite",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/98e78fd6-6779-4728-9c3f-ba321137cbca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "In Memoriam",
+      "trophyDetail": "Place the origami in the shelter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/93fb57a0-c07e-4842-8fcb-4c27f52445f6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leap of faith",
+      "trophyDetail": "Run and jump into the void while on the rope",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/e1593c73-a9e4-4112-98ef-03cfef7f3240.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Home",
+      "trophyDetail": "Go back down with Marco",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50773_00/6b222dd4-bcdb-43c2-9bfe-568ef45a8523.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

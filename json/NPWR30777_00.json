@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR30777_00",
   "title": "Cult of the Lamb",
   "platform": "PS4",
-  "trophySetVersion": "01.05",
+  "trophySetVersion": "01.07",
   "hasTrophyGroups": true,
-  "totalItemCount": 48,
+  "totalItemCount": 57,
   "trophies": [
     {
       "trophyId": 0,
@@ -422,7 +422,7 @@
     },
     {
       "trophyId": 46,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Regenerate",
       "trophyDetail": "Help Sozo.",
@@ -431,12 +431,93 @@
     },
     {
       "trophyId": 47,
-      "trophyHidden": false,
+      "trophyHidden": true,
       "trophyType": "bronze",
       "trophyName": "Propagate the Flock",
       "trophyDetail": "Hatch 5 eggs.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/E2A0A0D73446C6A2D1225AED3792DE9E1C4EC66F.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Maker of Legends",
+      "trophyDetail": "Restore all the Legendary Weapons",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/7C2595D4C9062C4429AFA20D7B1E58A9F1C28EAE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Secret The Prodigal Child",
+      "trophyDetail": "Inherit Ratau’s legacy ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/BBC7FA095D744BC2257F55B44C4E262B6D02311A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Eat the Rich",
+      "trophyDetail": "Indoctrinate Midas",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/3FEF603A81D05A5A436F03141004CEAF2750E25C.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Swing of the Axe",
+      "trophyDetail": "Defeat the Executioner",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/93E6A62825E5FE409829FCBEC8F2241D3FEF58E3.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killer Instinct",
+      "trophyDetail": "Defeat Marchosias",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/8A31464BC16FEC463AD2E7A0C51FA46373B7888D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Secret Sheep in Wolf’s Clothing",
+      "trophyDetail": "Defeat Yngya",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/065CFC45DDB7F595559057DBEE9821CE930DEEC2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Respect Thy Mother",
+      "trophyDetail": "Defeat Yngya withouth Attacking Her",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/C8D0275BE04CB9AF8F04E6D8C9BD26550091D28D.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Complete Collection",
+      "trophyDetail": "Collect all Flockade pieces",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/99A5DE375C1D1456FB96CF2C33E8091BDAC45414.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woolhaven Reborn",
+      "trophyDetail": "Complete everything in Woolhaven.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR30777_00_00935140B6932509787DA696EC1D7710DC51A7F566/0C9741B39CB6F4B125476D4073ECB015B80F1E08.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }
