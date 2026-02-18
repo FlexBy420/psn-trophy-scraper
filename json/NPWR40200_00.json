@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40200_00",
   "title": "Pinball M",
   "platform": "PS4",
-  "trophySetVersion": "01.05",
+  "trophySetVersion": "01.06",
   "hasTrophyGroups": true,
-  "totalItemCount": 56,
+  "totalItemCount": 65,
   "trophies": [
     {
       "trophyId": 0,
@@ -509,6 +509,87 @@
       "trophyDetail": "Start the Storm side mode on Camp Bloodbrook.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/F1E6127CDC836575C74FE692CA792EAA61372544.PNG",
       "trophyGroupId": "007"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonslayer",
+      "trophyDetail": "Defeat a dragon on The Elder Scrolls V: Skyrim™ Pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/7B2182E5175949D601AA4F0FF893DDF69D114DB8.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dovahkiin",
+      "trophyDetail": "Complete the main quests on The Elder Scrolls V: Skyrim™ Pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/5C5669AED618D0B32D7D1BA19439BD9AFB9EF25B.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonblood",
+      "trophyDetail": "Level up all the skills once on The Elder Scrolls V: Skyrim™ Pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/A8CB9195D1B1BBAE951AB6A3F5B39791FD20FA1C.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Gun",
+      "trophyDetail": "Blast away your enemies with the BFG on DOOM™ Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/0FDC2ECE1888F5525368A72432F3F6969A7BF9CB.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hell Walker",
+      "trophyDetail": "Face and defeat the Cyberdemon on Nightmare difficulty on DOOM™ Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/CA23F1EFC44178B43329CBAFF7EED382D39974B6.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sentinel",
+      "trophyDetail": "Find a Secret Area on DOOM™ Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/5A559FF952AE8EECD6CFA52F791633D3699B2E68.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Wanderer",
+      "trophyDetail": "Reach level five on the Fallout™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/93D77E5F5C2CBBCBC63FBEBF24A9CDE0933534E1.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Creature Hunter",
+      "trophyDetail": "Defeat a boss enemy on the Fallout™ Pinball table. ",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/2273976727A3FF825F33569451CE8CAD4F620F5E.PNG",
+      "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vault Raider",
+      "trophyDetail": "Collect all the bobbleheads on the Fallout™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40200_00_004440D9A0D5223AE7DD31412487342942EEE31054/7982C1B436F2019F028B2F5C19025CBE3D0D8976.PNG",
+      "trophyGroupId": "008"
     }
   ]
 }

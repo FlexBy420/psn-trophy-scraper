@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR32256_00",
   "title": "PinballFX",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.11",
   "hasTrophyGroups": true,
-  "totalItemCount": 43,
+  "totalItemCount": 46,
   "trophies": [
     {
       "trophyId": 0,
@@ -392,6 +392,33 @@
       "trophyDetail": "Start all six Tales of Terror in a single game on the Williams™ Pinball: Scared Stiff table.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/929F91CB42AFC122941E08FABDD39605A1676E0E.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragonslayer",
+      "trophyDetail": "Defeat a dragon on The Elder Scrolls V: Skyrim™ Pinball table!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/3E69DDFC3CEA56A288E940CB48143E54C9FBD6D6.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Gun",
+      "trophyDetail": "Blast away your enemies with the BFG on DOOM™ Pinball.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/2EBF2C8979CF4562558B98C171976B2F578CAB98.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Wanderer",
+      "trophyDetail": "Reach level five on the Fallout™ Pinball table.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR32256_00_00333E15402EC030B7934C372A3A2607A64EE50E6A/BFB59222083542EBF0EB57ADE1D777B65B852000.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

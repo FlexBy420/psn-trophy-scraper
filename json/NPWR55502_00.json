@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR55502_00",
+  "title": "Disciples: Domination",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Dominance",
+      "trophyDetail": "Obtain every Achievement",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/0ec165ae-4193-4a1e-bded-4e8849c8ed39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Return of the Queen",
+      "trophyDetail": "Complete the Prologue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/241a402e-d434-4138-ad0c-d8e1a6603207.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Wulf Coast Liberator",
+      "trophyDetail": "Complete Chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/a1bfc849-7830-4c2d-9cf7-11df8d713f82.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "End of a Legacy",
+      "trophyDetail": "Defeat Galthiel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/c16be8dc-d29c-4bc2-a907-76ed318f6d37.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It’s Hot in Here",
+      "trophyDetail": "Romance a Companion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/bfaaec8b-e72c-4420-892c-ad644ea16b98.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "United at Last",
+      "trophyDetail": "Recruit all Companions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/691cd0b6-6003-4cfd-a164-5dba269924c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Precious One",
+      "trophyDetail": "Obtain your first Unique Item",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/ef61e045-3fd6-4de4-9d12-a938c4805aeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mixed Emotions",
+      "trophyDetail": "Synthesize your first Dual Shard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/e66d9f03-9cfb-48bd-8c51-6e9b7d8d7ccc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Queen’s Wardrobe",
+      "trophyDetail": "Equip your first Custom Appearance",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/bbe8e9e0-b096-4aea-8f0c-7757898f8e8d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Side Tracked",
+      "trophyDetail": "Complete 15 Secondary Objectives",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/f685fc5e-0d9d-4f2b-b9c1-98bb91f9395c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not Easy to be a Queen",
+      "trophyDetail": "Complete your first Grievance",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/d236dae1-be5a-462d-955e-24d66945cf87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike!",
+      "trophyDetail": "Trigger collision between 4 units with one Ability",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/996a40bd-3239-4c65-ba49-da6eda35aabb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keen Eyes",
+      "trophyDetail": "Exploit enemy weaknesses 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/7ec21c5e-cf08-4170-81fc-9b4794ba7caf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revenge of the Meek",
+      "trophyDetail": "Kill a Tier IV with a Tier 1 unit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/747ccd26-1311-4ea8-a9d7-d904674f43a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cosmopolitan",
+      "trophyDetail": "Win an encounter with a unit from every Faction",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/369a9ffc-f74f-414b-83a4-eceef5ff18c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Through Fire and Flames",
+      "trophyDetail": "Complete Chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/9ced3d6a-fe4a-449d-9862-3abbc678af50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Dragonslayer",
+      "trophyDetail": "Defeat Malekith",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/8f768dbe-68e4-4688-a3c1-27ca4339d66c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Shield of the Exiled",
+      "trophyDetail": "Complete Helmer's Companion Quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/2cd68867-9bdf-459f-a84f-d64494c3ffdf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Unbreakable Warden",
+      "trophyDetail": "Complete Ethel's Companion Quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/95e00734-66ed-4e8b-a2e2-6798cc2bbe03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Tree Shepherd",
+      "trophyDetail": "Complete Melendrach's Companion Quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/e1066076-13cf-4e13-87b2-2ff50d45d998.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Crow Reborn (Again)",
+      "trophyDetail": "Complete Ejamar's Companion Quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/56606910-3a83-4b15-b4e3-0c0776a1f6ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Malicious Mistress of Spies",
+      "trophyDetail": "Complete Illmeren's Companion Quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/e2499018-8373-4a52-a1de-61e850dce0c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Happy Little Accidents",
+      "trophyDetail": "Complete the Magic Painter’s Quests",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/44c380cf-40f0-4d40-99a3-5fdba4a560c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Veni, Vidi, Vici",
+      "trophyDetail": "Complete all Quests in a Region",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/a03e5252-c201-423a-8dd4-1ab987861ba9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Friends Beyond the Grave",
+      "trophyDetail": "Reunite Toxen and Vilidur",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/25a95b35-9614-4027-a58d-70ac1ab3a6c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master Crafted",
+      "trophyDetail": "Upgrade a weapon to its next level of Rarity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/4b912fd7-409e-4cc1-8deb-6bdcf88f552c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Yllian Restored!",
+      "trophyDetail": "Upgrade all Buildings to Tier IV",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/7d360956-5af3-4b7f-97e1-6b8a60956c43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alliance",
+      "trophyDetail": "Reach Max Reputation with a Faction",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/987b1a6c-59b9-4b90-bef5-3387c8601842.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unlimited Power",
+      "trophyDetail": "Unlock Avyanna's Ultimate Ability",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/8e725462-ff47-46b6-8a78-95350509f6e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I’ve Seen it All",
+      "trophyDetail": "Witness all Combat Events",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/293b3d96-9460-47bf-aece-4c6b31cb4282.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Problem Solver",
+      "trophyDetail": "Complete 70 Crisis in one Playthrough",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/32af597f-1963-468d-a9cb-b59dcb9e7553.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Stone Father’s Fall",
+      "trophyDetail": "Defeat Wotan",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/e8198a53-92cd-4eab-8bcf-e5ec6013165a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "This World is not Yours Anymore",
+      "trophyDetail": "Defeat Bethrezen’s Parasite",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/90c82026-f04c-47b3-9d0e-6a095ba834cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Ruler of Nevendaar",
+      "trophyDetail": "Witness an Epilogue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/f562b1fa-aea1-4afe-9a99-798a11c9c77f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Happy to Help",
+      "trophyDetail": "Complete all Exploration Grievances",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55502_00/39ff0a45-58d9-4407-a445-618b972ea4e5.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "npCommunicationId": "NPWR51718_00",
+  "title": "Virtual Hunter Trophy Set",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 43,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Collected all Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/3572a45c-635b-45b0-aeb5-25897f78f9f1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Podium",
+      "trophyDetail": "Harvest a bronze scoring animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/76f7d68b-bc29-41fc-9f78-9977e69df874.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Runnerup",
+      "trophyDetail": "Harvest a silver scoring animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/c015be8f-6c8b-48bd-bf22-c97873ecb847.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Honor",
+      "trophyDetail": "Harvest a gold scoring animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/16987867-8f15-46de-9553-686163a4fe41.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Champion Trophy",
+      "trophyDetail": "Harvest a diamond scoring animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/2cedf97a-e04c-4880-a2fe-1286bbad16a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Rare Collection",
+      "trophyDetail": "Harvest one of each rare fur types",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/ddb11349-aff7-4b9b-bf99-e08153bfd55e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Red Deer Hunter",
+      "trophyDetail": "Harvest 100 Red deer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/8053c346-9a3d-4925-a7bd-cd9926799530.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Fallow Deer Hunter",
+      "trophyDetail": "Harvest 100 Fallow deer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/b05060bb-07a1-4ac1-b60d-1a3a0bef3a59.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Roe Deer Hunter",
+      "trophyDetail": "Harvest 100 Roe deer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/495afada-a1a6-4d34-8517-50f515f0a6c3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Wild Boar Hunter",
+      "trophyDetail": "Harvest 100 Wild boars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/e215cbe3-67b3-4d63-b7e5-b01a153074c3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Expert Red Fox Hunter",
+      "trophyDetail": "Harvest 100 Red foxes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/70213d26-e82d-4903-a5ce-0208b07bb3d0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert European Hare Hunter",
+      "trophyDetail": "Harvest 100 European hares",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/9ada8b91-d9b9-42df-8ff8-9f95a99b5dc8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Pheasant Hunter",
+      "trophyDetail": "Harvest 100 Pheasants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/7852b14a-6549-407e-b0b1-757b242f1bff.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Common Collector",
+      "trophyDetail": "Unlock all common fur trophy statues of any species",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/bfb3e8c3-100c-4d33-a5b1-affcb9926701.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Connoisseur",
+      "trophyDetail": "Unlock all trophy statues of any species",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/32250e97-901f-483a-8959-5f6f8783c051.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Adventurer",
+      "trophyDetail": "Find all campsites",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/3787336f-fc3c-4fe0-8160-e9daab774904.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Explorer",
+      "trophyDetail": "Unlock at all hiking shelters",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/7d6e338a-ef63-4c6a-aaec-d384a7aa990a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pilgrimage",
+      "trophyDetail": "Find the hidden monastery",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/e1e75991-25c2-4c62-8415-eeda4e990acf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge Master",
+      "trophyDetail": "Complete 30 Hunting Challenges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/dad8c563-6b08-49ab-abc5-cfcece997f48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Someone Must Do It",
+      "trophyDetail": "Complete medium Hunting Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/84a9044a-92de-49f3-9f28-fb7b583bdd56.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing Is Too Hard",
+      "trophyDetail": "Complete hard Hunting Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/9a759303-e5d8-4e67-9eb1-c1d7be33b511.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cozy Cottage",
+      "trophyDetail": "Place 30 taxidermied animals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/d54d223d-e937-49fc-9ead-b3a083338e30.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trophy Animals",
+      "trophyDetail": "Taxidermy and place each trophy class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/6be2c341-14c1-4af6-9720-b043a4dabf88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Taxidermist",
+      "trophyDetail": "Taxidermy and place one of each animal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/7ef19723-5126-435a-9cf8-97b10a37c7c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Great Signal",
+      "trophyDetail": "Climb the highest point in the map",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/ed7d1229-c4dd-439e-b2ca-cc9e91bf9d28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adrenaline Junkie",
+      "trophyDetail": "Survive a fall from top of the radio tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/b6921143-04d8-41c8-b3b1-65427edb1779.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bank Robbery",
+      "trophyDetail": "Earn 100 000 cash in game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/2785cc7c-cc66-4f6a-80a4-8f4ac7a9a4af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Robin Hood",
+      "trophyDetail": "Harvest an animal shot in the heart with a bow and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/f1244066-7d80-4238-9d84-2284f6d23c53.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Shot Placement",
+      "trophyDetail": "Harvest an animal shot in both lungs with 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/6a99c96a-3d10-4d01-b450-46ce3fdf05c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stand Off",
+      "trophyDetail": "Harvest an animal shot from a hunting stand",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/604385b6-09d5-4e06-a07b-97f7fdb2f6e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Easy-peasy",
+      "trophyDetail": "Shoot a Pheasant with a Flu-flu arrow in air with full integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/61608b0b-68ce-48ed-848e-6ac19d21687a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mr. PIG!",
+      "trophyDetail": "Shoot and kill an attacking wild boar with the .44 revolver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/c2f05cf2-c8d8-466b-ba16-9ffb5d2d87ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dot Shooting",
+      "trophyDetail": "Kill an animal from 450m or further",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/60d8f0d8-aa0a-4257-935d-984873e71560.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Simo Häyhä",
+      "trophyDetail": "Kill an animal from 150m or further without a scope",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/ade8ea06-6871-4814-a7e1-5cc9dd55c2b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slug Master",
+      "trophyDetail": "Harvest 100 animals shot with slugs and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buckshot Master",
+      "trophyDetail": "Harvest 100 animals shot with buckshots and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Birdshot Master",
+      "trophyDetail": "Harvest 100 animals shot with birdshots and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": ".223 Master",
+      "trophyDetail": "Harvest 100 animals shot with .223 and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": ".303 Master",
+      "trophyDetail": "Harvest 100 animals shot with .303 and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fan The Hammer",
+      "trophyDetail": "Harvest 100 animals shot with .44 and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/749b33b0-fd44-441f-8847-66ef7aa68110.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Of 500gr Arrows",
+      "trophyDetail": "Harvest 100 animals shot with 500gr and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/40cadecd-33ab-429b-ba30-db7eb4bd9ff6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Of 300gr Arrows",
+      "trophyDetail": "Harvest 100 animals shot with 300gr and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/40cadecd-33ab-429b-ba30-db7eb4bd9ff6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bird Hunting",
+      "trophyDetail": "Harvest an animal shot with flu-flu and 100% integrity",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51718_00/01f1a924-5edc-42c1-8b79-ef8f2bac9de4.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

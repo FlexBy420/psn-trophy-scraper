@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR50368_00",
   "title": "NBA BOUNCE",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
-  "hasTrophyGroups": false,
-  "totalItemCount": 33,
+  "trophySetVersion": "01.03",
+  "hasTrophyGroups": true,
+  "totalItemCount": 36,
   "trophies": [
     {
       "trophyId": 0,
@@ -302,6 +302,33 @@
       "trophyDetail": "In any match, have a single avatar reach 10+ of the following: Points, Blocks, Steals (any mode)",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50368_00_00996D0AC9A4A00B6E4B12DE8FEAD41A4B8D10C552/418C19F85AB77E2BA33125EF62FAF88E8AB84098.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Climb",
+      "trophyDetail": "Win a match in the Climb game mode. [NBA BOUNCE - GOAT: The Movie]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50368_00_00996D0AC9A4A00B6E4B12DE8FEAD41A4B8D10C552/9ADE826D5F9909081184B0CE836F52798A7A3349.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The GOAT",
+      "trophyDetail": "Win the 20th match in the Climb game mode. [NBA BOUNCE - GOAT: The Movie]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50368_00_00996D0AC9A4A00B6E4B12DE8FEAD41A4B8D10C552/D2E958C52A0BCEA17995619E456873AD73CAC5F3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Knock, Knock",
+      "trophyDetail": "Knock down players on the other team five times in one match. [NBA BOUNCE - GOAT: The Movie]",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50368_00_00996D0AC9A4A00B6E4B12DE8FEAD41A4B8D10C552/F5209CB4C38A5E24161FDD7FDFECEF8D0BCBBF62.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

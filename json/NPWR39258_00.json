@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39258_00",
   "title": "Lil Gator Game",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 23,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 42,
   "trophies": [
     {
       "trophyId": 0,
@@ -212,6 +212,177 @@
       "trophyDetail": "Swing with the Sticky Hand 5 times without touching the ground.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/3FF48A3A4B47AFEDBBC7C5A80A4D2B2C01DFCE62.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Into The Dark",
+      "trophyDetail": "Gain access to the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/04BDDF0645145CFD91F922AA876264764CDF4910.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fracas at the Flowstone",
+      "trophyDetail": "Complete Amberly's quest.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/24277002F44325657A4693470186A81E272EC5F5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let The Lich Sleep",
+      "trophyDetail": "Complete Ruth's quest.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/C73ECE04C350BF19C00C2007E4CE19EEBC027519.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Destiny Beguiled",
+      "trophyDetail": "Complete Emilio's quest.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/ED5D7CC384E78A7EF3977A76C76BAE285FAE24D4.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nobody Left Behind",
+      "trophyDetail": "Complete the story of In The Dark.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/A4CE0DC381B3B5404FDF8A27E05FFDD28CA182BF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Sneaking Mission",
+      "trophyDetail": "Beat Ruth's minigame while she's paying attention.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/A6E8E93BD6AC8CBDC0FDA21AFCE1E28F485E63DB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This Totally Counts",
+      "trophyDetail": "Defeat Amberly in a fair-enough race.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/09A981F7C61791B412228ADBCE3632FA137110BE.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lil Gator Cinematic Universe",
+      "trophyDetail": "Get 5 unique endings to Emilio's movie.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/C50E6B953EC5841C155ECAFB42C057AE94642446.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To The Other-Other Side",
+      "trophyDetail": "Break everything in the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/1F3FB4CC3E1EAE923D838E8814D8D9D0ACC958EC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No More Minions",
+      "trophyDetail": "Make friends with everyone in the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/1E5BC1F6057AF3D299F22A06DB5363A8C4B77B1E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dressing While Down",
+      "trophyDetail": "Craft every item in the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/673B05914D1C07C65FEFAB4256E25A8953375511.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charming",
+      "trophyDetail": "Get your first charm item.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/89D93A651351D1821D6D58B704E83C16D2F2F691.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armed And Disarming",
+      "trophyDetail": "Get one of each type of charm weapon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/FEE6E81473D7CCBECC6265D673C876F2144ECC85.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Je Ne Sais Quarming",
+      "trophyDetail": "Get all charm items.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/DC134F518DD1229E811838311E50850E4B6C1B42.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cryptids Are Real",
+      "trophyDetail": "Complete Nodd's research.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/F2F1867468697239D116D885BA6E56B0E388CC28.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pardon Our Gravel",
+      "trophyDetail": "Clean up all the rubble in the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/3F9EB2E625E63A3101A7795FF643BB0C97A93325.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Classic",
+      "trophyDetail": "Discover a secret passageway between the island and the underground.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/11F2C3EC0A4C6B3B5ED4D135B1113E6B467E4C30.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Best Shield In The Game",
+      "trophyDetail": "Use the web shield. Yep, that's what it does.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/BDF8C829EAA591F87ADA27CB34E811F4DDE83B07.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friends Of Friends",
+      "trophyDetail": "Catch up with your surface friends hanging out near waterfalls.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39258_00_00ED1C9775B2897F2277CF259A804744671805EEA3/BA09C8D5E73F3D3C5DB8206B0842620D9150EE8A.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

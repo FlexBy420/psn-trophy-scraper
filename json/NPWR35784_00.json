@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR35784_00",
   "title": "Puzzle Quest 3",
   "platform": "PS4",
-  "trophySetVersion": "01.10",
+  "trophySetVersion": "01.11",
   "hasTrophyGroups": true,
-  "totalItemCount": 53,
+  "totalItemCount": 54,
   "trophies": [
     {
       "trophyId": 0,
@@ -482,6 +482,15 @@
       "trophyDetail": "Complete all Chapters of the Story in Season 4.4",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/08D0C8B53CF7B0ADE6D930CBB58F53EC9D17E41C.PNG",
       "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Wedding Crasher",
+      "trophyDetail": "Complete all Chapters of the Story in Season 4.5",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR35784_00_0064C9355FC028A310B117602AF336A49E3E39CB4A/A547F3C0B7C3E1907E4F63E2763D8722783E6C72.PNG",
+      "trophyGroupId": "011"
     }
   ]
 }

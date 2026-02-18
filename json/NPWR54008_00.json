@@ -1,0 +1,406 @@
+{
+  "npCommunicationId": "NPWR54008_00",
+  "title": "Our Adventurer Guild",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 44,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Adventurer",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/086900bb-1b5f-49a0-b6b6-5ad306663e87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Promising Start",
+      "trophyDetail": "Complete the Tutorial Quest successfully",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/259d4033-7f1d-4775-9e36-ea14112cce1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Steps",
+      "trophyDetail": "Complete 10 Quests successfully",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/1113c5e6-3e4b-4c38-881c-ebcb85b37610.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Never Forgotten",
+      "trophyDetail": "Lose an adventurer in battle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/38ab217c-06d5-4cf1-a356-13914bedc700.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Life",
+      "trophyDetail": "Recruit Alissa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/6a81aab6-e1a5-4434-a8ba-b6e186808408.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lone Wolf",
+      "trophyDetail": "Recruit Daryl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/34495869-4c83-4248-8fe7-24fd718a11dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full of Potential",
+      "trophyDetail": "Recruit Elan",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/0465e436-e455-4d73-bde8-3507115770a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Feed the Troll",
+      "trophyDetail": "Defeat a Troll",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/61b0b12f-54ff-4144-a827-0f2b0a76306f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glory Hunter",
+      "trophyDetail": "Defeat an Undead Champion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/5f3464e2-87a0-4fb3-bd89-16d84c248e47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Office Romance",
+      "trophyDetail": "Have two adventurers become lovers with each other",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/732bf274-4026-4556-a34e-f5a6838e2ac1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of Nothing",
+      "trophyDetail": "Defeat the Bandit King",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/38acf4d6-18a2-4877-91d2-3454b45ca060.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chance of Redemption",
+      "trophyDetail": "Recruit Misasa",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/f0ca4406-a406-4f44-9f32-0464fbb25b80.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Coffers",
+      "trophyDetail": "Have at least 50000 Gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/3b0cd187-b2cc-4fe3-9eaf-28b8f5907c57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unconditional Trust",
+      "trophyDetail": "Have a full 6-member party with 100% party synergy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/473519e0-a08b-41c9-bcf5-73afcd442dbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Problem Solver",
+      "trophyDetail": "Complete 50 Quests successfully",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/76f803c3-0560-4bd8-8a2f-8d1430a3c9be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timber!!!",
+      "trophyDetail": "Defeat an Ancient Tree Spirit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/e7adcc1a-da4e-48eb-a2e1-c108cf7ac504.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Priestess of Vices",
+      "trophyDetail": "Recruit Selene",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/ba563aa4-71ad-4717-ae6e-1edd5844974f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arachnophobia",
+      "trophyDetail": "Defeat a Spider Queen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/836ba374-46c8-4d5e-a191-573c4fe2f9a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightning Rod",
+      "trophyDetail": "Defeat a Storm Talon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/3547faee-c682-4dc7-b71e-8fd71b706fbb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Favored by the Gods",
+      "trophyDetail": "Change an Adventurer to the Saint Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/8e52935b-128b-4fd5-8176-2ae6f2533705.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Melting Heart",
+      "trophyDetail": "Defeat an Ice Bride",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/b14a4003-2de2-4933-a41e-7eaea6ac2780.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tournament Favourites",
+      "trophyDetail": "Win the Crowd over the your side in the Quest \"Past Glory\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/586dd5f8-196e-4ed9-8c00-266a6489e831.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hopeful",
+      "trophyDetail": "Defeat the Bandit King with Alissa in the Party",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/482c8e12-0651-4829-a21a-a1d111f573e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elder Abuse",
+      "trophyDetail": "Defeat the Old Dragon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/14209663-6dc3-4b26-a6f2-14869c396517.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burn the Witch",
+      "trophyDetail": "Defeat the Demonic Witch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/cf9f33d2-a7d1-4558-8bd4-02b574e90f11.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inhuman Strength",
+      "trophyDetail": "Change an Adventurer to the Dragon Knight Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/375277c3-2f17-4c5c-8ef3-6979e93cf362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forbidden Knowledge",
+      "trophyDetail": "Change an Adventurer to the Witch Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/a8516bd8-8a34-42ea-a7a5-5b0b083d3382.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Flower of Eternity",
+      "trophyDetail": "Complete \"The Flower of Eternity\" Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/3a37ab65-5f16-401d-812f-a83661262b78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Main Character",
+      "trophyDetail": "Have an adventurer with 10 Traits",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/e05cce96-9b8b-4812-a519-478512046f3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sword Mastery",
+      "trophyDetail": "Change an Adventurer to the Sword Master Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/4847dde9-0ce5-4699-9e70-792f1f09b426.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fake Immortality",
+      "trophyDetail": "Defeat the Lich",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/fa85cdec-c221-4b63-8459-31d69228250f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Economic Powerhouse",
+      "trophyDetail": "Have at least 100000 Gold",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/4b322ec8-8f9f-4d3e-91fe-4264d7177dbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Guild Will Not Fall",
+      "trophyDetail": "Defeat the Emperor's Champion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/92e0e7d2-2d51-4f23-9176-00ba20a5121a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Are you a Fool?",
+      "trophyDetail": "Help the shady priest 3 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/78f52231-68db-470e-8acf-5441c23fde1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Judge, Jury and Executioner",
+      "trophyDetail": "Change an Adventurer to the Reaper Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/567e7d36-4b7b-4b36-aad5-4ecf9147f045.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Animal Lover",
+      "trophyDetail": "Change an Adventurer to the Beastmaster Class",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/d86b0fa3-f847-4b2b-9384-3e77b3c68b61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Legendary Adventurer Guild",
+      "trophyDetail": "Defeat the Emperor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/c1018fef-e5c4-49e8-954e-93354cbdbfd5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Flawless Guild",
+      "trophyDetail": "Complete 100 Quests successfully",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/742196c4-d011-4b55-ae72-3c13a0753f00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Soul Reclaimed",
+      "trophyDetail": "Remove Misasa's Mark of Belephegor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/b35eac0e-fb28-43a8-8960-0f7f98bb9d17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Scourge of Mankind",
+      "trophyDetail": "Defeat Vorathax The Terror",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/a6ba0106-d8ae-461c-815f-469bbed5018f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ferdinand the Talking Sword",
+      "trophyDetail": "Complete \"Ferdinand the Talking Sword\" Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/e92888ce-182b-43c1-9e0e-70579b0b4ceb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Weapon From Another World",
+      "trophyDetail": "Craft the Moon Sword",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/2f2ec65e-0701-4273-9a91-864d54533b7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The True Meaning of Kindness",
+      "trophyDetail": "Receive the shady priest's gift",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/fa85fd38-e2c2-492e-86da-d4c780a518c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "A Hunter's Gift",
+      "trophyDetail": "Complete all hunting task events",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54008_00/a32b839d-d215-4fdf-9554-c993855d39f7.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

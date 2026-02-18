@@ -1,0 +1,64 @@
+{
+  "npCommunicationId": "NPWR59119_00",
+  "title": "Soccer Trophies Set",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 6,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Kick",
+      "trophyDetail": "Win a match in Tutorial mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/95849C42051DFE08A28A6B2D7E09C2A658542A74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Easy Win",
+      "trophyDetail": "Win a match on Easy difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/EFE9348C4BBF1FCE47398C9AFE5F880C649E3DE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Solid Victory",
+      "trophyDetail": "Win a match on Medium difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/709C489970D6B12ADB5963F86320398C8A84B01A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Hard Earned",
+      "trophyDetail": "Win a match on Hard difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/8791154AB835A23705E727E8703C98187FB1A283.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Champion of Champions",
+      "trophyDetail": "Win a match on Champion difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/838C2B3B181C8765ACBD668F679EC8DFE64BC148.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enter the Champions",
+      "trophyDetail": "Start a match on Champion difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59119_00_000E3F77CD843A6FB6082C83B933720F6A0BF624AC/0039644A5D44653A57C512CF79D88759B0A0D0D7.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

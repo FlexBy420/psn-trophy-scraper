@@ -1,0 +1,757 @@
+{
+  "npCommunicationId": "NPWR51055_00",
+  "title": "Kingdom Come: Deliverance",
+  "platform": "PS5",
+  "trophySetVersion": "01.05",
+  "hasTrophyGroups": true,
+  "totalItemCount": 83,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/9d134651-daf4-4d4b-8fbd-04769ffc0ff1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Alcoholic",
+      "trophyDetail": "Become addicted to alcohol.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/d2e95544-f5cf-47e8-92b9-021ea7a653fe.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Insomniac",
+      "trophyDetail": "Don't sleep for two days and nights.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/2c96644f-fdf5-405d-8135-936ab45f63a4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fatso",
+      "trophyDetail": "Be stuffed to bursting for two days.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/7189e7db-f1d2-4c34-952a-a988dcd2e12d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anorectic",
+      "trophyDetail": "Starve for three days.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/11ac915d-7901-423a-afa8-179c194bd6f5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bookworm",
+      "trophyDetail": "Read twenty books.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/44016883-9580-421e-b1cb-5df0dee951ab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Edward Kelly",
+      "trophyDetail": "Brew fifteen types of potion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/af7c504d-4d53-4be0-a904-2996d77b3cdb.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stealth Killer",
+      "trophyDetail": "Kill twenty enemies by stealth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/fd9b10c5-7303-4982-b2bb-3956ee2de4d3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hunter",
+      "trophyDetail": "Bag fifty game animals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/24c6f7d1-f6c1-44ac-906f-7e17cbdb7b1a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bard",
+      "trophyDetail": "Level up Speech to maximum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/098ed0e6-6864-4280-bb3b-5ad631e8e61c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King Charming",
+      "trophyDetail": "Be popular in every town and village.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/54eccf26-0eec-4441-a120-f7d99671fda8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Completionist",
+      "trophyDetail": "Complete all quests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/206ab0be-69a0-4ad0-9ccd-9d1616f4bae4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Merciful",
+      "trophyDetail": "Don't kill anyone during main quest line (except Runt).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/42454963-5784-4d00-88de-b1eb2d0785f9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Serial Killer",
+      "trophyDetail": "Kill 200 people.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/904661e2-da82-4473-8005-2dfdf3937735.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traveller",
+      "trophyDetail": "Discover all locations on the map.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/9ad969db-df22-43f5-9b7d-efd77570f14d.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Knightrider",
+      "trophyDetail": "Win the Talmberg horse race.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f9502bef-4625-4225-b8f0-0bfdfa7a2ae7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ranger",
+      "trophyDetail": "Walk more than 50 Km.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/28e46b36-63c1-4be6-8162-f36ddc846d16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pilgrim",
+      "trophyDetail": "Find all wayside shrines and conciliatory crosses.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/cdb14861-0df8-45c7-99b1-acd0318c9467.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Thief",
+      "trophyDetail": "Steal things with a total value of 30,000 Groschen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/0e715bf6-3f8a-4a1f-b7ab-83711bd2bcab.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Level Cap",
+      "trophyDetail": "Reach maximum level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f9d758a2-4860-44cf-b185-ec6c0d870093.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fighter",
+      "trophyDetail": "Carry out 100 combos in combat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/0175057d-85de-43ae-a52a-d460a6ea6b85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sniper",
+      "trophyDetail": "Kill 50 enemies with headshots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/69baf48e-2b48-4178-b3e2-90036cb167c3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haggler",
+      "trophyDetail": "Save 2000 Groschen by haggling.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/98dbf3fa-9531-4209-a485-5aa46932d9f6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scrooge",
+      "trophyDetail": "Hoard 5,000 Groschen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/ff6cb141-cbae-4d23-8d67-d87188bff23b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Convict",
+      "trophyDetail": "Spend three days in prison.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/abca70aa-8e26-4c2e-adc4-e918f8019056.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "David Horak",
+      "trophyDetail": "Collect 10,000 herbs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/ef6a0def-86ed-49d9-a7c9-7c9b908371a6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gambler",
+      "trophyDetail": "Win 1,000 Groschen in the dice minigame.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/5d5b2b64-99c6-4a92-a279-6ca2e7c708ad.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blacksmith's Son",
+      "trophyDetail": "Complete the first quest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/b22705c6-d56a-4c47-b061-7ec10e49ae8c.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cavalier",
+      "trophyDetail": "Save Theresa from the Cumans.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/7370a3c5-0c48-47be-9f75-4449f2ea4c4a.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Awakening",
+      "trophyDetail": "Join Sir Radzig's garrison.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/60f9751b-90e6-4109-a784-8f48b57c9ec4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Buddy",
+      "trophyDetail": "Save Lord Capon from the Cumans.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/5b696239-baa9-4e6a-80ae-c061fed2b0fe.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ginger",
+      "trophyDetail": "Save Ginger from the bandits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/50f8ba41-537a-45db-be83-7f322302ad2e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Runt",
+      "trophyDetail": "Kill Runt.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/0de911f5-0ad4-4ba5-a805-3c349ed85103.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Monk",
+      "trophyDetail": "Become a monk.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/bfffdd72-1d0d-4881-8a36-78f7c767c950.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bastard",
+      "trophyDetail": "Find out who your real father is.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/899e40a9-ab4f-4391-93ab-a1f1e16f3fb8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Conqueror",
+      "trophyDetail": "Conquer the enemy camp in Vranik.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/83a0f314-aa57-4ae9-952c-8b93d9bcc710.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Talmberger",
+      "trophyDetail": "Complete all Optional Objectives in Siege quest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/4a789d77-75e3-4e00-8fce-12064b61f810.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The End",
+      "trophyDetail": "Complete the main story line.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/4d0bb12a-7bb6-42b1-afdd-3244c14d396e.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Firestarter",
+      "trophyDetail": "Get jailed in Skalitz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/24761257-dce2-41e3-8172-cb35949dff5b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sinner",
+      "trophyDetail": "Get drunk with Father Godwin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/159031ab-1d2c-4b5f-a3a2-d46969fd6f18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Plague Doctor",
+      "trophyDetail": "Heal all the sick in Merhojed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/5a2016ff-c8eb-42eb-ae9f-f8effcae763f.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "McLovin",
+      "trophyDetail": "Court Theresa.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/dd918f28-03e2-457a-94cc-ef7f4428f919.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Casanova",
+      "trophyDetail": "Court Lady Stephanie.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/0988b51e-a7a7-45d5-815b-e199d2ed34d7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Judas",
+      "trophyDetail": "Betray your friends in the Gallows Brothers quest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/a0977df3-2999-4aa6-87ea-c854bf6f9fd8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Freud",
+      "trophyDetail": "Find out about Erik's past.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/c26b0357-8081-4821-b9c6-305ed6d87060.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Huntsman",
+      "trophyDetail": "Become the Talmberg Huntsman.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/c599c939-ab40-47ca-8a01-d73075392b93.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Robber Baron",
+      "trophyDetail": "Complete Robber Baron quest.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/3df5b64e-6fe6-4f59-886e-22d05330bd98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Spoilsport",
+      "trophyDetail": "Sabotage all three executions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/429cc111-d59a-4c0c-aa3c-c084cf6f7590.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bad Trip",
+      "trophyDetail": "Dance with the Devil.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/9c89dc7d-2216-4a93-b284-b88c41c81515.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Virgin",
+      "trophyDetail": "Stay celibate and complete the entire game as a virgin.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/e68c6aa7-83aa-4818-84c2-439a07e6a38b.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardcore Henry",
+      "trophyDetail": "Finish the game in Hardcore Mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/1d003f6d-273d-4574-b9cd-69323e1ee959.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "'Tis but a scratch",
+      "trophyDetail": "Finish the game in Hardcore Mode with all negative perks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/b9484fbc-8cc6-45fe-9697-4c5c03d147a3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Kingdom Did Not Come",
+      "trophyDetail": "Die for the first time in Hardcore Mode.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/652fc9fa-0216-46bb-b473-81010430a0a5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bailiff",
+      "trophyDetail": "Ensure the renewal of Pribyslavitz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f5ea078e-c8dd-4e27-a01f-2f39dd09c373.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Trial-and-Error",
+      "trophyDetail": "Renew the whole of Pribyslavitz without being able to read.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/0414ff2b-05b4-47bf-b902-978dabbbafe5.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Perfectionist",
+      "trophyDetail": "Make 2,000 Groschen a day from Pribyslavitz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/870112f6-e3a0-489e-81f5-14975b202d0d.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Friends without Benefits",
+      "trophyDetail": "Invite Fritz and Matthew to Pribyslavitz.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/655ea7fd-649b-4623-8690-e672d4136510.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Arena Master",
+      "trophyDetail": "Get a complete set of armour from the Rattay tourney.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/215beb65-89d1-4dfb-a432-b780f31578ac.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "True Friend",
+      "trophyDetail": "Capon will succeed, even though you sent him off with a nasty rash.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/810962a2-91dc-462d-94ed-af8af8b92ff9.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Wingman",
+      "trophyDetail": "Everything has to go according to Sir Hans' plan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/30866b82-de9f-4864-af70-e007fb798354.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "I Can Quit Anytime",
+      "trophyDetail": "Dice are most important, the rest will work itself out somehow.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/8d87a628-da67-49fc-a8cd-e6eaa2456464.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lord Capon's Ghost",
+      "trophyDetail": "Get back Capon's necklace without permission from anyone.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/cd9203e3-3e2a-4598-a5f6-9d3a13c83027.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Ledetchko Revenant",
+      "trophyDetail": "Think up even more ways to haunt the Ledetchko villagers than the charlatan told you.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/b2741228-fcff-41d3-b2b2-9e564c1c7b3e.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Christian Burial",
+      "trophyDetail": "Ensure eternal salvation for the wretched charcoal-burner, Lev.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/749e5c25-47d7-470b-99c2-6bfc567f4669.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Not-so-Christian Burial",
+      "trophyDetail": "Grant peaceful rest to the soul of the wretched charcoal-burner, Lev.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/c5bf4316-4340-4a37-a4b3-ae07d0d1df6d.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tracker",
+      "trophyDetail": "Track down the raiders who attacked the farm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/114cb75d-09e1-49d7-9dde-53fee8260aaf.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chivalrous Soul",
+      "trophyDetail": "Persuade Kuno to attack the mill right away.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/98354df8-2a15-4176-bb53-a8ce9cdc6e3f.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pinky Promise",
+      "trophyDetail": "Keep your word at any cost.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/70369705-6a0e-4055-910e-cce7f34f39e7.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Torturer",
+      "trophyDetail": "Leave Jakey to consider the error of his ways.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/ddf0b30a-4926-4181-b586-d1b6bca1be2d.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Mercenary's Honour",
+      "trophyDetail": "Arouse the mercenary's sense of honour.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/dd20b85b-a1ac-4211-81ab-f92c1a51c9d4.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Game Over",
+      "trophyDetail": "The Ring of Bacchus made its way back to its original owner.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f5e747f8-84b6-490a-8782-b9319b607af8.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Lost Trinket",
+      "trophyDetail": "You're not the only one playing the Ring of Bacchus game, so watch out for the others!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/06ecdcdb-75b6-41b4-8c4f-df1ee32c7f22.png",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Saviour",
+      "trophyDetail": "Rescue all the survivors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/6e25c6f4-059c-4f34-8243-1c5bef06adf9.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Death by Splinter",
+      "trophyDetail": "Cause Henry a mortal wound!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/a319e866-9071-40b7-8fe4-8c92caa39ecf.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Woman's Lot",
+      "trophyDetail": "Complete Theresa's story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/4de1b696-eb23-48da-8f57-140958cf1c90.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bad Girl",
+      "trophyDetail": "Shirk your morning chores!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/3000b27f-0c58-4629-8d91-8f08075018ac.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like a Ghost",
+      "trophyDetail": "Recover Pavel's treasure without being discovered.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f975c81b-f0e2-43e8-b6f8-b9fc19224bb2.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You had one job!",
+      "trophyDetail": "Drink yourself into oblivion with Ambrose!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/a40da45b-f5c9-456e-8eeb-df4a89e82670.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voyeur",
+      "trophyDetail": "See what Henslin has in his braies without being observed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f32fe3a4-5d05-454e-8333-9d141e3417b0.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full House Sinner",
+      "trophyDetail": "Have on your conscience every sin Johanka can think of.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/79239f2a-3bb0-4b40-ab3d-c6d1c7280292.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infernal Justice",
+      "trophyDetail": "The punishment fits the crime.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/888e6a35-f5c0-4092-868f-42758006658f.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Angel of Mercy",
+      "trophyDetail": "Help save Johanka from the most grievous charge of heresy!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f638add2-1c5f-41d1-891b-4546e8813e45.png",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cleric's Pet",
+      "trophyDetail": "Report to the Inquisitor all the wrongdoing going on in the province.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51055_00/f20e4cb9-d4dd-4c7f-b257-f3b3270f2df0.png",
+      "trophyGroupId": "006"
+    }
+  ]
+}
