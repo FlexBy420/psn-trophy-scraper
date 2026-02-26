@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40950_00",
   "title": "Core Keeper",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 52,
+  "totalItemCount": 56,
   "trophies": [
     {
       "trophyId": 0,
@@ -460,7 +460,7 @@
       "trophyId": 50,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Explosive Mastery",
+      "trophyName": "Explosion Mastery",
       "trophyDetail": "Gained 100 skill points in explosives",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/2A4BC87C9743842462BD50346344579BF74F8DA4.PNG",
       "trophyGroupId": "002"
@@ -473,6 +473,42 @@
       "trophyDetail": "Defeated Nimruza, Queen of the Burrowed Sands",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/D19EB3F142AF3A249BBFD1668A473237DF690BDC.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Calculated Prophecy",
+      "trophyDetail": "Defeated S.A.H.A.B.A.R.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/581E3617D5400E3919AE056E2D20702C221E5B39.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Whisper of the Void",
+      "trophyDetail": "Defeated Oblidra the Void Lord",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/064EE335DA9BA26067733F85CB10BA493E245B56.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Titan Breath",
+      "trophyDetail": "Obtained Titan Breath",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/DF96907B21DA003891D441DBF6B4B809CDA9AA3A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Credence of Ruin",
+      "trophyDetail": "Obtained Credence of Ruin",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40950_00_001B3A3E4AC5DEE5701FA4CA53EDDE18C94BAC0D63/5AFDB820D4946E0C14ADCF021C9FCEF81C8D6C82.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

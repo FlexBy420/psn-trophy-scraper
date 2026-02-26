@@ -1,0 +1,436 @@
+{
+  "npCommunicationId": "NPWR54630_00",
+  "title": "Tokyo Xtreme Racer",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 46,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Grand Slam",
+      "trophyDetail": "Acquired All trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/f3b900aa-7fdc-48ca-9f59-14bffbdabbc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rookie of the Shuto Expressway",
+      "trophyDetail": "Defeat all of【ROLLING MASTER】, 【CRIMSON BOY】, and 【ETERNAL POLARIS】.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Promising Street Racer",
+      "trophyDetail": "Defeat all of【BLOODHOUND】, 【GOLDEN HANNYA】, 【TRANCE DRIVE】, and 【PLAYFUL GENTLEMAN】.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Emerging Street Racer",
+      "trophyDetail": "Defeat【CINDERELLA PAST MIDNIGHT】 .",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Surging Street Racer",
+      "trophyDetail": "Defeat all of【STEEL HEART】, 【IRON OLD MAN】, and 【RUMORED WRITER】.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Intersecting Motives",
+      "trophyDetail": "Defeat all of【CRIMSON DEVIL】, 【NAMAHAGE】,and 【STUBBORN STRAIGHT】.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Renowned Street Racer",
+      "trophyDetail": "Defeat 【MACHINE LIGHT KING】 and reach the ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/1a11862a-669d-4ae4-880b-7e1efdd0dc33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Master Street Racer",
+      "trophyDetail": "Defeat 【???】 and reach the true ending.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Back to That Place, Once More",
+      "trophyDetail": "Reached the true ending \nin NEW GAME+.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power of Continuation",
+      "trophyDetail": "365 Days Passed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "365"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assault Kid of the \nShuto Expressway",
+      "trophyDetail": "Defeated 10 Wanderers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Assault King of the \nShuto Expressway",
+      "trophyDetail": "Defeated All Wanderers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shoot-down Kid of the \nShuto Expressway",
+      "trophyDetail": "Reached 500 Rival Battle Wins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Freewheeling Kid of the \nShuto Expressway",
+      "trophyDetail": "Reached 100 Other \nCar Battle Wins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rake in Money",
+      "trophyDetail": "Acquired  300,000,000 CP.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Billionaire",
+      "trophyDetail": "CP reaches 100,000,000.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Car Enthusiast",
+      "trophyDetail": "Expanded Garage to Hold 10 Cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Finish",
+      "trophyDetail": "Fully tune one car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite Squad",
+      "trophyDetail": "You own 10 fully tuned cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "LPS",
+      "trophyDetail": "Drive more than 1,000 km in the same car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The One with a Thousand Names",
+      "trophyDetail": "Acquire 100 different words from B.A.D.NAMEs.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bookworm",
+      "trophyDetail": "Reveal the profiles of all RIVALS to make them all viewable on the \"REFERENCE\" screen.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "PA Talk Lover",
+      "trophyDetail": "Heard 100 Types of \nInfo in PA Conversations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "PA Encyclopedia",
+      "trophyDetail": "Heard 300 Types of \nInfo in PA Conversations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Forbidden Tuning",
+      "trophyDetail": "Tune by the Legendary Tuner to MAX LV or higher. (POWERUNIT Lv.9/EXAHUST SYSTEM Lv.6/INTAKE SYSTEM Lv.6)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/851c466a-3122-432f-8b9c-8cadaaee435d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forbidden Engine Swap",
+      "trophyDetail": "Performed Engine Swap.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "World of 450 km/h",
+      "trophyDetail": "Reached Top Speed of 450 km/h.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winning Streak",
+      "trophyDetail": "Achieved 10 Consecutive Wins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twists and Turns",
+      "trophyDetail": "Win a battle after hitting the wall countless times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Instant Kill",
+      "trophyDetail": "Win a Battle in Less \nThan 30 Seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Time",
+      "trophyDetail": "Win a Battle That Lasts \nMore Than 5 Minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slick Tires",
+      "trophyDetail": "Win a battle with all tires' durability at 0 (zero).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "300 km/h Attempt!",
+      "trophyDetail": "Hitting 300km/h on the Akasaka Straight.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Art of the Comeback",
+      "trophyDetail": "Win a battle by successfully landing \"REVERSAL ATTACK\" 5 times in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Strike First",
+      "trophyDetail": "Win a battle by successfully landing \"FIRST ATTACK\" 10 times in a row.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharp Pedalwork",
+      "trophyDetail": "Achieve 3 consecutive successes of the \"JUST ACCELE\".",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beautiful Cornerwork",
+      "trophyDetail": "Successfully perform the \"CLEAN CORNERING\" through 5 consecutive corners.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thrill Seeker",
+      "trophyDetail": "Successfully get the \"NEAR MISS\" 10 times in a row without hitting other cars, walls, etc.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Undefeated Legend",
+      "trophyDetail": "Reach the true ending without ever losing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/1a11862a-669d-4ae4-880b-7e1efdd0dc33.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ginza's New Attraction",
+      "trophyDetail": "Get stuck in the bridge pier in Ginza.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Straight to the Bathroom",
+      "trophyDetail": "Enters PA at 300km/h.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Back It Up!",
+      "trophyDetail": "Drive backwards for 1km at a speed of over 100km/h.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Push It to the Limit",
+      "trophyDetail": "Continue pushing the other car from behind for 1km.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rain Check",
+      "trophyDetail": "End in a draw in battle 3 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hey! Taxi!",
+      "trophyDetail": "First victory over a  taxi  (other car.）",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Revenge of the Kei",
+      "trophyDetail": "10 wins in Kei Car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54630_00/e868d574-6125-460a-a020-1fa6478f9c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    }
+  ]
+}
