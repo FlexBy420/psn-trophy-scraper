@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR53376_00",
+  "title": "Resident Evil Requiem",
+  "platform": "PS5",
+  "trophySetVersion": "01.92",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Requiem",
+      "trophyDetail": "Obtain all Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/8aebe16b-6217-4620-83e0-1506a0be6ea7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Déjà vu",
+      "trophyDetail": "Encounter an outbreak in Wrenwood.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/607fb304-e556-458d-b414-960afe91178b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Descent Into Darkness",
+      "trophyDetail": "Reach the basement of the care center.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/767ed7ad-0682-41c3-989c-7f53ea358146.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's Been a Long Night",
+      "trophyDetail": "Reach the courtyard of the care center.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/6da60398-f124-48cc-9fdd-4522c11c31a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Harsh Reality",
+      "trophyDetail": "Escape the care center.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/99998570-a211-4ae1-8f8c-2b2303c84963.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Going Down?",
+      "trophyDetail": "Reach the ground using the suspended platform.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/8e67b49a-73b4-4002-97fb-0411a12206f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Hero Returns",
+      "trophyDetail": "Arrive at R.P.D.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/86b128da-2d3c-4a8f-8b30-7a6fff1171fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "I Remember That, Too",
+      "trophyDetail": "Defeat the Super Tyrant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/9514d47c-122e-45e4-b336-f28df07385f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Umbrella's Legacy",
+      "trophyDetail": "Find ARK.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/3958aae6-62e1-406f-bff6-bf3e01f8a61d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Final Mission",
+      "trophyDetail": "Start exploring the lower levels of ARK.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/26749958-f805-4f23-b6cc-0c19818cfba6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hope and Requiem",
+      "trophyDetail": "Complete the main story by releasing Elpis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/8770c35f-986b-46e0-a9fd-dd2c00761180.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Agent",
+      "trophyDetail": "Complete the main story on at least Casual difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/28f19432-819f-4fb0-a6e8-f27e209746e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rising Agent",
+      "trophyDetail": "Complete the main story on at least Standard (Modern) difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/9e974b0c-7174-4c4a-8efd-b7056ce07c4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Resolute Agent",
+      "trophyDetail": "Complete the main story on at least Standard (Classic) difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/646bcf56-565c-4245-8f5f-ac36d43287cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Remarkable Agent",
+      "trophyDetail": "Complete the main story on Insanity difficulty.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/90d8cb91-1256-4d26-9018-f405340f2dd6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out of Sight, Out of Mind",
+      "trophyDetail": "Store an item in the item box as Grace.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/0949fd87-eb9f-43f9-880a-f75e3536e8c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Ol' Fashioned Way",
+      "trophyDetail": "Use an ink ribbon to save at a typewriter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/c038386c-ce62-4ab3-8cf9-6bd98e779c8e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Like Mother, Like Daughter",
+      "trophyDetail": "Unlock a drawer with a lockpick.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/c3aef527-dcb0-49d5-9345-f4eedf702ebd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fatal Dose",
+      "trophyDetail": "Defeat a zombie using the hemolytic injector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/ad3f55d8-e628-48de-8429-601f351f9711.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Science!",
+      "trophyDetail": "Unlock a crafting recipe using analysis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/eedd065d-fbf3-4b81-b564-c2c8c8ade9a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Power of Blood",
+      "trophyDetail": "Craft an item using the blood collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/f083f3d1-63ba-4cea-97b0-0a2831100007.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Blood! More Blood!",
+      "trophyDetail": "Use 300 microsamples of infected blood.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/0d9551c1-cc8a-46a8-be5d-87511e8d3ebb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bring Out the Big Guns",
+      "trophyDetail": "Stun the Girl with Requiem.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/9e25afb0-1ad5-429d-bd25-b66d38d12f77.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Hunt Begins",
+      "trophyDetail": "Destroy one Mr. Raccoon memoriam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/43120367-77d4-4135-a826-31f1b940b224.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Untouchable",
+      "trophyDetail": "Parry an enemy attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/5a2cf580-221e-4865-ad36-26da7420c984.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Can I Borrow This?",
+      "trophyDetail": "Throw a weapon dropped by an enemy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/322192c0-cca7-45ca-9849-f3bcd7dbe2ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chop Chop",
+      "trophyDetail": "Defeat three zombies with a hatchet finishing attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/758a1170-4204-4856-b931-39322df536c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retail Therapy",
+      "trophyDetail": "Purchase an item from the supply box.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/239f3a4c-8009-4acb-8e85-e98fc4480eb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tailor Made",
+      "trophyDetail": "Upgrade a weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/47f8f204-ce0a-42ce-91a1-03986eedd88e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Road Rage",
+      "trophyDetail": "Stop one of Victor's attacks on the highway.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/d95d4dda-a5ed-44e9-96b0-c8809e214ae1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Craftsman",
+      "trophyDetail": "Craft every possible item with Leon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/b269b847-7af7-4187-bad0-b7796db870e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bang For Your Buck",
+      "trophyDetail": "Defeat at least three enemies with a single Requiem shot.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/20a5bbc1-fbba-4725-9a81-1fde084af4fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Cat Got Your Tongue?",
+      "trophyDetail": "Cut the tongue off a Licker β2 using the hatchet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/9db14743-46fc-4628-b0ad-e210f1dd6b83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Order Up!",
+      "trophyDetail": "Defeat the chef in the care center in the main story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/be8dc47f-eb9f-4205-86dc-3acf634432c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Deadly Duet",
+      "trophyDetail": "Defeat the two singers in the main story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/196dad77-7af5-49fa-98cf-ae6e002e2cdf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Grace and Goliath",
+      "trophyDetail": "Defeat a Chunk as Grace.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/3e6f83f0-5f52-4879-b818-7c6aa237cb61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Internal Dispute",
+      "trophyDetail": "Make a zombie attack another zombie in the hospital wards.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/6dbcbc0e-7645-4321-9a0b-a56c5c8b8eb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasoned Pro",
+      "trophyDetail": "Defeat 300 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/b2d1ef9e-b66f-45b2-89a9-bb6615f06b71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Not Today, Buds!",
+      "trophyDetail": "Defeat all the Plant 43 seedlings.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/dba3b110-5525-4e24-85b0-53fb18e6f8c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No Safe is Safe",
+      "trophyDetail": "Open every safe in the main story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/1dd4f170-1ac5-4997-95f0-e7134bc4638d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Crate Expectations",
+      "trophyDetail": "Open all BSAA containers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/5508a8d6-6193-4c22-ad96-8a4d69eece71.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Case Closed",
+      "trophyDetail": "Read all the files in the main story.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/a2cf37fd-4deb-42ec-b974-268663fdb95a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Little Rascal!",
+      "trophyDetail": "Destroy every Mr. Raccoon memoriam.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/97b0089d-5153-409b-accc-791d44190e7f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Speed Demon",
+      "trophyDetail": "Complete the main story by releasing Elpis within four hours.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/987ec67b-8fa3-4cff-ab54-eefc8dbd79b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Credit Where Credit Is Due",
+      "trophyDetail": "Earn 200,000 credits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/70afdd3e-f075-4edd-8d83-9a5a820bd93d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Bloodlust",
+      "trophyDetail": "Collect 5000 microsamples of infected blood with the blood collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/1bd8ec78-bc0b-473e-ab6a-c00366b13ef3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Model Mania",
+      "trophyDetail": "View all models.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/c6f1d644-6a29-4f36-b4e8-3fbdd4d0741a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Curator",
+      "trophyDetail": "View all concept art.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/5bbe0502-186d-43cd-88c0-6637de77f5d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Never Touch the Stuff",
+      "trophyDetail": "Complete the main story without using herbs or med injectors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/844b22db-95e6-429b-a7ab-8fdb9d184d8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Minimalist",
+      "trophyDetail": "Complete the main story without Grace using the blood collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53376_00/e5b50a6d-c5ed-4d96-9d18-20f901a20166.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "npCommunicationId": "NPWR54267_00",
+  "title": "Legacy of Kain: Defiance Remastered",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 60,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Deified",
+      "trophyDetail": "Obtain all other Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/55dcb855-ea4a-4ef9-9e74-1978278249c1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To Challenge the Fates",
+      "trophyDetail": "Complete Chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/e4bcccdc-b4fe-4448-9a67-7494071ab51c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To Face One's Destiny",
+      "trophyDetail": "Complete Chapter 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/c205cfdd-07ae-4ea7-9a03-ef92eed783c6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Messianic Delusions",
+      "trophyDetail": "Complete Chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/a0ff9de9-2afc-4826-a847-2b93e19bc3dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "In Unending Twilight",
+      "trophyDetail": "Complete Chapter 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/7db1d897-42d3-4aab-a42c-cd6216d915cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Testament in Stone",
+      "trophyDetail": "Complete Chapter 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/541eb196-80c4-45a5-919a-b4d8a2e339ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Atonement and Deliverance",
+      "trophyDetail": "Complete Chapter 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/95aa5c5d-72f6-486f-8c90-9f1a2469e546.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Wreckage of History",
+      "trophyDetail": "Complete Chapter 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/0cb1e89c-9d75-4f23-b169-8883ec377145.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Treasury of Studies",
+      "trophyDetail": "Complete Chapter 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/0da83400-ee08-4124-853b-337a28d1fdaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Lies of Prophets",
+      "trophyDetail": "Complete Chapter 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/ddc56ffa-2fe5-447a-b422-745d20afeb92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Influence of Chaos",
+      "trophyDetail": "Complete Chapter 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/1326c7f6-e9d6-4940-a18f-507f16c14074.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Redeemer and Destroyer",
+      "trophyDetail": "Complete Chapter 11",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/bc45fbf1-837c-4241-a61c-6e133a7411fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pawn and Messiah",
+      "trophyDetail": "Complete Chapter 12",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/23c00578-1b25-4409-9cb2-7bb346951a5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "One More Apostate",
+      "trophyDetail": "Complete Chapter 13",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/ca9fe8bd-7058-445c-9bc2-3e2e8c647fbc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perpetual Feast",
+      "trophyDetail": "As Kain, feed 125 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/fabaab12-5984-4d7f-aac7-15059cfcd277.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Last Supper",
+      "trophyDetail": "As Raziel, devour 250 souls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/cf93b4f8-d2a3-4253-8273-3f4e73e3aed9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blood Shower",
+      "trophyDetail": "As Kain, feed from three enemies at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/7748cdb2-4357-4501-bc5d-de754c6244d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Free Lunch",
+      "trophyDetail": "Feed from 75 blood and soul basins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/791d5539-e2a7-4950-a76a-67abe992ecfb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ending World",
+      "trophyDetail": "Slay 500 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/7070f30a-868c-4038-ad8c-798f8d540a8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gluttony Kills More",
+      "trophyDetail": "Perform 100 close-quarters feedings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/b4b32f20-2947-490b-82f7-6af7c2e597d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brothers of the Blade",
+      "trophyDetail": "Feed the Reaver 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/f32e6622-9e08-4f19-aaba-5b9eab0098dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sword and Sorcery",
+      "trophyDetail": "Cast all of Kain and Raziel's Reaver Spells",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/313b9c86-f48b-43e9-abf6-c5fff6faee93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kain the Impaler",
+      "trophyDetail": "Impale 50 enemies on wall spikes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/379d64cc-a8a3-4ddc-bbdc-b146b6edb79c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Sky Away",
+      "trophyDetail": "Cast 50 enemies to their deaths",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/e8587055-5a37-4f69-84be-e7f9d3c8f6b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who By Fire",
+      "trophyDetail": "Cause 75 immolations",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/f6b24664-2d05-4ac3-830a-fb2c366e3584.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who By Water",
+      "trophyDetail": "Drown 25 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/d6335d2f-8cdf-4b29-aa8e-95a773147ecf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Devil May Care",
+      "trophyDetail": "Cause 25 enemies to slay each other",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/cdb23a4e-8b93-4dbd-a848-8ca0252ff274.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Razzle-Dazzle",
+      "trophyDetail": "Blind 50 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/63b146f4-efd1-49f9-99c5-b8599b5abb74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Best Served Cold",
+      "trophyDetail": "Freeze 50 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/dcffa9fa-f18e-42ad-a61a-ba5647a2b5f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "When I'm Not Supposed To",
+      "trophyDetail": "As Raziel, shift realms 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/fd081043-fa31-402b-83d4-1ed9257188e1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fine Dining",
+      "trophyDetail": "Execute all of Kain and Raziel's Special Attacks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/59499801-e85f-4082-9c9d-084b8be9af6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slice of Life",
+      "trophyDetail": "Execute Kain and Raziel's Special Attacks 50 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/00a4d012-304a-4839-b1ea-e13ccddc6e65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Get Your Blood Up",
+      "trophyDetail": "Collect all of Kain and Raziel's Health Talismans",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/fee7774f-dac1-4928-9b35-98ed85a03ba8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Pure Energy",
+      "trophyDetail": "Collect all of Kain and Raziel's Telekinetic Runes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/90fd1c62-e31f-40b2-8dac-53abdf7f55d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Major Arcana",
+      "trophyDetail": "Collect all of Kain and Raziel's Arcane Tomes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/5eb40f41-b389-4bc7-a695-acb4b5097f15.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keep Your Head",
+      "trophyDetail": "Cause the guillotine in the Stronghold's Dungeon to fall",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/30a784dc-1cb1-4654-bbd9-befcfbe0def0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Goes Around...",
+      "trophyDetail": "Cast six Sluagh in the Underworld into a chasm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/0c5b60ce-830a-4c66-a990-d742cc0116d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eat and Run",
+      "trophyDetail": "Devour three souls in the Underworld's Ascending Chamber",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/7453d420-ea11-4a69-96f0-bdf8a86d21f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the World",
+      "trophyDetail": "Stand on top of Malek's statue in the Stronghold's Courtyard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/85b27777-559f-4b37-9dc0-0bac14c2cca9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Closing In",
+      "trophyDetail": "Pull Sarafan Archers from 10 Loophole Towers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/7a0e46c9-3cb1-42c7-82f7-2d522abb98e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Be An Edifice",
+      "trophyDetail": "Destroy both Sarafan statues at the Stronghold's Bridge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/6f6f638c-fd02-48ba-ba67-0a3f971a7382.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Ungrateful Dead",
+      "trophyDetail": "Destroy 40 tombstones in the Main Cemetery",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/219b3fa2-0c8b-475f-bfb8-420e8325898e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick Study",
+      "trophyDetail": "Complete the combat tutorial within 90 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/6953e1f1-ec02-45c3-b843-227ff47ef3b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collateral Damage",
+      "trophyDetail": "Get knocked into a breakable object by an enemy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/65b2261b-1c01-4955-97c7-70d3efc2d19b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Razing the Stakes",
+      "trophyDetail": "Eliminate as many Vampire Hunters as possible at the Pillars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/0b8e6a55-8790-4dba-a572-46f725a5b858.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cast Not The First Stone",
+      "trophyDetail": "Cause one Vampire Golem to destroy another",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/c474193d-226b-4ce0-bffb-cbcedaae1005.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interior Designer",
+      "trophyDetail": "Destroy as many breakables as possible in Vorador's Mansion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/ff1ee4bc-cb36-4050-9ae8-c7643fcfa303.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "United We Fall",
+      "trophyDetail": "Defeat two Vampire Guardians within 10 seconds of each other",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/653ede0f-0286-442e-8f92-8e71c0a7f97a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Extinction Event",
+      "trophyDetail": "Wipe out as many Feral Humans as possible in the Vampire Citadel",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/97fecce8-d1d7-41fb-9ea9-9c35a02d4275.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carpe Jugglem",
+      "trophyDetail": "Lift attack five enemies into the air simultaneously",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/407bba42-1142-4a29-b753-c1a74d1e7feb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sparkling Vampires",
+      "trophyDetail": "Disorient Turel with the Light Reaver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/3ca90103-b463-41bb-884d-ff79962ed09b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Noli Messorem Timere",
+      "trophyDetail": "Confront Mortanius in the Spectral Realm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/777081e9-cd1a-45be-adfc-0cf804cd3831.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Guts, No Glory",
+      "trophyDetail": "Evade Kain with the Umbral Cloak Spell",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/1112aba9-5122-4e39-9994-74eade40dc1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thicker Than Water",
+      "trophyDetail": "Defeat one of the Transformed underwater",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/43cdffc3-291e-4f0d-a40f-710422e7ff86.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Giant Enemy Archon",
+      "trophyDetail": "Defeat as many Archons as possible in Vorador's Ruined Mansion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/ffc28e9b-bb65-4aff-983e-4910d5e5b0c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Roses",
+      "trophyDetail": "Solve the Spirit Forge within three minutes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/8c4b61ac-6d03-4564-9246-a975306e87cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unconquerable Will",
+      "trophyDetail": "Defeat Possessed Janos without using the Spirit Reaver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/5c0c25cc-78eb-4347-a630-96a4d233eba8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Ridge",
+      "trophyDetail": "As Kain, float in the air for at least 13 seconds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/4119ebc4-3def-4b1c-90b5-6b58e5143b8a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Mind's Eye",
+      "trophyDetail": "Defeat the Elder God with only telekinesis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/41222e92-f901-498d-a57a-904cd0a76eb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Tempus Edax Rerum",
+      "trophyDetail": "Complete the game within six hours",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54267_00/04c1f94d-f407-4dd0-8f43-f66775dadaf8.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR50480_00",
   "title": "Space KaBAAM: Neon",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 12,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 14,
   "trophies": [
     {
       "trophyId": 0,
@@ -113,6 +113,24 @@
       "trophyDetail": "Purchase all upgrades",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50480_00_002FF75E82AD60C036430A091EFE4D841FEDD62EA7/408DE26F637CBD5E6153180D88970C8880FC2FBE.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "HC - 150k",
+      "trophyDetail": "Earn 150,000 points in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50480_00_002FF75E82AD60C036430A091EFE4D841FEDD62EA7/C174B641CFF9E9C531F2AE4683D6BD43A20C58C2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "HC - 350k",
+      "trophyDetail": "Earn 350,000 points in Hardcore mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50480_00_002FF75E82AD60C036430A091EFE4D841FEDD62EA7/15861284281358B6B3365FBBDB0AE9FBDC63B93D.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

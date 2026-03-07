@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR50211_00",
+  "title": "PC Building Simulator 2",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 55,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Tim's Platinum Repairs",
+      "trophyDetail": "Unlock every other trophy in PC Building Simulator 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/da7bf603-0ce3-4b62-9887-292f1642ee85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "PC OG",
+      "trophyDetail": "Complete 250 jobs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/091c0764-86e3-43eb-a240-cbb9ad4ca1b3.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tech Vet",
+      "trophyDetail": "Complete 100 jobs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/0b7366a5-5e32-44c0-ba01-65857bc2adae.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Workaholic",
+      "trophyDetail": "Complete 50 jobs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/0c58c33d-e971-4667-8f9b-f1519ffebd00.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Working Hard",
+      "trophyDetail": "Complete 30 jobs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/448d90c8-4056-4178-9153-146f12083506.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Job",
+      "trophyDetail": "Complete 10 jobs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/761d5f4e-a45c-4eb7-9928-1977f6841596.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Broken To Smokin'",
+      "trophyDetail": "Complete a repair job and add some customisation to it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/ad2b1d27-9974-46d7-be07-1b1180477ce8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grand Designs",
+      "trophyDetail": "Complete your first workshop customisation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/2fa56254-30a3-4468-86db-6cf538f50d70.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making it Mine",
+      "trophyDetail": "In Career Mode, customize your office PC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/93bec24c-2927-4e84-b4b5-202074116c1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Legendary Technician",
+      "trophyDetail": "Reach Level 30",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/0f737eef-5451-4278-8edc-94295ba22fe7.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Elite Technician",
+      "trophyDetail": "Reach Level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/b41d2461-0f7f-48f6-9a49-b60b7851c43a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Repair Master",
+      "trophyDetail": "Reach Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/e1f5ab77-eeba-427f-9311-1975301e89a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinker",
+      "trophyDetail": "Reach Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/c03d51e4-c011-460e-a4aa-fdc83c2cff28.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Thanks Jeff",
+      "trophyDetail": "Have 20 items delivered on the same day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/88695729-1978-461f-abeb-c34b4e789e27.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pimp My Rig",
+      "trophyDetail": "Customize your first PC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/ab2a589a-87cc-4126-b581-2e08fba2d66b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shine On",
+      "trophyDetail": "Use the Rainbow effect",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/197435fa-578c-4dea-b98d-c0b4f9200c4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Procrastinator",
+      "trophyDetail": "Eat 50 fruits in Wormy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/8185bd8f-5eca-49bf-bda0-b537af15c955.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Big Shot",
+      "trophyDetail": "$1,000,000 in the bank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/7a8b322d-0c88-4c41-a1e7-30ebd20d5c75.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000000"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Going Places",
+      "trophyDetail": "$50,000 in the bank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/bce6891a-6da7-4536-907e-fb6c0cc214a0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50000"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Ladder",
+      "trophyDetail": "$25,000 in the bank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/e5e96681-8688-449a-8da9-2aa530611949.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25000"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bootstrapping",
+      "trophyDetail": "$1,000 in the bank",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/c5a68a44-c8cd-4d0b-8ec3-d5c353f4c371.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Paste Not, Want Not",
+      "trophyDetail": "Use way too much thermal paste",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/0a833964-1022-4dd7-9148-3014496ed909.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Showpiece",
+      "trophyDetail": "Build a $15k PC and have it boot",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/98938a85-66e4-4826-ac1b-9b3ea41e39e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Throttle",
+      "trophyDetail": "Build a Throttled PC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/7f1457e9-2e04-42d1-b8c5-bf348ea65bc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MOAR RGB",
+      "trophyDetail": "Boot a PC with 10 RGB components",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/99f04959-3dcb-4db1-baf2-13d0458495d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlimited Power",
+      "trophyDetail": "Build a PC with 4 GPUs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/f189e206-4f8a-43cc-a2f7-75983bcb0b5f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "This One Goes To 11",
+      "trophyDetail": "Cause BSOD by overclocking a GPU",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/d129234b-793e-47f2-aab6-4a6594994afc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dream Theme",
+      "trophyDetail": "Apply a theme to a PC for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/77d6d8b5-7ec1-42e7-a64c-edd58c9cf2b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Variations on a Theme",
+      "trophyDetail": "Add 10 themes to PC cases",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/73573afc-3700-43c6-9a26-43c9fa47214c.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cinematic",
+      "trophyDetail": "Run Cinebench 5 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/871e6327-a0fe-4495-b974-578cf1add7ac.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Matching Set",
+      "trophyDetail": "Deck out a workshop with a complete set of a theme",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/394d6bac-ba59-4355-b2cb-d62927e98104.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mix and Match",
+      "trophyDetail": "Deck out a workshop with parts from 3 themes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/17cefc5e-1a43-4620-9768-c5dfa368289e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Like Old Times",
+      "trophyDetail": "Decorate your workshop with all the PCBS 1 themed items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/1872f7cf-5862-4c56-abf7-09f3653114e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stabiliser",
+      "trophyDetail": "Run OCCT 10 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/65c4177e-163a-4964-9b5a-39656f6c108f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bench Press",
+      "trophyDetail": "Get a Timespy score of 30,000+",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/29f18d8d-11da-492e-bb37-f19d166d766a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "30000"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bench Warmer",
+      "trophyDetail": "Get a Timespy score of 20,000+",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/ed260b39-77a3-4159-ba19-d3f784933b07.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20000"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Bench",
+      "trophyDetail": "Get a Timespy score of 10,000+",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/43549e93-f210-4048-89a8-b3b0344fe5be.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Forgetful Shopper",
+      "trophyDetail": "End the day with something still in the checkout",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/1a355363-fe60-4434-93f7-ef35bb5f3386.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hot Stuff",
+      "trophyDetail": "Use the thermal imaging tool",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/9bb0791f-6e1b-4da9-8778-878d26d906cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salesperson of the Month",
+      "trophyDetail": "Sell 50 PCs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/707b9cdd-ce89-4aea-b61f-3d1b28bd3b64.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gift of the Gab",
+      "trophyDetail": "Sell 20 PCs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/67f38fd2-4a0b-486f-a564-84383803031a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Foot in the Door",
+      "trophyDetail": "Sell 10 PCs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/233c80a9-ad03-430f-8cb5-f811703765b4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sales Pitch",
+      "trophyDetail": "Sell a PC in the shop for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/2fcf28f2-781c-45fc-b949-f8ed7806548b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The More the Merrier",
+      "trophyDetail": "Sell a Multi GPU PC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/33de427b-a9a8-4c16-9cb8-110bf90db526.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room for Expansion",
+      "trophyDetail": "Unlock the physical shop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/f95b61e9-128e-49b1-b41f-4d0c888c1bbd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Salvage Squad",
+      "trophyDetail": "Buy 20 broken PCs from Spares'N'Repairs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/fe4126b7-e0b0-4786-ac41-e276c5d71a8a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "20"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Recycler",
+      "trophyDetail": "Buy 10 broken PCs from Spares'N'Repairs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/4449983f-86a8-4e22-b54a-ad92afb81e29.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cowboy",
+      "trophyDetail": "Score one star on a job",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/7598fe57-9961-4b66-8133-986659b1b3ac.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Customer is King",
+      "trophyDetail": "Score 5 stars on a job",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/c7afd8ff-ec28-413c-951e-c786cc2904fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Local Hero",
+      "trophyDetail": "Score 5 stars for 5 jobs in a row",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/44f5510f-98c6-483f-a6f1-1f41214637dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stick With it",
+      "trophyDetail": "Add 50 stickers to PC cases",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/3860f33f-2f61-422f-bd93-b9b0b8b78cf0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slap Happy",
+      "trophyDetail": "Put 10 stickers on the same PC case",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/fcd115c2-a7a1-4998-bcfe-fb51a1052501.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get Stuck in",
+      "trophyDetail": "Apply a sticker for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/09757b47-1f4b-493f-acfe-e69e2505897c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supercool",
+      "trophyDetail": "Watercool a GPU, a Motherboard and a stick of RAM",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/adf38270-d70a-4827-8c8c-74a054987ee1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Out",
+      "trophyDetail": "Watercool a GPU",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50211_00/a04ed98d-b099-4eaa-b265-0dd543635b46.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

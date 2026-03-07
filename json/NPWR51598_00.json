@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR51598_00",
   "title": "Reflex Master: Sight",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 20,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 23,
   "trophies": [
     {
       "trophyId": 0,
@@ -185,6 +185,33 @@
       "trophyDetail": "Click twice too fast within a single game. Chill!",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51598_00_00F4434BC939311C25FD865513C273412E62B559D0/B2A0C7BA5ACE89367FD3D788A9DF0D0C0C6D0645.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Echo Apprentice",
+      "trophyDetail": "Get the 5th or 4th rank in Reflex Master: Sound",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51598_00_00F4434BC939311C25FD865513C273412E62B559D0/0F8E9B5C9E4F53D62DD7B08B011E9E4E24B28681.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rhythm Ranger",
+      "trophyDetail": "Get the 3rd or 2nd rank in Reflex Master: Sound",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51598_00_00F4434BC939311C25FD865513C273412E62B559D0/EDDBFB35C7D63ECF39DC1F8BBDD8A40405C0724E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sound Sensei",
+      "trophyDetail": "Get the 1st rank in Reflex Master: Sound. You're the best!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR51598_00_00F4434BC939311C25FD865513C273412E62B559D0/D35DA2E4B51C1BC4237AFD8512792FD179344BDD.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

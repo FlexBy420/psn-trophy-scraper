@@ -1,0 +1,424 @@
+{
+  "npCommunicationId": "NPWR58871_00",
+  "title": "Checkmate Survivors",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 46,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Checkmate Survivors Platunim",
+      "trophyDetail": "You've earned every trophy!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/65a55e79-0415-49fb-8007-a7cc82581188.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pawn Star",
+      "trophyDetail": "Upgrade the Pawn gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/cd32d254-9939-4094-bd2a-606ab7a68aaf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the hill",
+      "trophyDetail": "Upgrade the King gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/bb08f8db-7328-4c7b-bbfa-c6ad141820ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not an X-Man",
+      "trophyDetail": "Upgrade the Bishop gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/e5faee2a-f568-479c-901b-4cfed1948cda.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under Siege",
+      "trophyDetail": "Upgrade the Rook gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/cf99b9c8-0b48-426d-805f-13d6f4850ccc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dragoon",
+      "trophyDetail": "Upgrade the Knight gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/1c63a1c7-61ed-4d05-b69b-190a159860a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're my queen",
+      "trophyDetail": "Upgrade the Queen gun once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/06b0e197-0865-482e-b222-50e7c50bf154.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Talk to my hand",
+      "trophyDetail": "Purchase the Ignore Damage bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5037df98-57d5-4e96-a485-2bebc325c735.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enhance!",
+      "trophyDetail": "Purchase the Increase Damage bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/733515d1-eb33-437a-b6e5-3b705b038bde.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "To infinity and beyond",
+      "trophyDetail": "Purchase the Dash bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/14b1f582-5c4c-4157-bfa8-1c2ac7904d48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rejuvenate!",
+      "trophyDetail": "Purchase the Regeneration bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/220db2eb-885f-43fb-af62-0f3a30dc8f91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lifespan",
+      "trophyDetail": "Purchase the Life Buff bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5659c4f3-ce9e-464f-b330-abcb76cead5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critic++",
+      "trophyDetail": "Purchase the Critic Chance bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/05e32ad1-f455-41f4-af87-6fa5f1328ae1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flash",
+      "trophyDetail": "Purchase the Move Speed bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/95bfc849-7e09-4ec5-9606-e780fbe1b7dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Critic**",
+      "trophyDetail": "Purchase the Critic Damage bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/986feb9d-3edc-49db-a9cb-4736413d9f1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tactical Reload",
+      "trophyDetail": "Purchase the Reload Speed bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5bd00b12-b298-4893-9b5a-d5b59f276bb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There is knockback?",
+      "trophyDetail": "Purchase the Knockback Force bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/321aef37-714b-4d5d-b01f-f8e300330467.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surprise Attack",
+      "trophyDetail": "Purchase the Attack Speed bonus once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ce8f3ecd-b4b8-42a5-80d2-273eaf6de8c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dmg++",
+      "trophyDetail": "Purchase the Damage Increase upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/733515d1-eb33-437a-b6e5-3b705b038bde.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dodgeball",
+      "trophyDetail": "Purchase the Dodge upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5037df98-57d5-4e96-a485-2bebc325c735.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boost shot",
+      "trophyDetail": "Purchase the Life Boost upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/220db2eb-885f-43fb-af62-0f3a30dc8f91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tactical Reload (again)",
+      "trophyDetail": "Purchase the Reload Speed upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/79220de7-ff85-4531-9608-928ff095159e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shield engaged",
+      "trophyDetail": "Purchase the Shield upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5bd00b12-b298-4893-9b5a-d5b59f276bb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quick!",
+      "trophyDetail": "Purchase the Haste upgrade once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/14b1f582-5c4c-4157-bfa8-1c2ac7904d48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Choose wisely",
+      "trophyDetail": "Have at least one shop item upgraded to maximum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/2f481406-772d-480a-ba37-ff232d333d3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave 2",
+      "trophyDetail": "Reach Wave 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/810c3961-c510-4db1-803c-24419115cb50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wave 4",
+      "trophyDetail": "Reach Wave 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ba403644-cb2c-487e-b4e7-a2ad7ce6e7b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wave 6",
+      "trophyDetail": "Reach Wave 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/689e585a-34cd-4191-bc89-d73b93de3d34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wave 8",
+      "trophyDetail": "Reach Wave 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/03dfb5cc-07ff-41cc-b716-9280d4fa8483.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Wave 10",
+      "trophyDetail": "Reach Wave 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ee800674-1007-48eb-b282-95850dc0fdad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "128",
+      "trophyDetail": "Have collected 128 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/4c2439df-bf8b-4292-a336-a2d7631ed0d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "256",
+      "trophyDetail": "Have collected 256 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/9aba169a-43d5-445a-90d6-3ef1abb65589.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "512",
+      "trophyDetail": "Have collected 512 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/b1387dde-9444-46b8-922e-0cea20d4f0e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "1024",
+      "trophyDetail": "Have collected 1024 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/3c403d5a-f613-48de-97c5-07f3d6bdb1ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "2048",
+      "trophyDetail": "Have collected 2048 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/a0b97c15-a780-43e4-a230-4df904d8cf12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "4096",
+      "trophyDetail": "Have collected 4096 coins in total (you can spend them, it's a lifetime stat)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/5d322bfa-d1dc-4cce-8d0b-d373d84b613a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heart",
+      "trophyDetail": "Collect a heart (the good one)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/6397828e-eb69-4a20-b13a-91b2d2e001b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Pawn",
+      "trophyDetail": "Defeat at least 256 white pawns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/de518293-ad5e-4f2a-8a50-c344e4b3f451.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Pawn",
+      "trophyDetail": "Defeat at least 128 black pawns",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/f6451e89-91ac-4ede-b16d-25323a235e5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Knight",
+      "trophyDetail": "Defeat at least 64 white knights",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/dc82769a-4df8-4704-ad70-3c4725d03967.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Knight",
+      "trophyDetail": "Defeat at least 32 black knights",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/56bd2b41-bb38-40da-b656-a14dbfb9cde6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Rook",
+      "trophyDetail": "Defeat at least 16 white rooks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ae0f718d-c78a-4b51-9fc8-71f5dd758631.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Rook",
+      "trophyDetail": "Defeat at least 8 black rooks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/3248d975-d2da-43c8-ae84-12e486409850.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Bishop",
+      "trophyDetail": "Defeat at least 4 white bishops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ebe430ee-f64a-45c0-946e-9835d8b1eee6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Black Bishop",
+      "trophyDetail": "Defeat at least 2 black bishops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/ceee0f1c-8ea5-424e-9925-92f4e285337f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Queen",
+      "trophyDetail": "Defeat a queen",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58871_00/d95dbed8-2948-4ee2-8ebd-7658d83f99b3.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}
