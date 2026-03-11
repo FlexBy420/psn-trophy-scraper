@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR38155_00",
   "title": "Postal: Brain Damaged",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 27,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 35,
   "trophies": [
     {
       "trophyId": 0,
@@ -248,6 +248,78 @@
       "trophyDetail": "Reflect 10 projectiles.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/FA8972F423F3FCD2824B12D80AD204AB924B40C0.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "PTSD",
+      "trophyDetail": "Finish the These Sunny Daze DLC.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/EE05428C4B389F6B509E51A5C52D9D47D75A7071.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sunburn Commando",
+      "trophyDetail": "Obtain all These Sunny Daze DLC weapons.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/24F7A6BCBDECDDA2E4B0A8EE4A0F53509FE67095.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What a Beach to find",
+      "trophyDetail": "Find all secrets on the Sun of the Beach map.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/D9885A79519231BD1EA59BC7A2EA45F6465B1CBA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Love for Sail",
+      "trophyDetail": "Find all secrets on the Ship Happens map.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/37B3524F5DAAE7A223F7912295515D3C82E9287E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Erected",
+      "trophyDetail": "Find all secrets on the E*ection Day.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/6239A6EA4A626F80448D66170BBF136F621AAA0C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "B**ch Lore",
+      "trophyDetail": "Find all codex entries in the These Sunny Daze DLC.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/E1BB1BE100C72A7457176992799F7519F1E1129C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "JFK",
+      "trophyDetail": "Kill Ronald Dixon with a sniper rifle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/E254838D5383BFE90E1452DEFFF09BD371AA10B6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calm down baby",
+      "trophyDetail": "Soak angry Moto Mom.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38155_00_002B1A118BC42E107096969F8AF63C088EE6342554/F13B0DDBDEA28CCD801CF5E0BD5EC281A64D9DB8.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

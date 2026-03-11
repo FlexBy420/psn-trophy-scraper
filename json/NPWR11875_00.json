@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR11875_00",
   "title": "Cities: Skylines",
   "platform": "PS4",
-  "trophySetVersion": "01.15",
+  "trophySetVersion": "01.16",
   "hasTrophyGroups": true,
-  "totalItemCount": 120,
+  "totalItemCount": 128,
   "trophies": [
     {
       "trophyId": 0,
@@ -1085,6 +1085,78 @@
       "trophyDetail": "Have the maximum possible number of guests stay at any 5-star hotel. ",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/C7A2120369A9F7EC6C2060869E957F0F6B853D5F.PNG",
       "trophyGroupId": "012"
+    },
+    {
+      "trophyId": 120,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Start Your Engines!",
+      "trophyDetail": "Host and complete a Motor Race event.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/DCE90B6FD9FD06BB7D81B7D8E39A01DE1E4317F3.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 121,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Grand Circuit Pro",
+      "trophyDetail": "Build a 5km Motor Race Event route.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/01AB2D6575A669A9B07CB15B40597CF17C297A9B.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 122,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I Run This City",
+      "trophyDetail": "Build a 3km Running Event route.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/F047B18046373CAB0EDF95755F3993AC5EAD19EE.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 123,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tour de Metro",
+      "trophyDetail": "Build a 4 km Cycling Event route.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/F9CADDD3642007569731068779E62CCF0574C4B6.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 124,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Foot Traffic",
+      "trophyDetail": "Attract 1,000 spectators to an event.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/86DFD4F872F54B800EFF611731BBF8EDB003FC5D.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 125,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "White Night",
+      "trophyDetail": "Hold a night time parade.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/67651F736F4BEBDDACC7D52A67FA645009E8421C.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 126,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "He Did What in This Cup?",
+      "trophyDetail": "Host the highest tier of Motor Racing event.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/E5B4CC0413384790C8B7A9BD035ACB99A125F0FB.PNG",
+      "trophyGroupId": "013"
+    },
+    {
+      "trophyId": 127,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grande Parade",
+      "trophyDetail": "Host the highest tier of Parade event.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/E85542E042319A9A9CC1102E8D99971281091423.PNG",
+      "trophyGroupId": "013"
     }
   ]
 }

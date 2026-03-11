@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR57687_00",
+  "title": "Retina Rush",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "EYE Win!",
+      "trophyDetail": "Obtain all trophies and escape from hell",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/D54C0CA6DC7AB574644CB9D3A82459927379F598.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Glimpse",
+      "trophyDetail": "Reach a score of at least 2 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/BAD44E943CA5852979EFC1E9E6694AADA6A8CB2E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soft Focus",
+      "trophyDetail": "Reach a score of at least 4 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/267C84FC23D95E92884A808971FC279F72B697DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tiny Terror",
+      "trophyDetail": "Reach a score of at least 6 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/1EC0C79B79675C97A4B752736BDF8C71BA1AB05F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blink of an Escape",
+      "trophyDetail": "Reach a score of at least 8 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/3CE790FF13957C60742903A5213A497ECFC9CCC8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eyeball Rookie",
+      "trophyDetail": "Reach a score of at least 10 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/0225B70DC65F0FEC5203A5AE3B769DD7B97AB06C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warm-Up Warden",
+      "trophyDetail": "Reach a score of at least 12 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/16D01213A00BFF7E35F3C936EE0128EFB49FAE34.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pupil in Training",
+      "trophyDetail": "Reach a score of at least 14 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/8414D557A7D93AE8AF59BB6C0F181B7E5399EB35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demon Drifter",
+      "trophyDetail": "Reach a score of at least 16 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/B79C75E868185E4BA4ABC83BC13F4D7F09163764.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shaky Stare",
+      "trophyDetail": "Reach a score of at least 18 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/EC9989366FB461909302C44BF1230415C36D2E86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out of the Socket",
+      "trophyDetail": "Reach a score of at least 20 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/2B2AFEB02A0AB44CED7C42E82A04D4F437EC3184.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tunnel Vision",
+      "trophyDetail": "Reach a score of at least 22 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/00DBF2DEBCB2987CE55C7E9E564DDF174309BCDD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barely Beyond Hell",
+      "trophyDetail": "Reach a score of at least 24 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/1B06E083CE435EBCBDC4E26592790F6346B2DEB2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iris on Fire",
+      "trophyDetail": "Reach a score of at least 26 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/365CAE31FBE0329B52DB2B854E8B5CF54D570FA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fearful Focus",
+      "trophyDetail": "Reach a score of at least 28 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/52810A7DE74CD6116905D7F34421AA823FD189DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look Who’s Fleeing",
+      "trophyDetail": "Reach a score of at least 30 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/086613AD4F75F4A2D79A6C71095FD58F62C7C552.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Glance of Doom",
+      "trophyDetail": "Reach a score of at least 32 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/281077A5C1B2796738FD213079DC5583166185BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watchful Wanderer",
+      "trophyDetail": "Reach a score of at least 34 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/EA297DDB46B5DF1009C6851DD336F08285FBFFEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Panic Pupil",
+      "trophyDetail": "Reach a score of at least 36 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/B3A9BAB087134F1425831F21AAD10A87E63BD136.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hellgate Hover",
+      "trophyDetail": "Reach a score of at least 38 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C42DFB533836689C1AAE39D9FD71C7CB70A5588A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gaze Breaker",
+      "trophyDetail": "Reach a score of at least 40 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/2E24EE2CDEF40E856BF3B0B30C0BDF8E9517305B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retina Runner",
+      "trophyDetail": "Reach a score of at least 42 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/5D4A39DBC0D6AB17024099B087B8E0F513AF5C15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye of the Needle",
+      "trophyDetail": "Reach a score of at least 44 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C98BCB97725A807B7CB1750DE16A972297467909.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sight Unseen",
+      "trophyDetail": "Reach a score of at least 46 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/33E87A8D34035F6DF689A481915D3BACEEF51C98.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blinkless Rush",
+      "trophyDetail": "Reach a score of at least 48 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C1FB39A457D239842F8662ADD8C4DA7D8036C533.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unblinking Escape",
+      "trophyDetail": "Reach a score of at least 50 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/CB3A7F1409443660001586217E16AA47FF48E8DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red-Eyed Rebel",
+      "trophyDetail": "Reach a score of at least 52 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/00D8B8803075AD4B46167DC774E539C7E2C54F24.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gritted Gaze",
+      "trophyDetail": "Reach a score of at least 54 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/435776695D5ED1176F1A8DC0B7462A3B91A340DB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Locked-On Look",
+      "trophyDetail": "Reach a score of at least 56 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/BC22612FBA6EB164298944D874916EE4A4FBED7C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Over-the-Shoulder Stare",
+      "trophyDetail": "Reach a score of at least 58 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/5158A0C5F901704F288AEBD03ADE6045267D4D10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fleeing Focus",
+      "trophyDetail": "Reach a score of at least 60 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/E7F56DE2D3D305E2DA409179C24F239A41EDFFB5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orbital Outlaw",
+      "trophyDetail": "Reach a score of at least 62 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/19B6AB51EC158978945DD17E14B12BEE87A9C36F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Ball, You Fall",
+      "trophyDetail": "Reach a score of at least 64 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C2C17F44AA333082DB15DB03AAE3C8DC671CAB46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demon Optic",
+      "trophyDetail": "Reach a score of at least 66 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/2DE66511BB7A147154033049FD47F57510883BE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Far From the Flame",
+      "trophyDetail": "Reach a score of at least 68 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/069D95DC175AEA16784DEB32A9267C1021138179.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Watcher in Flight",
+      "trophyDetail": "Reach a score of at least 70 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/BEBF3EB583B0488C408D883461A544A4301F313E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sight to Behold",
+      "trophyDetail": "Reach a score of at least 72 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/A331BBC407DEFF5BF4263B1D1116468C8E44A9C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Time to Blink",
+      "trophyDetail": "Reach a score of at least 74 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/6B2BA97E40AC3A0FEBBB370433ED4E9C5492EFD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eyewall Breaker",
+      "trophyDetail": "Reach a score of at least 76 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/65158C544D8F00180B8337B59A0ADF2EF41F7868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Stare That Fled",
+      "trophyDetail": "Reach a score of at least 78 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/378ABEBE080A07AD500C03BBE2FFBA876E1432DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Streaking Pupil",
+      "trophyDetail": "Reach a score of at least 80 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/6A34215CE45B8EB990E7CAD5D61B1DA953F4CAED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guardian of the Gaze",
+      "trophyDetail": "Reach a score of at least 82 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/EFE55C740CD23D125403A002863F06FDD99F0AE1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lurid Lens",
+      "trophyDetail": "Reach a score of at least 84 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/5A4EE0334198F8C2A0876C0C256F632B7BD521EF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burning Afterimage",
+      "trophyDetail": "Reach a score of at least 86 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/065096024445BE0D7DCC2FA2697A9769275EFFE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beyond the Veins",
+      "trophyDetail": "Reach a score of at least 88 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/4079F7EBB108A7E6F93C781A98555482697D7668.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Specular Speed",
+      "trophyDetail": "Reach a score of at least 90 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/45524C9A2C0014CE2E02E3D760228FE4A7695899.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vision in Revolt",
+      "trophyDetail": "Reach a score of at least 92 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/8B9CFEF5B2267CB337AA1FBCFF2AF5916874099B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye Won’t Die",
+      "trophyDetail": "Reach a score of at least 94 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/969E40BAC2CB5396FB4FB85628E6F21AB64390DD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flight of the Retina",
+      "trophyDetail": "Reach a score of at least 96 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/0138CCD6D0BE32F50DB424F6B9FA93137D572695.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blink-Proof Demon",
+      "trophyDetail": "Reach a score of at least 98 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/69C4E1BAA791409C76224F97092204A94C123798.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sight Beyond Hell",
+      "trophyDetail": "Reach a score of at least 100 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C4347512D068B57D342E66FCA7D2B01B3DAB48A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Optic Overdrive",
+      "trophyDetail": "Reach a score of at least 102 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/678E85526004D80165830F5B74329C126927B441.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Retinal Rampage",
+      "trophyDetail": "Reach a score of at least 104 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/F943F40E6525205745BB31F44E93F44D84D64810.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorching Sightlines",
+      "trophyDetail": "Reach a score of at least 106 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/66C75A8B0EC4D80D70DC6EBC95EA05BBF7310336.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye of the Storm",
+      "trophyDetail": "Reach a score of at least 108 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/C63662B75F5E4705E61184F5425EB43BBD1E1B52.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Iris Incarnate",
+      "trophyDetail": "Reach a score of at least 110 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/16510D5E413BC37362FB06B9FEA8EDA4780E5016.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Watching One",
+      "trophyDetail": "Reach a score of at least 112 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/F02034D5959DF554A0E8C45CB732A23E3A77C88F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look of Defiance",
+      "trophyDetail": "Reach a score of at least 114 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/4A289796BCDA45910278E96ABDCC9BB45C10E71D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Runaway Gaze",
+      "trophyDetail": "Reach a score of at least 116 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/0CAE96B5062E9779A0932075C138675E456A68B8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hell’s Loose Eyeball",
+      "trophyDetail": "Reach a score of at least 118 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/3B7D9EA0DAFAA947FC83309B36CDA7BA8670A9D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "King of the Corridor",
+      "trophyDetail": "Reach a score of at least 120 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/AB5270FD1A339C03AC16304AF89DB78440381945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Seeing Escapee",
+      "trophyDetail": "Reach a score of at least 122 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/435E56CB914FF5084699C67639C09D6CD13C0803.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pupil of Vengeance",
+      "trophyDetail": "Reach a score of at least 124 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/D90CE839E9EA8577EE6942D364BBFB497BF5F332.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unbound Vision",
+      "trophyDetail": "Reach a score of at least 126 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/47BA14D17FBD88911D3B483D01B0EACFAFA0B212.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demon’s Last Look",
+      "trophyDetail": "Reach a score of at least 128 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/D16DB4C4B6B05DB28A7977851C04D94BDD564396.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beyond All Watchers",
+      "trophyDetail": "Reach a score of at least 130 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/EDFECC05197098A475A8DD49AC84070768767265.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hell’s Lost Eye",
+      "trophyDetail": "Reach a score of at least 132 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/EEA6BDF78B61FD6204FEBE92A9E3485673ACE608.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sight of Legends",
+      "trophyDetail": "Reach a score of at least 134 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/9F1839B5C11E3B6A82BC14D514DEA0CB8EEB77C2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unforgettable Stare",
+      "trophyDetail": "Reach a score of at least 136 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/8846D3582A689DE9256E91EBBCBA3E179B432437.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Retina Ascendant",
+      "trophyDetail": "Reach a score of at least 138 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/1755D4BABB44F8EB9833191C34E8B23877610887.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Eye That Got Away",
+      "trophyDetail": "Reach a score of at least 140 in a single run.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57687_00_0000195BED6EAC3EDF40F352482BFB1D5900E0CF6E/FE0D0229CFAFD884D2483C7030E147BE8F19DA9F.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
