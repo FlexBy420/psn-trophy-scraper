@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40811_00",
   "title": "Tomb Raider III",
   "platform": "PS4",
-  "trophySetVersion": "01.05",
+  "trophySetVersion": "01.08",
   "hasTrophyGroups": true,
-  "totalItemCount": 82,
+  "totalItemCount": 97,
   "trophies": [
     {
       "trophyId": 0,
@@ -743,6 +743,141 @@
       "trophyDetail": "Defeat Sophia Leigh",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/EF4360D3F1E5BC003AC37F3670CA578DCE4A14D5.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Capable Croft",
+      "trophyDetail": "Complete a level on CR 5.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/076F37E11D2D8BA907D5E2E2F7F1C5078C41FA1B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Adventurer",
+      "trophyDetail": "Complete a level on CR 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/DB40015D14557F2E23766878A5E7764448B4B2DE.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Serious Survivalist",
+      "trophyDetail": "Complete a level on CR 15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/CE8A3AA9819FBD3324E329C8DD0F48274A6A9338.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raider of Tombs",
+      "trophyDetail": "Complete 3 levels on CR 15.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/A975E5F27F9FBFD57CFB73FA869BF16AD22B0C82.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Explorer",
+      "trophyDetail": "Complete a level on CR 20.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/6DAF2B9A453B31244DC6440D55CACE560BA55207.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heroic Heroine",
+      "trophyDetail": "Complete a level on CR 25.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/FCFE98DA9E48283E47770AC8D2920BB84ADFE729.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peak Lara",
+      "trophyDetail": "Complete a level on CR 30 without any Outfit bonuses.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/331C83B95A2B26565E72B3FA1B29E72B010695B9.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Walk in the Park",
+      "trophyDetail": "Complete a level with 500%HP, Unlimited Air and Fully Stocked Modifiers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/D06C1C9141E93D8419D65431C9C4E26BF9F5C9E8.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pistol Prodigy",
+      "trophyDetail": "Complete a CR 10 level with only pistols.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/BE46BB8A4D5560839B15F2D2D4B6AED56D0C4B9A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 91,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Untouchable",
+      "trophyDetail": "Complete the \"Colosseum\" level in Challenge Mode on CR20 without killing anyone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/B8E8FA9890A69D0D56BD72DC3604335241C51360.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 92,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pacifist",
+      "trophyDetail": "Complete a CR 10 level without killing anyone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/6B8F6CFE491A647BC9C0E6DDD6681A8A606DD82F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 93,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top of the Food Chain",
+      "trophyDetail": "Complete a Challenge Mode level on CR10 filled with Atlanteans/ Mobsters/ Mutants/ Cryptids.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/0E2FA32A7C34C497FE02E1E0B80E3467030C718A.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 94,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta go fast!",
+      "trophyDetail": "Complete a CR 5 level in under 3 minutes.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/C08EB8410F29B86955C1600F433C47BF8DFC6B61.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 95,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fish out of Water",
+      "trophyDetail": "Complete a CR 10 level in a Wetsuit without entering water.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/CE2C76D275A87577F70ECDE16CA01C420D77E46B.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 96,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Megalodon't",
+      "trophyDetail": "Defeat all Sharks on \"40 Fathoms\" on CR12 with Max Enemy Health/Damage/Numbers.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40811_00_009A3AA01FB21DDC8B9B7853B4670CC1D7132DD554/1AD9B9BB0B6D866094D5AB1ED8418FCED86D083B.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

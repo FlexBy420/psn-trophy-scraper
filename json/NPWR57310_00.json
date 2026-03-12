@@ -1,0 +1,532 @@
+{
+  "npCommunicationId": "NPWR57310_00",
+  "title": "Collector's Cove",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 58,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Completionist",
+      "trophyDetail": "Unlock all Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/a3badb3e-75d8-4c02-8152-fa74e0dd73b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whatever Floats Your Boat",
+      "trophyDetail": "Customize your companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/87ad1ead-6af8-4d23-8bc6-ba31bfc3b9b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready For More",
+      "trophyDetail": "Grab your uncle's gift.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/1ef39882-6225-4aa7-a856-85bf341bfcef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Fabled Journey",
+      "trophyDetail": "Strengthen your Fabled Bond.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/fd012c23-d282-462a-8fb2-25093a934132.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Petals On The Breeze",
+      "trophyDetail": "Travel to Sakura Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/bfea63f3-03d4-4b35-9842-597fb069fd9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spooky Season",
+      "trophyDetail": "Travel to Haunted Harbors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/0ba5162c-3797-455c-be88-4619f4dc10bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Starry Skies",
+      "trophyDetail": "Travel to Galaxy Glaciers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/e4236c98-3c58-4b41-ab82-ee23fa151f84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Collector's Cove",
+      "trophyDetail": "Travel to the Collector's Cove.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/5fb20f6d-3af4-4a23-bf39-04d0396415d6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Expedition 33",
+      "trophyDetail": "Start 33 expeditions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/0e4e800c-6371-4501-a370-e59a711a42af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Awwwwwww!",
+      "trophyDetail": "Cuddle your favorite Fablefin!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/f4bf2965-82ec-418b-be73-8256f84229b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Unlock a treasure chest on an island.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/67682701-a800-43e9-9888-32fedfd6ceeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tropical Fishing Completionist",
+      "trophyDetail": "Discover all fish in Tropical Trove.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/ea800d7c-872e-449b-8f65-c61ece44ccb5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sakura Fishing Completionist",
+      "trophyDetail": "Discover all fish in Sakura Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/46bcb1cd-c3ef-40a7-940e-92d5278008ba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haunted Fishing Completionist",
+      "trophyDetail": "Discover all fish in Haunted Harbors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/8cd2b94a-55a3-42d2-b0fb-e9bd5a0b1ee6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galaxy Fishing Completionist",
+      "trophyDetail": "Discover all fish in Galaxy Glaciers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/9159b501-8557-48e9-9c99-683131c56201.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Globetrotter Fishing Completionist",
+      "trophyDetail": "Discover all fish.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/0b287288-ef8a-4b51-9482-5e7a8b3a1bba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tropical Farming Completionist",
+      "trophyDetail": "Discover all crops in Tropical Trove.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/37b2e268-019c-4015-bbe7-f55d51c552b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sakura Farming Completionist",
+      "trophyDetail": "Discover all crops in Sakura Shores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/b9501f72-6819-4e0c-9479-5bab4bee72fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Haunted Farming Completionist",
+      "trophyDetail": "Discover all crops in Haunted Harbors.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/9701dfb6-1ca4-4fc7-a7b7-3fa374f83368.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galaxy Farming Completionist",
+      "trophyDetail": "Discover all crops in Galaxy Glaciers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/3a1b689d-0dc6-4e7a-85c1-9d9e21e9c2b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Globetrotter Farming Completionist",
+      "trophyDetail": "Discover all crops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/46192c4b-5bd8-45ea-91e9-d2e60a9305b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Interior Designer",
+      "trophyDetail": "Discover 50 decorations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/110aa4bb-2c1f-4eaa-b5b3-36292256872c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fashionista",
+      "trophyDetail": "Discover 25 companion customizations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/593e6e4a-bf1c-477d-9403-452e166f5e04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Novice Collector",
+      "trophyDetail": "Reach Collector Rank 1: Novice Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/53009945-be87-46e3-8e19-d08761a194b3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Apprentice Collector",
+      "trophyDetail": "Reach Collector Rank 2: Apprentice Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/79a0801e-b222-428e-9b13-2c7df1473f7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Collector",
+      "trophyDetail": "Reach Collector Rank 3: Adept Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/0878651d-ca74-4230-a88b-1e2aa02174e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Proficient Collector",
+      "trophyDetail": "Reach Collector Rank 4: Proficient Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/82829dc7-6c8a-482a-8295-347ab5985e03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Accomplished Collector",
+      "trophyDetail": "Reach Collector Rank 5: Accomplished Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/47a13f84-978e-4060-87c8-62c63f54b66f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Collector",
+      "trophyDetail": "Reach Collector Rank 6: Expert Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/6febef8c-c837-4f03-bfa5-92ebb3aaed17.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Virtuoso Collector",
+      "trophyDetail": "Reach Collector Rank 7: Virtuoso Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/d866e2cc-bcc4-4d4e-ba96-f0fb0cfed9db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Esteemed Collector",
+      "trophyDetail": "Reach Collector Rank 8: Esteemed Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/29ae1967-6675-4295-baf9-b11ee171fa0b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exalted Collector",
+      "trophyDetail": "Reach Collector Rank 9: Exalted Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/c7ec3bb9-3458-4f38-810b-8d58f1bb09b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Named-Rank Collector",
+      "trophyDetail": "Reach Collector Rank 10: Named-Rank Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/360290d2-0e57-46c3-8911-533123d1fd99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Legendary Collector",
+      "trophyDetail": "Reach Collector Rank 11: Legendary Collector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/89ce5906-e598-475d-b413-efc34f485892.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Budding Talent",
+      "trophyDetail": "Reach Farming Rank 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/697da813-3110-4cdc-bac2-75436520e14f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Down to Earth",
+      "trophyDetail": "Reach Farming Rank 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/b76082ac-bc43-44c3-9347-83cefce2d5bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Plower User",
+      "trophyDetail": "Reach Farming Rank 15.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/49c6e8cf-5cef-4ec9-81fc-f61060c84083.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outstanding in Your Field",
+      "trophyDetail": "Reach Farming Rank 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/a2403269-8a78-4fe8-bf39-8744a45ab60c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cream of the Crop",
+      "trophyDetail": "Reach Farming Rank 25.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/21ed6b45-8c00-4818-a419-b876ccd09575.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fisherman's Friend",
+      "trophyDetail": "Reach Fishing Rank 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/9b37908e-9f45-4df1-90d3-c8fe22d780a8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Holy Mackerel!",
+      "trophyDetail": "Reach Fishing Rank 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/bbfc3637-85e3-4046-8242-0f160a124ac1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carp Diem",
+      "trophyDetail": "Reach Fishing Rank 15.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/61525aa6-ecc4-4f28-a874-0cd9279e687a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Reel Deal",
+      "trophyDetail": "Reach Fishing Rank 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/53af1cdd-92f3-4b11-826c-807b0cfc9037.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A-fish-ionado",
+      "trophyDetail": "Reach Fishing Rank 25.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/4e761527-1d80-43b7-b4fa-a842f348a484.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whistle While You Work",
+      "trophyDetail": "Unlock the Resource Gathering Blessing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/a504278d-0d71-4605-b79a-de80d4d2c928.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fish are friends, not food",
+      "trophyDetail": "Unlock your Companion's Call Flotsam Helpers Ability.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/8f6fe031-8dd8-4412-b7da-044f6eb97b67.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Look At This Stuff",
+      "trophyDetail": "Unlock the Lucky Flotsam Blessing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/12c9cc01-8c9d-4e74-a186-61688b5cb93b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everything the Water Touches",
+      "trophyDetail": "Unlock your Companion's Water Spray Ability.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/d574c78a-4688-46af-a6b0-16a146e66300.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Can Reel the Distance",
+      "trophyDetail": "Unlock the Fishing Blessing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/608c91c2-1fbe-45e8-9a5c-01bbf54b6943.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You've Got a Friend in Me",
+      "trophyDetail": "Reach Fabled Bond 20.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/c66b7c4d-014d-494d-adb8-8aab216dd0f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rooftop Extravaganza",
+      "trophyDetail": "Acquire the Rooftop Extension upgrade for your boat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/559e2a52-3201-461e-ae69-514ffb3f3ad5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's A Ship Now",
+      "trophyDetail": "Acquire the Great Boat upgrade for your boat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/682536ff-6f9e-439b-b20b-82e965524c47.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Much Better",
+      "trophyDetail": "Upgrade any of your tools or your bag for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/c3d20f57-ef71-4f18-8639-b91e094007fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Chop",
+      "trophyDetail": "Fully upgrade your axe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/1a380a3b-1d67-424b-b5c0-0c450421ac20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Smash",
+      "trophyDetail": "Fully upgrade your pickaxe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/39908d03-d568-4341-8147-bcfee2584b6c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Pull",
+      "trophyDetail": "Fully upgrade your fishing rod.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/cbb519b7-d9aa-4a2f-ac68-4df3d0f58ad1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Galactic Slosh",
+      "trophyDetail": "Fully upgrade your watering can.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/c74c918c-0b0f-49cd-bb19-1464991dfbce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bag of Holding",
+      "trophyDetail": "Fully upgrade your bag.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57310_00/1cbc1ccb-085b-4ec5-b5ee-3475488573bc.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

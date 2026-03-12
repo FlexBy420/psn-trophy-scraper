@@ -1,0 +1,604 @@
+{
+  "npCommunicationId": "NPWR57664_00",
+  "title": "Basketball Classics",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 66,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "G.O.A.T",
+      "trophyDetail": "You're the G.O.A.T!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/2A96CB657C5711FE114314F1C70EE92BCF71B4F9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "1 in the Bag",
+      "trophyDetail": "Complete 1 match",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E5458FD05A181492FF101B82CA0C8BA087CCC287.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 20 Rookie",
+      "trophyDetail": "Score 20 points in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/F9758F05DBD67BFD5C2D5516772271957DB3D775.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 20 Pro",
+      "trophyDetail": "Score 20 points in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/AC31BB0B10B5D7ABB6D4F02713CEF958A57ABA18.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Assists",
+      "trophyDetail": "Get 5 assists in a game using a single player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/D8B09E1210E3E5548341D47D21352414A645322B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Rebounds Rookie",
+      "trophyDetail": "Grab 5 rebounds in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/ABB2425A33C730363F298B43F6A13BC9F0402817.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Rebounds Pro",
+      "trophyDetail": "Grab 5 rebounds in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/BE4642893FB8E64AB181111C43BEE3B4C9233E0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Steals Rookie",
+      "trophyDetail": "Steal the ball 5 times in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/EE3A43E300412CCC579492A1B03A1A6F78148C85.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 5 Threes Pro",
+      "trophyDetail": "Make 5 three-point shots in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/C2AD44DD99FEB83638FBE957F6F595B23005EC54.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 20 All-Star",
+      "trophyDetail": "Score 20 points in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/A9321C0D6933A33C077DB593CBCCDC6F7F5EAAD8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Steals Pro",
+      "trophyDetail": "Steal the ball 5 times in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/089FE83BAB3A978CA7B5D98586B5D82FA4402F79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Rebounds All-Star",
+      "trophyDetail": "Grab 5 rebounds in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/C3317EFD7CF91887B5E913082670E294F924AB79.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 5 Threes Rookie",
+      "trophyDetail": "Make 5 three-point shots in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/29F6637BF8E0B55677A2945AD0E8EA774147CFF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legends Unlocked",
+      "trophyDetail": "You travelled through time and bested them all. Now you get to be them.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/D17B4B5514022B5ED1B3F56047501E7646BA3D71.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 in the Bag",
+      "trophyDetail": "Complete 10 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/B8FBEF48DB7DC0B1075EB32957E37816408AE1AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 5 Threes All-Star",
+      "trophyDetail": "Make 5 three-point shots in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/D231D0F789A56470298DCE6B1CCB456D9784ABD2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Phantom 5 Unlocked",
+      "trophyDetail": "You got 'em",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/9AB7ECD27D716515324B9C410E4ECB82AE31A3BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Steals Rookie",
+      "trophyDetail": "Steal the ball 10 times in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/4378E352EDD5B3C60F34457AC4BB17CE14DDE676.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Rebounds Legend",
+      "trophyDetail": "Grab 5 rebounds in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/0B1F3C6E04395F02DB15D5A6645B58AB38DEA7E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 20 Legend",
+      "trophyDetail": "Score 20 points in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/96F528BD953C9B03AE115FCBEE06A4F0FDC9C72F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Steals All-Star",
+      "trophyDetail": "Steal the ball 5 times in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/FA3312AFFB87F058E6123B5A93B2B45388342A4D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 10 Threes Pro",
+      "trophyDetail": "Make 10 three-point shots in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/BE3C25851F9559ED2EACFF345B2E3C1994F739EE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 60 Pro",
+      "trophyDetail": "Score 60 points in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/03522ED82D3EC5AF2F1F0BA26A89F92FABCE8E3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 in the Bag",
+      "trophyDetail": "Complete 20 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/070C672838483B372DCAFFF8EA224752FCEB47ED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 5 Threes Legend",
+      "trophyDetail": "Make 5 three-point shots in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/C084E7777FBBA90664865B6C49D6A9B1B28EE67C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Steals Pro",
+      "trophyDetail": "Steal the ball 10 times in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E895B37CBA2BE341473F4EE39432F5A0E932B334.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 10 Threes All-Star",
+      "trophyDetail": "Make 10 three-point shots in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/9B39334CA9DD5F524B859147EDD9684B7ACB7BEE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Procrastinator",
+      "trophyDetail": "Win a game with a buzzer beater",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/823C187538DB73FFF6AA475E8D58A09021916C48.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superstars Unlocked",
+      "trophyDetail": "You got the Superstars",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/2AF595D489CDD4F8E92D5BBE1AB03374AC0C0252.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 60 Rookie",
+      "trophyDetail": "Score 60 points in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/8E0A0166FC0599305728194793F86344C993B418.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 60 All-Star",
+      "trophyDetail": "Score 60 points in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/4C19CBAAEFE063A1C1912C066C2A4B73E3B00F04.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marksman",
+      "trophyDetail": "Hit a shot from at least half court",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/3B49D71CDCD2E7F90C0F5AB2A8EA7F7B1B080760.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 10 Threes Rookie",
+      "trophyDetail": "Make 10 three-point shots in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/45DEF42995FA35139791A2EDB1D9ED97D95B304D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "15 Assists",
+      "trophyDetail": "Get 15 assists in a game using a single player",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/9ABEA420C8FE651082B8D4396267234E50ABB2E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 10 Threes Legend",
+      "trophyDetail": "Make 10 three-point shots in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/80B7A211F9953A5797FDC327F4BCC6A005765565.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Rebounds Rookie",
+      "trophyDetail": "Grab 20 rebounds in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/2699EC2AC45C0C685976D9A69DF32857F40902F3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 80 Pro",
+      "trophyDetail": "Score 80 points in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/7360C56436E7400FC229180B12A7D30F52AC054E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 80 Rookie",
+      "trophyDetail": "Score 80 points in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E989F7D84E81F6D914FD94260459889321B6FA80.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That Dunk Though!",
+      "trophyDetail": "Throw down a 900 Double Clutch",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/2389E6BA739E5DDE6D62AC08E1C103662EE3C8A6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 60 Legend",
+      "trophyDetail": "Score 60 points in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/28F25553E3D35F69FD609716849F75B3193B749C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Rebounds Pro",
+      "trophyDetail": "Grab 20 rebounds in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/12AD638B4C2CDB109A5A1A5E19A603FA759EA81F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 80 All-Star",
+      "trophyDetail": "Score 80 points in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/ACAB022C8E6157230B660E3DF4B604FFAE626CF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Season Complete",
+      "trophyDetail": "Complete a full season on Pro difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E4413CFBB101E2373BB4BFB0BA726B7B7768A45D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 100 Pro",
+      "trophyDetail": "Score 100 points in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/3DB1AD76C35B30F74E59082C7C27021C2A211CBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Steals All-Star",
+      "trophyDetail": "Steal the ball 10 times in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/55096C379E742C6535E83E305AE81F92D7014BCA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Champ",
+      "trophyDetail": "Win a championship on Pro difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/CA98083AB0113598B369042475B05136B9C63EB8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Steals Legend",
+      "trophyDetail": "Steal the ball 5 times in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E44B092F98FB855BFD525940E960543B80247AED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Rebounds All-Star",
+      "trophyDetail": "Grab 20 rebounds in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/5B5D575FAA6D17B864C1B1478C14BCD81E603B10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 100 Rookie",
+      "trophyDetail": "Score 100 points in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E85E30EC4BA6AAEE2FC385DA6B686163D33C2043.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 80 Legend",
+      "trophyDetail": "Score 80 points in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/B058DF738F2747963361C3AA5D5C6AABD70B751E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 100 All-Star",
+      "trophyDetail": "Score 100 points in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/AF8AAD14DF0696F0CA2B73490EC3E79496BF9142.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Star Season Complete",
+      "trophyDetail": "Complete a full season on All-Star difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/990A624F0D208EDCA5A1C04C47D9F4C4C538593E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "50 in the Bag",
+      "trophyDetail": "Complete 50 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/B5E5C95E8E1A0AC17D96095A413F3C27AAF09F75.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "20 Rebounds Legend",
+      "trophyDetail": "Grab 20 rebounds in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E6DB5BA3432D5442E6218DDC63B1698991A9BDB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Score 100 Legend",
+      "trophyDetail": "Score 100 points in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/7B63BDACC29C68DEE73BD23674D99779E3FBB0DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All-Star Champ",
+      "trophyDetail": "Win a championship on All-Star difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/56A25F94345D2E16E4650F3710A5B8EE44AE36D8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend Season Complete",
+      "trophyDetail": "Complete a full season on Legend difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/E34CDE3B58125B6D274DD9D28281003A5A3C7E58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Season Complete",
+      "trophyDetail": "Complete a full season on Rookie difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/28D2C1FFC6FF2128CD3AB06669EC7A45910CED17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rookie Champ",
+      "trophyDetail": "Win a championship on Rookie difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/0C6AA7C54C510D26E1573DA7C2851AE5EEFB30BA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "100 in the Bag",
+      "trophyDetail": "Complete 100 matches",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/7BE12D8120025B39EA49B8F419A7D238600C3208.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10 Steals Legend",
+      "trophyDetail": "Steal the ball 10 times in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/0D87F8B3156FAF56EE0CBB0C4F7347594D7B5B35.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 30 Threes All-Star",
+      "trophyDetail": "Make 30 three-point shots in an All-Star game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/80473543A9284A0148A2E0E54B011DDE4DA5C3B2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 30 Threes Legend",
+      "trophyDetail": "Make 30 three-point shots in a Legend game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/ED7A829978476C91FE919E9D0CA3DFE2181017B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 30 Threes Pro",
+      "trophyDetail": "Make 30 three-point shots in a Pro game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/1B8391C202A257E13F89584418279C0D3845DB25.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drain 30 Threes Rookie",
+      "trophyDetail": "Make 30 three-point shots in a Rookie game",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/671003A65EB3BBC18F996A256DCA8F8F935215E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend Champ",
+      "trophyDetail": "Win a championship on Legend difficulty",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57664_00_008AAC2E0A57FB6EC3E9FA63BEAB6D73ED7A99C751/B704E847EDEA6D416264200F919AD43E1B5162EB.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
