@@ -1,0 +1,473 @@
+{
+  "npCommunicationId": "NPWR54131_00",
+  "title": "Crime Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master Criminalist",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/bc181a0d-537f-4664-bfe2-491e55549a02.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whoops",
+      "trophyDetail": "Oops… That Hurt!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/04e0a82e-d525-4293-9f40-9a351cf514e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Appretince thief",
+      "trophyDetail": "Steal 25 items in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/f3cefc74-b958-4eda-b157-90ffee51ce2a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gimme credits",
+      "trophyDetail": "Earn 1000 credits in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/f9c11da9-cb06-49c5-a914-76df664a84d1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Efficient worker",
+      "trophyDetail": "Deliver at least 2x the required quota",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/c5bed40a-a77d-4c33-b5f9-36228dcd4362.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden card",
+      "trophyDetail": "Deliver a golden card for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/e02d3403-8cba-4673-a4e6-e91890868dc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master thief",
+      "trophyDetail": "Steal 100 items in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/09af002f-6d43-41c7-80b5-507b63efaad8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Challenge me more!",
+      "trophyDetail": "Complete 5 challenges in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/5ffbd60d-1460-41eb-a9e0-a1eb766db3d1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gimme more credits!",
+      "trophyDetail": "Earn 5000 credits in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/d4378873-b8bd-4f26-a4bf-011317363a7b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quota master",
+      "trophyDetail": "Deliver at least 3x the required quota",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/ea247e64-f9a0-47f5-92e2-f20ddd761918.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Understood?",
+      "trophyDetail": "Complete the tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/6dc66559-6884-4901-abf2-f3042ed1a09e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timed job",
+      "trophyDetail": "Complete any timed job",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/b48bdae5-acfa-468a-a7eb-b3fae1499898.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delivery man",
+      "trophyDetail": "Complete 5 item request lists in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/e8aa1e2c-87f4-4751-aa7b-bcc7f7c3dbef.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rich",
+      "trophyDetail": "Earn 10 000 credits in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/6c6368f0-da10-437b-83db-f8efda50f8fe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm the VIP",
+      "trophyDetail": "Steal 5 VIP items in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/5afa8438-4274-427d-b900-fa9f36d38024.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Employement",
+      "trophyDetail": "Complete 10 jobs in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/6d236cb5-ce17-4975-846f-be5500eab24b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master challenger",
+      "trophyDetail": "Complete 10 challenges in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/fe53f498-3397-4ef0-b4f3-28d6892d188b.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "School time",
+      "trophyDetail": "Learn 10 skills",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/8bd414f4-6f46-402b-a507-4e3d6e9ed2b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big delivery",
+      "trophyDetail": "Use the drop-off box on the map to send at least 5 items to the truck. (Map drop-off boxes need to be unlocked first)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/ad42b996-1f3f-495d-88f5-9eb2dbb31412.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Victory",
+      "trophyDetail": "Complete the standard game mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/cadf4a7c-6345-4950-8674-f89f81fb27c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welder",
+      "trophyDetail": "Open 5 metal locks using the blowtorch",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/cadf4a7c-6345-4950-8674-f89f81fb27c2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Upgrades?!",
+      "trophyDetail": "Use an upgrade module for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/375ee1a9-67bb-44a2-92a1-33469a32ef08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I can do that now?",
+      "trophyDetail": "Use any ability for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/03c604f2-4ec7-4c8e-8036-c15e6dc26b12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master criminal",
+      "trophyDetail": "Unlock all abilities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/a956117e-9391-4067-a8dc-098f20781707.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voucher machine",
+      "trophyDetail": "Purchase the voucher machine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/c7011e2f-54ef-4127-b22c-37bdec122531.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I can grow weed now?",
+      "trophyDetail": "Purchase the weed-growing rack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/b7d73a6b-3145-4955-b8b0-5b59b7c80666.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Keeping it shiny",
+      "trophyDetail": "Repair loot worth over $500 using the repair workbench",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/e6b1131f-2ba1-492c-beee-17415ccb1da7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rewards",
+      "trophyDetail": "Unlock 10 world-level rewards",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/e197855c-44b9-41e2-a308-d543d415509b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Furnished base",
+      "trophyDetail": "Have at least 10 pieces of furniture in your base",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/5d3e7b9a-0e0c-426d-82ea-3c3d4d6bee21.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drone owner",
+      "trophyDetail": "Purchase the drone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/75cd5337-f457-4420-a510-d73000baed76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Three Free",
+      "trophyDetail": "Escape a 3 star chase",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/5a14464b-6ed6-4969-9a27-22aa42d6f4b6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hitman",
+      "trophyDetail": "Purchase the silenced pistol",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/77c42c1a-fa91-44bb-b51d-d31fbb5f4d9e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crossbow owner",
+      "trophyDetail": "Purchase the crossbow",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/ce14d2ed-575c-4942-b956-121b77b892bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Completionist",
+      "trophyDetail": "Complete any residence (all loot, jobs)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/217e9893-a8c1-44df-b603-d487ec6a6f6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Worker of the year",
+      "trophyDetail": "Deliver at least 2x the required quota on 'Master' difficulty",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/b1d89247-7760-4a71-92f9-195350d4ec32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "John Cena",
+      "trophyDetail": "Purchase the invisibility tool",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/eaacc6d4-2fee-4c9c-9e4e-a5f83ca4ef12.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rewards 2",
+      "trophyDetail": "Unlock 20 world-level rewards",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/d9d14c3b-7543-44e3-909c-897253a5534a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Magic dart",
+      "trophyDetail": "Disable a security keypad using the crossbow's hacking dart",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/04859a33-4011-4e03-89b8-26d37cd6c763.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Insane victory",
+      "trophyDetail": "Complete the hardcore game mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/493858f3-17eb-4e3d-8add-97a9113aa4c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Patient victory",
+      "trophyDetail": "Complete the completionist game mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/d674a6e4-2e99-4d4c-9286-d2bdecd5d170.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Honest work",
+      "trophyDetail": "Complete 3 jobs in one night",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/9427f5f7-f8a8-4517-8faa-b962676c40b2.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hoarder",
+      "trophyDetail": "Have at least $25k worth of loot in the hideout",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/fe2bb965-4042-4b0f-b341-e536a9fde119.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interrogator",
+      "trophyDetail": "Interrogate a tied up person",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/df2bc155-9f8c-47f3-a9a8-021f669f512d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cautious",
+      "trophyDetail": "Win a game on any mode with a maximum of 3 police calls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/8ecb91b5-3d10-4aea-a1a4-a64ababcf0fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Car thief",
+      "trophyDetail": "Steal and sell a car",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/7567635c-b26d-4bd8-a676-ffeab1e72ce7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Delivery of a lifetime",
+      "trophyDetail": "Complete all item request lists in one game",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/644707eb-aac6-4db3-a843-b1988970eaa6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Drone hunter",
+      "trophyDetail": "Destroy a police drone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/4532593d-f188-480f-a344-069789ea5416.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Car mechanic",
+      "trophyDetail": "Repair a broken car with a car toolbox",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/dc0dba8d-1d95-495a-af24-790f753e4ae1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Trunkload",
+      "trophyDetail": "Sell a stolen car with at least $10k worth of loot in the trunk",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/c5ce40a7-d8cf-42a3-a013-dfeed00e0c93.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ready to go",
+      "trophyDetail": "Sell a car with a tank full of gas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR54131_00/c0e7f094-6aaa-4a5e-aad4-04eb9c27b623.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

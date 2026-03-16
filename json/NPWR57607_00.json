@@ -1,0 +1,649 @@
+{
+  "npCommunicationId": "NPWR57607_00",
+  "title": "Grind Survivors",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 71,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Get All Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/117d4033-c80e-426b-b8cc-7de4f54849c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Education 1",
+      "trophyDetail": "Reach level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/16010066-3db4-447f-af7e-6a9c964fbde9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Education 2",
+      "trophyDetail": "Reach level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/55e6156b-3fd5-470c-94ed-284a0c05727e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burned Forest 1",
+      "trophyDetail": "Beat Difficulty 1 in Burned Forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/6a48d7ea-21bb-4634-84d1-08e339f54e0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Education 3",
+      "trophyDetail": "Reach level 15",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/60c5414a-60ab-4cb6-81dc-00818257ad4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Education 4",
+      "trophyDetail": "Reach level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/c812d7ca-30a4-481e-877d-e090e82a9f21.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burned Forest 2",
+      "trophyDetail": "Beat Difficulty 2 in Burned Forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/a69ca064-17bc-4f4f-a6f7-0d7fd013ee20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burned Forest 3",
+      "trophyDetail": "Beat Difficulty 3 in Burned Forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/1a65c8f4-17dc-4c0a-ab47-8a297ce6a993.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burned Forest 4",
+      "trophyDetail": "Beat Difficulty 4 in Burned Forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/cbf5dba0-4f62-4e0a-aae5-018894a09d76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Burned Forest 5",
+      "trophyDetail": "Beat Difficulty 5 in Burned Forest",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/2b3b1995-6c0f-40cf-abdb-d03544e37949.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mage",
+      "trophyDetail": "Pick all 4 status effect perks in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/425e752e-eb6e-48be-92a6-ce7720660957.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinite Bullet",
+      "trophyDetail": "Reach 7 bounces",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/a31220ca-be52-430a-a8ec-835a7a9b0167.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Speed of Light",
+      "trophyDetail": "Reach a speed of 13 m/s",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/2791c830-dc61-4760-8715-1bb64e3f9786.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Masochist",
+      "trophyDetail": "Lose 100 HP",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f7d44be7-a09b-4634-bb79-8fed8e77788e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Jump",
+      "trophyDetail": "Use dash 333 times in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/a7e56e77-933c-450e-9b45-cad2e0239b05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chain Killer",
+      "trophyDetail": "Kill 200 enemies without reloading",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/deee960a-80e2-47e8-be48-cd9591d8ffc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tank",
+      "trophyDetail": "Reach 25 HP",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/d615da05-f4ae-4333-affe-e89aa8634a32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Immortal",
+      "trophyDetail": "Kill 1000 enemies while being at 1 HP",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/21282d19-ba42-4770-9d93-9434a3213174.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soul Harvester",
+      "trophyDetail": "Gain or restore 15 shields in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b5ffecb6-246c-45e3-98ec-2eee462ad94b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Divine Loop",
+      "trophyDetail": "Restore ability in 1 second",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/9d5e4a69-1c15-40ed-b099-154c51748e84.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Phoenix",
+      "trophyDetail": "Deal 20m Fire damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/627e1981-e2b0-4c8c-a425-dcdc4c31404e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Inferno",
+      "trophyDetail": "Deal 200m Fire damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/74308874-8677-4057-bc17-c2edfdf4c7f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyromaniac",
+      "trophyDetail": "Deal 2b Fire damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/36c27c3d-68d7-4fb8-b238-e108a7f18967.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charge",
+      "trophyDetail": "Kill 5000 enemies using Dash",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/33ad477f-6a72-4fda-a064-3b3218ed21bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thor",
+      "trophyDetail": "Deal 2b Electrify damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/ab8251cf-7aab-444e-acd3-2a31d5c406ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Penguin",
+      "trophyDetail": "Deal 20m Chill damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/7e7622e2-7049-4d08-9b3f-4b888028f937.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Age",
+      "trophyDetail": "Deal 200m Chill damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/c1b111f1-7ea0-47a5-847c-1c479d29f0a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chill Guy",
+      "trophyDetail": "Deal 2b Chill damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/aa582880-0c7d-43ff-bc13-6468b27fce5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Witch",
+      "trophyDetail": "Deal 20m Curse damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/4edfbec9-40f1-4e1c-a29d-061260bd4668.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Arts",
+      "trophyDetail": "Deal 200m Curse damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/72c01655-2aee-483b-9947-109f21106091.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Witch Doctor",
+      "trophyDetail": "Deal 2b Curse damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/dd0d7af6-1f68-4f23-b95d-71cf759b80ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hell On Earth",
+      "trophyDetail": "Let the Hellweaver burn to the ground",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/c04338b6-bff2-434b-b9ca-68f778fbd2a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cartridge",
+      "trophyDetail": "Reach 200 Ammo",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/616f0cef-fc2e-4a72-bb9e-11881cb6fa07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spear",
+      "trophyDetail": "Pierce 50 enemies with a single projectile",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/0a3aed64-db92-453a-95aa-85876613d956.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tricks",
+      "trophyDetail": "Kill Troll with the bullet that bounced in him",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/7fbab59a-c79f-4f05-b5a8-116ef713d345.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastion 1",
+      "trophyDetail": "Beat Difficulty 1 in Bastion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b32a2e86-d1a9-42d5-bdea-b369e18e63fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastion 2",
+      "trophyDetail": "Beat Difficulty 2 in Bastion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/fe2a72e5-fde0-4fed-984a-83e5a78fa23d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastion 3",
+      "trophyDetail": "Beat Difficulty 3 in Bastion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/34a20631-6ceb-41ba-a046-e986d8dee8bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastion 4",
+      "trophyDetail": "Beat Difficulty 4 in Bastion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/9f6f5b59-69e3-4607-8911-daf8b547d0e5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bastion 5",
+      "trophyDetail": "Beat Difficulty 5 in Bastion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/3c3d0a21-a862-4d0a-aed4-7dd33b07cde5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Teslagun Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Teslagun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/2175dc51-8327-485b-a08a-8f6e57a5fd2a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shotgun Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Shotgun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/eeca84bb-3394-4eb2-90ec-b630136edd9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SawLauncher Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Saw Launcher",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/4a9933b7-2539-4679-839e-bff71039258a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SMG Mastery",
+      "trophyDetail": "Kill 10.000 enemies with SMG",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b305a2e8-92b8-48d0-aad0-373474bdce05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revolver Mastery",
+      "trophyDetail": "Kill 10.000 enemies with Revolver",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f383dd14-72a2-4b00-9ce3-c98ac60b946c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assault Rifle Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Assault Rifle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/d0b9c0fd-beee-4b77-a5d0-b99ed1d3e24d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sword Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Sword",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f307a6dd-5e7b-4d02-8a48-625e7f50bd90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laser Mastery",
+      "trophyDetail": "Kill 100.000 enemies with Laser Launcher",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/3dee6b9c-5ae7-4932-b7f7-703214ee7e76.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Solara Awakening",
+      "trophyDetail": "Kill 100.000 enemies with Railgun",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/10679d36-bf9a-429c-b977-e183540e2697.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cascade Awakening",
+      "trophyDetail": "Kill 100.000 enemies during Bulletstorm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b93a32db-4c13-454d-8922-765d69080c65.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Riven Awakening",
+      "trophyDetail": "Kill 100.000 enemies during Berserk",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b3648fce-e7e9-4981-ab2c-6239c6bb3e10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vanta Awakening",
+      "trophyDetail": "Kill 100.000 enemies with All Mighty Push",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f8992d68-6743-4aa7-b8bc-966d200288ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinity 1",
+      "trophyDetail": "Survive 40 minutes in Burned Forest Infinity Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/39e82ac4-f959-4c4e-9f8f-66764d356840.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinity 2",
+      "trophyDetail": "Survive 40 minutes in Bastion Infinity Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/7f40da3b-7bc3-4959-943c-8b43af592431.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Infinity 3",
+      "trophyDetail": "Survive 40 minutes in Scorched Grounds Infinity Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/0e9425ed-8223-4e3c-8615-eec793511266.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire With Fire",
+      "trophyDetail": "Kill 1000 Morters with Explosions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f5a95a8c-aa13-40af-bae1-08afaaa6aabb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrath",
+      "trophyDetail": "Strike Baldur with Lightning Bolt 1000 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/b9e9b896-b862-4046-b1ab-0bdf2ae64538.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quad Barrel",
+      "trophyDetail": "Kill 4 double barrels at the same time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/1907b107-6e96-45d9-bd1a-e7906a21374f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shieldbreaker",
+      "trophyDetail": "Break 5.000 enemies' shields",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/70863b45-9ec5-4ecd-b435-8426a21c4a49.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorched Grounds 1",
+      "trophyDetail": "Beat Difficulty 1 in Scorched Grounds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/beae504d-eff2-4ccf-9576-4985f5ff5f6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorched Grounds 2",
+      "trophyDetail": "Beat Difficulty 2 in Scorched Grounds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/3384f0f4-fb42-415f-a682-fcd9292ac643.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorched Grounds 3",
+      "trophyDetail": "Beat Difficulty 3 in Scorched Grounds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/668ebda2-205d-4058-9e06-372aee1b37db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorched Grounds 4",
+      "trophyDetail": "Beat Difficulty 4 in Scorched Grounds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/60c38f37-3c37-4bd2-a1d1-b1b211266ce8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scorched Grounds 5",
+      "trophyDetail": "Beat Difficulty 5 in Scorched Grounds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/da894b31-9361-44db-81fd-5bfeddcceb4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Shot",
+      "trophyDetail": "Reach chance of dropping Purple XP Orb over 100%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/79adc972-817f-4ce3-b829-f235ec7af647.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavy Arsenal",
+      "trophyDetail": "Reach 10 Projectiles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/179f6b74-e976-4ec5-82df-3fcbb271a9cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wormhole",
+      "trophyDetail": "Reach 20m Range",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/4c6b2f96-cc13-4bd5-a8df-2913e3415b81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Pick up 10.000 Ashes in a single match",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/18030e66-abec-4611-8f32-9687475e793b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eel",
+      "trophyDetail": "Deal 20m Electrify damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/794c17b1-34a9-485f-9015-de0a326b9cec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tesla Boy",
+      "trophyDetail": "Deal 200m Electrify damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/9fccc1e7-c27e-4a3b-a20b-ca1c573e02b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corruption",
+      "trophyDetail": "Destroy uncleaned Altar with Arena",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57607_00/f67a1b78-371b-43ba-9dd7-822aed499d1b.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

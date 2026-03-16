@@ -1,0 +1,559 @@
+{
+  "npCommunicationId": "NPWR58080_00",
+  "title": "Picture Hunt",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 61,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Picture Hunter",
+      "trophyDetail": "Obtain all other trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/84CD0E2901C6DFD7D6378B29C4C26DC164376B42.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Items List I",
+      "trophyDetail": "Find all items in level one (list)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/2A4228911B81260F1755D2A0983143F5FB68FA84.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Items List II",
+      "trophyDetail": "Find all items in level two (list)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/93276B9CAD456AD8C0289541ED63180AE16611F7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Items List III",
+      "trophyDetail": "Find all items in level three (list)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/AD8550FD9E3C059A29DC81FE164B72A84DEE01AC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Items List IV",
+      "trophyDetail": "Find all items in level four (list)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/6B4DD9CE42F6409A59C3E94EA2E094B3BCBF9945.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Items List V",
+      "trophyDetail": "Find all items in level five (list)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/6285414595630B423BE0E92E687E617D6466C3FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "False Lead",
+      "trophyDetail": "Make 1 mistake",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/1FE814B843C82E7BE8EBAE3F0E199E220F8FF7EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Minor Oversight",
+      "trophyDetail": "Make 2 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/1174B2026517AE4F8610A862BBFA3E4BEBBBAF41.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blurred Vision",
+      "trophyDetail": "Make 3 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/083E2C8A750CC74B4D816BEC7F3B38D04DD158F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong Trail",
+      "trophyDetail": "Make 4 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/FD2680122BB166288D0C146DFFCF9A0940218D8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Questionable Witness",
+      "trophyDetail": "Make 5 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/EDD146413B5D93CCC54238B17C8CBE4580E59455.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wild Goose Chase",
+      "trophyDetail": "Make 6 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/C96C1291960B9F04D4ECC0DBD9C8FC3D5A0802D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Misplaced Clue",
+      "trophyDetail": "Make 7 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/A597E2CF6344F5B1F2E381905FFBCB3F5E71C435.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bad Hunch",
+      "trophyDetail": "Make 8 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/E25D712C03307F2E08FA62C73457AE85186D3E47.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clumsy Rookie",
+      "trophyDetail": "Make 9 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/670ED7D5ECDCA131BA6A814B6B3377E9598A2354.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Red Herring",
+      "trophyDetail": "Make 10 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/D2FDE31E8B306A27A26E4FA4DD1C19BBCC7F6353.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distracted Detective",
+      "trophyDetail": "Make 11 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/AB49525A22856B9F35B505534BD99B291CBA8BBC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost in Thought",
+      "trophyDetail": "Make 12 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/D3A7D9A15E335E55A80885D8565B89A8F6C5B590.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "False Alarm",
+      "trophyDetail": "Make 13 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/0CB3A287556CB8B48BDD282D631FBBF4B26DD82B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mistaken Identity",
+      "trophyDetail": "Make 14 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/C5DB8E3AA6844C8488BA32E0EE5A1E8BE4DAB86D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shaky Evidence",
+      "trophyDetail": "Make 15 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/A97F971C601F575DD462F3404E36E1F19CC699EA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clueless Rookie",
+      "trophyDetail": "Make 16 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/E23C77746091B2972556085C1CD05CE8AC7070A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Off the Record",
+      "trophyDetail": "Make 17 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/27EE76F8A55F7BE0E3D646E1146D85FAB22B2102.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dead End",
+      "trophyDetail": "Make 18 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5017116A67D75EB9C66AA1593BD03B72485BBB46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overruled",
+      "trophyDetail": "Make 19 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/435DE0D7D8EE796346259D039D5EDB19D0EA4CED.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Misfire",
+      "trophyDetail": "Make 20 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/9D6D3BB9FECAFD3E46DEC213C491B7061D9BC64B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Case Dismissed",
+      "trophyDetail": "Make 21 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/B441E7AB3F51C500946EEC2EA8DD3BB74FB84650.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrong Suspect",
+      "trophyDetail": "Make 22 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/58B5A2E3B94A1C773CA3CE9D44463F39CC57592A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Botched Case",
+      "trophyDetail": "Make 23 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/A3FA05BFB91964DEE97EB70B429B77592EBE078E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cold Trail",
+      "trophyDetail": "Make 24 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5FC64E0A8E8E69AFECCE8181DD6A17FF5FCA37D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Fool's Path",
+      "trophyDetail": "Make 25 mistakes",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/E1EF3FDCA2EDA4F5E78C63A2E8BAD5E6B281AE7F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Eyes",
+      "trophyDetail": "Find 1 item",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5231AC360A6C06E88AE5CA48F4D5B76C95270D67.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharp Eye",
+      "trophyDetail": "Find 2 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/4FDCA3ED297121F8C0290FD78E97CDAFBB27BC02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keen Observer",
+      "trophyDetail": "Find 3 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/F41D77FDAFBEC66944A95ABDB5764431986DBBD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Sleuth",
+      "trophyDetail": "Find 4 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/BA4A75824C90E5F62BC48CC96531CDE16DFB9BF0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle Eye",
+      "trophyDetail": "Find 5 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/DBF8DE06FEA854CAAA38F9A51DAA11913216ABA7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spotlight Detective",
+      "trophyDetail": "Find 6 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5C88B8486ECD0CF39050DD38500062DEEF902A8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forensic Vision",
+      "trophyDetail": "Find 7 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/205B33C600643508497EAB8658C3016C83BF4E22.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Case Opener",
+      "trophyDetail": "Find 8 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/E242FC6FCB272E021A5D4FC707C513DB7846884A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hidden Truth",
+      "trophyDetail": "Find 9 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5E91EC3C9FCE46C6E1D9C23D174E3D9BA0C60AE0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uncovered Clue",
+      "trophyDetail": "Find 10 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/C06103E65864FD9EA40BAC88610A57FEB0AB1A1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Detail Hunter",
+      "trophyDetail": "Find 11 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/B5ECD7151136052497312B953C6A2D65A7AB1B4C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pattern Breaker",
+      "trophyDetail": "Find 12 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/03DADA36EE9CD4D838D53D93684CAAE32EF8CDE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hidden Clue",
+      "trophyDetail": "Find 13 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5E755AEF40952B93FB7054E02F3D68AC336F0EDE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silent Witness",
+      "trophyDetail": "Find 14 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/8D59AF1A8B124E338E3F0B77A32295C95FC7CF8C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scene Investigator",
+      "trophyDetail": "Find 15 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/FE7E79DB213E0521859E282907DDC5D6451C5868.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Difference Detective",
+      "trophyDetail": "Find 16 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/8CBF5D07C53C233E19EED3FE111F387A8FA95DA3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Truth Finder",
+      "trophyDetail": "Find 17 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/E5B8CEC71FB2FF81015B2CE08CC93F422652D749.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scene Sleuth",
+      "trophyDetail": "Find 18 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/8AD61F8BB4F2009B4F2A84AFD4AE4B5B8173F140.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Detail Master",
+      "trophyDetail": "Find 19 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/ECFBC74C0ECB4DD9D501118E017B37629773749A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Evidence Expert",
+      "trophyDetail": "Find 20 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/C0D6DF9F4F1B3BCE529D38122ED7AE3DEB96E8CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Case Veteran",
+      "trophyDetail": "Find 21 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/A7B6E715F26A58AFC401444EC606118D0C540CEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scene Solver",
+      "trophyDetail": "Find 22 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/2711F477C63D3CDF6FDEC9D64DBEB864D7F5C176.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Investigator",
+      "trophyDetail": "Find 23 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/21079189F8BC218A24AF5539F919A78BF6DC64AD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puzzle Master",
+      "trophyDetail": "Find 24 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/FD172D896313D419C26ACC32C8A85D310BDD4B0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Finder",
+      "trophyDetail": "Find 25 items",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/1C01C17BED869996EC0AD4EE500D2128FEE456A9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shapeshifter",
+      "trophyDetail": "Find all items in level one (shapes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/C729CF8822D971A649F7FD2E6F0A32B2FFAD13CF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shape Slayer",
+      "trophyDetail": "Find all items in level two (shapes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/2EB89B50B6C883F3604A5BC7CE9255C8396A0DEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Outline Overlord",
+      "trophyDetail": "Find all items in level three (shapes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/BDB0CEB1A46462F917A62C6B778FA27F9295CCB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Silhouette Sniper",
+      "trophyDetail": "Find all items in level four (shapes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/5DA9A288AFF6C18FC1FCF0A61539A754D6DB3E50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of Shapes",
+      "trophyDetail": "Find all items in level five (shapes)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58080_00_00448D77A45D2394426248BFEDA64B8D41EEFB6179/01E5DC87E584C03B786715FDA01DAB13D29252D0.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
