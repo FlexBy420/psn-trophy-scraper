@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR55963_00",
   "title": "Blood",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
-  "hasTrophyGroups": false,
-  "totalItemCount": 21,
+  "trophySetVersion": "01.02",
+  "hasTrophyGroups": true,
+  "totalItemCount": 34,
   "trophies": [
     {
       "trophyId": 0,
@@ -194,6 +194,123 @@
       "trophyDetail": "Defeat the 3 Beasts of Beauty and the Beast (E6M8) in under 3 minutes on Well Done difficulty or above",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/ECFD17CF6231BAECEFDC65BD93FFBA7F9A04FB36.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Put him Down.. Again",
+      "trophyDetail": "Complete all of MARROW",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/6FF77511890DD54A9C48B00E22DD0A1B809D19BC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Such a Lovely Home",
+      "trophyDetail": "Find all Secret Levels in MARROW",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/5D8FDA9D9CA8180DD15A819DE4F9AE3D231EC3C7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wish Granted",
+      "trophyDetail": "Complete all of Death Wish",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/E8C7FFDB5AB3FC34225BF1B12FF163D2454897D6.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Carried to the Grave",
+      "trophyDetail": "Find all Secret Levels in Death Wish",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/90BBA124DB9896B72689958FCEB56496D8AE63EA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polar Opposites",
+      "trophyDetail": "Complete Death Wish E1M3: Frostburn in under 70 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/4FCF7FC3C4D692D592A2BCBB326182360ACF9423.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leap of Faith",
+      "trophyDetail": "Complete Death Wish E1M4: The Abyss in under 100 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/3CA7CE98E6E42000108AD3987412FCDA0B10DE47.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sin City",
+      "trophyDetail": "Complete Death Wish E1M7: Urban Decay in under 20 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/24A3608496AA105CBC0170483C5730E540BB91FA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Out of Eden",
+      "trophyDetail": "Complete Death Wish E2M7: Paradise Lost in under 40 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/ED99472868EE8D36FA47F3CD69AFAD45DA06DC5E.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room for One More",
+      "trophyDetail": "Complete Death Wish E3M2: The Tenant in under 60 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/8F0ACB4F12DDF0A4AAA3B081FF0676919DC9F019.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grim Tide",
+      "trophyDetail": "Complete Death Wish E3M4: Bogey Beach in under 90 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/4A85B65E32B03440F35303D46C4325DD7E0EBCF5.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Permanent Vacation",
+      "trophyDetail": "Complete Death Wish E3M6: Last Resort in under 30 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/C76B4C1923A74D7D8B5C45F213F3C79789250FE2.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Descent into Madness",
+      "trophyDetail": "Complete Death Wish E3M11: Human Nature in under 70 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/B8150D08BCB6B0A93D26F60778B8D2B49600E5FB.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Final Curtain",
+      "trophyDetail": "Complete Death Wish E4M4: History of Violence in under 80 seconds",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR55963_00_008855CA9689FF108393650EA473FD55E2A12AA157/10A1FEFA2B293BEF7B81A41D2CC5634E86A62E06.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

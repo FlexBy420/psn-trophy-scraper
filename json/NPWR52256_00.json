@@ -1,0 +1,676 @@
+{
+  "npCommunicationId": "NPWR52256_00",
+  "title": "Voidwrought",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 74,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Voidwrought",
+      "trophyDetail": "Unlock all other Trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Abomination Undone",
+      "trophyDetail": "Defeated the Eternal Engine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Entombed in Ice",
+      "trophyDetail": "Enter the Abandoned Expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Another for the Vats",
+      "trophyDetail": "Defeated the Alchemist",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stargazer",
+      "trophyDetail": "Defeated the Astronomer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessed by Rahtek",
+      "trophyDetail": "All Vaults Unsealed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Final Emergence",
+      "trophyDetail": "Finished Voidwrought",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Awakened Arm",
+      "trophyDetail": "Absorbed the Awakened Arm Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessed by So-Venat",
+      "trophyDetail": "Activated all Void Charges",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The First to Fall",
+      "trophyDetail": "Defeated the Council",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Gray Pyramid",
+      "trophyDetail": "All Devotees summoned to the Shrine",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twitch Fibers",
+      "trophyDetail": "Absorbed the Twitch Fibers Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hollow Cartilage",
+      "trophyDetail": "Absorbed the Hollow Cartilage Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Endless",
+      "trophyDetail": "Absorbed the First",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shrine Restored",
+      "trophyDetail": "Excavated all rooms",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unearthing Faith",
+      "trophyDetail": "Excavated the first room",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unearthing Creation",
+      "trophyDetail": "Excavated the Forge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unearthing Knowledge",
+      "trophyDetail": "Excavated the Library",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unearthing Veneration",
+      "trophyDetail": "Excavated the Inner Sanctum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Flesh Remade",
+      "trophyDetail": "Defeated the Fermented",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hush now...",
+      "trophyDetail": "Hushed all Envoys",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Renunciation",
+      "trophyDetail": "Defeated the First",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bloodlet",
+      "trophyDetail": "Defeated the Font",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Whole Again",
+      "trophyDetail": "Fully repair the Grand Artificer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Improved Ligaments",
+      "trophyDetail": "Absorbed the Improved Ligaments Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vessel Refined",
+      "trophyDetail": "Health fully upgraded",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Knowledge Denied",
+      "trophyDetail": "Defeated the Absolute Indexer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avid Reader",
+      "trophyDetail": "Found all Journals",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "To be Studied",
+      "trophyDetail": "Gave the Sealed Orb to the Cerebrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loremaster",
+      "trophyDetail": "Listened to all Whispering Stones",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Path Trodden",
+      "trophyDetail": "Explored the whole Map",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Nothing but a Memory",
+      "trophyDetail": "Found the Mirrorways",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Indiscriminate Slayer",
+      "trophyDetail": "Defeated all types of Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Lost",
+      "trophyDetail": "Found The Lost Soul",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Socialite",
+      "trophyDetail": "Met everyone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Rest Now, Dear Child",
+      "trophyDetail": "Defeated Orcus, The Skychild",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Augmented Cortex",
+      "trophyDetail": "Absorbed the Augmented Cortex Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "An End to the Feast",
+      "trophyDetail": "Defeated the Pustulant Prince",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Existence Perfected",
+      "trophyDetail": "Collected all Upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Offal Offerings",
+      "trophyDetail": "Completed Achretis' Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Stranger in a Strange Land",
+      "trophyDetail": "Refuse to help Achretis",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Metal Tomb",
+      "trophyDetail": "Completed the Lost Crewman's Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Exponential Growth",
+      "trophyDetail": "Completed the Gilded Emporium's Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Explorer",
+      "trophyDetail": "Completed Ose's Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Dangerous Knowledge",
+      "trophyDetail": "Defeated Ose",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lifegiver",
+      "trophyDetail": "Fed the Strange Stalks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Lifetaker",
+      "trophyDetail": "Destroyed the Strange Stalks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Reflections of the Past",
+      "trophyDetail": "Completed the Vizier's Questline",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Oh, Sister",
+      "trophyDetail": "Bring the Astronomer's Helmet to the Vizier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Infinite Detail",
+      "trophyDetail": "Retrieve the Endless Kaleidoscope for the Vizier",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tricked",
+      "trophyDetail": "Gave the Manipulated Orb to the Cerebrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transient",
+      "trophyDetail": "Visited all Regions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Power Unleashed",
+      "trophyDetail": "Collected all Relics",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Collector",
+      "trophyDetail": "Collected all Souls and Relics",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wayward Souls",
+      "trophyDetail": "Collected all Souls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Network of Worlds",
+      "trophyDetail": "Find the Repository of the Unknown",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessed by Namun",
+      "trophyDetail": "Awakened all Healing Salt",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unearthing Reflections",
+      "trophyDetail": "Excavated the Voidal Energies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Voidsight",
+      "trophyDetail": "Found all Secrets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Avatar",
+      "trophyDetail": "Collected all Simulacra",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adaptation",
+      "trophyDetail": "Absorbed the Adaptation Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unstable Nuclei",
+      "trophyDetail": "Absorbed the Unstable Nuclei Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Gates",
+      "trophyDetail": "Found all Void Gates",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entozoon Sac",
+      "trophyDetail": "Absorbed the Entozoon Sac Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Sermon Interrupted",
+      "trophyDetail": "Defeat Uut the Screamer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Void",
+      "trophyDetail": "Visited the Void",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Key",
+      "trophyDetail": "Unlocked the Void Gates",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Phased Flesh",
+      "trophyDetail": "Absorbed the Phased Flesh Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Last Vigil",
+      "trophyDetail": "Defeated the Weeper",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spurs",
+      "trophyDetail": "Absorbed the Spurs Simulacrum",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardcore",
+      "trophyDetail": "Beat the game on Hardcore Mode",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Reborn",
+      "trophyDetail": "Survived the path of the Reborn",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Harbinger",
+      "trophyDetail": "Survived the path of the Harbinger",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Undone",
+      "trophyDetail": "Survived the path of the Undone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52256_00/748ce992-a2dd-44b1-9ec8-0909f00fe85a.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

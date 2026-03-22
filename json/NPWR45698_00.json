@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45698_00",
   "title": "Dead by Daylight 3/3",
   "platform": "PS4",
-  "trophySetVersion": "01.11",
+  "trophySetVersion": "01.12",
   "hasTrophyGroups": true,
-  "totalItemCount": 36,
+  "totalItemCount": 39,
   "trophies": [
     {
       "trophyId": 0,
@@ -290,7 +290,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Master Manipulator",
-      "trophyDetail": "In public matches, damage a Survivor while they are healing another Survivor or repairing a Generator 5 times.",
+      "trophyDetail": "In public matches, damage a Survivor while they are healing another or repairing 5 times.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/F2B6DFC26D815B7643DCF4F0444D1B69F5B724DE.PNG",
       "trophyGroupId": "008"
     },
@@ -329,6 +329,33 @@
       "trophyDetail": "Escape with Eleven using only her 3 unique perks in a public match.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/3DE2997E6900F7F7C9887F1F8941F760829A7C8C.PNG",
       "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Worthy Opponent",
+      "trophyDetail": "In a single trial in public matches, be chased by the Killer for a total of 90 seconds.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/77ACD271394E87104D9847FD45D29EE60F679460.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Devoted Caretaker",
+      "trophyDetail": "In a single trial in public matches, heal the Obsession 3 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/EA148B30CEA0989771858902DAA156381416F7D0.PNG",
+      "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Tae-young",
+      "trophyDetail": "Escape with Kwon Tae-young using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/1C9C3CE13F9136A4150FEAD1B83BE211A5E8BD66.PNG",
+      "trophyGroupId": "009"
     }
   ]
 }

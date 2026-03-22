@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39459_00",
   "title": "Gems of War",
   "platform": "PS4",
-  "trophySetVersion": "01.15",
+  "trophySetVersion": "01.16",
   "hasTrophyGroups": true,
-  "totalItemCount": 37,
+  "totalItemCount": 39,
   "trophies": [
     {
       "trophyId": 0,
@@ -337,6 +337,24 @@
       "trophyName": "Double the Powder",
       "trophyDetail": "Find 5 Powder Rooms in the Underspire.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/1F8A7E10225DAEB3B8D1A840E005459D93B46B49.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Capstone My Capstone",
+      "trophyDetail": "Unlock a Capstone in a Constellation Board.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/761D34B7ECFCBA4CB9A42D350E5C3BE3C50531E4.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Super Star",
+      "trophyDetail": "Earn 200 Star Stones.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/8998ACFBB7F4DD08511A9526E858CA438D4FF663.PNG",
       "trophyGroupId": "006"
     }
   ]
