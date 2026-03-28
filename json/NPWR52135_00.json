@@ -1,0 +1,424 @@
+{
+  "npCommunicationId": "NPWR52135_00",
+  "title": "エトランジュ オーヴァーロード",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 46,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "ハッピーライフ無双",
+      "trophyDetail": "エトランジュ オーヴァーロードを遊びつくした。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/53D888EB409E7EFE8B9CE92AA43D8FFDB6669E15.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "征服完了！",
+      "trophyDetail": "地獄、天国、現世\n全ての世界を統治した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/16E8D849B1C74CCA42A451CAD0A2FCB566578249.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "堕ちた悪役令嬢",
+      "trophyDetail": "初めて地獄に堕ちた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/A7B92E5587F9E3D1CB9CCEC5CADCE907A1607FB4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "神の御許へ",
+      "trophyDetail": "初めて天国に昇った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/2988F385EB7D5BDF84DA9FB613BAF97D46293A94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "復活の女王！？",
+      "trophyDetail": "初めて現世に舞い戻った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/596C827602CC08C2E88CACAD4D1496278D831FA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "漆黒の愛猫",
+      "trophyDetail": "ネコタローが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/7A5E474491B21B619ED27F2B8D99714B768502E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "地獄の悪魔トリオ",
+      "trophyDetail": "ヒッヒ、クック、ヒャッハーが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/56CDEF9093EF79CD116837B19DD92341DD3357C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ド根性メイド",
+      "trophyDetail": "スイーティアが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/E8421E5B28B2E7B5CCC9945084054161A9F5EA78.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "エリート軍師",
+      "trophyDetail": "エリトが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/A37006F7E592E79EE258E623EEC46046C6CB1595.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "戦のスペシャリスト",
+      "trophyDetail": "シュワルツが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/3E3825FBD3C56FF609C042D17C21123ACFD05954.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "天才クリエイター",
+      "trophyDetail": "イグナシオが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/731A83AD6290B2E46A779157F666BCF94CB00F02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "地獄の番犬姉妹",
+      "trophyDetail": "ケル、ベロ、スーが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/381629994AD9F7765EEF6A5594F86B5C3587D2DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "サキュバスの姫",
+      "trophyDetail": "アリアが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/6737140D549769A24F7063C1F615FE0F1791690A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "先代魔王",
+      "trophyDetail": "アホーボーンが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/5083A90E45A33240D3C2DE784A3464CFDE019037.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "万能執事",
+      "trophyDetail": "ジュエルバトラーが仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/E3A67A42578252AC49CDFC00152A355EDFD26AB0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ゴッドオブゴッド",
+      "trophyDetail": "神が仲間になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/618218256662570441A915DE2BBB2C030C792E5A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "軍団強化",
+      "trophyDetail": "初めてレベルアップした。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/DAF9644F8F6D41651749C2FB0BE4013D3D27B25B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "買い物大好き",
+      "trophyDetail": "ヒャッハーのおみせで100万ダーク消費した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/6ED2437E2948D56747CB8DB89CAAA9C9C5666B07.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初めての料理",
+      "trophyDetail": "初めて料理を作った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/12D3304195D56E448CB4875EC696DF01510BE289.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "料理を求める者",
+      "trophyDetail": "料理を50回作った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/9A31D437B51E9C051ECF7972299A398F2EEC525C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "武器の鍛錬",
+      "trophyDetail": "初めて武器強化を行った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/7690AF0813715F639AB52EA4FB5743BC95CEA887.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "武器の探究者",
+      "trophyDetail": "仲間1人の武器を最大まで強化した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/524353AF9AB62B5010E0B3B4B06667BC5EC5EEF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "武器強化の鬼",
+      "trophyDetail": "仲間全員の武器を最大まで強化した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/4671114B754C81EB6E50A68E1759C0134FC29430.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "レーン初心者",
+      "trophyDetail": "初めてレーン強化を行った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/209C2629F30382CE3440E8B6D5CFA3221EF60513.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "レーンコンダクター",
+      "trophyDetail": "全てのレーンアイテムを最大まで強化した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/10A1F93E76BA89ECE1043A46F845BDC56F476DEF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初めてのおいはぎ",
+      "trophyDetail": "おいはぎ出張した仲間が初めて成果報告を行った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/7CA08284F9042D1128DA97DEEF4688EDAB42C93D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "成果主義者",
+      "trophyDetail": "おいはぎ出張した仲間が成果報告を30回行った。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/4307294B1AA4524C6E68BA03D7E2409C48BB37E7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "初勝利！",
+      "trophyDetail": "初めて反乱に勝利した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/931B3923BEDC13A3C0848C9CF1DDAC2385992E4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "進撃のマカロン",
+      "trophyDetail": "マカロンでオブジェクトを500個壊した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/13BA9FDB8EDD06F8CF756221B37E1EF367FF08C6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ミッション玄人",
+      "trophyDetail": "ミッションを50個クリアした。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/DA2B9A7CC9E4970BC177B6BEB0E637B8587EB9FA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "ミッションマスター",
+      "trophyDetail": "全てのミッションをクリアした。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/27AA20BB011943C82BAA342A9B5066249D1693C7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "一攫千金",
+      "trophyDetail": "初めてレアな敵を倒した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/FBF150BAB835AC12067BFFFA7F9C5A0615163291.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "アイテムゲッター",
+      "trophyDetail": "キラキラを300回調べた。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/6EDBB1FC4FAFD35A7C662F90546C8FEEC6AF634C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "返り血のエトランジュ",
+      "trophyDetail": "敵撃破数が100体になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/A8505749CEEBADD58113ED38E04734BEBD0D8D23.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "世紀末覇王エトランジュ",
+      "trophyDetail": "敵撃破数が1000体になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/8A9BF1A8ED86E4AB595640503CE9FF4523D98EFB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "最強最恐最凶の究極人間兵器",
+      "trophyDetail": "敵撃破数が10000体になった。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/F78150FFAF4F9442D6B4825AC77C2929A3899111.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "黒き惨劇のエトランジュ",
+      "trophyDetail": "必殺技を300回使用した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/A1D2CCA823337683FE8DD7321CCFBFFCC6264F57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "破壊王エトランジュ",
+      "trophyDetail": "爆弾を使用して敵を300体倒した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/BB804EE0B4FC6762AA10678208B1C618CD70A749.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "引っこ抜き上手",
+      "trophyDetail": "仲間を累計10回蘇生した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/F7332E8BCE3F7197F13AFFAE84B10D167D746DB7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "回収の名手",
+      "trophyDetail": "アイテムを50個回収した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/43DAA5991B6381BCC389C9D3DFE72D0143A64736.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鉄壁ガーディアンズ",
+      "trophyDetail": "防衛対象のHPが100%の状態でクリアした。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/272A01CE3DB384D0AF063CEA0546EF12C888808E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "占領名人",
+      "trophyDetail": "10箇所占領した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/377D0F8EA5B6F3665254932F979DB5E95755B8A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "暴力の超ド級怪物",
+      "trophyDetail": "攻撃力アップアイテムを100個獲得した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/D81540149EF2D9ACA78CE6868B8EF67B36FB6A5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "盾大好き！",
+      "trophyDetail": "攻撃無効アイテムを50個獲得した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/9933AF5CB92ABD2D2E9BE13479F73844B2ABF129.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "甘党万歳！",
+      "trophyDetail": "HP回復アイテムを100個獲得した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/422BF2651128B215102CCB04CFD0E35F30F0A6F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "装置大好き！",
+      "trophyDetail": "バトル内のエネルギー式\n装置を200回使用した。",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52135_00_002FC643BBC47E3263087D2ABA71D38F9DAEBCAA39/2E77C4BE929B50F27165CDB703BDA09DE2A416EF.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "npCommunicationId": "NPWR50549_00",
+  "title": "Curse Warrior",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 55,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "呪縛を超えし者",
+      "trophyDetail": "すべてのトロフィーを獲得した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/66A612387C46F610036044DE0D0022BB8C928AFE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "討伐の開始",
+      "trophyDetail": "初めてダンジョンをクリアした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/264183740A788E0BD75D92344F6FC94185831B1B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "傲慢を討つ者",
+      "trophyDetail": "洞窟　ハイヤー・グラウンドのボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/0523D1DBD370BA025FF0CDCC0FC82FA31BCFB548.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "嵐を鎮めし者",
+      "trophyDetail": "巣窟　シシファスのボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/2AF75C25556DD7D39842023C48E5153F8F276434.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "氷翼の終焉",
+      "trophyDetail": "岩窟　クランジのボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/AB95C664EA412860BB080450EC59221F6DD4743E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "虚ろなる顔",
+      "trophyDetail": "魔窟　フィアレスのボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/74759BFD234A308A6620B65378C3FA9D07C8481A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "冥府の女王を超えて",
+      "trophyDetail": "魔宮　ブロン・イ・アーのボスを倒した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/83D94C0F60DD1D61250E24C2ECA5F5F264A3FF73.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "終演",
+      "trophyDetail": "エンディングに到達した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/5DBD25374A287003E07BE726E39E144EDB6A6E9E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "黄昏",
+      "trophyDetail": "真エンディングに到達した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/9FFEAF31C257C6FC15D384C5255ED212FE155BE2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "呪いの兆し",
+      "trophyDetail": "初めて呪いを受けた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/591077F39337A2B20B2D70B9FF6CE84E7DBBACA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "呪いを超えて",
+      "trophyDetail": "呪いを累計で１００個受けた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/07C1CF367A98F976135D7B04A35661B2112F9249.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "呪い中毒",
+      "trophyDetail": "呪いを累計で２００個受けた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/2A95BD3FE43F8CCA926ADBE18C64D461BEB8510B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "呪いの共鳴",
+      "trophyDetail": "初めて同色呪結達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/58B488D63744952604C8F5C1DC6591F8620DDB3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "共鳴の使い手",
+      "trophyDetail": "同色呪結を３０回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/8FAAAFA2C4A889B8995B456A1E17030A26C6065F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "共鳴の達人",
+      "trophyDetail": "同色呪結を５０回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/811E2F52E152F1DE485A8022B604CE4AF17107CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "三呪の契約",
+      "trophyDetail": "初めて三色呪結を達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/ADB8290640EC6369F30ED87AD8F1AF8FE33B3CC7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "三呪の調律者",
+      "trophyDetail": "三色呪結を２回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/ECD5529E94CAF07A6C54E4B10C4DE9E3A05E22E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "三呪の支配者",
+      "trophyDetail": "三色呪結を３回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/B42DE29D6FDEE9B7ED853303ED374B15CEEB362D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "冒険の始まり",
+      "trophyDetail": "エコーズに到着した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/4EE36B5548BDB13586C64F29D895E72216C1F60E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "女神の加護",
+      "trophyDetail": "初めて呪装を使用した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/18E36486A83408C4096CEB7E07B52095796EA6D0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "生還者",
+      "trophyDetail": "初めて極呪クエストをクリアした",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/8611F354D69C0090D735549F57739F3CDAC87E95.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "稀少なる輝き",
+      "trophyDetail": "スーパーレア装備を獲得",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/7B441DC558C5B8730445B7B65C291F9623A0130A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "伝説の継承者",
+      "trophyDetail": "レジェンド装備を獲得",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/645C6547AA064840DD5A7A6D1956451985C084F6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "穢れを祓う者",
+      "trophyDetail": "初めて解呪した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/048B130CEE97BCF3145AA731A59460FF0497B709.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "祓い師",
+      "trophyDetail": "解呪個数３０個達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/A542097BC9C3607C1D133E692D5654A32BDD2C39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "大祓い師",
+      "trophyDetail": "解呪個数５０個達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/218A479C5F3DD625BDBAD86551D87AE13FFAFF3E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "酒場の匠",
+      "trophyDetail": "酒場の強化を最大にした（ツリー全強化）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/47F4979E3E2D6399718707A22A98478CEF819FC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "装備の匠",
+      "trophyDetail": "鍛冶屋の強化を最大にした（ツリー全強化）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/5C929D243338A58FA7B228092F1CDCA05D0E05D2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "技の匠",
+      "trophyDetail": "訓練所の強化を最大にした（ツリー全強化）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/CA78693F498D38EDC8F92D327B58429DEAC34C20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "祓いの匠",
+      "trophyDetail": "解呪施設の強化を最大にした（ツリー全強化）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/85E5DA12C24A0B82ADF554173D0F1F1D7B33135D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "祈りの匠",
+      "trophyDetail": "女神のスキル施設の強化を最大にした（ツリー全強化）",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/DCA62CF5656EEC4FE90229FA219AB9A174C815BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "剛剣の極み",
+      "trophyDetail": "ファイター系の固定装備：武器/防具を最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/FB46E9EA978AB76B94031F45A535F40A10BAF24A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "射手の極み",
+      "trophyDetail": "アーチャー系の固定装備：武器/防具を最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/196E3A70D2E75246AF1D3C029AE15751FF54B76A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "侍者の極み",
+      "trophyDetail": "クレリック系の固定装備：武器/防具を最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/3CB276282E593CC8343BF1789BAB43B46AE19990.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "呪術の極み",
+      "trophyDetail": "ウィザード系の固定装備：武器/防具を最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/205001C078EB011FABAD34866332DC7186A75398.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "祓いの間の解放",
+      "trophyDetail": "解呪施設「レインボウ・アイズ」を開放した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/35A115935D9FF5813A7418224E6FCAB1F872E410.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鉄と祈りの目覚め",
+      "trophyDetail": "鍛冶屋「シルバーマウンテン」とバリオン神殿「女神像の泉」を開放した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/85800C636F0C83017CABCFFC2D19CCC9C2F6BB3A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "鍛錬の始まり",
+      "trophyDetail": "訓練所「ホワイトラビット」を開放した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/54A7480A5A5AD196634209228B5FCCDE4CA2C285.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "穢れなき街へ",
+      "trophyDetail": "街を襲った呪いの瘴気を退けた",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/10AF2C3A787C8D186B9C89DB986F17AF85F3336A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "剛剣奥義の継承",
+      "trophyDetail": "ファイター系のスキルを最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/F466BB0C52A7C03076A81A516DFBF9E0A9515545.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "射手奥義の継承",
+      "trophyDetail": "アーチャー系のスキルを最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/02CEB3E50EB5936A78693B50958773A1038A3AE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "侍者奥義の継承",
+      "trophyDetail": "クレリック系のスキルを最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/71557942F97B5CB8A0F4598AAD4A914FC4C6CF66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "呪術奥義の継承",
+      "trophyDetail": "ウィザード系のスキルを最大強化した",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/0C8189BE8E1BCF3287749F2D39CE4E3411DB9621.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "見習い冒険者",
+      "trophyDetail": "冒険者レベル２達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/71FB90E2DE5F108DFBA3CDB911D7B465FB15E8D1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "中堅冒険者",
+      "trophyDetail": "冒険者レベル３達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/D9AC0B09A6D15FDFF35542BF16C81A5298046CF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "歴戦の者",
+      "trophyDetail": "冒険者レベル４達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/2EB55BAF0A94B6F63F624EA803D421680D1FAD27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "老練の探索者",
+      "trophyDetail": "冒険者レベル５達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/44B5753428980E13D351DC311090CE51DDA44694.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "達人の探索者",
+      "trophyDetail": "冒険者レベル６達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/78D6B7A3EAC4E3EECCAD655C30EE2C5BD24A9CF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "苦渋の器",
+      "trophyDetail": "呪いのレベル２達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/4ECEC8359B30DCE85E7625469A2A5484161BB600.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "発狂の器",
+      "trophyDetail": "呪いのレベル３達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/2527CB9425ABF54A4D6153342991B45878AF7C4B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "極限の器",
+      "trophyDetail": "呪いのレベル４達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/B4171D0E5575517B8F2DD3BEEB6A61A2064EB52F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "錯乱の器",
+      "trophyDetail": "呪いのレベル５達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/C7F108727424A0FEA1A879E24018BFAAE71545C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "狂気の器",
+      "trophyDetail": "呪いのレベル６達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/6C9D8E62EB6B5FB80E664DB024C119EC6D8B8A57.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "深淵を覗く者",
+      "trophyDetail": "虚無の呪いを獲得",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/08A40F97437F9F7FE1E8956854EFEDD99D39DEB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "百戦錬磨",
+      "trophyDetail": "探索出発回数１００回達成",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR50549_00_00AB4FB092BCAE3CD38BE8DDFA123A91ABE7EE27BD/1DCD2FDA12D8B6AF4C614948DC9B1097DE058075.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

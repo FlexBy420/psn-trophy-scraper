@@ -1,0 +1,334 @@
+{
+  "npCommunicationId": "NPWR48854_00",
+  "title": "Fallen",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 36,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Almight",
+      "trophyDetail": "Unlock all achievements",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/4881af4d-5e6d-4f91-b18b-3e27bc67f993.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Aries",
+      "trophyDetail": "Unlock \"Clairvoyance\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/3ee59063-5603-4a33-9af3-1fc727331ad5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Taurus",
+      "trophyDetail": "Unlock \"Telekinesis\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/e46fe830-ce62-4797-a846-ba04b86de51c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Leo",
+      "trophyDetail": "Unlock \"Short Shockwave\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/18b2f1f2-3fda-4dcf-b640-ed9b0225542f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gemini",
+      "trophyDetail": "Unlock  \"Teleportation\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/49bffef5-15e3-4179-8a6f-dbe57435449c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sagittarius",
+      "trophyDetail": "Unlock  \"Psychokinetic Shot\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/820dc1d5-1879-46f1-b55a-8290c441c8b9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Virgo",
+      "trophyDetail": "Unlock \"Psychic Shield\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/a4b39496-677c-4ada-ad24-fecc31a3078f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Libra",
+      "trophyDetail": "Unlock  \"Freezing Time\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/964faf3d-6977-40ca-9227-d21e3b099ebc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cancer",
+      "trophyDetail": "Unlock \"Resurrection\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/d4865165-85dd-47f4-a34b-085e03873baf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My Fault",
+      "trophyDetail": "Kills 1 non-combatant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/ef17b193-48bf-44de-bb7e-2e008f22f8cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get off my way!",
+      "trophyDetail": "Kill 10 non-combatants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/de47334b-34fb-439c-85d9-606f8d57e6ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cruel murderer",
+      "trophyDetail": "Kill 100 non-combatants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/32ebf506-7b5c-4ede-9c45-421b68835fb2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First attack",
+      "trophyDetail": "Disables 1 combatant.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/5127c2ba-2db9-4ede-88fd-5b31c4a353c8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No mercy",
+      "trophyDetail": "Disables 50 combatants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/68b08256-c8f9-439e-8657-5c66ccc52f0f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Juggernaut",
+      "trophyDetail": "Disables 100 combatants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/be191d38-5b81-4b21-9663-8de5989221bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clumsy man",
+      "trophyDetail": "Kill one combatant by crushing or squeezing",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/da712c5d-a309-4980-9125-7593d6832bc0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unpleasant touch",
+      "trophyDetail": "Kill 50 combatants by crushing and squeezing",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/793b537b-d6bc-4208-8271-6c959a8b7c74.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Psychopath",
+      "trophyDetail": "Kill 100 combatants by crushing and squeezing",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/9b942c58-3f99-43ee-9534-197696b2144b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lovery kitty kitty",
+      "trophyDetail": "Rescue one cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/4aa2abe1-6b3c-443b-8ee8-1ff9cbc29403.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Fragment",
+      "trophyDetail": "Collect one Coin of a constellation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/2826c374-2c5d-467d-b94c-6735789fdd1b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Returnee",
+      "trophyDetail": "Defeat the final boss",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/9c53a2ff-cfc4-4f90-8b01-165f147e18ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Piscis",
+      "trophyDetail": "Unlock \"Levitation\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/8a212d22-355c-4291-8be5-121348e103c4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Capricorn",
+      "trophyDetail": "Unlock \"Super healing\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/dc955e40-3ff9-486a-b632-6ce7be8abbc2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Aquarius",
+      "trophyDetail": "Unlock \"Hyper Focus\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/0f411937-e325-4da2-a7f0-111dc832c162.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scorpio",
+      "trophyDetail": "Unlock \"Poison Immunity\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/20c9415b-c71b-4322-8bb7-eb8a3fdc6148.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Saint",
+      "trophyDetail": "Complete the game without using telekinetic murder",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/df432a96-e4c0-4518-9f99-b72b773f348b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hero",
+      "trophyDetail": "Complete the game without killing non-combatants",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/e6380dce-a49f-4521-b374-2a8e2e1e4de6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Safety first",
+      "trophyDetail": "Complete the game without destroying buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/54496e59-16e8-4a5c-9de6-98cad2c8047c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Teraformer",
+      "trophyDetail": "Destroy all destructible buildings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/ef2fe030-79d2-44ae-95d9-dabfbbe4e523.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nebula",
+      "trophyDetail": "Collect 50 Coins of constellations",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/8d9da1f3-e253-44e9-9d15-94c8bef9475f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Zodiac",
+      "trophyDetail": "Collect all the Coins of the zodiac",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/cb5212c5-867f-4f8a-ab33-36efe440a313.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "All over the Galaxy",
+      "trophyDetail": "Collect all the Coins of the constellations",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/e05c9d54-b58a-4f31-8f67-2898cfa80625.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Bastet",
+      "trophyDetail": "Rescue all the cats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/e82e6a8a-85d2-40ae-ae07-a7cd0d17556a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Space Conqueror",
+      "trophyDetail": "Defeat hidden boss",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/0bc69790-a6bb-4bf2-b9c4-1e634149a0bf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cat Allergies",
+      "trophyDetail": "Clear without rescuing a cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/632e0148-4268-4f87-8378-f1f7532281de.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Permanent neutral",
+      "trophyDetail": "Clear with 50% humanity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR48854_00/a09e5547-3a42-473c-801b-63a20fb5092a.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

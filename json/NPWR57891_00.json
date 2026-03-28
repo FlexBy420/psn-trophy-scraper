@@ -1,0 +1,515 @@
+{
+  "npCommunicationId": "NPWR57891_00",
+  "title": "New Super Lucky's Tale",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 55,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "That's a Wrap",
+      "trophyDetail": "Collect all trophies in New Super Lucky's Tale",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/e3c03bdb-d55b-4308-9c71-79810b1ceac7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gotta Run!",
+      "trophyDetail": "Finish a Burrow Run level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/6f4f3447-d165-4e0a-92eb-714d3a210d7b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Need A Third Dimension",
+      "trophyDetail": "Finish a 2D level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/80636c7a-7e0b-489d-9a25-96ed2adc8cc5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Tale",
+      "trophyDetail": "Complete the Prologue.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/6ef3a4b6-22c5-47f9-85e2-8d25b79735c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slide To The Left",
+      "trophyDetail": "Complete a Sliding Block Puzzle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/fad314ea-ea2e-4f0a-afc4-8e4ccf0fe771.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Marble Madness!",
+      "trophyDetail": "Complete a Tess Marble Minigame.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/adc7edfd-d958-4a22-b284-4ff54648c7cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Black Belt",
+      "trophyDetail": "Defeat Master Mittens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/6b0730ea-ef35-4bb3-9b3b-bd3b0f19c6b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What's Down Here?",
+      "trophyDetail": "Use a foxhole.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/276705c7-f7af-4163-8241-8e9023fa59ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sticky Situation",
+      "trophyDetail": "Fall into a tar pit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/169df721-7901-4d9e-a609-fcc937766b60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pancaked",
+      "trophyDetail": "Get crushed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/54822ea0-da84-4e72-91f2-3492a30248c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Got LUCKY",
+      "trophyDetail": "Collect all the LUCKY letters in a single level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/553523f8-e2ed-4e6c-9be5-e278a7dd9972.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "10,000 Leagues Under The Ground",
+      "trophyDetail": "Burrow 10,000 meters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/d4b6b260-abde-4fe6-9a9a-0df1af1942a0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Brawn Over Brains",
+      "trophyDetail": "Defeat Tess.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/a7e6e2b2-a722-40fc-9d90-27d506563935.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Cannon Fodder",
+      "trophyDetail": "Defeat General Buttons and Lt. Fluffinstuff.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/3552b8e2-1489-473e-8b62-b00bf498dae6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The End Of A Tale",
+      "trophyDetail": "Defeat Jinx once and for all!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/b169ae1b-4a01-4c77-a6b5-36fc4e567b60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Gather 'Round, Chicken",
+      "trophyDetail": "Help the Wormal farmer gather his chickens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/18f4850d-03d1-43fb-84dc-451e0b191cec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You're A Fungi!",
+      "trophyDetail": "Solve the mushroom puzzle in Grave Awakening.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/195914e0-982e-4359-b654-64783eb4f24b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Sky-High",
+      "trophyDetail": "Collect all Pages in Sky Castle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/0f215896-a546-4d0a-903f-aad641ab3e03.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "22"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Real Veggie Villager",
+      "trophyDetail": "Collect all Pages in Veggie Village.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/267ba4d3-dfa5-4933-8b37-835291da7df9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "22"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "R&R",
+      "trophyDetail": "Collect all Pages in Wrestful Retreat.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/c08e3ba5-aaaa-4b41-9bb2-897f55643abe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "26"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Not Spooped",
+      "trophyDetail": "Collect all Pages in Hauntingham.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/954305ae-8851-4488-b005-bd127f4099a1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "...monster",
+      "trophyDetail": "Must... destroy... sandcastles!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/58ac0902-81e1-4b60-9447-eb8350c6f823.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Sinking Feeling",
+      "trophyDetail": "Defeat General Buttons and Lt. Fluffinstuff in Three Cannon Salute.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/f39442e7-a601-4ae0-9670-e2e7b7fdbf20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under My Umbrella",
+      "trophyDetail": "Complete Trapped in Paradise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/277066fb-a976-43ff-bd23-43152dc9ce31.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wormstock",
+      "trophyDetail": "Rescue the Soggy Boggy Boys' audience.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/27ff62a0-7158-429b-a19e-d06575f659e7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Showstopper",
+      "trophyDetail": "Defeat Lady Meowmalade in her dance club.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/81203f1d-d4c7-46f8-9329-413f3362ae0c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Collect all Diamonds in Securing the Talent.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/546d7510-f2ab-4d6d-8d54-0997446d6846.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "If There's A Place You Gotta Go...",
+      "trophyDetail": "Look at every map in Trapped in Paradise.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/b6540280-4055-4248-839a-748c115ae5dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Who Needs Walls?",
+      "trophyDetail": "Beat Trapped in Paradise without flipping a switch.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/ed879ddb-001d-4f3a-93c5-a028762baf32.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smooth Criminal",
+      "trophyDetail": "Defeat Lady Meowmalade without getting hit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/c137302d-e7de-41d6-82ed-d4f8953d66d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gone Fishin'",
+      "trophyDetail": "Collect all Pages in Gilly Island.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/9088a54e-3fee-4aa3-b85f-2fd1ff2160c1.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "18"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump, Man!",
+      "trophyDetail": "Defeat the Yeti in Securing the Talent.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/d71a4ba4-6188-42f4-b906-0a1976935ee0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Is My Name",
+      "trophyDetail": "Take no damage at the end of Three Cannon Salute.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/03f0b5a9-3ddc-4355-9c82-a31e70ec441f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cashing Out",
+      "trophyDetail": "Activate all the Cash Registers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/e0597a5c-575f-48bf-8c96-46175dde0f72.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fistful Of Dollars",
+      "trophyDetail": "Collect 1,500 Coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/b311be72-255a-4922-bdcf-45c788c2a3a0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1500"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Few Dollars More",
+      "trophyDetail": "Collect 5,000 Coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/470680bc-4e08-4251-8e43-363f041b27da.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Good, The Bad, And The Wealthy",
+      "trophyDetail": "Collect 12,000 Coins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/a6f3b9b1-3380-4ecd-bd6d-8b45c4d74742.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12000"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Real Hero",
+      "trophyDetail": "Watch the Credits.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/6b498128-5050-4512-a524-176e30f2cbbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Robot Rock",
+      "trophyDetail": "Complete all Ch1p levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/77de3cf2-b8c1-4982-9689-cd087219b736.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savage",
+      "trophyDetail": "Complete all PW levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/ef27e1b2-3f62-4c31-a113-d8914d60b356.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brainworm",
+      "trophyDetail": "Complete all Anna Lyd levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/728f3d19-8a41-436b-87f3-cbc47149e6e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A True Guardian",
+      "trophyDetail": "Complete all of the levels in Foxington.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/05e7afd2-0bf3-483f-b87e-95e1d672c819.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Get Set Radio",
+      "trophyDetail": "Interact with all 5 radios in Foxington.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/d2fe3821-e07a-4cf9-8c29-ad6bbe981156.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grey Fox",
+      "trophyDetail": "Never get caught in a single run through of Under Pressure.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/9fb0b9a2-e2df-4731-9162-ece352463caf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On Top Of Things",
+      "trophyDetail": "Defeat all of the enemies in Top That!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/8fc04463-a9df-4691-9d86-8ba458c86bec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soap, Please!",
+      "trophyDetail": "Take a shower in Foxington.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/a7e5bd35-6c41-4a4c-b41a-ccee8b6d7151.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beetrayal",
+      "trophyDetail": "Have a Buzzkill kill a fellow Buzzkill.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/f97c19c3-0eb9-4788-bc26-5334dede60a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The New Champ",
+      "trophyDetail": "Take no damage in WriggleMania.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/580859a3-6b9d-4b9d-b324-a5f1e6eb3315.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Fit",
+      "trophyDetail": "Equip your first costume.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/a2298357-2f8a-49e6-8ec8-570996499be6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Is My Shirt On Backwards?",
+      "trophyDetail": "Equip a mismatched costume.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/f118ac44-6e9b-4d0a-bb43-96261f32082a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fashion Icon",
+      "trophyDetail": "Purchase all of the costumes from Sky Castle, Veggie Village, Wrestful Retreat, and Hauntingham.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/a2298357-2f8a-49e6-8ec8-570996499be6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "8"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A \"Diamond\" Dozen",
+      "trophyDetail": "Find all 4 diamonds in A Road to Nowhere.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/d2e5d50e-bc7d-4cf8-b676-8ccd83978fc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "That Went Swimmingly",
+      "trophyDetail": "Take a dip in Foxington.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/db6b042d-db52-494e-9c83-297b812c2654.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Everything Is Mine",
+      "trophyDetail": "Collect all of the collectibles during the cross ladder section of Step by Step.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/ab3ca299-1271-44de-bb4a-f2d0dcaa8e22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "80s Ready",
+      "trophyDetail": "Defeat WriggleMania while wearing the Maxi-Mullet.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57891_00/678c3809-952a-4bca-90a2-75468ca43b71.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

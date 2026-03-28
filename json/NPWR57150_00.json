@@ -1,0 +1,442 @@
+{
+  "npCommunicationId": "NPWR57150_00",
+  "title": "모든 트로피 획득",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 48,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "모든 트로피 획득",
+      "trophyDetail": "모든 트로피를 획득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/C8A788E5E551311C4411BAB3CE6E3D6FC5FE0FB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "수선 시작",
+      "trophyDetail": "처음으로 수선을 했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/6DD06616FEFAAB411FCCD394E261B8351DBCD14A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "물 원소 부활",
+      "trophyDetail": "영걸의 서: 물을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/DEAAC5FAD94E4FB9CC806078F353CD1F47863AA1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "바람 원소 부활",
+      "trophyDetail": "영걸의 서: 바람을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/AEA3436EAD248B4045DDDE6329F8D66BA652ACAC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "땅 원소 부활",
+      "trophyDetail": "영걸의 서: 땅을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/8D27DFCC518F1FE70FE9FEBE3B879277D57D0A8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "불 원소 부활",
+      "trophyDetail": "영걸의 서: 불을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/36EF3AB1FF50259676EC300DBEE549406EA73EE7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "전도 기술 부활",
+      "trophyDetail": "영걸의 서: 전도를 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/D0BCDCB148B3B257416E2398F6567AA1FBAB2A58.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "수렴 기술 부활",
+      "trophyDetail": "영걸의 서: 수렴을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/58E035CC9945F8041E6EF4F5C63B26418434753E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "확산 기술 부활",
+      "trophyDetail": "영걸의 서: 확산을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/30EC23F6214D4AD816D15BA83C5A3ACFFF3B07E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "위험한 힘 봉인",
+      "trophyDetail": "영걸의 서: 시공을 완료했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/29AA09BF945F547357CCC483E4915B2F4B0E732F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "신속한 일",
+      "trophyDetail": "수선 랭크 A를 획득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/7C2CE93F4D293A0880AC164F36849645754D9748.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "완벽한 일",
+      "trophyDetail": "모든 수선 포인트에서 랭크 A를 획득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/B988E6427B5318874DF7FC685208384469BDD07E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "나를 희생하는 헌신",
+      "trophyDetail": "영걸의 서: 물을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/E935E2F0C88C4D648B39C4E60993F7FBB48808A0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "자유를 추구하는 갈망",
+      "trophyDetail": "영걸의 서: 바람을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/E56192ED75C60554EBF0FA5ABE0EB251DE3F57B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "맞서는 각오",
+      "trophyDetail": "영걸의 서: 땅을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/7D569EE11FE85F9AEC88FFC309DEC5AB6CD9D37A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "미래를 개척할 결심",
+      "trophyDetail": "영걸의 서: 불을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/D482253F2167686E311620D7C80618070ACABA46.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "이어지는 의지",
+      "trophyDetail": "영걸의 서: 전도를 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/4761B2010DE59FC8039F9BBB03DC3F93E11FDA50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "함께 나아가는 융화",
+      "trophyDetail": "영걸의 서: 수렴을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/7261C09AA8AF55533F15375BC64B09FB143C83A8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "퍼져 나가는 희망",
+      "trophyDetail": "영걸의 서: 확산을 완전히 수선했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/7E0143938C390D48E5C8973F3101D85AF00A3763.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "싸우는 사서관",
+      "trophyDetail": "책의 마물 300마리를 물리쳤다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/532ED0C7A9E9F948428C09C5525D98C3B6CC231C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "상급 사서관",
+      "trophyDetail": "책의 마물 1,000마리를 물리쳤다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/14AFE2113FDF551342C30757C8912FC74715E71A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "정예 사서관",
+      "trophyDetail": "책의 마물 5,000마리를 물리쳤다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/A263D3A9B22C6F302A367C5EDF6704B42151FDE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "작은 성과",
+      "trophyDetail": "획득한 수선 조각 수가 총 10,000이 넘었다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/83B2A1FEAF4C532A7C6EAC35F2DD95A9852300A1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "큰 성과",
+      "trophyDetail": "획득한 수선 조각 수가 총 100,000이 넘었다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/ACCC47DC154E321DAACF8AF71CB3C995CAEBA49B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "예외 없는 성과",
+      "trophyDetail": "획득한 수선 조각 수가 총 1,000,000이 넘었다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/B667A0610383DC41548ACE61654DE1CD4E683A74.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "시공을 다루는 자",
+      "trophyDetail": "무속성 마법을 모두 익혔다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/5A116F276F5402B0E7EEDB6419B2202C550BFCBB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "물을 다루는 자",
+      "trophyDetail": "물 속성 마법을 모두 익혔다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/A5320E72473855610A12BA687CA33602ABDFF8F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "바람을 다루는 자",
+      "trophyDetail": "바람 속성 마법을 모두 익혔다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/5D02992CE5E548EA03AC550E236272492A6636FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "땅을 다루는 자",
+      "trophyDetail": "땅 속성 마법을 모두 익혔다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/F3FB58F4BDA041E2626C46B6617F90E5DD6B6B77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "불을 다루는 자",
+      "trophyDetail": "불 속성 마법을 모두 익혔다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/AE078880908263E178F68767F80120815C2F814A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "육체파 사서관",
+      "trophyDetail": "\"생명의 증표\", \"생명의 문장\"을 모두 획득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/5328E03D9ED34656DDB990D3D1051302A8D90757.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "끝없는 마력",
+      "trophyDetail": "\"전술의 증표\", \"전술의 문장\"을 모두 획득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/7404060104E83E6BD39756C31FC4F0DDEF5A4503.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "완전한 대비",
+      "trophyDetail": "마도구의 장비 코스트를 최대까지 늘렸다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/1A8690EA2D61D833E8B2F612D6F44C094EAB9A31.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "이질적인 시련",
+      "trophyDetail": "처음으로 전투 불능이 되었다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/C0D90F09BDDBEE907F4169B502FC7C80D89830B9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "선인들의 지혜",
+      "trophyDetail": "처음으로 마도구를 장비했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/5D3BF32E49BECD1B2295FC8A594C7E34D8017BC0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "마도구 수집가",
+      "trophyDetail": "마도구를 30종 이상 손에 넣었다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/282A87E283EDAD72B79A079F83FBFE7935B4546D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "연마하는 기술",
+      "trophyDetail": "처음으로 마법 레벨을 강화했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/B287CFCE376F3063228D57510C1BB253B420040B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "연구하는 기술",
+      "trophyDetail": "처음으로 마법 추가 성능을 습득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/8EFD3261A38A868AD8E73A2E988A88CFD9FC7529.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "궁극의 힘",
+      "trophyDetail": "하나의 마법 레벨을 최대로 올리고 추가 성능도 습득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/9395285B6B37F6853775A60AC45F3E48352CECF7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "전능한 힘",
+      "trophyDetail": "모든 마법 레벨을 최대로 올리고 추가 성능도 습득했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/8253B61CA24B14538058E819F98117C46EB3438C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "원소의 화신",
+      "trophyDetail": "처음으로 형상 변화를 했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/DA91959ABE472DFAEA28BAA775A1677DF6F23BE8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "초보 마법사",
+      "trophyDetail": "속성 버스트를 10회 발동시켰다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/53A1B0BFAE15775E6EECB6A7C01D555A62B17DA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "숙련 마법사",
+      "trophyDetail": "속성 버스트를 100회 발동시켰다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/1F55B4C69359D9DE4CF3AB05239A4907DBB4BD86.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "대마법사",
+      "trophyDetail": "속성 버스트를 500회 발동시켰다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/93645213C3D411694D441A572695A2B7D72856EC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "되찾은 제작법",
+      "trophyDetail": "아이템을 20회 생성했다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/08E76D97EB803A4742AEA901CFD0D874357AF6E8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "믿음직스러운 동료들",
+      "trophyDetail": "도서관 직원으로부터 3종류의 마도구를 받았다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/449BFEFA3CE3994438C5193D69C88CE62DAB12A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "아리아나의 취미",
+      "trophyDetail": "즐거움이 없어도 살아갈 수 있다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/4662E382FB8007FB56AAE0CC24956565A11BA182.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "You are ME",
+      "trophyDetail": "미의 정체를 알아냈다.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR57150_00_00B79F719A1C0BFEE88095172E690ED4F26CA7EF8F/1D7BC74E53CCC8C65771816F3E07D60D92A65771.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}
