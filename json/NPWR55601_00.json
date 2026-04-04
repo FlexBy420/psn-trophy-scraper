@@ -1,0 +1,487 @@
+{
+  "npCommunicationId": "NPWR55601_00",
+  "title": "Crystal Project",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 52,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Adventurer",
+      "trophyDetail": "Obtain all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/66940b48-06bb-4315-ba81-d8ca6437a197.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Spotter",
+      "trophyDetail": "Discover 3 Crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/fc2c11ce-96f6-4bd0-be97-baa2439967d4.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crystal Collector",
+      "trophyDetail": "Discover 7 Crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/f06d2b66-137a-40f7-815f-53f199a75ff0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crystal Hunter",
+      "trophyDetail": "Discover 12 Crystals.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/1b8a0619-c0ad-4795-b808-97b49e3656e5.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Crystal Gumshoe",
+      "trophyDetail": "Discover every Crystal.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/31744f27-5427-445d-8605-a07013c3f7d4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adventuring On",
+      "trophyDetail": "Conquer the trials.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/6791a81c-9e59-48fd-a70f-a14f9be89c62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Far Away Lands",
+      "trophyDetail": "Teleport to a far away land.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/151d4f33-cb66-415b-98e5-5f0a0be7de4c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unknown World",
+      "trophyDetail": "Teleport to an unknown world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/d1b9d16d-6b98-40dd-82c4-101e45bedee6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Friend of Quintar",
+      "trophyDetail": "Obtain a Quintar companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/0dbf5d09-efb8-4e3b-96a8-f3bb9c526b73.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Friend of Ibek",
+      "trophyDetail": "Obtain an Ibek companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/2aee95b4-c8cd-4677-872b-b634d9d0f97b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Friend of Owl",
+      "trophyDetail": "Obtain an Owl companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/984e57d4-e2b6-43f2-9f88-7e16bbbd0814.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Friend of Salmon",
+      "trophyDetail": "Obtain a Salmon companion.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/24264857-cc2f-48fd-9655-bc7d6f4ae64f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boss Prevailer",
+      "trophyDetail": "Defeat a boss flame.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/98b07114-9108-4bfa-97d6-3b28c4a20aab.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boss Slayer",
+      "trophyDetail": "Defeat 5 boss flames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/c17852b6-d4ae-465f-a0a1-e2186516d736.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boss Butcher",
+      "trophyDetail": "Defeat 25 boss flames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/cb2c01d0-9653-42a8-8699-813537303904.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept of Monster Magic",
+      "trophyDetail": "Learn a Monster Magic spell.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/04e8bb7c-ab6d-46d8-85b5-6c555733896c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert of Monster Magic",
+      "trophyDetail": "Learn every Monster Magic spell.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/f9d757c2-3d6e-4b01-ab6a-028722bdef9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Summoner",
+      "trophyDetail": "Acquire a Summon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/9fc6de34-1b2f-408a-9808-9fedaf2977d7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert Summoner",
+      "trophyDetail": "Acquire every Summon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/f0a2cb77-81f8-4041-8d28-29b0041d7209.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Name Changed",
+      "trophyDetail": "Change a party member's name.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/7c02e141-b928-4919-bc33-7092244b7db4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gender Changed",
+      "trophyDetail": "Change a party member's gender.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/2b2b6f5d-35cb-4145-ba14-e9293b2890cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Seeker",
+      "trophyDetail": "Open 50 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/4c4b0224-ce4e-4652-8776-4b3591977b80.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Finder",
+      "trophyDetail": "Open 100 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/b5967967-b8d0-476a-a0f2-68a25c6a00cb.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Treasure Acquirer",
+      "trophyDetail": "Open 500 treasure chests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/a2c7934e-0839-4c27-97c3-1999fbf88bba.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Max Level",
+      "trophyDetail": "Have a party member reach max level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/1568b2cc-524f-4ef3-a796-6cff93d154a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Golden Quintar",
+      "trophyDetail": "Breed a Golden Quintar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/d14faa22-c83b-4428-8e2b-280ac9ac99eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Real Adventurer",
+      "trophyDetail": "Beat the game.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/6c4842cd-890a-4aed-b6ac-ba4c4ed18d5c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "True Adventurer",
+      "trophyDetail": "Beat the game's secret last boss.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/08b7fd17-b15b-431c-9bfe-f7ac943c7878.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Warrior",
+      "trophyDetail": "Master the Warrior class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/6b5c15e4-a966-4ad0-a8a0-0dd138190841.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Monk",
+      "trophyDetail": "Master the Monk class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/d6488baa-ac4f-4b38-ab1c-bdeaaef35b48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Rogue",
+      "trophyDetail": "Master the Rogue class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/1b503bc2-853c-4501-95b8-0131c6132b1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Cleric",
+      "trophyDetail": "Master the Cleric class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/1e5ac630-5de1-47c6-8e0e-e8061f5a250d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Wizard",
+      "trophyDetail": "Master the Wizard class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/8700b998-7f0a-406f-900e-707e3c871b4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Warlock",
+      "trophyDetail": "Master the Warlock class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/d5cbb782-b5bd-4737-899e-648dead6f5bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Fencer",
+      "trophyDetail": "Master the Fencer class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/dcb64118-531f-4c68-a318-b2b6438edf62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Shaman",
+      "trophyDetail": "Master the Shaman class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/26af513d-c5b9-4d39-b6f8-ad229f0d7746.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Scholar",
+      "trophyDetail": "Master the Scholar class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/80bc6430-61bc-42d8-acde-ad6e23010b4e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Aegis",
+      "trophyDetail": "Master the Aegis class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/958b7871-0097-4ffe-a716-b56023bef6b2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Hunter",
+      "trophyDetail": "Master the Hunter class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/49c7ef5e-c6d2-40c0-a7a8-696fb8f0b216.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Chemist",
+      "trophyDetail": "Master the Chemist class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/1380b6d2-cb93-4ad9-8423-3364dc82447e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Reaper",
+      "trophyDetail": "Master the Reaper class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/980689b2-fcea-4193-8ee9-e47666a8ad75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Ninja",
+      "trophyDetail": "Master the Ninja class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/76c9404a-2cc5-4281-b038-60a97c37505a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Nomad",
+      "trophyDetail": "Master the Nomad class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/2256a0a4-a6a2-4d30-8e8a-ad95946c258d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Dervish",
+      "trophyDetail": "Master the Dervish class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/83068c04-b19d-4366-9990-7a33b52a3818.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Beatsmith",
+      "trophyDetail": "Master the Beatsmith class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/6d860257-9404-4f44-90e4-81fc2d843b8a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Samurai",
+      "trophyDetail": "Master the Samurai class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/2e76b39d-a3f0-44be-92c5-e5f89165870f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Assassin",
+      "trophyDetail": "Master the Assassin class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/a2c9026d-e277-4a19-b513-4fc40c5a3bb8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Valkyrie",
+      "trophyDetail": "Master the Valkyrie class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/38301c95-f64b-48d0-92c8-46ac640533ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Summoner",
+      "trophyDetail": "Master the Summoner class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/46bcdbd7-fbd9-4f24-b1fd-90d84cdde500.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Beastmaster",
+      "trophyDetail": "Master the Beastmaster class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/e1b49d97-e11d-45b0-9cde-7d9e841566b4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Weaver",
+      "trophyDetail": "Master the Weaver class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/670af017-5cbf-412d-9fc0-d34b38c5ee34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Master Mimic",
+      "trophyDetail": "Master the Mimic class.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55601_00/f02f48ba-56be-429c-8fa3-fa963a2929cd.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

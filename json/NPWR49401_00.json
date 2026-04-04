@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR49401_00",
   "title": "Magnitude: Epsilon",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 12,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 14,
   "trophies": [
     {
       "trophyId": 0,
@@ -113,6 +113,24 @@
       "trophyDetail": "Purchase all upgrades",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49401_00_00974198706CC67B468FC10B532961DADA55631B6F/AC2BB5E6344C0BF47A493918B1161079250CF290.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "E-13",
+      "trophyDetail": "Complete all bonus stages",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49401_00_00974198706CC67B468FC10B532961DADA55631B6F/2290E0F99C345BD06F43A08CC8858D4AD2629432.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A True Epsilon",
+      "trophyDetail": "Complete challenge mode with a total score of 2,500 or more",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49401_00_00974198706CC67B468FC10B532961DADA55631B6F/9DBFF486167CE81BCC3EFBB08666E523A2F39A2E.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }
