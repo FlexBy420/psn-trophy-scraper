@@ -1,0 +1,757 @@
+{
+  "npCommunicationId": "NPWR45823_00",
+  "title": "Starfield",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 83,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum Trophy",
+      "trophyDetail": "Collect all other 50 Trophies for this Trophy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/24aa44d6-2369-41d7-aaf9-fd0dd3efb7bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For All, Into the Starfield",
+      "trophyDetail": "Enter Space for the First Time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/29c07f76-a3ed-46aa-9146-75383d0e7f2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "One Small Step",
+      "trophyDetail": "Join Constellation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/acba0442-a1de-45cb-9737-14a8d3a6ed2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Into the Unknown",
+      "trophyDetail": "Complete \"Into the Unknown\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/b7075a5e-7018-4f6d-9933-1399eb61ac81.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All That Money Can Buy",
+      "trophyDetail": "Complete \"All That Money Can Buy\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/dde89515-a3ae-403b-904b-263583114030.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Further Into the Unknown",
+      "trophyDetail": "Complete \"Further Into the Unknown\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/7b61372b-8f10-4b85-860c-643106c2efea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High Price to Pay",
+      "trophyDetail": "Complete \"High Price to Pay\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/3c3da185-3805-46b0-98a5-ff6c6c94de9d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In Their Footsteps",
+      "trophyDetail": "Complete \"In Their Footsteps\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/8dddb096-fed8-41b8-ad83-986e898c68a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Entangled",
+      "trophyDetail": "Complete \"Entangled\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/2de478c6-d240-42e8-bd92-c7aac54a7b5a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unearthed",
+      "trophyDetail": "Complete \"Unearthed\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/3aab0bf7-b602-4f5f-b8c4-3c182b936a05.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "One Giant Leap",
+      "trophyDetail": "Complete \"One Giant Leap\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/92f62f21-f8fb-4a71-80b3-4b9373d15715.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Supra Et Ultra",
+      "trophyDetail": "Join the UC Vanguard",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/7b6a9e43-4975-4570-b79b-68bb17718ff2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Devils You Know",
+      "trophyDetail": "Complete \"The Devils You Know\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/ecfea984-3a50-422b-a18e-536e31a2e452.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Legacy Forged",
+      "trophyDetail": "Complete \"A Legacy Forged\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/8cd911a8-651b-4ca0-bc67-85fa91af5dcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deputized",
+      "trophyDetail": "Join the Freestar Rangers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/0a65abf4-7190-494d-8a3a-96dc64af4184.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Surgical Strike",
+      "trophyDetail": "Complete \"Surgical Strike\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/751942a8-448f-42d8-b74d-084a3e02e577.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Hammer Falls",
+      "trophyDetail": "Complete \"The Hammer Falls\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/a34cb06b-bc9f-4553-98f1-32ed3f23e258.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back to the Grind",
+      "trophyDetail": "Join Ryujin Industries",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/bdbe21b6-4c7c-4e40-ad56-accab63252f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Guilty Parties",
+      "trophyDetail": "Complete \"Guilty Parties\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/415d4474-bd84-42cc-91c9-ce9387ea83a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Executive Level",
+      "trophyDetail": "Complete \"Executive Level\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/56b54f04-d58c-47f7-8325-3a7ebe2430c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rook Meets King",
+      "trophyDetail": "Join the Crimson Fleet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/b3a22c34-5dd0-4bdf-a1be-89fa1e20e2a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Best There Is",
+      "trophyDetail": "Complete \"The Best There Is\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/b0524b34-1cb6-4611-b044-40b7eb524ebd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Legacy's End",
+      "trophyDetail": "Complete \"Legacy's End\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/1cab57c2-fe28-4b97-9eda-d45de9db65dc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Home Sweet Home",
+      "trophyDetail": "Build an Outpost",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/d7c0113b-3c2f-479f-9566-f2df0886292d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shipping Magnate",
+      "trophyDetail": "Connect 5 Outposts with Cargo Links",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/12a0580d-3c69-4390-b93b-928b16944471.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrialist",
+      "trophyDetail": "Produce 500 Total Resources from Outposts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/bd738fd6-c875-48f7-939a-44f0bd482a3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chief Engineer",
+      "trophyDetail": "Modify a Ship",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/6910ea5a-9cbf-43eb-9b60-8723bc96bd61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stellar Cartography",
+      "trophyDetail": "Visit 20 Star Systems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/3aac9c2b-edc4-4124-a7a2-d996cf62cfa7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Stars My Destination",
+      "trophyDetail": "Visit all Star Systems",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/24adc331-b83c-41b2-a2cb-d8eac8ce716d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boots on the Ground",
+      "trophyDetail": "Land on 100 Planets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/1e269143-bbc5-489c-ae4a-6e4358e3e8e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fixer",
+      "trophyDetail": "Complete 30 Activities",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/87ef6945-8c2a-45c1-ab2d-9a94bf12d4a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Privateer",
+      "trophyDetail": "Complete 30 Terminal or Misc. Missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/91c43f11-c14e-4723-ae47-d54122998f7d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life Begets Life",
+      "trophyDetail": "Gather 500 Organic Resources",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/8e9e2b49-5f4b-49c5-9ed7-502c58e0e78c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rock Collection",
+      "trophyDetail": "Gather 500 Inorganic Resources",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/657d0210-3a6b-49be-bc2e-e663330a3975.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cyber Jockey",
+      "trophyDetail": "Bypass 50 Digital Locks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/9a2df593-c58d-428c-a4da-5963457144fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jacked In",
+      "trophyDetail": "Access 50 Computers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/69140521-d43f-4ce5-b92d-7e6c179735d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Soldier of Fortune",
+      "trophyDetail": "Mod 50 Weapons",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/50f8714a-7453-4117-ab68-6d434e02d1f4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Replicator",
+      "trophyDetail": "Craft 100 Items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/2674d481-6238-4b96-98f9-201ae4ece89f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Family You Choose",
+      "trophyDetail": "Recruit 10 Separate Companions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/56197118-7814-4c53-8d06-a68833a2bfc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Starcrossed",
+      "trophyDetail": "Reach Maximum Relationship Level with a Companion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/ce9046d2-03ba-4cee-a2e8-a2268f54042b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "War of Angels",
+      "trophyDetail": "Collect 20 Quantum Essence",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/d7e93261-434a-4b5a-8829-3adb879d996d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fleet Commander",
+      "trophyDetail": "Collect 10 Ships",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/b5158761-aa64-464f-a49d-deeb2aa7ece9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thirst for Knowledge",
+      "trophyDetail": "Read 20 Skill Magazines",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/92b855ed-13f2-49b5-a586-1abf7b5297e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dark Matter",
+      "trophyDetail": "Eliminate 300 Human Enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/ace86be9-f47f-44ac-9c19-702c9f1adb06.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Another Bug Hunt",
+      "trophyDetail": "Eliminate 300 Creatures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/09b5f81c-3295-42d0-ad21-4eb13560e2fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Use Them For Smuggling",
+      "trophyDetail": "Successfully Smuggle Contraband",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/aee59f31-5d90-4974-a07f-9e9ef5e6ff46.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dust Off",
+      "trophyDetail": "Reach Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/cb424e3b-98b1-4bd8-a85d-4e61f06c7f2c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Traveler",
+      "trophyDetail": "Reach Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/8e303282-c556-489f-9433-9109576c30b0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Elite",
+      "trophyDetail": "Reach Level 25",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/076cf6a5-364c-4459-89f0-9e6a37e34ed3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Space Opera",
+      "trophyDetail": "Reach Level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/85d29701-2919-4024-be8e-340a057c9c87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Reach for the Stars",
+      "trophyDetail": "Reach Level 100",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/3a95b9df-bbca-4b91-a17b-b3319d7846e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Remains",
+      "trophyDetail": "Complete “What Remains”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/6790e2fb-38ec-47d0-93f3-0bde6b217ab9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Promised, Broken",
+      "trophyDetail": "Complete “The Promised, Broken”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/461b75b3-2a63-466e-b259-ac51aad44cb3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zealous Overreach",
+      "trophyDetail": "Complete \"Zealous Overreach\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/2a411528-a026-4e9c-b843-70cbf3b8923d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Conflict in Conviction",
+      "trophyDetail": "Complete \"Conflict in Conviction\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/b0b9b55a-c1a1-4ebf-998f-6bb0f8dd10bc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exhuming the Past",
+      "trophyDetail": "Complete \"Exhuming the Past\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/2e2616a7-3340-4506-8177-ba0a384e9174.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Other Side",
+      "trophyDetail": "Complete “The Other Side”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/292ded8c-e40a-4a14-948c-00562f3f00cc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Scaled Citadel",
+      "trophyDetail": "Complete \"The Scaled Citadel\"",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/56b0d3c9-196a-44d5-9368-f2c03c6018e3.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Great Unknown",
+      "trophyDetail": "Discover 50 Locations on Va’ruun’kai",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/fccf5977-0955-41a1-9a46-d615cc5ec2a7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Facing Your Fears",
+      "trophyDetail": "Defeat 25 Vortex Horrors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/dba28674-387d-4e6c-a843-bb7bb88e76db.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redemption Arc",
+      "trophyDetail": "Defeat 10 Redeemed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/8f41b06c-cc5e-4189-9ae5-af74ddcde618.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Five of a Kind",
+      "trophyDetail": "Craft one of each type of Vortex Grenade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/e1d0e940-1a18-4820-b2e8-4da349221d71.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savior of the Promised",
+      "trophyDetail": "Aid the People of Va’ruun’kai",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/add6a675-3366-4bda-a33a-347b0ad27054.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lost Luxury",
+      "trophyDetail": "Complete “Lost Luxury”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/05cc620b-ec67-4d08-9536-a3c237133c15.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Into the VOID",
+      "trophyDetail": "Complete “Into the VOID”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/fe07010b-36f1-41c7-892f-22d4f83d926f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Battle of the Unifier",
+      "trophyDetail": "Complete “Battle of the Unifier”",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/c734ed23-1021-4e2e-b101-c9883190ced9.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This for That",
+      "trophyDetail": "Build out and hand over an outpost to a faction",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/f932dd3a-5685-4cf3-8565-67a7c7e43850.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greater Than",
+      "trophyDetail": "Convince Delta that you are worthy of the title Captain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/3a40d4b1-2b75-454e-b57a-e8e8a9f6ef63.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Less Than",
+      "trophyDetail": "Prove the superiority of artificial life",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/589ef7f8-846f-4f79-910e-350e42108427.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incursion Fighter",
+      "trophyDetail": "Clear out 5 Incursions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/e6d06cf8-51cd-49de-ac99-9ad3f7303b79.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incursion Exterminator",
+      "trophyDetail": "Clear out 15 Incursions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/a4160825-732e-4c17-8f72-b6038da68f84.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Incursion Eliminator",
+      "trophyDetail": "Clear out 30 Incursions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/d5d8d1b9-ad60-422c-8c53-00ad4c21835f.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overclocked",
+      "trophyDetail": "Fully upgrade Delta",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/30836b00-5bbb-4c76-bc32-7514d7cb7c88.png",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Half the Battle",
+      "trophyDetail": "Let Sarah Morgan know about her action figure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/20d88ce6-14f4-4f80-b020-5e57a69d2c07.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Equipped",
+      "trophyDetail": "Find a spaceship equipment module schematic and install an equipment module on your ship",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/fd79dade-072e-44fc-b37c-f057aa30bee9.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Top Tier",
+      "trophyDetail": "Apply a Rank 4 Legendary Effect to a piece of your equipment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/df5da53d-f66d-43b5-b9b2-ec8dd14028a8.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Like Grandma Used to Make",
+      "trophyDetail": "Eat the questionable food offered by a spacefaring Old Woman",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/cbdfe67a-3652-49b0-99b4-09e84afec0e0.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They’re Not Toys!",
+      "trophyDetail": "Collect all Action Figures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/33ccd87b-d424-4198-9f66-67b1b0295a1f.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contract Killer",
+      "trophyDetail": "Kill 10 targets for the Arbitrator",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/52eeb1bf-bc9b-444a-9296-2028d9634362.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay of Execution",
+      "trophyDetail": "Stop Bernhard from killing Caruso",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/84064f11-2c9b-43c8-80ad-d24b6f829d38.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Magnetism",
+      "trophyDetail": "Use a magnet to destroy the robot for Ivica in New Babylon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/7dd6169a-ef45-4fbc-808f-8662ced9ffdb.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Riddle Management",
+      "trophyDetail": "Prevent any deaths by answering riddles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/d7ce38f4-cc5f-40e9-bc17-71ebcd79baab.png",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quantum Hoarder",
+      "trophyDetail": "Retrieve your inventory from another universe",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR45823_00/80247e57-8905-4793-a223-cc352139c9b1.png",
+      "trophyGroupId": "003"
+    }
+  ]
+}

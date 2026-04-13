@@ -1,0 +1,685 @@
+{
+  "npCommunicationId": "NPWR50693_00",
+  "title": "Gas Station Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 75,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Ultimate Manager",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ca1e01aa-84e7-4bcb-987f-5fba6360a129.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's just getting started",
+      "trophyDetail": "Served 50 customers in the shop.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/8b1292c0-ac0f-48d2-92ff-447472c40749.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gaining skill",
+      "trophyDetail": "Got a total of 10 tips during minigames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e146a932-c4b8-4ee8-8ef4-a8f6907f9843.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tip of the Iceberg",
+      "trophyDetail": "Got a total of 50 tips during minigames.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/20540ed6-95b3-4e41-a8a9-efd02c8a6420.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fueled it good!",
+      "trophyDetail": "Fuel a car within 0.2L of the requested fuel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/021551c3-1719-4f7e-ad4b-03079f64ee55.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fueled it better!",
+      "trophyDetail": "Fuel a car within 0.1L of the requested fuel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/871bf7a5-ac69-47cc-9e2d-46e6359be5db.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fueling Superstar!",
+      "trophyDetail": "Fuel a car within 0.01L of the requested fuel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ede4512e-6bf3-40be-8d1e-d3970162e6fa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Steady Hand!",
+      "trophyDetail": "Hit trash can with a score of over 25!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e63d9b6b-c306-4844-ad71-af175820bc4b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Air Supreme!",
+      "trophyDetail": "Hit trash can with a score of over 50!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/7ee25969-ef37-4ae9-bf10-a90914a43998.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "RC Car Racer!",
+      "trophyDetail": "Complete a race in the RC Car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ece1253a-8da8-4352-8a6a-5dabc62f4d3b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Growing importance",
+      "trophyDetail": "Fueled 10 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/0a56c3d9-ed5d-4c44-bd1d-19e5ae642dcb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skills to Pay the Bills",
+      "trophyDetail": "Fueled 50 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/efe09ff8-c8c6-4ec7-9edf-954a0dac7322.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuel Ordered",
+      "trophyDetail": "Ordered fuel to be delivered to the Gas Station.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/1e1bf683-6bd7-45dc-8118-cf51a667e03a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash Collection",
+      "trophyDetail": "Ordered a Garbage Truck to collect your trash.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/25c1abca-b346-4094-9837-f8806faa6c91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "ALIENS!",
+      "trophyDetail": "You've been visited.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/1db95200-2772-465e-ba48-7f8b1d6155fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So Shady!",
+      "trophyDetail": "Broke into 10 car trunks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/d9f4c0ad-50b8-4f9c-a294-f9bf8d823b50.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Checking!",
+      "trophyDetail": "Broke into 20 car trunks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e62d382c-ce3c-4894-82c8-275896ca32f5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pranks? Nope!",
+      "trophyDetail": "Scared off Dennis.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/05beaf56-92b6-40de-89b8-dde845a3690e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a kind of magic",
+      "trophyDetail": "You let it run away from you didn't you?",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/32257c28-76e5-45c8-a052-20c34d00ac90.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the Roll",
+      "trophyDetail": "Painted 10 Objects.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/557d1987-d8ea-4956-9712-039416b46f6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Looking Smooth",
+      "trophyDetail": "Painted 25 Objects",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/d469af7a-4522-4123-bf65-e3c162d7b8d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trash B Gone",
+      "trophyDetail": "Cleaned up 50 Trash Items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/86d35e0d-17f6-4b39-a857-debb6b3c23ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It has to be clean!",
+      "trophyDetail": "Cleaned up 100 Trash Items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/6ad18978-7ede-4f43-9613-04c01247f3e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fly Like an Eagle",
+      "trophyDetail": "Managed to get really high into the air.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/aa32e965-25b6-4a6d-9314-4e39f2139e0d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "It's Raining Cars",
+      "trophyDetail": "A flying car. Who would have thought? Not us.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/170a0f3e-76f9-4059-afe4-0894a444a8e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Further Cleaning!",
+      "trophyDetail": "Cleaned up 25 Floor Stains.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e07c482e-b04a-43c1-99a6-21d03e8fdaa8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dirt Stains? Not here!",
+      "trophyDetail": "Cleaned up 100 Floor Stains",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e6e300dc-6b3f-4d49-b558-92b5b68bb6d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "IR Mechanic!",
+      "trophyDetail": "Fixed a car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/52c746ab-b9de-4657-9220-e567a238bc34.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Machine Head",
+      "trophyDetail": "Fixed 10 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/40fa028e-1b3c-4c6e-9c1f-a083c5df3b00.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greasemonkey",
+      "trophyDetail": "Fixed 25 cars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/be839592-e979-4093-9964-76284865f0e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Party Bus",
+      "trophyDetail": "Had party bus arrive to the station!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/f663c698-4ae0-486f-a65f-d3a98ad0f08b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Help Wanted!",
+      "trophyDetail": "Bought first caravan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/3c822367-e79d-414c-97e1-0203d5f1315f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Raising the Stakes",
+      "trophyDetail": "Bought the third caravan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/180e3804-7e05-4fd2-95ee-67f582c0798e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business is Thriving",
+      "trophyDetail": "Bought the fifth caravan.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/252ff724-b71c-4eea-802c-2c4dbcd2fb3f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Station Lvl. 2",
+      "trophyDetail": "Upgraded the Station to Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/00d4782c-f481-4302-9558-2a1acbd3010c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Station Lvl. 3",
+      "trophyDetail": "Upgraded the Station to Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/a644b735-9c20-4862-84b1-97937765478f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Station Lvl. 4",
+      "trophyDetail": "Upgraded the Station to Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ccdba0a2-4186-44af-b756-488498cb81d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Station Lvl. 5",
+      "trophyDetail": "Upgraded the Station to Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/bd7071bd-a759-4cfb-bb57-367bcae7b08e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Obtained!",
+      "trophyDetail": "Unlocked the Workshop",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/6ddf01ce-2eaa-4488-9164-77f4531140ca.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Lvl. 2",
+      "trophyDetail": "Upgraded the Workshop to Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/7b9022a9-983b-423d-9f82-302d3d85ef25.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Lvl. 3",
+      "trophyDetail": "Upgraded the Workshop to Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/2cfebf5e-2297-4484-9119-809f8a067772.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Lvl. 4",
+      "trophyDetail": "Upgraded the Workshop to Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/6cb68232-1d56-4e37-bd94-43547e082505.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Workshop Lvl. 5",
+      "trophyDetail": "Upgraded the Workshop to Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/9d12d9f5-1ef6-479b-ba98-d18ec19b0eb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Obtained!",
+      "trophyDetail": "Unlocked the Warehouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/16fdfdb5-160c-4a7a-9f91-fe4aece72254.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Lvl. 2",
+      "trophyDetail": "Upgraded the Warehouse to Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/36eab782-424f-42f5-b39c-0b4b7320937c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Lvl. 3",
+      "trophyDetail": "Upgraded the Warehouse to Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/a9506882-fbb4-4953-8234-4362bde214e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Lvl. 4",
+      "trophyDetail": "Upgraded the Warehouse to Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e30bdb6a-ba0c-4399-90e2-ff68db2c299b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Warehouse Lvl. 5",
+      "trophyDetail": "Upgraded the Warehouse to Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/6005cfce-04f8-4930-b250-d70bd70362b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heard in Whispers",
+      "trophyDetail": "Reached Popularity Level 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/5cc8e264-6ee5-4702-9e72-9d832324a9af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In the Desert There Is a ...",
+      "trophyDetail": "Reached Popularity Level 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/a907d600-53f4-4bef-af4f-161154d934da.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Local Celebrity",
+      "trophyDetail": "Reached Popularity Level 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/1ca651ee-995d-4837-9016-b7f39f8ee9e2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Talk of the Town",
+      "trophyDetail": "Reached Popularity Level 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/2c9467a5-a592-4153-aa7b-9f8373954193.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting Famous",
+      "trophyDetail": "Reached Popularity Level 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/dd66931b-6de9-46d2-80ce-eb0f018d8950.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Popular Place",
+      "trophyDetail": "Reached Popularity Level 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/9d7bda6b-ea1d-4e12-a8f5-9bb414936c92.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "In the Brochures",
+      "trophyDetail": "Reached Popularity Level 8",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/7bc37da9-7737-4210-ba3d-7d0aca715a6d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desert Sensation",
+      "trophyDetail": "Reached Popularity Level 9",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/13dd0d0c-00d5-4b0d-bd25-753003c3bbaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Superstar!",
+      "trophyDetail": "Reached Popularity Level 10",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/7cef35e9-733f-4335-8c2f-c894ecd34bb9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Impossible!",
+      "trophyDetail": "Paid off Uncle's first loan on time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/915da21c-ae14-45c6-9130-77a6c6746f2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "The Dust Bowl",
+      "trophyDetail": "Completed the Campaign",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/9af67a8b-f217-4984-a150-1f74021c7452.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Uncle",
+      "trophyDetail": "Meet the Uncle",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/d2a54760-68ba-43b2-8ada-ab21c3a2b365.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mining Shaft!",
+      "trophyDetail": "Completed RC Race on the Mining Shaft Track",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/bd10f3e9-ab7b-419c-a0d9-809417bf7243.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Well Versed",
+      "trophyDetail": "Employee reached level 5 in one skill",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/d44499df-158a-4020-b5e6-614809250f3e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert in the Field",
+      "trophyDetail": "Employee reached level 10 in one skill",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/75986d79-6889-4352-b947-71c4e5a14ddc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jack of all Trades",
+      "trophyDetail": "Employee reached level 10 in all skills",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/0251fa9d-5cf0-4de2-b53a-25b54aeae1d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Very Fast!",
+      "trophyDetail": "Beat the Desert RC Course with a time of under 1:02:00",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/46acf41e-b34c-4a54-8286-74e53317578d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decorating A Lot",
+      "trophyDetail": "Bought / Found 25 decorations.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/acc0c678-12a0-4417-a540-9930d8fe6b38.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Faithful Servant",
+      "trophyDetail": "Make an offering to Chunchumanchu",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ef7c120d-ce75-4a49-9ff9-24445af448d8.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Week",
+      "trophyDetail": "Last a whole week without volcanic eruption",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/8664d231-2b04-4677-85c4-15d2fcf87191.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Savior",
+      "trophyDetail": "Drive the shark away before it manages to devour its first victim",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/ba87dcc3-40ab-44ce-9348-056ded322bb9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "5 Star Service",
+      "trophyDetail": "Last 2 days without any accident on Scuba diving & Surfing stands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/5f07c8c6-7d34-4a46-9782-9105156e5149.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deck Hand",
+      "trophyDetail": "Refuel 100 boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/868c11f6-3b72-499b-a7cc-c318b0363a7d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Island God",
+      "trophyDetail": "Learn the wrath of Chunchumanchu",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/c67970cf-61ff-4387-a379-3e637debfbd9.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lover of Ocean Art",
+      "trophyDetail": "Buy all new oceanic landmarks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/b33b7efa-15bf-4eb7-a0da-a5c9d3edef90.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Global Businessman",
+      "trophyDetail": "Buy all station upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/e8af1844-56b4-40c5-be5e-07b3cc720540.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nothing But Net",
+      "trophyDetail": "Hit the coconut at least once from each of the 3 spots near the cauldron",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR50693_00/b934deba-8b55-4222-a8d6-c020c3e8f0ed.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}
