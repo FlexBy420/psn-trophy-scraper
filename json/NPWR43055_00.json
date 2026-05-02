@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR43055_00",
   "title": "Commandos: Origins",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 60,
+  "totalItemCount": 70,
   "trophies": [
     {
       "trophyId": 0,
@@ -545,6 +545,96 @@
       "trophyDetail": "Use environmental kills to kill 5 enemies in the same mission",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/5B06630B403401A09AF44DBC92C5223563A7FABA.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sherlock O'Hara",
+      "trophyDetail": "Find all clues in Mission 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/4A6F4D191C294449F673618E0949A1B9E11441B7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shrouded Ascend",
+      "trophyDetail": "Raise no alarm in Mission 1",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/9477C87E120D6B83E09E7522881F9E1A62B22DC7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unsung Hero",
+      "trophyDetail": "Rescue all fugitives in the forest",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/1FA06E9FFBFAAF4136F8BDD85C334B3F1405CA03.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Industrial Espionage",
+      "trophyDetail": "Discover all methods to destroy the V3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/E4E312D4EEDA61C848C798CCFB6C4B70CD2A9D85.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nothing Left Unbroken",
+      "trophyDetail": "Sabotage every available component of the V3",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/EC8BF1E4754E151E0C41BA4E86E3D26D1DCD9F6F.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Was somebody here?",
+      "trophyDetail": "Don't kill a single enemy in Mission 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/F8E445E8E425C3B6E90E186FC34142AE9AE7B0FE.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the Chase",
+      "trophyDetail": "Investigate every clue in Mission 4",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/6803A0AF181756EA71792271D3D03D3CC3FBCAD8.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ghost of a Friend",
+      "trophyDetail": "Complete all missions of the French Campaign without raising an alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/E14F510B064DBA91F8F60DB4BEBCEE2B313E89B2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Soldiers Best Tool Since 1939",
+      "trophyDetail": "Eliminate 3 enemies using a single explosive barrel",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/2D2DDB1A0E6A4003042742001F6AEB8F8AFF14CB.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Signal",
+      "trophyDetail": "Eliminate a Radio Operator without raising an alarm",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR43055_00_00A5FB2E29517DFD9BC4CB39CD0FFE394573CEA029/1ED335788A658674A64CE0937C16665EF68FEFBB.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

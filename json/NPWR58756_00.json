@@ -1,0 +1,721 @@
+{
+  "npCommunicationId": "NPWR58756_00",
+  "title": "Hydroneer",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": true,
+  "totalItemCount": 79,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Platinum Trophy!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/4f2143ee-479e-4523-8d0b-ebe944aa1255.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let There Be Light",
+      "trophyDetail": "Turn on the lantern.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/38ed2ed4-f949-4b3f-bf54-dd62fc59fff8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My First Hydrocoin",
+      "trophyDetail": "Sell something at the jeweller.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/0abf663b-705d-44be-b715-f0c6ea63b95d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smelt It, Dealt It.",
+      "trophyDetail": "Smelt a bar.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/22df23b3-2df0-43d6-abe3-5b187c13dbe8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tall Order",
+      "trophyDetail": "Smelt 100 bars.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/df5aa699-7aa9-4515-bf23-36bc999abca5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dirty Rock Go Gzz Now Sparkle",
+      "trophyDetail": "Cut a gemstone by hand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/afe392c2-1bf1-4780-b42f-de86e1946647.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Diamonds Are Forever",
+      "trophyDetail": "Cut 50 gemstones by hand.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/28424db4-be0e-4e34-96bc-ca5e79489594.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A New Home",
+      "trophyDetail": "Purchase a new plot of land.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where's The Water?",
+      "trophyDetail": "Purchase Mildews Aquifer Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Worry About The Quarry",
+      "trophyDetail": "Purchase Dreck Quarry Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Room For Improvement",
+      "trophyDetail": "Purchase South Hope Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deep Underground",
+      "trophyDetail": "Purchase Icehelm Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It'snow Problem.",
+      "trophyDetail": "Purchase Snow Rune Falls Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/811c2171-ff2b-4aed-9e16-f157c690be9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Dirty Job",
+      "trophyDetail": "Produce 1000 dirt from drills.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/ada3b24f-d605-4732-bb79-98b16769d734.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Harvesting Season",
+      "trophyDetail": "Process 1000 dirt in harvesters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/beb91e1c-4161-432a-ba25-3e5f05e55077.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Secrets Of The Cave",
+      "trophyDetail": "Use relics to find the secrets of the cave.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/bc674f48-232e-4640-b5a4-3230b7d79a61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Friday",
+      "trophyDetail": "Purchase 100 items from stores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/a5344449-98fd-4c84-9022-af039c2d31a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Loyalty Card",
+      "trophyDetail": "Purchase 1000 items from stores.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/490551d3-234a-45fa-8d14-f6f9b11157cc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clout",
+      "trophyDetail": "Get cloutium ore from a harvester.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/beb91e1c-4161-432a-ba25-3e5f05e55077.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "From The Core",
+      "trophyDetail": "Get corestone ore from a harvester.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/beb91e1c-4161-432a-ba25-3e5f05e55077.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Wishing Well",
+      "trophyDetail": "Throw coins into a well.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/e9670bc3-391a-48cf-b16f-7c733d6f332d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Fisherman",
+      "trophyDetail": "Get the maximum level rod.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/a619d7f9-ffbf-45ca-a91f-f40df56a08ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"one mans trash is another mans hot trash\"",
+      "trophyDetail": "Use the scrapyard.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/ff969129-11ee-450c-ba24-c82908d400e6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "\"scraaaaaaaaap\"",
+      "trophyDetail": "Scrap 100 items.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/5145c256-0a17-4c8e-a44d-ea5735847d94.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where did it go?",
+      "trophyDetail": "Use the Icehelm item chute.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/654181a5-9116-47c5-bb06-ab2575a4d013.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Masterworkin'",
+      "trophyDetail": "Create something using the Masterwork anvil in Icehelm.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/f6150cb6-e4df-4d04-929b-42b6302360d9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wolf of Bridgepour",
+      "trophyDetail": "Sell something at the stock market.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/303ece6d-acb7-4a9a-88ad-45b86ecb0470.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Stonks",
+      "trophyDetail": "Make 100,000 HydroCoins on the stock market.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/88fa8422-e854-44e6-b8c2-d10852dc7d7a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Booooooiiiingg!",
+      "trophyDetail": "Activate the truck Easter egg. Why did you folks request this feature?!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/4f2143ee-479e-4523-8d0b-ebe944aa1255.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farming Season",
+      "trophyDetail": "Purchase the Hydro Cropper.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/48d8d700-88b9-4274-a12f-0f44af9beacf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On The Road Again",
+      "trophyDetail": "Purchase a new Hydro Truck.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/388da344-977a-437f-b019-9c8cc4267afd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quad Squad",
+      "trophyDetail": "Purchase a Hydro Quad.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/a9f72ff0-412e-4b90-bfd5-37ffc30a7063.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Keep On Rollin' Baby, You Know What Time It Is",
+      "trophyDetail": "Purchase a Hydro Roller.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/c36267eb-37cf-49be-b555-19f48adb61bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Dig It",
+      "trophyDetail": "Purchase a Hydro Mole.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/b265e626-a6b1-43d9-8438-c658468a851e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Goodnight",
+      "trophyDetail": "Use a bed.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/4f066c5b-4651-4670-a5b6-16b5c43ae37c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Baiter",
+      "trophyDetail": "Catch 100 fish.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/854c60a7-3a60-4314-b16d-cfd9d9204850.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire In The Hole!",
+      "trophyDetail": "Use a logic TNT barrel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/51e250d4-6bf9-41e9-9a10-08053305bed8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Nuclear Miner",
+      "trophyDetail": "Use a logic mini nuke.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/cffdf729-700e-467f-8b5a-747fc9efb23e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Logical Compression",
+      "trophyDetail": "Compress 100 gems in a logic compressor.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/ef64a5f0-84bc-402d-9f66-4304ae01c6a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feeling Wasted",
+      "trophyDetail": "Put 5000 items into the logic destroyer.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/5c8b3066-c3ff-410f-9156-c45492eda68e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sowing The Seeds",
+      "trophyDetail": "Plant 100 crops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/7199d305-fc31-424c-ac41-9d20a2750025.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Green Thumb",
+      "trophyDetail": "Grow 1000 vegetables.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/996470a8-ab17-4a55-b758-f87d63f1f1f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Soup Kitchen",
+      "trophyDetail": "Create 10 soups.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/e1dee431-590b-4397-ac20-7da04f4dcbd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chef",
+      "trophyDetail": "Deliver 10 soup requests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/e1dee431-590b-4397-ac20-7da04f4dcbd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quartermaster",
+      "trophyDetail": "Deliver 10 weapon requests.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2e4986e8-a425-488f-82e1-2bc4d80f9527.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tutorial Complete!",
+      "trophyDetail": "Complete the Tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/4f2143ee-479e-4523-8d0b-ebe944aa1255.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Farming Guild Tokens",
+      "trophyDetail": "Accumulate 10,000 farming guild tokens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/5d528b53-02f3-41df-adeb-68a5128fb530.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "HydroCoins",
+      "trophyDetail": "Accumulate 100,000 HydroCoins.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/5d528b53-02f3-41df-adeb-68a5128fb530.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Prospect Guild Tokens",
+      "trophyDetail": "Accumulate 10,000 prospect guild tokens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/5d528b53-02f3-41df-adeb-68a5128fb530.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hot hot hot!",
+      "trophyDetail": "Touch Lava.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2aa493b9-728c-4592-b4a7-245bbfb27722.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bonk.",
+      "trophyDetail": "Hit 25 NPCs with vehicles.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/c6a7883b-3b89-43e7-9eac-5eb830a441fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prospective Perspective",
+      "trophyDetail": "Purchase a Hydro Prospector.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/efd0391c-5749-463f-b58c-c47774f64801.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Archaeology",
+      "trophyDetail": "Donate a bone to the museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/85d60d75-c25b-4a1e-b74b-bc952efdcba0.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Indiana Bones",
+      "trophyDetail": "Donate 10 bones to the museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/eb6d99df-d7c9-4cf1-add0-24d164c82f41.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bonafide Bone Finder",
+      "trophyDetail": "Donate all the bones to the museum.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/6f49f369-9056-456d-8b00-570b2982594d.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Oh hi Mark",
+      "trophyDetail": "Refine a Forge Mark.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/ec44519f-f6ec-43bf-b76a-41626299bc6c.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where's The Lava?",
+      "trophyDetail": "Purchase Scoria Chamber Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2c318fff-6504-4b87-88f2-634c9ae8b7ab.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good Footing",
+      "trophyDetail": "Purchase Cinder Footing Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2c318fff-6504-4b87-88f2-634c9ae8b7ab.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's Go Down To The Breach, Breach",
+      "trophyDetail": "Purchase Shattered Breach Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2c318fff-6504-4b87-88f2-634c9ae8b7ab.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Down By The River.",
+      "trophyDetail": "Purchase Waterside Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2c318fff-6504-4b87-88f2-634c9ae8b7ab.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hydroneering",
+      "trophyDetail": "Melt Ice in the Ice Melter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/b846a829-0b29-4915-a569-23d34bc72fc7.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thermodynamics",
+      "trophyDetail": "Melt 1000 Ice in the Ice Melter.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/e458fd9e-f9f8-49ef-85df-1b3b8f20bbbc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Franchisee",
+      "trophyDetail": "Build a store in New Glade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2b846757-3eca-4566-9f32-9f1773870452.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good as New (Glade)",
+      "trophyDetail": "Fully Restore New Glade.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/532b2a43-3fc3-45a0-88b8-bfb6cb0ee0be.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Restoration",
+      "trophyDetail": "Rebuild an abandoned miner.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/d2de9f0f-54d8-4f02-9010-6125112483fc.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Passive Income",
+      "trophyDetail": "Rebuild all the abandoned miners.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/08e7727b-f398-479f-89b8-35de11d5969a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unlucky Roll",
+      "trophyDetail": "Get a negative buff from a Forge Mark.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/c34551b5-c082-411b-97eb-ef273d005753.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lucky Roll",
+      "trophyDetail": "Get a 3 star buff from a Forge Mark.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/d14cf10e-b3be-4712-8544-b231779c148f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My First Lap",
+      "trophyDetail": "Complete a lap on Mot's Island.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/3e09bea5-87d7-4ca5-b217-747ebf42db2f.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "SPEEEEEEEEEEEEEED",
+      "trophyDetail": "Complete a lap on Mot's Island in under 1:11.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/079c12ba-10d2-4fdb-b23d-b473cc23f4da.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shopping Haul",
+      "trophyDetail": "Purchase a Lava Hauler.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/03cfc099-d734-46df-bb48-0919bc47a712.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lava Biker",
+      "trophyDetail": "Purchase Lava Bike.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2bac66e0-3e86-47b8-9f6a-b07a827e8e9a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fully Loaded",
+      "trophyDetail": "Withdraw the maximum amount at an abandoned miner.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/62ac8c8a-a2af-48d8-a392-14c8083a9040.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Frosty The Snowman",
+      "trophyDetail": "Discover the hidden snowman.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/e459cac0-a186-48ba-aeaf-91fc68717210.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Snowball Fight!",
+      "trophyDetail": "Throw a snowball.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/cd21d974-7760-4536-bf01-557caad5188a.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Assassin",
+      "trophyDetail": "Throw a snowball at The King.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/00e8cdb4-ce83-4cd0-afeb-2dd79d855263.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Scout Guild Tokens",
+      "trophyDetail": "Accumulate 10,000 scout guild tokens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/8de4973c-f9cd-4d32-a312-f18233fbfd89.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thaw's Hammer",
+      "trophyDetail": "Purchase a Lava Thaw.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/1e60072d-49c4-45c3-9eac-83877be4f278.png",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calling Your Bluff",
+      "trophyDetail": "Purchase Lumberton Bluff Dig Site.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58756_00/2c318fff-6504-4b87-88f2-634c9ae8b7ab.png",
+      "trophyGroupId": "001"
+    }
+  ]
+}

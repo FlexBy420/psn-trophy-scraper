@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR49192_00",
   "title": "Kiborg",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
-  "hasTrophyGroups": false,
-  "totalItemCount": 23,
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 28,
   "trophies": [
     {
       "trophyId": 0,
@@ -212,6 +212,51 @@
       "trophyDetail": "Get a 300% bonus with the Sharpshooter mutator",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/0CCF881D0F11F8D6BAB879D3E22D946FD1405BF4.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beat Disruptor",
+      "trophyDetail": "Beat Disruptor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/6F4A083A49D3CACB0AC0E0F8E617737C19B78AB0.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Punish Volkov",
+      "trophyDetail": "Punish Volkov",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/61FC41B3AD564A028C6447EAF5B997611159C83F.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beat Hoarder",
+      "trophyDetail": "Beat Hoarder",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/8CB58A0985CC0A76F26F1C77E3787D263C472534.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beat Novak",
+      "trophyDetail": "Beat Novak",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/5F501F2B700165027731D94E9B64D7A4AE84166C.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Descent!",
+      "trophyDetail": "Descent!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR49192_00_005A6023C49A5FE7703E322DF108BBBEE6D854F9CA/D7DA4052BFD98E8CD807D28B3FF7BA0F62AEB243.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

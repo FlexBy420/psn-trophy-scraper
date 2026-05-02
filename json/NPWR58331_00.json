@@ -1,0 +1,460 @@
+{
+  "npCommunicationId": "NPWR58331_00",
+  "title": "Drill Core",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 50,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Collect all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/2d1f65ce-88d1-4cc4-8fc3-af7bad5d4913.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to Drill Core",
+      "trophyDetail": "Finish your first contract",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/d3041c66-b4ec-4171-aa25-dd44c04ef149.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You're Cold as Ice",
+      "trophyDetail": "Unlock Frozen Planet",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/4b628b03-d1b5-4ad6-aecb-e6eb2e5ba1be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Jungle is Inside You",
+      "trophyDetail": "Unlock Jungle planets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/f5069945-83c9-4910-92c4-144a29d0d289.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Company Leading Expert",
+      "trophyDetail": "Upgrade your Division to level 20",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/3c32c17e-68d5-4f75-8017-a45fdca21840.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Best of the Best",
+      "trophyDetail": "Upgrade your Division to level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/da0ab6d5-1b0e-4995-b646-a96173b62408.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Descending Deeper",
+      "trophyDetail": "Reach 300 meter depth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/c2197a6c-5b46-4712-b1bb-3023d6ee5bd4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are We There Yet?",
+      "trophyDetail": "Reach 600 meter depth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/9ef5ee7f-769a-43c1-8904-dd4e8a5087ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Other Side Of The Planet",
+      "trophyDetail": "Reach 1000 meter depth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/15c59fb4-d9c3-442c-b779-c892c8491ff9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pest Management Specialist",
+      "trophyDetail": "Complete 3 contracts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/d4c71bbf-13a6-4a18-ae1b-16499f1a2e46.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Extermination Executive",
+      "trophyDetail": "Complete 10 contracts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/ba55704b-4272-4ab2-b5b6-69efa7019869.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Planetary Engineer",
+      "trophyDetail": "Complete 30 contracts",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/500b074b-155a-47ee-89fd-0c509a2ac2c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cave Raider",
+      "trophyDetail": "Complete Difficulty level 5 contract in Cavernous biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/00fc3ba4-3cf4-4182-bf8d-faa939e96696.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Breaking the Ice",
+      "trophyDetail": "Complete Difficulty level 5 contract in Frozen biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/b854997e-290c-452f-9c54-7329fb49fab7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Path of the Predator",
+      "trophyDetail": "Complete a level-5 difficulty contract in the Jungle biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/6b80fe5c-1490-4e50-ae00-c4f71914c8ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's Too Easy",
+      "trophyDetail": "Complete last Difficulty contract in Cavernous biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/846c7a45-5c6f-4254-bc93-7b2cbc13c3cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Was The Difficulty?",
+      "trophyDetail": "Complete last Difficulty contract in Frozen biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/57f47105-f417-41e9-9578-af527ae2a0d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Tarzan Needed",
+      "trophyDetail": "Complete the final-difficulty contract in the Jungle biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/3c80893a-8d75-4c27-9d55-17c015ab4d1d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Investment Strategist",
+      "trophyDetail": "Buy an upgrade",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/0f0a1d14-e1d0-47b2-a815-4497dc1c55eb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bug-Buster",
+      "trophyDetail": "Survive the first night",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/3005630b-300c-49c2-8d6e-9475c32d6239.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Day Is It Today?",
+      "trophyDetail": "Survive 20 nights",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/9f4b0fce-8d89-4a7c-b573-75a2c553dd9b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm Not Going Anywhere",
+      "trophyDetail": "Survive 70 nights",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/56d6027e-d7a8-4b1e-8e88-6e103deac0f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "What Do We Say To The God of Death?",
+      "trophyDetail": "Not Today! Survive 100 nights",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/e4434518-3540-4833-9edd-38e01e45045c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Core Part of Business",
+      "trophyDetail": "Have at least 30 available iron",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/8bf678fa-f58e-48a9-a909-c665a07a7a87.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Safety First",
+      "trophyDetail": "Complete a contract without losing a worker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/760fa102-3289-4af8-8409-97920d6360a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exemplary Core Maintenance",
+      "trophyDetail": "Complete a contract so that the core's health is greater than 90%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/cca02f0b-ea81-48b3-ad45-f31fb0ca3d9a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Extreme Conditions",
+      "trophyDetail": "Complete a contract so that the core's health is less than 10%",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/dc8f7e60-8133-482e-85b0-ad5100cb09cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Certified Beginner",
+      "trophyDetail": "Complete 3 qualifications",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/7a208e8e-9644-439f-a5e9-4f0f5864dfef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Employee Of The Month",
+      "trophyDetail": "Сomplete 10 qualifications",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/326b9ebc-92f4-4a05-8b64-3379f4e6e5fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Overqualified",
+      "trophyDetail": "Complete 29 qualifications",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/48f94a08-ce42-40f1-9ca2-e2c31c907650.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Day Without Incident: 0",
+      "trophyDetail": "Lose more than 6 employee in a day",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/e8522b9d-845d-4943-b0af-682775325394.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Rush Hour",
+      "trophyDetail": "Complete a contract in less that 10 days",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/dcdd6626-c5a9-4fff-bad2-e818b712c290.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ripley's effect",
+      "trophyDetail": "Kill 1500 Aliens (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/d462ec0c-ee9a-4634-bbfe-1102756e6b88.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Law of Nature by Drillus Corus",
+      "trophyDetail": "Kill 10000 Aliens (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/f8f2777d-9029-4ed7-8e9a-3bcc78e849e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Corporation",
+      "trophyDetail": "Have a team of 20 or more",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/cedbda1f-83e8-4dfa-9fa5-346b70f258af.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gun Show Enthusiast",
+      "trophyDetail": "Build 100 turrets (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/22a24268-8212-4b9c-b6aa-14282c08c184.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "HR Overdrive",
+      "trophyDetail": "Hire 200 workers (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/d0a5a116-48bb-45cf-bd55-4d9d38a93e62.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Employee Attrition Expert",
+      "trophyDetail": "Lose 100 workers (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/ad640b22-858d-4fda-95c3-e25a95a2b3fe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Architect Of Anarchy",
+      "trophyDetail": "Build 100 buildings (cumulative)",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/0d917f67-5327-45db-95d6-2dc2e99c4406.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Was Self-Defence",
+      "trophyDetail": "Kill Arachnor for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/85a80551-5a66-44e1-8505-9dc726511484.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Ice Age is canceled",
+      "trophyDetail": "Kill Icewarden for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/ada0ebfa-752c-46fd-b21d-8918abad8322.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jungle Conqueror",
+      "trophyDetail": "Kill the Sporelord for the first time",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/5fb746e0-d99a-46b8-9315-7afbf191dc99.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Earthcrusher expert",
+      "trophyDetail": "Upgrade Earthcrusher platform to level 12",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/0830ad67-fee3-4e7b-be38-59ce70a6b251.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "I'M A DWARF!",
+      "trophyDetail": "Upgrade Dwarves platform to level 12",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/e83c2847-b85e-43b4-8b9e-8c56d473d4ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "You Can’t Stop The Swarm!",
+      "trophyDetail": "Upgrade the Swarnid platform to level 12",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/7a20b01f-5e7b-44a2-98fd-f110fb3113bd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fire In The Hole!",
+      "trophyDetail": "Blow up underground monster with a bomber miner explosion",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/854d12f7-3a6a-4e42-8615-0d0f7c0459a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "There Are Never Too Many Bonuses",
+      "trophyDetail": "Get 10 technology bonuses during the contract",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/d5257fe1-21ca-4983-9675-c82f956af791.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Star Power",
+      "trophyDetail": "Get 5 technologies with 3 stars in a contract",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/2a43aab0-5cd9-4604-9b17-ef9baa292963.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Core Keeper",
+      "trophyDetail": "Unlock all cores",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/f638bfa9-8460-4843-a9d6-7a9c7b2a08c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Drill Core Museum Director",
+      "trophyDetail": "Find all collectible items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58331_00/2149bc62-3625-44b5-a618-5d36d7983b3e.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

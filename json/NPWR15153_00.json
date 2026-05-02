@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR15153_00",
   "title": "Diablo IV",
   "platform": "PS4",
-  "trophySetVersion": "01.05",
+  "trophySetVersion": "01.07",
   "hasTrophyGroups": true,
-  "totalItemCount": 36,
+  "totalItemCount": 46,
   "trophies": [
     {
       "trophyId": 0,
@@ -244,7 +244,7 @@
       "trophyId": 26,
       "trophyHidden": false,
       "trophyType": "bronze",
-      "trophyName": "Hatred Subdued",
+      "trophyName": "Hatred Purged",
       "trophyDetail": "Complete the Vessel of Hatred campaign.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/86DEE2F63D8F1AED1C0D792946225E9EA49C1F3C.PNG",
       "trophyGroupId": "001"
@@ -329,6 +329,96 @@
       "trophyDetail": "Collect 10,000 Aberrant Cinders in Nahantu Helltides.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/60D6211D3A74B29D641799E08C9DF63CDB5FC884.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hatred Banished",
+      "trophyDetail": "Complete the Lord of Hatred campaign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/EADA2608A88D47CE983DBE784A61D1BB6BFDE206.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skovos Sojourner",
+      "trophyDetail": "Explore all of Skovos.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/1D5AC20E1CBEA8992C94185278DE75049866D8BC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Demonic Dispute",
+      "trophyDetail": "Kill 100 enemies with your Demonology skills.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/CED057AFF48606032C3510681AFD88508760DBF7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Skovos Slayer",
+      "trophyDetail": "Kill 666 Golems, Merfolk, or Morlu.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/16DF4AD80F45C28C48C45AF629B103C0EAF398D9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prepared to Fight",
+      "trophyDetail": "Complete 10 War Plans.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/7BFF94BC855343CCF16481451D1612E0100C964A.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Angler",
+      "trophyDetail": "Collect all the fish in one region.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/A2335BC8AECB353717D0219FB5C3F98E4FE009B4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wholly Horadric",
+      "trophyDetail": "Activate a Charm Set's 5-piece bonus.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/341DBC416AEC9DCF1867999E25252D30F8345DD0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Effective Equipment",
+      "trophyDetail": "Equip a piece of Transfigured gear in every slot.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/51E360AE8F79E02E59B073566C5F62A7C07B8155.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Echoing Elites",
+      "trophyDetail": "Kill 1000 Bosses/Elites in the Echoing Hatred.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/D065F0B0B08148FD2D706704CFC9602D55D9C191.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tormented Slaughter",
+      "trophyDetail": "Kill 1000 Elites in Torment XII.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15153_00_00E6E501FB6CAD10A70634B5E962E5FD0379E5162F/3B337986062CE1B5D0862F9F99AAB9BDA4F4CB6D.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

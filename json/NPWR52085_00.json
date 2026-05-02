@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR52085_00",
   "title": "Hatsune Miku Logic Paint S+",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.02",
   "hasTrophyGroups": true,
-  "totalItemCount": 31,
+  "totalItemCount": 38,
   "trophies": [
     {
       "trophyId": 0,
@@ -284,6 +284,69 @@
       "trophyDetail": "Collect all of the stars from the \"SNOW MIKU Sky Town\" DLC puzzle missions.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/29A6B67EDA60B28DCA17DE3594BBCD6D9CF71FB3.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cherry Blossom Restaurant",
+      "trophyDetail": "Switch up any character's costume with a shared costume added in the \"Sakura Miku\" DLC.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/FA4A25BCEEC834018CF8ED8C74A04EFC5AE3CCD0.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Transform into Sakura Miku!",
+      "trophyDetail": "Change into the Sakura Miku costume with Hatsune Miku.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/6AF4582900ABD1063072AC893BC830D23FC0DDE4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Signs of Spring",
+      "trophyDetail": "Try one of the \"Sakura Miku\" DLC puzzles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/AB0A0EA6F80A1D3DBC0278AEFAAFB5043208A5A3.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Sakura Miku Puzzle Master",
+      "trophyDetail": "Complete all of the \"Sakura Miku\" DLC puzzles.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/2D4C83D24446A8E6465134DC577E3E1C9FC538D7.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sakura Miku Fan",
+      "trophyDetail": "Collect 3 stars from the \"Sakura Miku\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/9FDFA593A25D6D8C42DB0FC703E6DBA4136B02E2.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sakura Miku Holic",
+      "trophyDetail": "Collect 39 stars from the \"Sakura Miku\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/F0B5E2BE2F3DB19075F53BCA5AF17B46B8C19D01.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Sakura Miku Meister",
+      "trophyDetail": "Collect all of the stars from the \"Sakura Miku\" DLC puzzle missions.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR52085_00_00D882DD2642437230265E6B07F4F6BAE81641B65D/B91C64896C3AE3B773C50A721DED8729F5DC742D.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }
