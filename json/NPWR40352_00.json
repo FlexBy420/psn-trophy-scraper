@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40352_00",
   "title": "Brotato",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.02",
   "hasTrophyGroups": true,
-  "totalItemCount": 75,
+  "totalItemCount": 76,
   "trophies": [
     {
       "trophyId": 0,
@@ -680,6 +680,15 @@
       "trophyDetail": "Win a run with Romantic",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40352_00_0042C603BBC57F038B8E08C8718E537F0BC97F4907/64E264FBD0824DF1DE5CB7540D0E5293A9D42930.PNG",
       "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beast Master",
+      "trophyDetail": "Win a run with Beast Master",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40352_00_0042C603BBC57F038B8E08C8718E537F0BC97F4907/99A92B28E2849074135BF452D4FEF7CA358D546C.PNG",
+      "trophyGroupId": "003"
     }
   ]
 }

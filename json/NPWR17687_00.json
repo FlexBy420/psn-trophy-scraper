@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR17687_00",
   "title": "The Demon Rush: Legends Corrupt",
   "platform": "PSVITA,PS4",
-  "trophySetVersion": "01.04",
+  "trophySetVersion": "01.05",
   "hasTrophyGroups": true,
-  "totalItemCount": 48,
+  "totalItemCount": 50,
   "trophies": [
     {
       "trophyId": 0,
@@ -437,6 +437,24 @@
       "trophyDetail": "Clear the Warbeasts main story arc in Story Mode",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/00DEDC3B27D2E5018FD23C286F804A67C424B1C1.PNG",
       "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Wishgranter",
+      "trophyDetail": "Obtain all Nanowish triumphs",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/C60078CAD11D339B2CB59F2BDE1B21D8801E28E8.PNG",
+      "trophyGroupId": "005"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "About The Ancients",
+      "trophyDetail": "Clear the Nanowish main story arc in Story Mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17687_00_0065A0ECB4E7BB83FAF8264FB608DD099CCA63EBDE/9001AA13C3E6B7DB338989C36A572C32334D1AA7.PNG",
+      "trophyGroupId": "005"
     }
   ]
 }

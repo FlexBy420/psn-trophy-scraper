@@ -1,0 +1,559 @@
+{
+  "npCommunicationId": "NPWR58925_00",
+  "title": "Menace from the Deep: Complete Edition",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 61,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "All Trophies",
+      "trophyDetail": "Get all other Trophies.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/8C4275BED4D604EFA6018EE63E421E882C27B339.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Awakening the Monolith",
+      "trophyDetail": "Complete the story stage \"Awakening the Monolith\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/C7A9929354AF23297583CA55EBD8665462B9157B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Finding Allies",
+      "trophyDetail": "Complete the story stage \"Finding Allies\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/BDC5FBA99648D14D1B271B764CFC38CD3FE2D6EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Shub-Niggurath",
+      "trophyDetail": "Defeat the Shub-Niggurath boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/82A48FD5CA3434F3A06DF30C94D9C6460BB143DF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Dagon",
+      "trophyDetail": "Defeat the Dagon boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/B99CA41CEA9796A36CCB620A83B6CA654B921147.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Ithaqua",
+      "trophyDetail": "Defeat the Ithaqua boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/EE50944A088061FE64CC7F2B1ABC5044EFEC8A5C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Hastur",
+      "trophyDetail": "Defeat the Hastur boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/9BCCCA791E163F6E397AA55896A49891308BF840.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tension rises",
+      "trophyDetail": "Complete the story stage \"Tension rises\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/6B7F437FEC9D50C778C19593702879E59E702AA9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Betrayal",
+      "trophyDetail": "Complete the story stage \"The Betrayal\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/9875C59B4413CE2BDAD8E91EE12F43E102EC7220.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Decks and the City",
+      "trophyDetail": "Unlock all starting decks in campaign mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/2892D633F1ED3D94A0F768920B51D8E4333E7B8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Building for Glory!",
+      "trophyDetail": "Upgrade any building to maximum level in campagn mode (except for Propaganda Center)",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/7E0E445CBCC1690C8C413C0AE9BBDA5C2E947A94.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Last Hope",
+      "trophyDetail": "Complete the story stage \"The Last Hope\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/D331F18180FAFA02E2D6D434495994AD34F229AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Azathoth",
+      "trophyDetail": "Defeat the Azathoth boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/50ADCC5E2D8F997B753D152495592CA42E22C302.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slippery Success",
+      "trophyDetail": "Collect the \"Anti-Clotting Lubricant\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/D9926DA797BCAF11819978CD319785FB5BE9C99B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let's solve the riddle",
+      "trophyDetail": "Collect the \"Deedstalker\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/9B04BA5C743D03E81A4C3F0B94C3654E4A6C0831.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect run: Detective (Campaign)",
+      "trophyDetail": "Complete 3 acts in campaign mode as a Detective",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/D9A6682A54D6E01573FD48605E6464B253A31E0C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect run: Professor (Campaign)",
+      "trophyDetail": "Complete 3 acts in campaign mode as a Professor",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/7F29AA181DA4CC1AEAD18A498F5A990AD8C95931.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slayer of Cthulhu",
+      "trophyDetail": "Defeat the Cthulhu boss fight",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/7035C0E649CC99276F98A327D5B2D8A43E9DF558.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The End?",
+      "trophyDetail": "Complete the campaign mode story",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/BCC39181BA3A21A99AEB82F2C2ED539393C801B3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "The Final",
+      "trophyDetail": "Complete the story stage \"The Final\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/68BF4CF048B1BCDEBBA15597C156A174E9FB4E17.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heavyweight Champion",
+      "trophyDetail": "Collect the \"Elephant Figurine\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/CF603710037789F82F32504B85014963B68826E5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vampire’s Last Bite",
+      "trophyDetail": "Collect the \"Vampire Jaw\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/FD442C9A62BD479178CB033B08B4A972D4738032.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brick by Brick",
+      "trophyDetail": "Constuct all the buildings in campaign mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/80CC9DC66C25F388B7641837AEB04A01A5AB3FD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lord of beasts",
+      "trophyDetail": "Collect the \"On the Origin of Species\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/BBDB720AE2F1E5DE937A20328B10B7A233C5C1DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sold Out",
+      "trophyDetail": "Collect the \"Merchant Guild Medalion\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/F6929DEFB513BB168AC36427911A46D3900A66DE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Poison Master",
+      "trophyDetail": "Collect the \"Neurotoxins Grimoire\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5C2CC1D7FAEB57434046362C865F2B989B35C51E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Curse Breaker",
+      "trophyDetail": "Collect the \"Eye of Providence Amulet\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/8080B61195F4322D372BB498D18EF098A000055F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect run: Cultist (Campaign)",
+      "trophyDetail": "Complete 3 acts in campaign mode as a Cultist",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5377698DDC586FACD7F263AAC935860DDCE24ABC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I see the future",
+      "trophyDetail": "Collect the \"Turban\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/A483BD5112EB1E63E1343A57ADF74D5FA347FFD3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Treasure Hunter",
+      "trophyDetail": "Collect the \"Pith Helmet\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5AD2071CABA46C7753F93DE374D39A37C6DFE442.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Card Shark",
+      "trophyDetail": "Collect the \"Card Shark Deck\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/15DD41C5815AEBFD7561F7726BB73B1CFB9253AF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ice Master",
+      "trophyDetail": "Collect the \"Ice Crown\" collection*",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/2C236257365670A81D6A39C15E15E036587C5E7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stunning!",
+      "trophyDetail": "Collect the \"Pharaoh's Mask\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/AC7C64199A7DB905D4695733640D4C60D67106BE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Head's case",
+      "trophyDetail": "Finish investigating Head's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/90052A75BDC191BC983FE62F058A85883A2E4BD6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Grim's case",
+      "trophyDetail": "Finish investigating Grim's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/76C65B1927FDAF286A3FCEAE660B831A18E263BF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hand's case",
+      "trophyDetail": "Finish investigating Hand's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/391C2B63A291C2F04B14E52C25CB8BE6278D362A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brain's case",
+      "trophyDetail": "Finish investigating Brain's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/8FD3E11769C9F104BCE73FC25231C9E2AA40214E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Weirdo's case",
+      "trophyDetail": "Finish investigating Weirdo's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/6E2C2A0C86B93A19DD9260FCE85BC30251139059.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Julia's case",
+      "trophyDetail": "Finish investigating Julia's case",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/8111FBBF7DBC9A3259BBFAA13AC19B36EA880C7A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bonsai Bliss",
+      "trophyDetail": "Collect the \"Bonsai Tree\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/DB47416E03DBC1500B5FFEC90A435853370D4E14.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shocking Discovery",
+      "trophyDetail": "Collect the \"Accumulator\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/7A976180AE4215AD656A6D89F96FCD2E3C31DCF1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crimson Moon Rising",
+      "trophyDetail": "Collect the \"Crimson Moonstone\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/34658D82DE00CB972D8EEA0A325144CFD56675A5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The legacy of Houdini",
+      "trophyDetail": "Collect the \"Straitjacket\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/2B42900FACFBECE4CAA106D207D7D3E074BA72DC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Under construction",
+      "trophyDetail": "Collect the \"Mystical Sphere\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/92D1B3B628856F5D0CF92FC4F129AE35F85EC46E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Long Journey",
+      "trophyDetail": "Collect the \"Tourist Backpack\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/18B46EDB5DD33A4B19B01C05516021D5E311691F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mazal tov!",
+      "trophyDetail": "Collect the \"Menorah\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/55056EF74FA36C57C08A1B236BDCDD0A9869E0D3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Best Detective Ever",
+      "trophyDetail": "Complete all investigations in campaign mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/C9BAF137E65B542821BA4B27C70F7F7D06D79388.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Menace of the bosses",
+      "trophyDetail": "Collect the \"Tentacle of Cthulhu\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/6179D41BA55B8D8DA517A0E54B32ABDB46744CCE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hazard Hunter",
+      "trophyDetail": "Collect the \"Gas Mask\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/24AAAE11AE69AF4ACE48D5006448299C03B30B60.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Max Your Potential!",
+      "trophyDetail": "Upgrade all buildings to maximum level in campagn mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5793DDEA948791A0CA995228F4DA83EB0C6F23BD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Boundaries of consciousness",
+      "trophyDetail": "Collect the \"Phrenology Bust\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/B2E3A6CCB88BA28819FB050C5CC03F1D564DCA92.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Around the world",
+      "trophyDetail": "Collect the \"Stamped Passport\" collection",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/3B7A869E7F1C1A76F08A1A4457EC4B7E6F9E39BB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "100%",
+      "trophyDetail": "Complete the campaign mode at 100%",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/8881C277305F2E403110E604849A5BBFFE51C3E1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Run: Detective (Custom Game)",
+      "trophyDetail": "Complete 3 acts as Detective in \"Custom\" mode on a medium difficulty with a normal number of enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/9C32186DA7220A4D05DD6B176CFC7DE77EC17337.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Run: Professor (Custom Game)",
+      "trophyDetail": "Complete 3 acts as Professor in \"Custom\" mode on a medium difficulty with a normal number of enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5241FD8244DAC00FB9A36CB64765E7D312230A59.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Perfect Run: Cultist (Custom Game)",
+      "trophyDetail": "Complete 3 acts as Cultist in \"Custom\" mode on a medium difficulty with a normal number of enemies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/5055B801BE9C6BEC5F83F37CD580EF15B2306E0F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mixed Deck",
+      "trophyDetail": "Complete 3 acts with a Mixed Deck in \"Custom Game\" mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/AFDFAC8067B221BCE6460C4DB8E36C8E37EFA05B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "God Slayer",
+      "trophyDetail": "Defeat Cthulhu in \"Custom Game\" mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/7FE052E93738E228D94785FE04CA3DDDF81AAC50.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hardcore Player",
+      "trophyDetail": "Complete 3 acts on high difficulty with an increased number of enemies in \"Custom Game\" mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/993DD1804FA64F72A81BA0E6350BBB125E294DA8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bring me the next one",
+      "trophyDetail": "Complete 3 acts with a Boss Rush modifier in \"Custom Game\" mode.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/D107935E8835F14A489C8D65D2DE14798775DB82.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Where am I?",
+      "trophyDetail": "Complete 3 acts with the \"Lost\" modifier in \"Custom Game\" mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR58925_00_008F63A27E1AD8CA1EF7DD0C9D0E5DCAF036B16AD1/4F95E33BC93A0ECE936AB920F5D776F31D9525F6.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "npCommunicationId": "NPWR60012_00",
+  "title": "WILL: Follow the Light",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 35,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Follow the Light",
+      "trophyDetail": "Unlock all trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/bbf5c0ad-ae14-4e5c-b86b-5035c1b1e0c5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wavebreaker",
+      "trophyDetail": "Complete the prologue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/e1dbba45-6112-4fa6-8eca-cac06502bc07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm a lighthouse keeper, not a meteorologist.",
+      "trophyDetail": "Prepare the lighthouse for the approaching storm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/fcdbea5d-af6a-46cd-8465-87609433894a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Light in the Dark",
+      "trophyDetail": "Light the lighthouse using the lantern during the storm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/50c3194d-5626-4c3f-b8ce-cffdeb104278.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tea Time",
+      "trophyDetail": "Brew tea over a campfire",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/12a1b763-0b79-4965-b0d3-1d0916e3cf57.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Game of Chess",
+      "trophyDetail": "Examine the unfinished chess game with Greg",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/0498877b-71da-41c9-a38e-4ce3a533f139.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Compass of Hope",
+      "trophyDetail": "Find Thomas’s compass",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/4002c93b-3758-4b57-8140-98eb6f7564ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Father’s Legacy",
+      "trophyDetail": "Prepare Molly for departure",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/e303a998-7cc2-40da-9597-ccf5497270ae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Strange Girl",
+      "trophyDetail": "Bring pencils to the girl",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/3d70d6c0-3fb0-4f68-939d-2b23b0a36bcf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "I Miss You",
+      "trophyDetail": "Visit Ila’s grave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/ef57df33-03d8-416e-821d-ad23cdab7551.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "In Ila’s Memory",
+      "trophyDetail": "Collect all of Ila’s tapes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/f98c0d1a-1a56-4510-bbe9-d9768524d701.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Light of Hope",
+      "trophyDetail": "Light the lighthouse on the island",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/00918a91-1c34-4c00-bd46-20f7fc38996a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ghosts of the Past",
+      "trophyDetail": "Reveal the first drawing",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/437764c3-4ab1-471b-8223-4274ea849f5b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "The Call of Birds",
+      "trophyDetail": "Use the bird call on Bird Island",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/83cd9ce2-5720-409c-b5bc-8488ebf7778f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Do You Know What Madness Is?",
+      "trophyDetail": "Assemble the lantern",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/bc9c0c29-f19f-4cf7-885f-02a21a13f307.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "I’ll Manage Without the Light",
+      "trophyDetail": "Make it through the fog without the lantern",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/9fbde77e-643f-439c-b6e8-647d4f71baeb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Station’s Voice",
+      "trophyDetail": "Ring the station bell",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/208926b9-eff5-45e4-bddc-fdef6a2d61b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not Again",
+      "trophyDetail": "Face the drawing at the lake",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/05e82b80-87d3-4e12-8e9f-37dcf4fde10f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Beacon",
+      "trophyDetail": "Head to the signal tower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/42da0b7f-127f-46af-8f56-065a2d8deb1e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "A Keeper Like Me",
+      "trophyDetail": "Collect all of Jack’s tapes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/5cd4daf0-9ad1-43b9-9d5d-c5f12fa2a10a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Furry Express",
+      "trophyDetail": "Set off on a dog sled",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/45424f75-adad-4ee9-a75c-cee1cd3b51aa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Along the Snowbound Path",
+      "trophyDetail": "Escape the avalanche",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/b56bbc06-5f21-4a44-b69e-6fcf1fd5d4b8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back on the Road",
+      "trophyDetail": "Head to your father’s lighthouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/7d46a3ec-ce71-4f36-9457-5931d8804b6a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hunter or Prey",
+      "trophyDetail": "Drive off the sperm whale",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/08d61be0-c145-437c-9d1b-5d6f18d0556c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "You Never Learn",
+      "trophyDetail": "Get killed by the sperm whale three times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/b954d366-2a32-4720-be30-de2a2d698711.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of the Arctic",
+      "trophyDetail": "Drive off the polar bear",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/2f3c6c0d-10ee-4e42-a022-f4d286dcd00e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Woodcarver",
+      "trophyDetail": "Collect your first model boat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/467b2d58-f026-4b0c-a763-573328b6cf26.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Model Boat Master",
+      "trophyDetail": "Collect five model boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/faa8dd25-2e43-476e-8ec5-b1c9d97cf3e4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Keeper of Traditions",
+      "trophyDetail": "Collect all model boats",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/b6f4389e-0f5a-41c3-ae31-14883d4ea9c9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Infinity Isn’t the Limit",
+      "trophyDetail": "Assemble the solar system model",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/2a12b20d-34bd-41ea-96f6-206fade65c8f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collector of Stories",
+      "trophyDetail": "Reveal all drawings",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/d17bbc40-5c03-4655-96f8-90b1b657be66.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fancy Some Tea?",
+      "trophyDetail": "Collect all tea tins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/6f7f94f1-1471-4bda-a72f-9ef92723c3bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "A Story from the Heart",
+      "trophyDetail": "Finish Will’s journal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/15956ce5-5443-45f3-97bf-13bc6934ae2e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Sea Wolf",
+      "trophyDetail": "Complete the journey without damaging the boat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/8d2568bc-464d-43c7-beb3-1dc05124d0ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Through Any Obstacle",
+      "trophyDetail": "Complete the game in under 5 hours",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60012_00/7395c3fa-09b3-4bdf-9d6c-c6b89f73fe4a.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

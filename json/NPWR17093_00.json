@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR17093_00",
   "title": "Human Fall Flat",
   "platform": "PS4",
-  "trophySetVersion": "01.13",
+  "trophySetVersion": "01.14",
   "hasTrophyGroups": true,
-  "totalItemCount": 103,
+  "totalItemCount": 112,
   "trophies": [
     {
       "trophyId": 0,
@@ -932,6 +932,87 @@
       "trophyDetail": "Smash all the glass in \"Dockyard\"",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/30624878043FEC066807429C9265B0EF1FD4D79C.PNG",
       "trophyGroupId": "017"
+    },
+    {
+      "trophyId": 103,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exclusive Tour",
+      "trophyDetail": "Complete “Museum”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/2A8A75A1B9C6AD21ABBCD06C08068DAD43D67957.PNG",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 104,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buckshot",
+      "trophyDetail": "Destroy the wall by firing all 5 cannon balls at once in “Museum”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/6B351402A044B024FC55610C0CCD5A582DE40D48.PNG",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 105,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eye Spy",
+      "trophyDetail": "Find the three hidden eye symbols in “Museum”",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/CA5B476B8E8D591EC71CE9D5DC34CF4AD4A43DA1.PNG",
+      "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 106,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Leisurely Stroll",
+      "trophyDetail": "Complete \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/53DB5991CB5B74EB50E3551ED53D17BE324DF05C.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 107,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Human Thawed Flat",
+      "trophyDetail": "Free the cardboard cutout in \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/05F5FF4AB1E85299B2178D7D15ECA964A2A5BE03.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 108,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Prepared for Winter",
+      "trophyDetail": "Roll the barrel inside the cellar in \"Hike\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/8A99F2774F6FED587FE45FD19949AFB133251FFC.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 109,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Dreams",
+      "trophyDetail": "Complete \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/56A060707B154882A683446D20743E71FB9F7412.PNG",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 110,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stay Puft",
+      "trophyDetail": "Get a marshmallow from the tree in \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/F9368075A77E7C8D9F188990F7E121B7F8FBF3F4.PNG",
+      "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 111,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Route Canal",
+      "trophyDetail": "Avoid hitting any donuts in chocolate river in \"Candyland\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17093_00_003E80C75664212F5E3CAEB9563DCDB13F5A3C95F2/A0AFAA8B18C9F80CAE745D7D245D1BE535AAB346.PNG",
+      "trophyGroupId": "020"
     }
   ]
 }
