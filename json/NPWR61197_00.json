@@ -1,0 +1,206 @@
+{
+  "npCommunicationId": "NPWR61197_00",
+  "title": "Tactical Assault Trophies",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 20,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Perfect Execution",
+      "trophyDetail": "Unlock all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/5cc332af-0b94-454e-a382-7eef0636bb6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They Never Saw it Coming",
+      "trophyDetail": "Defeat 500 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/f387d082-eff1-4241-b22b-5c9c4d64822e.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bruised, Not Broken",
+      "trophyDetail": "Take a total of 1000 damage units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/1690460f-bda7-4b09-bb97-74b0a62276e6.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Access Granted",
+      "trophyDetail": "Complete 25 Hack Missions",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/578019c7-c123-46fd-aa27-8e559d2811ea.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timed to Perfection",
+      "trophyDetail": "Complete 25 Bomb Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/bc0de683-70ec-4b11-a0c0-61dab7ff0e54.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Contracts Fulfilled",
+      "trophyDetail": "Complete 25 Elimination Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/3477f78e-196b-4f57-a18c-f310ec4431ac.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Data Acquired",
+      "trophyDetail": "Complete 25 Steal Documents Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/325c997c-34f1-4d61-9a9d-4864161a0d45.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Silencer Symphony",
+      "trophyDetail": "Defeat 1000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/a478dc7f-1199-40b2-897a-3569bb775c91.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Untouchable Phantom",
+      "trophyDetail": "Complete a level without character taking damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/0d733188-9693-4582-8b18-5dabcfc3d80f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Bulletproof Will",
+      "trophyDetail": "Take a total of 2000 damage units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/376cc18d-9c45-4149-b884-a6b619bc8497.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2500"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "System Breached",
+      "trophyDetail": "Complete 50 Hack Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/d7e923e4-306e-439a-b5d2-7621fd0db226.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Detomaster",
+      "trophyDetail": "Complete 50 Bomb Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/1b1b8a4b-0762-4093-b049-f00b06c5aebe.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Faces of the Phantom",
+      "trophyDetail": "Buy all character cosmetics.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/f5832aa6-2fbe-429a-9d33-f0d107cdc3a2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ghost in the Crossfire",
+      "trophyDetail": "Defeat 2000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/6f2f5709-5a24-4ac2-9203-e2d1ccaf4d0d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2000"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "War-Torn Diva",
+      "trophyDetail": "Take a total of 5000 damage units.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/a7146160-72bb-4389-a4ec-10e609e93749.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5000"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Eyes in the Dark",
+      "trophyDetail": "Use scanner 300 times.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/2bf9508e-6bcf-49ce-893c-f7c3814bee6a.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Whispers of Death",
+      "trophyDetail": "Perform 300 headshots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/c94c45d5-4bb5-47c3-9504-7f027378cc23.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Extinction Protocol",
+      "trophyDetail": "Complete 100 Elimination Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/a516ba49-49ea-4c80-9b3a-825defc7f207.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Nothing Left to Hide",
+      "trophyDetail": "Complete 100 Steal Documents Missions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/c4bad009-e4dc-45d8-a0ba-8bc3025491e0.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Ultimate Loadout",
+      "trophyDetail": "Buy all weapons.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR61197_00/5defdc6d-344e-4357-8932-8a9bcf9e38df.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

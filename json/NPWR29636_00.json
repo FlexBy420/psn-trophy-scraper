@@ -2,7 +2,7 @@
   "npCommunicationId": "NPWR29636_00",
   "title": "Sid Meier's Civilization® VII",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": false,
   "totalItemCount": 33,
   "trophies": [
@@ -29,7 +29,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Budding Buddhist",
-      "trophyDetail": "Win the modern age as Ashoka",
+      "trophyDetail": "Win the modern age as Ashoka, World Renouncer",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/F4DB59E6D22C9400E32C10AAEBF6FFB6D490386E.PNG",
       "trophyGroupId": "default"
     },
@@ -83,7 +83,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "On the Fritz",
-      "trophyDetail": "Win the modern age as Friedrich II",
+      "trophyDetail": "Win the modern age as Friedrich, Oblique.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/8C9E29399B650B06103344E2668C5339D072A21B.PNG",
       "trophyGroupId": "default"
     },
@@ -182,7 +182,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Sailed the Seven Xerxes",
-      "trophyDetail": "Win the modern age as Xerxes",
+      "trophyDetail": "Win the modern age as Xerxes, King of kings",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/BB96F3CCE82375CAD2A9E98658FD7AD045D657F2.PNG",
       "trophyGroupId": "default"
     },
@@ -191,7 +191,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "One Hit Wonder",
-      "trophyDetail": "Complete all Milestones of the Cultural Legacy Path in Antiquity",
+      "trophyDetail": "Complete 3 Major Cultural Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/800BF8D6F2EA1117E9477C3DE0D7AFF53CE866A8.PNG",
       "trophyGroupId": "default"
     },
@@ -200,7 +200,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Trade Secret",
-      "trophyDetail": "Complete all Milestones of the Economic Legacy Path in Antiquity ",
+      "trophyDetail": "Complete 3 Major Economic Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/B194CCC258767CD79B60377E70F4F05FB86C6968.PNG",
       "trophyGroupId": "default"
     },
@@ -209,7 +209,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Pax a Wallop",
-      "trophyDetail": "Complete all Milestones of the Military Legacy Path in Antiquity ",
+      "trophyDetail": "Complete 3 Major Military Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/F77124A8DFBA59CA43D4CD675A47445E90028BB0.PNG",
       "trophyGroupId": "default"
     },
@@ -218,7 +218,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Book Smart",
-      "trophyDetail": "Complete all Milestones of the Scientific Legacy Path in Antiquity",
+      "trophyDetail": "Complete 3 Major Scientific Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/CB6D24F5815F91EEC19416864FA1A08446961DCF.PNG",
       "trophyGroupId": "default"
     },
@@ -227,7 +227,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Relic Hunter",
-      "trophyDetail": "Complete all Milestones of the Cultural Legacy Path in Exploration",
+      "trophyDetail": "Complete 3 Major Cultural Triumphs in a single Exploration age.\n",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/70053F829F8AD8C3503A663FC9E64842B9C19243.PNG",
       "trophyGroupId": "default"
     },
@@ -236,7 +236,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Coin Toss",
-      "trophyDetail": "Complete all Milestones of the Economic Legacy Path in Exploration",
+      "trophyDetail": "Complete 3 Major Economic Triumphs in a single Exploration age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/D48BF4AA2056BCECFA49480CF4E2DA8B1937137B.PNG",
       "trophyGroupId": "default"
     },
@@ -245,7 +245,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Settled the Score",
-      "trophyDetail": "Complete all Milestones of the Military Legacy Path in Exploration",
+      "trophyDetail": "Complete 3 Major Military Triumphs in a single Exploration age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/A9A338A87790FFC4DAD0746F7A4190095B44A04C.PNG",
       "trophyGroupId": "default"
     },
@@ -254,7 +254,7 @@
       "trophyHidden": false,
       "trophyType": "silver",
       "trophyName": "Science in the Suburbs",
-      "trophyDetail": "Complete all Milestones of the Scientific Legacy Path in Exploration",
+      "trophyDetail": "Complete 3 Major Scientific Triumphs in a single Exploration age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/95551458876469BFF94A94BAAECA116B752A76F3.PNG",
       "trophyGroupId": "default"
     },
@@ -262,8 +262,8 @@
       "trophyId": 28,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "All Over the Map",
-      "trophyDetail": "Complete all Milestones of the Cultural Legacy Path in Modern",
+      "trophyName": "Talk of the Towns",
+      "trophyDetail": "Complete 3 Major Diplomatic Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/B8D0114FAB22D2786F3C4A369AA47B1EC3115F07.PNG",
       "trophyGroupId": "default"
     },
@@ -271,8 +271,8 @@
       "trophyId": 29,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Ride the Rails",
-      "trophyDetail": "Complete all Milestones of the Economic Legacy Path in Modern",
+      "trophyName": "Paint the Map",
+      "trophyDetail": "Complete 3 Major Expansionist Triumphs in a single Antiquity age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/6E5351732993AB96FB2B4E017741E6ECF7D5FF7C.PNG",
       "trophyGroupId": "default"
     },
@@ -280,8 +280,8 @@
       "trophyId": 30,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "Big Stick Ideology",
-      "trophyDetail": "Complete all Milestones of the Military Legacy Path in Modern",
+      "trophyName": "Velvet Glove",
+      "trophyDetail": "Complete 3 Major Diplomatic Triumphs in a single Exploration age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/1FEE9883CCCAA9A49BE52F7BF36EAA21796D7BB0.PNG",
       "trophyGroupId": "default"
     },
@@ -289,8 +289,8 @@
       "trophyId": 31,
       "trophyHidden": false,
       "trophyType": "silver",
-      "trophyName": "It's Not Rocket Science...Yet",
-      "trophyDetail": "Complete all Milestones of the Scientific Legacy Path in Modern",
+      "trophyName": "Beyond the Horizon",
+      "trophyDetail": "Complete 3 Major Expansionist Triumphs in a single Exploration age.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR29636_00_009A9555F724A097F16A8C13E3275ECFFF565E3CC2/91D417D678096CFFC67BCED04699A1CB5D251D24.PNG",
       "trophyGroupId": "default"
     },

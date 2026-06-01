@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR10505_00",
   "title": "Neverwinter",
   "platform": "PS4",
-  "trophySetVersion": "01.27",
+  "trophySetVersion": "01.28",
   "hasTrophyGroups": true,
-  "totalItemCount": 118,
+  "totalItemCount": 120,
   "trophies": [
     {
       "trophyId": 0,
@@ -1067,6 +1067,24 @@
       "trophyDetail": "Complete the Soul Harvest",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/68E03CCC74F5FFC3942A4FC8F7E344AC72FB902D.PNG",
       "trophyGroupId": "018"
+    },
+    {
+      "trophyId": 118,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Biting Cold",
+      "trophyDetail": "Complete The Biting Cold Campaign",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/AA90EC61952B8C85F54A92C16C80720C07CF6CF1.PNG",
+      "trophyGroupId": "019"
+    },
+    {
+      "trophyId": 119,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jotunskar",
+      "trophyDetail": "Complete the Jotunskar",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/87B2A5B8264738793FFF29D4B8FD049D8030E822.PNG",
+      "trophyGroupId": "019"
     }
   ]
 }

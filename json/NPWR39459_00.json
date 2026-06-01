@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39459_00",
   "title": "Gems of War",
   "platform": "PS4",
-  "trophySetVersion": "01.16",
+  "trophySetVersion": "01.17",
   "hasTrophyGroups": true,
-  "totalItemCount": 39,
+  "totalItemCount": 42,
   "trophies": [
     {
       "trophyId": 0,
@@ -355,6 +355,33 @@
       "trophyName": "Super Star",
       "trophyDetail": "Earn 200 Star Stones.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/8998ACFBB7F4DD08511A9526E858CA438D4FF663.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mixology",
+      "trophyDetail": "Match 100 Mana Potion Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/8B4B89B9A30C855F1050B95D85FECC17E3C7DDFD.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twisted Web",
+      "trophyDetail": "Match 100 Web Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/473897A3A846BFE2F5717A332BCB812DA0818634.PNG",
+      "trophyGroupId": "006"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fathoms Below",
+      "trophyDetail": "Match 100 Submerge Gems",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39459_00_005086891DA29D1AF05C41E9BF09920F652EAF4F1A/0DE1A0F999B0A36C6C97AE05CC1EAE21CA196D9F.PNG",
       "trophyGroupId": "006"
     }
   ]
