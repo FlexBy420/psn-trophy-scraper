@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR20567_00",
   "title": "Minecraft: PlayStation®4 Edition Set 2",
   "platform": "PS4",
-  "trophySetVersion": "01.35",
+  "trophySetVersion": "01.36",
   "hasTrophyGroups": true,
-  "totalItemCount": 21,
+  "totalItemCount": 22,
   "trophies": [
     {
       "trophyId": 0,
@@ -194,6 +194,15 @@
       "trophyDetail": "Hit five mobs in the same Charge attack using the Spear",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/689E9AA613B5741E4807995F3F59E144FDD71331.PNG",
       "trophyGroupId": "008"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Uh oh",
+      "trophyDetail": "Have a Sulfur Cube absorb a TNT block.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/F32D2C5432E8DE9CC660E94C0B713FFDAEF5B919.PNG",
+      "trophyGroupId": "009"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR38531_00",
   "title": "Little Nightmares III",
   "platform": "PS4",
-  "trophySetVersion": "01.03",
-  "hasTrophyGroups": false,
-  "totalItemCount": 32,
+  "trophySetVersion": "01.04",
+  "hasTrophyGroups": true,
+  "totalItemCount": 38,
   "trophies": [
     {
       "trophyId": 0,
@@ -293,6 +293,60 @@
       "trophyDetail": "You've stayed at arm's length",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/F8BC00FABB0837EF7950656B0B3BD7A34F1FAB64.PNG",
       "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Exit Stage Fright",
+      "trophyDetail": "Survive until the curtain call",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/9162C4E7E8717AE6D47F3A745BB8E5B573F4F6BA.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Picture Perfect",
+      "trophyDetail": "A revealing experience",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/22F0C2D3D9F7C1D1FFF15BC87C56479F471E8212.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just the Ticket",
+      "trophyDetail": "Keep your eye on the prize",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/0A86B1D23E646559FF9D692CFBFE8EB7B913F56A.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Puppet Master",
+      "trophyDetail": "You didn't break a leg",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/C1E8BFD9144CC6E72AE03458E10B91D33B16096B.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean Up Your Act",
+      "trophyDetail": "You may need a raincoat",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/86E0F1D7A5DAE5E8D26B311CF910FA61365AD5B7.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shadow Puppets",
+      "trophyDetail": "Flash the mob",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR38531_00_003FB4514F2B8DF25AA2009EC809836B03142F27A6/84C3650F9E728D743272197285B63595824F3E08.PNG",
+      "trophyGroupId": "001"
     }
   ]
 }

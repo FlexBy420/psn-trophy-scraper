@@ -1,0 +1,514 @@
+{
+  "npCommunicationId": "NPWR58766_00",
+  "title": "The Planet Crafter",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 56,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Master Terraformer",
+      "trophyDetail": "You did it!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/4947d012-4d4c-4be5-9f04-2f41d438f3d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New Sky",
+      "trophyDetail": "Reach full blue sky",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/7fc7d5d1-90db-48e1-ad0c-5abe36e7dfb7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clouds in the sky",
+      "trophyDetail": "Reach clouds",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/34b4f207-c08d-4ce2-9a89-fee11329d6ad.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life from the sky",
+      "trophyDetail": "Reach rain level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/cdeba650-8b98-4ee5-8db9-4d13c5dbf70d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Liquid water",
+      "trophyDetail": "Reach liquid water level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5b7a6c5e-1164-4c69-b92f-8205c42ac885.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "So much water",
+      "trophyDetail": "Reach full lakes level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/2f71e0ef-d0b6-474a-bf73-a90042e7a9a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Greenery",
+      "trophyDetail": "Reach moss level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/09ce83e4-0952-4320-86bf-2fc85790c6cb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's growing",
+      "trophyDetail": "Reach herbs level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5157cf54-19a5-4ef4-9c36-27aa5fd6b890.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Forests",
+      "trophyDetail": "Reach trees level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/29860097-12ec-42c7-bb11-3a9a65ba1c16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shelter",
+      "trophyDetail": "Construct your first living compartment",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/e603d5f9-35ed-4625-97d6-b0d6b4a20f78.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are we leaving?",
+      "trophyDetail": "Craft your first launch platform",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/10e52317-2d4f-4d46-a86e-a80c89c06f22.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Biomass",
+      "trophyDetail": "Craft your first biodome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/2469350b-302f-4cfc-960d-c04a933c758d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Flowers on hostile planet",
+      "trophyDetail": "Craft your first flower spreader",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/f0146db3-eb33-4ef0-a2d0-c758c006a7cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jungle",
+      "trophyDetail": "Craft your first tree spreader",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/c98a6a2d-3990-486f-b05b-e5f2cdd35bd3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vegetables in space",
+      "trophyDetail": "Craft your first food grower",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/e0c49685-0e09-470f-9ee4-114e3d1a1f61.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What could go wrong?",
+      "trophyDetail": "Craft your first nuclear reactor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/37c74f06-8612-4e66-822c-b0580e4cf667.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Genetic Engineer",
+      "trophyDetail": "Craft your first DNA Manipulator",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5b0057a5-ec20-4e19-b890-c865b764ea0e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Rare Red Ore",
+      "trophyDetail": "Find Iridium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/d62ebba3-4002-437e-b97f-76f190f71a3a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Blue Rare Ore",
+      "trophyDetail": "Find Osmium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/af51a496-44e9-4a06-b3d7-bb1bfee1af20.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The White Rare Ore",
+      "trophyDetail": "Find Zeolite",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/4a68dddc-e291-4fa8-9112-ef1a110390d8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Pink Rare Ore",
+      "trophyDetail": "Craft or find a Pulsar Quartz",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/a71d02e5-2521-47ae-a798-476dd4d078dd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fusion Energy",
+      "trophyDetail": "Craft your first fusion cell",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/d23eecfa-7fd9-473a-ab61-9c5edf30b279.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Golden flower",
+      "trophyDetail": "Find your first golden seed",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/00f4ee46-0b22-40eb-8096-9c68df0f986f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Door ?",
+      "trophyDetail": "Find a weird door in a cave",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ec4ddcd5-0529-4d72-8949-0a6acc6dbd4d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vivarium",
+      "trophyDetail": "Reach insects level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/39d3c5cc-8930-4d86-9ed4-cdb5e20a0b0a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Farming on Mars",
+      "trophyDetail": "Create your first outside farm",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ffcffc1a-d69b-4b56-94a2-059bc2a03fcd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Automation",
+      "trophyDetail": "Craft your first ore extractor",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ac4f16c0-a7fb-47af-aad7-f331dc223cc3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mushrooms river",
+      "trophyDetail": "Discover the mushroom river",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/78114553-4289-46c9-b8de-5cfd8b30fabb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not the face!",
+      "trophyDetail": "Get hit by an asteroid",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ea28c2d2-6218-41c0-9328-83120c4927f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancient paradise",
+      "trophyDetail": "Find the ancient paradise",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/f2ea3f00-1a61-49ea-ba28-68cdce267224.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Breath",
+      "trophyDetail": "Reach atmosphere level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/6f4275fc-368f-49e6-98fb-27e5c20857e3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bubbles under water",
+      "trophyDetail": "Reach fish level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ec217933-df08-4350-8986-3f663953aa48.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Logistics",
+      "trophyDetail": "Build a drone",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5ebd1669-2132-4ec2-a63a-4d26e5f10be4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The factory must grow",
+      "trophyDetail": "Build an autocrafter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/33e1572c-3903-4c53-a232-67c85fafd2be.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space Trading",
+      "trophyDetail": "Build a space trading rocket",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/882c5aac-e3c3-471f-819a-c9edf4b9de60.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space frogs",
+      "trophyDetail": "Reach amphibians stage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/8dbe7e9e-bb43-407e-8588-d9a19cf37e1c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space smuggler",
+      "trophyDetail": "Gain a total of 100 Terra Tokens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/07df1af5-606e-448f-b2f8-62e9f0a48beb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space pirate",
+      "trophyDetail": "Gain a total of 1000 Terra Tokens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/8ebbb563-fa0b-48d7-96d9-2be0350e7410.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space trader",
+      "trophyDetail": "Gain a total of 10000 Terra Tokens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/6595fe7c-bdc1-4afa-8425-4031f1174661.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Space magnate",
+      "trophyDetail": "Gain a total of 100000 Terra Tokens",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/fd2e66aa-124f-4443-8627-493b5e109856.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Cookie factory",
+      "trophyDetail": "Bake a cookie",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/cfb1a088-8c19-4ef0-b7bd-b2d237882146.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New life forms",
+      "trophyDetail": "Craft your first DNA sequence",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/24f3e4ea-3ab1-4117-a79c-c142072639a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Distant Wrecks",
+      "trophyDetail": "Craft a portal generator",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5ce9b9b7-d658-44ea-be6c-bd5e383ce2ce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space zoo",
+      "trophyDetail": "Craft an animal shelter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/3294cb05-f9a1-4555-b1d6-c511a96339a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Barely surviving",
+      "trophyDetail": "Craft 10 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/a9bb6b4c-459c-410b-b144-3c9b2598bf75.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Getting comfy",
+      "trophyDetail": "Craft 100 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/7158a4e8-b5f5-44a0-a074-b622e4295566.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Unstoppable",
+      "trophyDetail": "Craft 1000 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/633bd8a1-5e71-455d-9aaa-e43aeda3b4e8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Subjection",
+      "trophyDetail": "Leave the planet with Sentinel Corp",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/b4931e4c-7c6d-4965-8a8b-a9414e4358a7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Subversion",
+      "trophyDetail": "Leave the planet with the Wardens portal",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/c0c3f217-cd8c-4fbc-af16-3965c82bbac7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Subservience",
+      "trophyDetail": "Leave the planet with smugglers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/5ec81751-98e3-40be-8969-11c3c821f634.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Rainbow caves",
+      "trophyDetail": "Discover the rainbow caves",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/40a8dd1b-5478-424a-8059-7880cd9930f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Jump in lava",
+      "trophyDetail": "Get lava damages",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/9099ee6c-a4b5-448a-a423-4e154ba78c43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Evolution",
+      "trophyDetail": "Reach mammals level",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/e3169753-81e4-4923-8a87-9ca1478058c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Biosphere",
+      "trophyDetail": "Reach complete terraformation",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/ba4943a0-357a-4ee5-ae95-bb878c4ca202.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Yellow Rare Ore",
+      "trophyDetail": "Find Solar Quartz",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/c6bcd295-d436-40b5-9c46-52b5b5abac9c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "The Cenote",
+      "trophyDetail": "Discover the cenote biome",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR58766_00/33433725-0cb2-40d8-b55a-c32abe2bf258.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

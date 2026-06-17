@@ -1,0 +1,640 @@
+{
+  "npCommunicationId": "NPWR53480_00",
+  "title": "Laundry Store Simulator",
+  "platform": "PS4",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 70,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "The Bleach King",
+      "trophyDetail": "Unlock all trophies",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/E8F08D225BE29735358241B1E66277525FB250E4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interior Rookie",
+      "trophyDetail": "Buy 25 decoration items for your laundry store",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/327D91594F84ED5502481D2E0BF5ADE46F8796D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interior Designer",
+      "trophyDetail": "Buy 100 decoration items for your laundry store",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/AB5610DA72ECCFF5E318C8290074A5C12D904724.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Interior Master",
+      "trophyDetail": "Buy 400 decoration items for your laundry store",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/71DC5BBC257B547FF84BC69B795A9C676D905633.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humble Beginnings",
+      "trophyDetail": "Serve 150 Laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/C3BACC0D0950CA38999F72885D184D55B254FC5D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thriving Laundromat",
+      "trophyDetail": "Serve 600 Laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/0A5C67EE2E8510058AC29B47C853FDC22F0060FC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Laundry Giant",
+      "trophyDetail": "Serve 2400 Laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/EC43538CACDB088B6937AD621F0A63B3F39D760B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Spender",
+      "trophyDetail": "Spend a total of $1000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/789F8D997A419F1D541254CD8B5B9E9CFDDE75E9.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Money! Money! Money!",
+      "trophyDetail": "Spend a total of $4000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/C3660E85731DE735210DAF966F0736F35B8188DA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Swimming In Cash!",
+      "trophyDetail": "Spend a total of $16000",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/94D7E4B6B03639D04799126B585E9271F199E46C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bomb Defuser",
+      "trophyDetail": "Defuse a bomb left by a customer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/DAC8877B2D6BB3872AA696457B428F4EB59B0A0E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Explosive Personality",
+      "trophyDetail": "Defuse 5 bombs left by a customer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/902B5DEB4B7AC40206BDBA59B4C1EC8626CAA7F2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Counter-Striked!",
+      "trophyDetail": "Defuse 10 bombs left by a customer",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/F7CD6CC426F2405C82A455D9BBE8176718BBF819.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Syndrome",
+      "trophyDetail": "Serve an important figure 20 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/7A8526EB15C16556E64CB999A812396142FA6D7B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Star Struck",
+      "trophyDetail": "Serve an important figure 50 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/BAC7F3F6BBFFE5582F916A074EBB001492B30C77.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "#1 Fan",
+      "trophyDetail": "Serve an important figure 100 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/09FC7C020877D261EDD75E8805B2089E5B085A28.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squeaky Clean!",
+      "trophyDetail": "Clean 35 Stains with the mop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/0546E8B8B1515B7CD94B3A09FA067D349DF1381B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean Slate",
+      "trophyDetail": "Clean 140 Stains with the mop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/A2623B3F98F23BBAC10BF3898B4F17BAEFAA4177.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cleaner's Club",
+      "trophyDetail": "Clean 560 Stains with the mop",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/F066B57FCEA5B1F8C34972E12504C398AE7C23F4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stinky Bathroom",
+      "trophyDetail": "Defeat a Puker before they enter the bathroom",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/7B9D7EEC213F140BAADDB7B6D32E8D0B8C61419F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bile Incoming!",
+      "trophyDetail": "Defeat 5 Pukers before they enter the bathroom",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/22C744B76FA8D043BE8711C2519911F3D1540C8B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Puke in the Hole!",
+      "trophyDetail": "Defeat 10 Pukers before they enter the bathroom",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/F595A9EEAA096BC974B11A70C7EDFA25A99D72F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hard To Breathe",
+      "trophyDetail": "Prevent a Smoker from smoking in your Laundry!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/61B9D2CDB5C62D97965EF72398CB4B55A30A25A3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Huff and Puff",
+      "trophyDetail": "Prevent 5 Smokers from smoking in your Laundry!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/7B15B6DD5F5C18020F9BC083FBAEAFD74AE58FE6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Smoking!",
+      "trophyDetail": "Prevent 10 Smokers from smoking in your Laundry!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/3C01BCF12534D2E2FD742A1C98892D600A8359CD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Suit Up!",
+      "trophyDetail": "Serve 50 suit laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/C20AFC4586A052D39B707366DCC1422849454D4A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready for Work!",
+      "trophyDetail": "Serve 200 suit laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/C08E9ADB4EDEB7237C091AC5DAD2A683ED4C5BE5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dressed to Impress!",
+      "trophyDetail": "Serve 800 suit laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/9503089BDD2C80556219438DFE7EA10B9AA38637.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean Sheets!",
+      "trophyDetail": "Serve 50 sheet laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/6D70AB0EDEB1A716AA79A73EB5D3DF4FAFC1BB45.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cozy Sleep",
+      "trophyDetail": "Serve 200 sheet laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/780A5C061D2B6F56E44CEF668D25D26797DAEF00.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silky Smooth!",
+      "trophyDetail": "Serve 800 sheet laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/9BD6D5D6B3287245013F262757671028878E3CB1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pocket Full Of Change",
+      "trophyDetail": "Have 50 Customers use your Coin Laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/DA24C660380C090C6799731C9175F07BE1051567.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Toss a Coin to Your Laundry",
+      "trophyDetail": "Have 200 Customers use your Coin Laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/8A4C75108B5979B99D42959A9F09F632D55B314F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "W.I.Y",
+      "trophyDetail": "Have 800 Customers use your Coin Laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/F75D5969AEB91699D3D6E07196383E6B4574A471.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ready to Party!",
+      "trophyDetail": "Serve 50 costume laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/A3BF8974469BCC45D67B6663EBCF4F35423DAD4E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Send in The Clown!",
+      "trophyDetail": "Serve 200 costume laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/2B889122E82A6D0E0C647B1F76BEC45D1AF0F778.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Why So Serious?",
+      "trophyDetail": "Serve 800 costume laundry customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/B339FC27E6017F6BC633847C33403CDA6130C854.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Business Expansion",
+      "trophyDetail": "Serve 50 Minimart customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/809AC868C3168B7960457B7ED6BE3B8110CD639F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "9 To 5",
+      "trophyDetail": "Serve 200 Minimart customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/ACC4CAE69F2B7E34D9CE5E99B88AE88A1166C334.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cashier Expert",
+      "trophyDetail": "Serve 800 Minimart customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/8AC0BE249B2A666438890989A7E3D2F17521D786.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lots of Ink!",
+      "trophyDetail": "Serve 50 custom shirt customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/633111118E587666BFF35FB1CD322F1F7C134B10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Having an INKling",
+      "trophyDetail": "Serve 200 custom shirt customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/BF83EB4CC393B250F635ED66A30E2803E432A33C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fabric Picasso",
+      "trophyDetail": "Serve 800 custom shirt customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/FBE4F1608A43A8B678DFE374292B6C2A88DF61CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wrinkle No More!",
+      "trophyDetail": "Iron clothes from 50 laundry baskets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/2F8ABC4298E451B2240B4C02A69083273E58C604.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ironing Things Out!",
+      "trophyDetail": "Iron clothes from 200 laundry baskets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/0164554CD5543FAD8A0709EBED72D9A5D221C0F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I am Ironing Man",
+      "trophyDetail": "Iron clothes from 800 laundry baskets",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/8C023084399E2EA17B14EFCD931AF9DD0A8EB3E0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Clean and Dry",
+      "trophyDetail": "Dry 50 customers laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/89722657007B18AA3210F3A63CB14B4991F3BCF6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dry Master",
+      "trophyDetail": "Dry 200 customers laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/8B8BEFC26A762EDB2E391F57942F87033AC34D66.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Made to Dry!",
+      "trophyDetail": "Dry 800 customers laundry",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/E99A8C9E347F65254E64F664D1082470130368D6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fixer Upper!",
+      "trophyDetail": "Use Wrench 35 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/4088427EDD68DC0AC6FE2F3BB83C2D3D389B4F16.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tinker Master!",
+      "trophyDetail": "Use Wrench 140 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/DFA926A9F1C9079BFF492FDE78D3940C08B0F124.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Handyman!",
+      "trophyDetail": "Use Wrench 560 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/9D11F837E028E3FC01F2EE49D15BBA0FDEA19204.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Beep! Beep!",
+      "trophyDetail": "Serve 15 delivery customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/BDEAEEC6D1547323204CB5666E4BCB24C5E51311.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Courier Service",
+      "trophyDetail": "Serve 30 delivery customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/517FDCC28215FB3E0DD775494624FF04D6E2C6F1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "LaundroDash",
+      "trophyDetail": "Serve 75 delivery customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/43A0C9E262B176AE2514BD754CCAB47C346E1724.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fur no More!",
+      "trophyDetail": "Use roller to clean furs on laundries 35 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/01A9877DDA880F77BED6B29A0AF9EC246F2B4397.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roll it away!",
+      "trophyDetail": "Use roller to clean furs on laundries 140 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/051300048741B4B7DC756BE3C2E3DB9BDACBA4AB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They see me Rolling!",
+      "trophyDetail": "Use roller to clean furs on laundries 560 times",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/3846C9E61C3915A362CBD37593D711480F69B2E6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Buy Me A Soda!",
+      "trophyDetail": "Sell 50 sodas to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/D4A3C43B00993ACD49D89E0C564D4DE22FE5EDC1.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Fizzy Feeling!",
+      "trophyDetail": "Sell 200 sodas to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/1FF571AA371C0C8A27B8D81CF25DDD0BE9212118.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bubbly Drinks!",
+      "trophyDetail": "Sell 800 sodas to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/AACCB5330617BDADFD17C4B53EE2A565D6EDFAC4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Quench Your Thirst",
+      "trophyDetail": "Sell 50 drinks to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/7516A4EE08AFF7CB11A895E0FD2F4C558BF2CAFA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hydrate yourself!",
+      "trophyDetail": "Sell 200 drinks to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/8B298D9EB6332F28F650E806320A908B1C624695.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Waterworld!",
+      "trophyDetail": "Sell 800 drinks to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/AD065C7648855A32A6A343B1A03F82719D60E5AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bakso Rookie",
+      "trophyDetail": "Serve 50 bakso to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/A4521D897CD4FDA1033F60C121A4A1843BD9AFBD.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bakso Enthusiast",
+      "trophyDetail": "Serve 200 bakso to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/31B60A15D3C89F3AF22ED3AA7CC6ED442A161158.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Bakso Connoisseur",
+      "trophyDetail": "Serve 800 bakso to customers",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/503D99D0BA9CE94587919A78F4E8BBA414066671.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Pimped Out!",
+      "trophyDetail": "Unlock all laundry capabilities!",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/159487D851DBD25D4F248A2E7E1B0BCEBAE4833B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Tool Mastery",
+      "trophyDetail": "Upgrade all tools",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/E7F766BB97C0A97C13618B1C0550E342EACC0038.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Relaxing Day",
+      "trophyDetail": "Unlock all staff",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR53480_00_00B4E138ACD5F75CFB2C96EFC8E068AE2A0443273D/38E29A349B5192BD10C85764345DC6DB87901359.PNG",
+      "trophyGroupId": "default"
+    }
+  ]
+}

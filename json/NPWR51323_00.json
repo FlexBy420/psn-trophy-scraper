@@ -1,0 +1,388 @@
+{
+  "npCommunicationId": "NPWR51323_00",
+  "title": "STARSEEKER: Astroneer Expeditions",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 42,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Overachiever",
+      "trophyDetail": "Unlock every Trophy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/2d9a78cc-7f73-466c-ae8e-959bc710fbe6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Meet",
+      "trophyDetail": "Complete the Tutorial",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/9e50b758-f912-4bcf-ba05-92491cff5885.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mod One Out",
+      "trophyDetail": "Equip a mod",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/501bfce6-e904-4d2a-ac2c-9f8a5debe398.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Clever Equip",
+      "trophyDetail": "Equip one of every type of mod",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/c03120d3-d3cb-408f-a061-db5536a249c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Survived!",
+      "trophyDetail": "Complete an Expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/327f6119-e186-4fbc-85f2-fe02e4e196d5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Buddy Up",
+      "trophyDetail": "Gain a Reputation Level with an NPC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/72580da5-10d8-454e-b514-59b26a7b135d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "BFF",
+      "trophyDetail": "Reach maximum Reputation with an NPC",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/7d2f6d30-8566-4eea-81bd-70911f92090c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Three's Company",
+      "trophyDetail": "Reach maximum Reputation with three NPCs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/7193d206-69b1-44b5-a42d-3c0f1dcee9a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pudding Pal",
+      "trophyDetail": "Revive another Astroneer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/b5856f38-d9e9-44ac-a036-a4c3262fcfd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Artificial Lifesaver",
+      "trophyDetail": "Revive another Astroneer 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/490e637d-4393-4730-99b8-2d5693180135.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On Your Feet",
+      "trophyDetail": "Get revived by another Astroneer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/0ad43d96-c920-45bd-8c28-deefa1408dce.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Of Course You Scan",
+      "trophyDetail": "Scan something while on an Expedition",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/017b5d9f-4bbb-47f5-b998-126a42873ee6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Scant Stop, Won't Stop",
+      "trophyDetail": "Scan 100 unique things",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/eda3f980-9685-4388-a9b2-dbea97ffb83c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "S-Tierneer",
+      "trophyDetail": "Reach Player Rank Level 50",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/fc5444b6-69c1-4825-b4a0-fcd54ff0d143.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fit to Print",
+      "trophyDetail": "Customize your appearance",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/481c7534-62e7-47a5-8d82-a0dd63590477.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "On the Makeover",
+      "trophyDetail": "Customize every appearance option",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/ddee5cef-5cb0-454c-8f22-f6b603b8ba6f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Knock-on Effect",
+      "trophyDetail": "Stun a creature with another creature",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/30e82a97-6952-426e-b6c4-d6b9d742d8fc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Passing Through",
+      "trophyDetail": "Buy something from a traveling merchant",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/30b0d90c-44aa-441f-ba18-b51d08319102.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sweet Nothings",
+      "trophyDetail": "Extract with an empty backpack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/64d1b6a1-3e23-45dd-84e2-1a2c0f8922b1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In Full Gear",
+      "trophyDetail": "Extract with a full backpack",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/bbeba072-65e6-4755-82ac-10c427d306b7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Boldly Go",
+      "trophyDetail": "Walk 200 kilometers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/c096b409-d803-42ba-9897-33b447ab074e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Peak Your Interest",
+      "trophyDetail": "Climb 5 kilometers",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/372a8a22-9000-41fb-8c3e-b139c3f90193.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Job Share",
+      "trophyDetail": "Complete a Task claimed by a squadmate",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/72da4f98-df15-4a83-b581-d0ea41873e1a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sold Pro",
+      "trophyDetail": "Sell 1000 items",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/ece04798-8e8b-4213-9a60-846a8ece9d08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cat Nap",
+      "trophyDetail": "Sedate a creature",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/750fc708-a1e0-47b8-9ff4-f89ea06a7a39.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Catatonic",
+      "trophyDetail": "Sedate 1000 Creatures",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/a91859f9-db3a-4b71-8930-c2da94f781a0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Space Baron",
+      "trophyDetail": "Spend 100,000 Bytes",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/54a2b74a-148e-427c-adc0-58863ccb2eae.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cat's Meow",
+      "trophyDetail": "Spend 250 Baubles",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/adca0436-dffb-4914-964b-9df259456b5e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "For the Hoard!",
+      "trophyDetail": "Fill a tab of your Stash",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/9cbd2084-fc0f-49d3-beb0-9d0d9e515878.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sharing is Caring",
+      "trophyDetail": "Emote together with a fellow Astroneer",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/11dc5f3e-7da4-47a8-9ef1-28e0f17ed25a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All the Feels",
+      "trophyDetail": "Emote 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/5e8ed0ef-20f4-4de5-94ad-8de312d9a6f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "All Over the Map",
+      "trophyDetail": "Extract from a Region you didn't start in",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/d25e93aa-b467-4a96-bda7-57d1500f6918.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Crowd-pleaser",
+      "trophyDetail": "Contribute to a Community Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/102d82e2-312d-4f98-a658-1368da641cd7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Play the Field",
+      "trophyDetail": "Contribute to Field Ops",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/e1c116f1-992d-4ab4-ae8a-85fecad96551.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Don't Be a Stranger",
+      "trophyDetail": "Join Field Ops with a player not in your Squad",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/bf7d45fe-5ae2-47b7-b5a8-64e249e3ae3c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Stick With It",
+      "trophyDetail": "Get a Level 2 sticker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/547d0b34-9d26-4349-9885-ac505802eff3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stick the Landing",
+      "trophyDetail": "Get a maximum Level sticker",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/1af23190-e759-422d-9f5b-4851a00f2b51.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sticker Shock",
+      "trophyDetail": "Get all maximum Level stickers in a group",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/2318789c-b8f3-4242-9859-2d7963c52a2b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golden Pathos",
+      "trophyDetail": "Complete a Mission chain",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/7dbc992a-3a56-4963-b7b4-e8f75a88f9fd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Toss Up",
+      "trophyDetail": "Open a cache by throwing something at it",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/fa85768e-6ecf-41d8-9a7c-30c2fae44bc1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It Takes a Village",
+      "trophyDetail": "Help complete a Community Challenge",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/056ecbdf-36ff-47ba-bb06-5a667ab6e6a3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Last Breath",
+      "trophyDetail": "Extract from a planet after your Oxygen runs out",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR51323_00/2d4ba60c-9d62-486f-a050-e67f3afc2068.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

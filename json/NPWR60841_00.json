@@ -1,0 +1,405 @@
+{
+  "npCommunicationId": "NPWR60841_00",
+  "title": "Bellwright",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 42,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Bellwright",
+      "trophyDetail": "Completed all other trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f37298f4-16c0-4010-b605-1b937210c90c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hall of New Beginnings",
+      "trophyDetail": "Erect a Village Hall, cementing your claim as a cornerstone of Karvenia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/064997a4-03d5-4c97-a7d6-49b220be9a09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bandit's Bane",
+      "trophyDetail": "Personally defeat 100 bandits threatening the peace of the region.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f32c1e91-2581-42e8-8d55-e8ec4a917192.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Homecoming ",
+      "trophyDetail": "Construct a shack to mark your return and settle into Karvenia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/064997a4-03d5-4c97-a7d6-49b220be9a09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Every Day of the Week",
+      "trophyDetail": "Successfully defend against 7 bandit raids on any of your settlements.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f32c1e91-2581-42e8-8d55-e8ec4a917192.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Cold Nights and Colder Hearts",
+      "trophyDetail": "Survive your first winter in Karvenia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/34803c9a-6bb7-49fb-bf3f-6f2353050f73.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Smelting Start",
+      "trophyDetail": "Master the art of bronze smelting by crafting your first 25 ingots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/af861d94-1825-4f4e-a1d4-f309acd40baa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "25"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Feeling of Compassion",
+      "trophyDetail": "Choose mercy over vengeance by sparing the former bandit",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "No Mercy for the Wicked",
+      "trophyDetail": "Choose retribution over mercy by killing the former bandit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Beloved by Karvenia",
+      "trophyDetail": "Reach maximum trust with any village, becoming an integral part of its growth.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/bb624010-5ce3-4f65-9b4e-a85d69329361.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Talent Scout",
+      "trophyDetail": "Recruit 5 villagers with professions, each bringing unique expertise to your village.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/bb624010-5ce3-4f65-9b4e-a85d69329361.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Ancient Mysteries",
+      "trophyDetail": "Dig deep into Karvenia's past and discover the secrets of a pagan shrine.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Ironbound Progress",
+      "trophyDetail": "Forge ahead in industrial advancement by producing 50 iron ingots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/af861d94-1825-4f4e-a1d4-f309acd40baa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Securing the Land",
+      "trophyDetail": "Clear 10 bandit camps to make the Karvenia a safer place to live.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f32c1e91-2581-42e8-8d55-e8ec4a917192.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life-Giving Crops",
+      "trophyDetail": "Build a farm in your settlement to grow food and other crops.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/1065381e-5658-4abb-9add-3a78ad24e940.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Humble Beginnings",
+      "trophyDetail": "Convince Lubomir Netterby to join your settlement.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armored Artisan",
+      "trophyDetail": "Have your workers craft 15 armors with armor value 35 or higher to protect themselves.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/fc3b1fa3-f024-482c-85f8-c3c2f720114d.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "15"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pathmaker",
+      "trophyDetail": "Build 5 Travel Signs while exploring the vast lands of Karvenia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/50654ea8-873f-49fd-b90c-2bb63f450650.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Stronghold Stormer",
+      "trophyDetail": "Take down 3 of the largest and most dangerous bandit strongholds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/064997a4-03d5-4c97-a7d6-49b220be9a09.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "3"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "gold",
+      "trophyName": "Anointed in Blood",
+      "trophyDetail": "Slay Lord Ashbourne and liberate the people of Karvenia of his dreadful rule.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/064997a4-03d5-4c97-a7d6-49b220be9a09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Steel Heart",
+      "trophyDetail": "Achieve mastery in steel production by crafting 100 steel ingots.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/af861d94-1825-4f4e-a1d4-f309acd40baa.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Bells Shall Ring...",
+      "trophyDetail": "Liberate a village from the tyranny.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4e0a9b01-07e8-42d5-b8a9-e3537fa541cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "...For Freedom Once Again",
+      "trophyDetail": "Liberate all villages of Lowlands and Highlands.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4e0a9b01-07e8-42d5-b8a9-e3537fa541cf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "7"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Strings Attached",
+      "trophyDetail": "Support Patryk Sten as a candidate in the elections.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Heart of the Matter",
+      "trophyDetail": "Cast your vote for Hans Atwood in the elections.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "New Bonds Formed",
+      "trophyDetail": "Recruit Belinda, drawing on her unique skills and resilience.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Safe Passage",
+      "trophyDetail": "Ensure Belinda's safety by sending her to Klara.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Squealing Secrets",
+      "trophyDetail": "Choose to share the circumstances of the husband's misadventure.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Hogwash",
+      "trophyDetail": "Choose to opt for ignorance, sparing the details about the husband.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/ae2bc331-cb76-4414-8440-cd54d4e8379d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Stone Unturned",
+      "trophyDetail": "Apply your investigative prowess to solve a grim murder mystery.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Foot Forward",
+      "trophyDetail": "Earn Friend trust level in Haerndean by making a positive impression on the villagers.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/bb624010-5ce3-4f65-9b4e-a85d69329361.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Place Worth Seeing",
+      "trophyDetail": "Travel across Karvenia and step foot in every village.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/50654ea8-873f-49fd-b90c-2bb63f450650.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Life Finds A Way",
+      "trophyDetail": "Watch over your livestock and welcome a new life into the world.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4300d85c-50f0-4d5f-89ca-c1af58d7da16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Crown of the Herd",
+      "trophyDetail": "Breed livestock with care and see a cub born with flawless traits (10/10 stats).",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4300d85c-50f0-4d5f-89ca-c1af58d7da16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blessing Of The Mermaid",
+      "trophyDetail": "Cast a line and pull your first catch from Karvenia’s waters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4300d85c-50f0-4d5f-89ca-c1af58d7da16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blades Unbound",
+      "trophyDetail": "Liberate a village and rally its people into an armed militia.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4e0a9b01-07e8-42d5-b8a9-e3537fa541cf.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Anew We Thrive and Prosper",
+      "trophyDetail": "Invest, defend, and rebuild until a village reaches peak prosperity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/064997a4-03d5-4c97-a7d6-49b220be9a09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Purrfect Friend",
+      "trophyDetail": "Earn the trust of a feline companion to call your own.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/4300d85c-50f0-4d5f-89ca-c1af58d7da16.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Words of Wisdom",
+      "trophyDetail": "Guide your villagers as they study and complete 100 knowledge books.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/f0ef18ab-72d5-4f66-b67c-b80f798aa37f.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Forests Grown Anew",
+      "trophyDetail": "Support your forester in planting 500 trees to restore the wilds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/1065381e-5658-4abb-9add-3a78ad24e940.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Road Less Traveled",
+      "trophyDetail": "Lay down a league of roads to bind your lands together.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/50654ea8-873f-49fd-b90c-2bb63f450650.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "2200"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Oars of War",
+      "trophyDetail": "Transport a total of 250 companions across the land using river docks.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR60841_00/50654ea8-873f-49fd-b90c-2bb63f450650.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "250"
+    }
+  ]
+}

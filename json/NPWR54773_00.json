@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR54773_00",
   "title": "Talisman: Digital 5th Edition",
   "platform": "PS4",
-  "trophySetVersion": "01.00",
+  "trophySetVersion": "01.01",
   "hasTrophyGroups": true,
-  "totalItemCount": 33,
+  "totalItemCount": 34,
   "trophies": [
     {
       "trophyId": 0,
@@ -302,6 +302,15 @@
       "trophyDetail": "Win a game whilst the Doom tracker is on the final space",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54773_00_00E72B0500A102EDC6D21E11B13FD417178D71F713/D59690B4F6A324F83B603A20894E607A0750DC7F.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lone Adventurer",
+      "trophyDetail": "Defeat The Dead King in solo mode",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR54773_00_00E72B0500A102EDC6D21E11B13FD417178D71F713/C35E2B96FAD02A386B461418DD12B0FD25A81382.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

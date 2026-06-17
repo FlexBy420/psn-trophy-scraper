@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR45698_00",
   "title": "Dead by Daylight 3/3",
   "platform": "PS4",
-  "trophySetVersion": "01.12",
+  "trophySetVersion": "01.14",
   "hasTrophyGroups": true,
-  "totalItemCount": 39,
+  "totalItemCount": 45,
   "trophies": [
     {
       "trophyId": 0,
@@ -356,6 +356,60 @@
       "trophyDetail": "Escape with Kwon Tae-young using only his 3 unique perks in a public match.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/1C9C3CE13F9136A4150FEAD1B83BE211A5E8BD66.PNG",
       "trophyGroupId": "009"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not So Fast",
+      "trophyDetail": "In public matches, immobilize Survivors to a wall 13 times as The Slasher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/0A52154586E81AC4898A5F48FB826E5F7A16B606.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "In Pursuit",
+      "trophyDetail": "In public matches, down 13 Survivors within 30 seconds of breaking a Pallet or Wall.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/A4C8BAF8942786E9824D72063E73F70A05002941.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Slasher",
+      "trophyDetail": "Achieve a merciless victory with The Slasher using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/FE259B332146DC4FD0B4F214BD3160B1B628AFF0.PNG",
+      "trophyGroupId": "010"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roadblocks",
+      "trophyDetail": "In a single match, block the same Pallet 3 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/80B2AC2CAA449A98AA01BB2F14C01FB32485588D.PNG",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pro Bono",
+      "trophyDetail": "In public matches, give a total of 16 permanent healing charges to Survivors.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/7DF2552D1C0D1DEB9E9B5B10B92A9823D5817D6B.PNG",
+      "trophyGroupId": "011"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Adept Shane",
+      "trophyDetail": "Escape with Shane Wiigwaas using only his 3 unique perks in a public match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR45698_00_00A60908487C85FB257035FE759373CC0BF4AA2FB4/355B644ED766ED0E9AEB9C6C5985DC4CE248BD9C.PNG",
+      "trophyGroupId": "011"
     }
   ]
 }

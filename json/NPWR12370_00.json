@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR12370_00",
   "title": "Human Fall Flat",
   "platform": "PS4",
-  "trophySetVersion": "01.31",
+  "trophySetVersion": "01.36",
   "hasTrophyGroups": true,
-  "totalItemCount": 112,
+  "totalItemCount": 118,
   "trophies": [
     {
       "trophyId": 0,
@@ -1013,6 +1013,60 @@
       "trophyDetail": "Avoid hitting any donuts in chocolate river in \"Candyland\"",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/F2FF167122093993F2B42CB5DCF01B9D7F38BEAC.PNG",
       "trophyGroupId": "020"
+    },
+    {
+      "trophyId": 112,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Test Complete",
+      "trophyDetail": "Complete \"Test Chamber\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/BFD7B2D313A072A5423C4B5ADA896185C045E27B.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 113,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Half-baked puzzle",
+      "trophyDetail": "Find the cake in \"Test Chamber\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/08340C253E9BECFF81C2D18356ED3579E829E365.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 114,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Need to vent",
+      "trophyDetail": "Go through all the ventilation shafts in \"Test Chamber\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/01EFBAA17D073A08E994F9E787DFA43CE0C18D64.PNG",
+      "trophyGroupId": "021"
+    },
+    {
+      "trophyId": 115,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full steam ahead",
+      "trophyDetail": "Complete \"Steampunk Party\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/56CFED6CC699F50400358BD095A6B91597529788.PNG",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 116,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Animal",
+      "trophyDetail": "Start the party in \"Steampunk Party\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/AEEA6D89461B23E254A9CC9BD53DDFC658CDBDB5.PNG",
+      "trophyGroupId": "022"
+    },
+    {
+      "trophyId": 117,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Let off some steam",
+      "trophyDetail": "Find and turn the hidden valves in \"Steampunk Party\"",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/B9BF40B685023E89C98BDC047505A609806D2486.PNG",
+      "trophyGroupId": "022"
     }
   ]
 }
