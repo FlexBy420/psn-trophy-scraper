@@ -1,0 +1,397 @@
+{
+  "npCommunicationId": "NPWR59966_00",
+  "title": "SPORTAL",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 43,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Earn all trophies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/401f397f-3e53-4e81-97e5-00e38bde9b43.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First Arena",
+      "trophyDetail": "Clear first arena",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/ec84184a-bc6c-4cd5-9035-55b52d4b8ddb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arena frenzy",
+      "trophyDetail": "Clear 5 arenas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/8ee3f259-549b-4b7a-80df-513c06bd9528.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Arena insanity",
+      "trophyDetail": "Clear 10 arenas",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/2646727b-d65b-4f02-9d6d-e25458b444c0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy killer",
+      "trophyDetail": "Kill 100 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/9c65259d-b3b7-4f13-9ba9-6dd2651823c3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy destroyer",
+      "trophyDetail": "Kill 200 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/563735f2-984f-43ea-bd14-926b664f9ae9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spike user",
+      "trophyDetail": "Impale 5 enemies on spiked bands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/9fc3303d-5f64-4650-bc89-b0577c04c59e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spike apprentice",
+      "trophyDetail": "Impale 10 enemies on spiked bands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/2ffd6192-8e81-43a3-996e-2aea5f781462.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spike master",
+      "trophyDetail": "Impale 20 enemies on spiked bands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/6572d5ce-0dc8-4cd3-97e0-b8e9eba2ebb7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver collector",
+      "trophyDetail": "Collect 100 silver coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/0fe02ed8-6aea-4669-b8aa-2a69f1bfbdb0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver aficionado",
+      "trophyDetail": "Collect 500 silver coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/37c9c93a-8ab5-4bc2-99ea-c811b0941af4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyran collector",
+      "trophyDetail": "Collect 10 pyran coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/4be1ec06-7f03-4104-a8e1-efd9f0ca287e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pyran aficionado",
+      "trophyDetail": "Collect 100 pyran coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/469bb929-59ab-461e-8793-877c16749d03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spike super-master",
+      "trophyDetail": "Impale 50 enemies on spiked bands",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/6c91c0fd-20ad-4151-8c9e-47ff7a8e6ec7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Altar user",
+      "trophyDetail": "Kill 5 enemies on skull altars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/fdec0717-030e-45d3-b080-db9f6b6c85f9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Altar apprentice",
+      "trophyDetail": "Kill 10 enemies on skull altars",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/872f85e9-44c4-4ecb-993b-1b486299f4df.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Enemy annihilator",
+      "trophyDetail": "Kill 500 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/f9e05682-e029-43c2-83bc-004e891f8c08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Upgrade mania",
+      "trophyDetail": "Fully unlock all upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/3a49da7b-15c3-45bc-b4b8-11410a7c5811.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orint collector",
+      "trophyDetail": "Collect 10 orint coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/db9d4a6f-e8ad-4b28-a93a-4b841a735818.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Orint aficionado",
+      "trophyDetail": "Collect 100 orint coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/40f6e507-989f-474b-af2f-5b3afc4f9ed4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gaton collector",
+      "trophyDetail": "Collect 10 gaton coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/fa65b979-a526-43c6-8ea9-63edd3a0e369.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Gaton aficionado",
+      "trophyDetail": "Collect 100 gaton coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/f8f65eeb-dcc6-46d8-be57-2c716a4ef09f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Xeton collector",
+      "trophyDetail": "Collect 10 xeton coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/e36fa86e-841c-45c5-91b0-b3569424c15c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mushotaur killer",
+      "trophyDetail": "Defeat Mushotaur",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/84cb1e1f-149f-496e-b95b-fcf89594fa83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Behemoth killer",
+      "trophyDetail": "Defeat Behemoth",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/2042b24a-0e18-4e4c-bb28-270a39d41509.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Megatron killer",
+      "trophyDetail": "Defeat Megatron",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/95f4b4de-654d-41e0-9607-b557b796f7ea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Alien killer",
+      "trophyDetail": "Defeat Alien",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/adcc06b8-210a-4ac9-8c51-d520254c252b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Sportal Master",
+      "trophyDetail": "Defeat last Sportal boss",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/78b64e2a-f86e-458b-8814-151ff266f8d3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Silver hoarder",
+      "trophyDetail": "Collect 1000 silver coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/24205a78-5e8e-4b72-b884-136f7f585b04.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Silver maniac",
+      "trophyDetail": "Collect 2000 silver coins",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/450c30c7-db8e-46f2-ac10-c3ad8d8738f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eagle brand fan",
+      "trophyDetail": "Equip 4 Eagle items at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/44a2b1d9-93fe-4c01-b6b3-039111cd5f36.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Charger brand fan",
+      "trophyDetail": "Equip 4 Charger items at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/8f2cb84f-9efb-4c1a-906d-21711621bf91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Winston brand fan",
+      "trophyDetail": "Equip 4 Winston items at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/db4202fd-adad-4435-9527-61ac37dfbea0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gambler brand fan",
+      "trophyDetail": "Equip 4 Gambler items at once",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/c220fd9a-bd88-4bfe-a66f-3f372910a2a1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Double Jumper",
+      "trophyDetail": "Perform double jump",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/025168f6-632f-429c-9753-c0e2fc71c14c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slingshot master",
+      "trophyDetail": "Fully upgrade your slingshot damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/dd5ffdff-df13-4868-8fd6-065403fd012d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Lacrosse master",
+      "trophyDetail": "Fully upgrade your lacrosse damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/7ab40d1b-0993-4552-a805-a0a1225ad2f2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Baseball master",
+      "trophyDetail": "Fully upgrade your baseball damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/1c7881ee-4a6a-4940-8252-700496b6f49c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frisbie master",
+      "trophyDetail": "Fully upgrade your frisbie damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/77ce3347-75ed-44d6-a3eb-79b6271a6c44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Bowling master",
+      "trophyDetail": "Fully upgrade your bowling damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/0840dd9c-f6b8-454e-99ab-24e5097f33b5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Golf master",
+      "trophyDetail": "Fully upgrade your golf damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/396f7aa9-ca4f-48d4-a642-ca76f58604c2.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Football master",
+      "trophyDetail": "Fully upgrade your football damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/39945ed1-9d82-4699-a7f9-c59ca8a32fdd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Hockey master",
+      "trophyDetail": "Fully upgrade your Hockey damage",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR59966_00/cb4b50c7-fab1-4167-aa02-b8d3aed9f58f.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "npCommunicationId": "NPWR55018_00",
+  "title": "Abyssus",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 45,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Abyssus",
+      "trophyDetail": "Collect all Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/14c3deae-34cc-4097-b447-e5538acfd4f0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Game Hunter",
+      "trophyDetail": "Defeat your first Elite.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/f01fc209-df2f-477b-867e-9a817841bb28.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Royalty",
+      "trophyDetail": "Defeat the Boss of the Abandoned Temple.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/4a94cb36-49d7-4c0b-92b1-b8512eaaf73d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Legend No More",
+      "trophyDetail": "Defeat the Boss of the Gardens.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/187dfc19-68b7-48bb-9f37-a39acd5ad798.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Twisted",
+      "trophyDetail": "Defeat the Boss of the Sanctuary.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/cef72c9e-f043-4d81-9dfa-f9c3f6febb44.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "A Kingdom Toppled",
+      "trophyDetail": "Defeat the Final Boss!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/3850c527-87f4-44ff-b4b8-6e8c61e237a4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First of Many",
+      "trophyDetail": "Fail an expedition for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/0dfa56b0-eb7c-4093-845b-7d506cfd8a8c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Killing Spree",
+      "trophyDetail": "Kill 1,000 enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/34136336-a32b-4521-8fc5-26eea8947812.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Timely Hero",
+      "trophyDetail": "Break 1,000 pots!",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/1624966d-f06a-441f-a4e5-6a5233b32c83.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wealthy",
+      "trophyDetail": "Have 1,000 Gold on you.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/52a7605e-4597-48b3-8241-7cd5bf41799e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Meat Shield",
+      "trophyDetail": "Take 5,000 damage.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/2b8dffda-1144-4d52-bb75-8a49fc10d13c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Locksmith",
+      "trophyDetail": "Use 5 keys in one expedition.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/53192b0d-7c94-48da-a2d2-ac3da3349d03.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Heads or Tails? Wrong.",
+      "trophyDetail": "Gain no reward 3 times from the same Wishing Well.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/2cda508a-9ea9-4da9-ac62-adb3863998a5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Thick-skinned",
+      "trophyDetail": "Have more than 1,000 maximum Health.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/01ad2f76-8b59-4036-a32e-cd73bf20e6ab.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "It's a Blast",
+      "trophyDetail": "Deal 500,000 damage using explosions.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/0b2722ec-9e4d-4d9d-a1c8-510b9e39c4a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No Need",
+      "trophyDetail": "Complete an expedition without using the Syringe.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/32871df7-c523-4e0e-9da9-66089d3585f1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unbeatable",
+      "trophyDetail": "Kill an Elite using a melee attack.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/9c6e6810-fb11-4e85-98ae-85e3a312036a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Squint",
+      "trophyDetail": "Kill 30 enemies beyond 40 meters away.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/eeefaf8d-07e6-4a0c-b044-0cbe645a198a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Exterminate",
+      "trophyDetail": "Deal 9,999 damage in a single hit.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/cba7f7fa-7021-4a1f-831b-ba6710962643.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Speedster",
+      "trophyDetail": "Finish an expedition in 30 minutes or less.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/a9ef6bab-bda1-4d09-a7b4-14ec87742905.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Torment",
+      "trophyDetail": "Deal 100,000 damage with damage over time effects.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/22a66143-e975-424b-a428-a05f62cfcf6e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lightbringer",
+      "trophyDetail": "Light up the hidden brazier.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/9246476c-a5a7-4c9c-911a-6b5095be2dea.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Agnostic",
+      "trophyDetail": "Complete an expedition without any Blessings.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/4412657c-6de1-4acb-820a-ec66725956ef.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Redo",
+      "trophyDetail": "Complete an expedition on Deep Water level 1.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/9c57706c-66f5-4579-84e0-c6ca49830065.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Seasoned",
+      "trophyDetail": "Complete an expedition on Deep Water level 5.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/3c79bb4f-313a-4ca3-a191-05e4e24ea421.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Expert",
+      "trophyDetail": "Complete an expedition on Deep Water level 10.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/3ceb55d9-1766-480f-ad6c-cd8968924a52.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Master of the Abyss",
+      "trophyDetail": "Complete an expedition on Deep Water level 30.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/338d84a7-2f0d-47f2-aec7-defe492a8c91.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Frag Grenade Mastery",
+      "trophyDetail": "Use the Frag Grenade 8 times within 5 seconds.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/5950600b-5195-4539-9c80-89b9afd5d6f3.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turret Mastery",
+      "trophyDetail": "Have 6 Turrets active.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/3b9794bc-06b1-4732-85f1-cc97793fd27e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Brine Field Mastery",
+      "trophyDetail": "Gain a Brine Field with a diameter of 40 meters.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/1f4594a2-dad6-4552-b16e-a23724b7060f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ancient Core Mastery",
+      "trophyDetail": "Deal 2,000 damage with a single hit of the Ancient Core.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/130c01e5-078d-4690-8449-b0bbfc84cb42.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Anchor Mastery",
+      "trophyDetail": "Kill 4 enemies with a single Anchor swing.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/a20813fd-04c0-4f47-b16a-f1b3c1fbc4d0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Weapon Mastery",
+      "trophyDetail": "Complete an expedition with every weapon.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/4c82f338-68fd-4eef-b92d-86e02d8a9d08.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Engine Rifle Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Engine Rifle.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/59b378ac-65ab-4a45-9641-6bc378f46463.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Shotgun Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Shotgun.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/00d69eed-4251-4b51-b343-582d9252b1c7.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tesla Gun Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Tesla Gun.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/86031c59-269f-4d92-894a-77b2945760d1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Disc Thrower Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Disc Thrower.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/4f5aa56e-9e22-48e4-a12c-f77f1a662002.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Plasma Launcher Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Plasma Launcher.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/721b7e5c-c3a0-4359-84d0-2de6dcc3283d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Fish Deity Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Fish Deity.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/ac752990-7925-4645-b4fc-873142e8690a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Brine Revolver Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Brine Revolver.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/744fecdb-36de-40e7-a0bd-5edadac1ea85.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Combat Bow Connoisseur",
+      "trophyDetail": "Unlock all Primary and Secondary mods for the Combat Bow.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/7c822e32-c840-4c15-8caa-dab57c88467b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Collector",
+      "trophyDetail": "Unlock all weapons and abilities.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/a4285a22-3d7c-4a16-8c0e-29b1da17ec9f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Cabinet of Curiosities",
+      "trophyDetail": "Unlock all Artifacts in the Lobby.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/05f78190-5991-4c26-9a2a-582420ea3eaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Proficient",
+      "trophyDetail": "Equip the maximum number of Skills in the Soul Wheel.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/7579bddc-50ea-4383-88fe-43fd1435292c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Scribe",
+      "trophyDetail": "Unlock the Logbook entries for all Blessings and Charms.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55018_00/ac63f6ea-0e52-4539-9a83-609c67afdacc.png",
+      "trophyGroupId": "default"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR39116_00",
   "title": "Blasphemous 2",
   "platform": "PS4",
-  "trophySetVersion": "01.01",
+  "trophySetVersion": "01.02",
   "hasTrophyGroups": true,
-  "totalItemCount": 55,
+  "totalItemCount": 60,
   "trophies": [
     {
       "trophyId": 0,
@@ -500,6 +500,51 @@
       "trophyDetail": "Unlock the true power of Mea Culpa.",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/D93542F996823B31E9A51A125D54A9D08E5431AD.PNG",
       "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Atonement of Sins",
+      "trophyDetail": "Defeat Crescencia, Duchess of the Sleeping Face.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/0100FCA01DE36C02E92FA75C045712F836214D46.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Embrujo of the Flames",
+      "trophyDetail": "Unlock the full power of Embrujo.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/9EDBBE20EAA718EB9E174D953C3685859F2D8EE4.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Chorus of the Servants",
+      "trophyDetail": "Win the favour of all the servants.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/2258F69E3FD90262D95EADC62688BD0594D242BC.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Omnis Facies Poenitentiae",
+      "trophyDetail": "Get all available skins for Penitent One.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/5D0A4213995183DBBDC98403E0FB2DCBEA6784AD.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": true,
+      "trophyType": "bronze",
+      "trophyName": "Unbreakable Bond",
+      "trophyDetail": "Unleash the full power of a servant.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR39116_00_00EA62FC58FF97C6E6A7238E99F6E77C0458019E6C/6AAB3E13136163AB2F07E47185577B848B1FDD93.PNG",
+      "trophyGroupId": "002"
     }
   ]
 }

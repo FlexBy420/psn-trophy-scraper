@@ -1,0 +1,428 @@
+{
+  "npCommunicationId": "NPWR53053_00",
+  "title": "Pool Cleaning Simulator",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 46,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Got them all!",
+      "trophyDetail": "Collected all the Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/3643599e-973f-4d53-a44b-22deae32996c.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Starting",
+      "trophyDetail": "Finish Tutorial.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/c8fb261e-3fba-4b15-894a-98236ebec0e0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker I",
+      "trophyDetail": "Clean Neighborhood Pool in under 10 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/7b68005e-facb-48c8-9311-821819f685fb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker II",
+      "trophyDetail": "Clean Hotel Pool in under 15 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/4a7011db-f67c-4f80-ab4b-e8bb6eead8bb.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker III",
+      "trophyDetail": "Clean Public Pool in under 30 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/f07eab2d-046b-4351-9603-9548593bd8ff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker IV",
+      "trophyDetail": "Clean School Pool in under 60 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/3b2a5dae-88fa-48c9-ab47-92f9d080dae0.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker V",
+      "trophyDetail": "Clean Aquapark in under 90 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/406292a6-7ed3-46e9-8587-72388efa624e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker VI",
+      "trophyDetail": "Clean Neighborhood Pool II in under 25 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/69c0c6d5-8293-42d0-bc89-d76187e6ca10.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker VII",
+      "trophyDetail": "Clean Public Pool II in under 35 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/e82bbd01-fe7b-4c7e-a41e-58002a67abe1.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker VIII",
+      "trophyDetail": "Clean Hotel Pool II in under 15 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/d05401ee-7dd2-4d55-a59d-50d3ffaf23cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker IX",
+      "trophyDetail": "Clean Neighborhood Pool III in under 30 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/9b58daa8-815e-4fa4-a5db-f980e8a7cf97.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Quicker X",
+      "trophyDetail": "Clean Oceanarium in under 45 minutes.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/b1218fe8-fe5f-4a0e-84ff-42d17eff6982.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Duck Tales",
+      "trophyDetail": "Find all of the ducks in Neighborhood Pool level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/4b9f683d-448f-41f1-a07e-10934c4cf836.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "My Precious",
+      "trophyDetail": "Find hidden treasure in the Hotel Pool level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/3a9b7afc-f40e-4b66-bde5-db7fe661933a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Not my job…",
+      "trophyDetail": "Build a pyramid using water boards on the School Pool level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/b3f583b1-631b-4fab-89a1-02dba0bf2ac4.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Take It Easy",
+      "trophyDetail": "Spend over an hour cleaning one pool.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/7014a428-3fba-4652-9ada-e6f91fd74b58.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "See you later, alligator",
+      "trophyDetail": "Successfully scare away and capture crocodile.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/4f143202-f7d0-4538-8114-a9ab0f21ebe5.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Bloody Mess!",
+      "trophyDetail": "Help investigators solve murder case on Murder Pool level.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/3db0c92e-f7c8-4f69-b897-d18bd34add09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Vroooom",
+      "trophyDetail": "Take a ride with an RC car.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/8312db0c-5117-4033-bf9a-a0211498afb6.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": true,
+      "trophyType": "silver",
+      "trophyName": "Fly off",
+      "trophyDetail": "Scare off birds at all available levels.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/b8ae40d8-5773-4980-ac47-0871b25a84ec.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Dirty Money",
+      "trophyDetail": "Earn at least 10,000$ by cleaning pools.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/874b9489-8341-41b8-8dcf-d7361e861568.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "10000"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Unboxing",
+      "trophyDetail": "Unpack your first carton",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/2a00301d-9804-423a-a14b-6d1acc30a37d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Love my VAN",
+      "trophyDetail": "Pack your first tool in the van",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/19bc56c1-f465-4324-9508-a512d76c1549.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Duckmaniac",
+      "trophyDetail": "Arrange all 200 ducks",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/815f93f6-f457-4bb1-bdbc-d5288e9d584f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Goldmaniac",
+      "trophyDetail": "Find the hidden treasure on Hotel part II",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/5ef4b420-8673-47f6-bd30-c6e47709b129.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "This is garage",
+      "trophyDetail": "Close the garage door",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/51f6e2b2-fc55-4090-8521-d58ea609ebff.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They are here...",
+      "trophyDetail": "Find all unusual plates",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/81e95562-36b2-4cf2-ae58-684eece30744.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "ROAR!",
+      "trophyDetail": "Wash the large duck",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/d174d07b-e9d6-41ea-ad1a-a3554a71aeaa.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Eco friendly",
+      "trophyDetail": "Segregate your trash on Murder II",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/2df792b9-33e9-417b-949d-b532e450ed4a.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Turtle friends",
+      "trophyDetail": "Help all the turtles at the Oceanarium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/1b243eb7-0cf0-48b7-9b81-0fa7356bb0e9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Please, sit here!",
+      "trophyDetail": "Arrange food and beverage area at Oceanarium",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/c4aa5c9b-05e1-43fd-9c1e-6e327a0ce463.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Are you sour?",
+      "trophyDetail": "Use the pH meter",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/fac748c9-5af5-453c-8f75-b09a4b68daba.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Spices",
+      "trophyDetail": "Use the pH+ and pH-",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/9807ce54-94c6-489a-807e-9d5fe81c6605.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm Doctor Pool",
+      "trophyDetail": "Measure the temperature",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/9217f74c-9ae2-43ba-a1bf-54f64eafbc40.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Abducted",
+      "trophyDetail": "Be abducted by space rubber duckies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/abec2fb7-a543-42a8-9ace-2933a2edd37b.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Wash your... UFO?",
+      "trophyDetail": "Clean all the UFO",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/6fdccc62-3841-4ac0-a619-4ecab4e9ecbe.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "They finally stopped",
+      "trophyDetail": "Finish cleaning the paint on School 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/ce9987a7-fbd3-400f-8a8f-a1b65c566a5d.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Calm down, dogs",
+      "trophyDetail": "Finish tasks with dogs on Murder 3 mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/355bb7d2-df26-4880-989f-ce213c732c09.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Attention! Bad dog",
+      "trophyDetail": "Be attacked by dog on mission",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/4db25d56-9095-4448-910f-cdf148c4da07.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New doghouse",
+      "trophyDetail": "Buy new doghouse",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/4889aa14-8d18-42a9-8b3a-6be3095eb6bc.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My love kitty",
+      "trophyDetail": "Pet the cat",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/2bb9eaf0-3644-47da-adb7-769b98f4680f.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "My love dog",
+      "trophyDetail": "Pet the dog",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/9ce5493f-41db-447b-bf3b-335016653def.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "New cat toy",
+      "trophyDetail": "Buy new cat toy",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/eb64a020-df09-46fa-8f9d-c4f9022c750e.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Walls collection",
+      "trophyDetail": "Buy 5 walls",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/05730700-60eb-4eed-960d-291fcc06bbdf.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Roofs collection",
+      "trophyDetail": "Buy 5 roofs",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/a85276da-7c98-4fa2-8d2b-f182b99ef810.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Floors collection",
+      "trophyDetail": "Buy 5 floors",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR53053_00/97ac7be4-719c-40ce-b8be-b35ac143cfb8.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "5"
+    }
+  ]
+}

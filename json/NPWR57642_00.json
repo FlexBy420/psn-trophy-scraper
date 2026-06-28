@@ -1,0 +1,442 @@
+{
+  "npCommunicationId": "NPWR57642_00",
+  "title": "Kusan: City of Wolves",
+  "platform": "PS5",
+  "trophySetVersion": "01.00",
+  "hasTrophyGroups": false,
+  "totalItemCount": 46,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "City Hunter",
+      "trophyDetail": "Unlock all Trophies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/4139bba6-5495-4c26-95d2-fbf433b6cab9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fixer",
+      "trophyDetail": "Complete the Prologue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Binding",
+      "trophyDetail": "Complete Chapter 1 Scene 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Girl",
+      "trophyDetail": "Complete Chapter 1 Scene 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Limbus",
+      "trophyDetail": "Complete Chapter 1 Scene 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "DJ",
+      "trophyDetail": "Complete Chapter 1 Scene 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Comrade",
+      "trophyDetail": "Complete Chapter 2 Scene 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Request",
+      "trophyDetail": "Complete Chapter 2 Scene 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "MAMA",
+      "trophyDetail": "Complete Chapter 2 Scene 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dream",
+      "trophyDetail": "Complete Chapter 2 Scene 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Zero core",
+      "trophyDetail": "Complete Chapter 2 Scene 5",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Assault",
+      "trophyDetail": "Complete Chapter 2 Scene 6",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Chase",
+      "trophyDetail": "Complete Chapter 2 Scene 7",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nightmare",
+      "trophyDetail": "Complete Chapter 3 Scene 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Midnight",
+      "trophyDetail": "Complete Chapter 3 Scene 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Convergence",
+      "trophyDetail": "Complete Chapter 3 Scene 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fall",
+      "trophyDetail": "Complete Chapter 3 Scene 4",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Fixer",
+      "trophyDetail": "Achieve SS rank for all floors in the Prologue",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/258ae90c-fc80-47b7-87d2-a7e02f9910f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Presence",
+      "trophyDetail": "Achieve SS rank for all floors in Chapter 1",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/258ae90c-fc80-47b7-87d2-a7e02f9910f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Past",
+      "trophyDetail": "Achieve SS rank for all floors in Chapter 2",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/258ae90c-fc80-47b7-87d2-a7e02f9910f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Master Beyond",
+      "trophyDetail": "Achieve SS rank for all floors in Chapter 3",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/258ae90c-fc80-47b7-87d2-a7e02f9910f8.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Nasty Way To Go!",
+      "trophyDetail": "Die for the first time.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "First impressions matter.",
+      "trophyDetail": "Kill your first enemy.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Whoever comes, whoever it is... I'll kill them. I'll kill them all.",
+      "trophyDetail": "Kill 50 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "50"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A man of focus",
+      "trophyDetail": "Kill 100 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A man of commitment",
+      "trophyDetail": "Kill 300 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "300"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A man of sheer will",
+      "trophyDetail": "Kill 500 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "500"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "\"Baba Yaga\"... is that you?",
+      "trophyDetail": "Kill 1000 enemies",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Escape.exe",
+      "trophyDetail": "\"Free\" a Limbus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Error 404: Chains Not Found",
+      "trophyDetail": "\"Free\" all Limbus",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/218cdc79-7f68-4b2d-925f-2c2f756933cd.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "12"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Armed and dangerous",
+      "trophyDetail": "Make an upgrade to the War-hand",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Very Armed and Very Dangerous",
+      "trophyDetail": "Unlock all War-hand upgrades",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "26"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "R&D",
+      "trophyDetail": "Optimise an upgrade for the War-hand",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "He's got tickets to the gun show—and they're VIP",
+      "trophyDetail": "Configure your War-hand upgrades so that every available slot is used",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/218cdc79-7f68-4b2d-925f-2c2f756933cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "The Silent Type",
+      "trophyDetail": "Kill every enemy of a stage with War-hand only",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/218cdc79-7f68-4b2d-925f-2c2f756933cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Try, Try, and Try Again",
+      "trophyDetail": "Die 100 times",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "100"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to the Continental",
+      "trophyDetail": "Unlock every weapon",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "4"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trigger Happy",
+      "trophyDetail": "Fire 1,000 bullets",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Tougher than It Looks!",
+      "trophyDetail": "Die to the first enemy in the prologue.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Combo Master",
+      "trophyDetail": "Complete a floor with a combo of 20 or more.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/218cdc79-7f68-4b2d-925f-2c2f756933cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "S^2",
+      "trophyDetail": "Complete any level with an SS rank.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/218cdc79-7f68-4b2d-925f-2c2f756933cd.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't touch me",
+      "trophyDetail": "Clear any stage without dying.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Lead Them to the Slaughterhouse.",
+      "trophyDetail": "Kill 1,000 'Mike Axe' enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fresh Meat",
+      "trophyDetail": "Kill 1,000 'Charlie' enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fly my Pretties, fly",
+      "trophyDetail": "Kill 1,000 'Darc' enemies.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "T-1000?",
+      "trophyDetail": "Kill 1,000 'Cyborgs'.",
+      "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR57642_00/25cfe856-923a-406e-8c66-3d0d57ade5a9.png",
+      "trophyGroupId": "default",
+      "trophyProgressTargetValue": "1000"
+    }
+  ]
+}
