@@ -2,9 +2,9 @@
   "npCommunicationId": "NPWR40352_00",
   "title": "Brotato",
   "platform": "PS4",
-  "trophySetVersion": "01.02",
+  "trophySetVersion": "01.03",
   "hasTrophyGroups": true,
-  "totalItemCount": 76,
+  "totalItemCount": 78,
   "trophies": [
     {
       "trophyId": 0,
@@ -689,6 +689,24 @@
       "trophyDetail": "Win a run with Beast Master",
       "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40352_00_0042C603BBC57F038B8E08C8718E537F0BC97F4907/99A92B28E2849074135BF452D4FEF7CA358D546C.PNG",
       "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Nightmare",
+      "trophyDetail": "Win a run in Nightmare",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40352_00_0042C603BBC57F038B8E08C8718E537F0BC97F4907/76411FCFE0D2505D1582EE25C178A580D92CF7D6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Wounded",
+      "trophyDetail": "Win a run with Wounded",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR40352_00_0042C603BBC57F038B8E08C8718E537F0BC97F4907/8E4E8FDB3F481FD6D1CF1A8C35263E78D9EC0BFE.PNG",
+      "trophyGroupId": "004"
     }
   ]
 }

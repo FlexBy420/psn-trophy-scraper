@@ -1,0 +1,829 @@
+{
+  "npCommunicationId": "NPWR59723_00",
+  "title": "Call of Duty®: Black Ops II",
+  "platform": "PS4",
+  "trophySetVersion": "01.01",
+  "hasTrophyGroups": true,
+  "totalItemCount": 91,
+  "trophies": [
+    {
+      "trophyId": 0,
+      "trophyHidden": false,
+      "trophyType": "platinum",
+      "trophyName": "Platinum",
+      "trophyDetail": "Awarded when all other trophies have been unlocked",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/FBE64628747CDB7F8DD2AE98CC94659882E98BF2.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 1,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "No Man Left Behind",
+      "trophyDetail": "Rescue Woods.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B64C19196FF5A024B37F8AABD09BC511D0753CD5.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 2,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gathering Storm",
+      "trophyDetail": "Investigate the jungle facility.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/3B2F4AE971AC06681AC75E12A34D9400FC677E68.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 3,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shifting Sands",
+      "trophyDetail": "Gather intel on Raul Menendez from Mullah Rahmaan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/867EA997D9AECB5E7E0F711FAC9EF41B17C661CC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 4,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Driven by Rage",
+      "trophyDetail": "Take down Menendez and his operation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/E60234A85A9E4AB6C86C29B28B61252DACA39366.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 5,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Waterlogged",
+      "trophyDetail": "Gather information on Raul Menendez' suspected terrorist plot.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/D414BCB5BA14F5FB785C1CE1761CD1C534E5D1C3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 6,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "What Happens in Colossus...",
+      "trophyDetail": "Find the Karma weapon.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/F8098BAA760FB6EAAE8942BDC24F10CD3986876B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 7,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "False Profit",
+      "trophyDetail": "Capture Manuel Noriega and bring him to justice.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/2F58576F022053E9E4BD68862691C42814890A20.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 8,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Deep Cover",
+      "trophyDetail": "Capture Menendez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A52A6B1A0E7D2F17C42567D606FEF6E107D25468.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 9,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Sinking Star",
+      "trophyDetail": "Interrogate Menendez.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/AEB9825AEF70E157A0D2676CAED8F57507B2165D.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 10,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Late for the Prom",
+      "trophyDetail": "Escort the president to the secure location in downtown LA.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/ADAA8EB3B8C5EE3B3B0595D9EA0EB9F46BEAAEC3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 11,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Death from Above",
+      "trophyDetail": "Stop Menendez once and for all.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B28D87E5438C4E481B78ED5B52D6A6119DF0EB90.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 12,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Old Fashioned",
+      "trophyDetail": "Complete \"Pyrrhic Victory\", \"Old Wounds\", \"Time And Fate\", and \"Suffer With Me\" in Veteran.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/2BB416A1D228CB0B3CF96FEF03A68930B9EA5732.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 13,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Futurist",
+      "trophyDetail": "Complete all future levels in veteran.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/BBE3A340A9624B1A47BFCF275F5F4F4FF599092A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 14,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Giant Accomplishment",
+      "trophyDetail": "Complete all challenges in Black Ops II.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/E8B054FDDDEB03B8F0B6C57C1CC4C247AFA4D991.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 15,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mission Complete",
+      "trophyDetail": "Complete all challenges in a level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/07134BDEA8C250FAE26118EC146BF398A06527B6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 16,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Just Gettin' Started",
+      "trophyDetail": "Complete 1 challenge in any level.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/2F611929B240E70F8B09BA94CD7DD8CDA319F118.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 17,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Singapore Sling",
+      "trophyDetail": "Successfully neutralize the SDC freighter at Keppel Terminal.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/88F0D108760BA1A3867A662BEB90C66576731200.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 18,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Desert Storm",
+      "trophyDetail": "Successfully escort the VIPs to safety.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B2F3E39A5B01E13BFB406AFC5266F9ED96E357F0.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 19,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Defender ",
+      "trophyDetail": "Successfully defend FOB Spectre from incursion.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/4F1DEC850FD8614ACB8D2D444BB59E450ED40BA4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 20,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Black Ops II Master",
+      "trophyDetail": "Complete the campaign on Hardened or Veteran difficulty.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/00CE3E9C3F1C8E68ECF27428CC9D81B5F4A345D4.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 21,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Art of War",
+      "trophyDetail": "Successfully assassinate SDC Chairman Tian Zhao.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/2B44059D943BF98B77C930D91EB73805F1BACB27.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 22,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Blind Date",
+      "trophyDetail": "Successfully rescue HVI.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/7CA7047C31A92EB58B3EE28F5157F444F8867432.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 23,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Family Reunion",
+      "trophyDetail": "There are two futures.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0AF1B16BE5B9D7C6FBB3F62F5E4245C60C9D691B.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 24,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Hey Good Looking",
+      "trophyDetail": "Plastic surgery avoided",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/BD73FCA8B72C5389CD330B21AE3B68B71375DEEB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 25,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Showdown",
+      "trophyDetail": "A duel between rivals",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C3DE97CA2EE5A80DF2ED6CD7DBAD6A04AAE82BFF.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 26,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dirty Business",
+      "trophyDetail": "Listen and think before you shoot.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/9DEB0AE39FEB428B13561242746FAB90896664EB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 27,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ship Shape",
+      "trophyDetail": "Reinforcements on the way.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/9A7C15607732F089B7B6F7346488C62BD002D99F.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 28,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dead or Alive",
+      "trophyDetail": "Jailor or executioner.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C12DDC5E803EE6948998F7805BC3438E1BC61231.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 29,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ultimate Sacrifice",
+      "trophyDetail": "Only one can survive.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/EB8B5D7EB36158DEF175B325DD85FC4287CA0B1E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 30,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Good Karma",
+      "trophyDetail": "Crack the celerium worm.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/D764CAE8249327CDE8D26C7D5A77A5919FF9027C.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 31,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "High IQ",
+      "trophyDetail": "Collect all intel.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/340017421ACF971B573FAB85F9C0FC73FCD09114.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 32,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Back in Time",
+      "trophyDetail": "Use a future weapon in the past.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/58561521876EAB5BE27C0DD112743CBDE977E299.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 33,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Man of the People",
+      "trophyDetail": "Stop the brutality inflicted by the PDF.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/5AB45F91BEB15CEF986494E8DC54678C30062B2A.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 34,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Gun Nut",
+      "trophyDetail": "Complete a level with customized loadout.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/E0E54A9D952DF21826CE5C1BF10EFE87A5769026.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 35,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ten K",
+      "trophyDetail": "Minimum score 10k in every mission",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A4F3AC3316F5EDF32EE378AEECA966B566535955.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 36,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Welcome to the Club",
+      "trophyDetail": "Reach Sergeant (Level 10) in multiplayer Public Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/332A22646A77A873BF120348EE5D3C2AA2B1A5D7.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 37,
+      "trophyHidden": false,
+      "trophyType": "gold",
+      "trophyName": "Welcome to the Penthouse",
+      "trophyDetail": "Prestige once in multiplayer Public Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/FD8EF217B4A007D776821070A01F73C4D0BEDE02.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 38,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Big Leagues",
+      "trophyDetail": "Start the Campaign.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/74090AECBAD7FBD4A9F8388B5512C3B6A7E8DF91.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 39,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trained Up",
+      "trophyDetail": "Win 10 multiplayer games while playing in Combat Training playlists.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C9DDF5125EF24862D237699F73737D2BB014D1BC.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 40,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Party Animal",
+      "trophyDetail": "Win 10 multiplayer games while playing in Party Games playlists.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/75EEA3738FEEFEED12BBA63880CFB0D2A3BF36AA.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 41,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Tower of Babble",
+      "trophyDetail": "In TranZit, obey the voices.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A8DC7463B351728F61125551807DDA0CF3F68AE3.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 42,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Don't Fire Until You See",
+      "trophyDetail": "In TranZit, have all doors opened without being set on fire.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0B26D1CE27F96DF41C59A5FF061823099AB218C8.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 43,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "The Lights Of Their Eyes",
+      "trophyDetail": "In Green Run, pacify at least 10 zombies with 1 EMP.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/706AD813B34F733082928C6947CA764457871D39.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 44,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Undead Man's Party Bus",
+      "trophyDetail": "In TranZit, complete all additions to the bus in 1 game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/6A48721F803D10C0728270CB06E3A6DBCCB80B10.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 45,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Dance On My Grave",
+      "trophyDetail": "In Green Run, acquire your Tombstone.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/3D3A553206798919F7A9B00017F3E7F862FE3C5E.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 46,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Standard Equipment May Vary",
+      "trophyDetail": "In TranZit, acquire 4 different equippable items in 1 game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/DE2E34A766E37FA76583436B25AE1E8285513734.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 47,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "You Have No Power Over Me",
+      "trophyDetail": "In TranZit, defeat \"him\" without being attacked by \"him\".",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0FEF054C5DAB12BA7A607DF02C466A1E003A4DB6.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 48,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I Don't Think They Exist",
+      "trophyDetail": "In TranZit, kill one of the denizens of the forest while it is latched onto you.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A282C4AFAE216334676728DA1F1C280E8ADA92FB.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 49,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Fuel Efficient",
+      "trophyDetail": "In TranZit, use an alternative mode of transportation.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B37465FA1BF49C6BF7D18118686EFCAF96DEAE12.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 50,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Happy Hour",
+      "trophyDetail": "In TranZit, buy 2 different perks before turning on the power.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/13F8DED3196190D774257AF810F6EC4CBDF551CE.PNG",
+      "trophyGroupId": "default"
+    },
+    {
+      "trophyId": 51,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "High Maintenance",
+      "trophyDetail": "In Die Rise, be the architect of their instruction.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/EF901D01769F9DC35735C20A7A3B79C609A8785D.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 52,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Vertigoner",
+      "trophyDetail": "In Die Rise, fling 10 zombies in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/706D9B3AF6C6C854F32384C8C48B0A4BC397D0AC.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 53,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mad Without Power",
+      "trophyDetail": "In Die Rise, reach round 10 before turning on the power.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/AD9D05DFFAF9D2CF20F074442069077578ECDD88.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 54,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Shafted",
+      "trophyDetail": "In Die Rise, use Pack-a-Punch and all perk machines in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/4B517E3A97AF9E65E79E8687230628858F63C9CF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 55,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Slippery When Undead",
+      "trophyDetail": "In Die Rise, kill 5 zombies with a single shot from the Sliquifier.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/03028A89680E94D40ECB72958FEAA1BD234AD2D3.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 56,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Facing the Dragon",
+      "trophyDetail": "In Die Rise, face the dragon head-on before reaching round 2.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/71CFAB665B00B482C1EA76BDBC1E3CE5BEDB9799.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 57,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm My Own Best Friend",
+      "trophyDetail": "In Die Rise, revive yourself.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/ACB911F9AE562975B5493A0117879565E637DC64.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 58,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Polyarmory",
+      "trophyDetail": "In Diner Turned, get a kill with each primary weapon in a Public Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B42BD522117A25626FD791827711FB7402496FCF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 59,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Monkey See, Monkey Doom",
+      "trophyDetail": "In Diner Turned, retrieve a chained Cymbal Monkey in a Public Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/EA22D37FC260E37D004B6235F912DB92B82887B8.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 60,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I See Live People",
+      "trophyDetail": "In Diner Turned, kill the human while its decoy is in play in a Public Match.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/BEEE0FEBC7EB2F3B698D88EFD093E475B679D1EF.PNG",
+      "trophyGroupId": "001"
+    },
+    {
+      "trophyId": 61,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "No One Escapes Alive",
+      "trophyDetail": "In Mob of the Dead, execute the escape plan.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/17F9A15C554E6B6C01305F4FB765085737D340C9.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 62,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Feed the Beast",
+      "trophyDetail": "In Mob of the Dead, obtain Hell's Retriever.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/FC39A3FAEDE19C6B2C0ECDEA54543C715ED00B70.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 63,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Making the Rounds",
+      "trophyDetail": "In Mob of the Dead, complete the cycle 3 times.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/539A323686CBD9C739FDD58961F554FB69E36D48.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 64,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Acid Drip",
+      "trophyDetail": "In Mob of the Dead, convert a weapon using a kit.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C21CB9C689226A8B81D0BA3ADFFD410538C11C55.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 65,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Full Lockdown",
+      "trophyDetail": "In Mob of the Dead, Brutus completes his patrol.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A33D5FB4BC43612238E17021EB50CCF2FC5C5A6D.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 66,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "A Burst of Flavor",
+      "trophyDetail": "In Mob of the Dead, kill 10 zombies at once with a new beverage.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C96925CF8E81131E2846AAC6DF9788D67F4B8042.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 67,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Paranormal Progress",
+      "trophyDetail": "In Mob of the Dead, open a door without spending points.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0EA9D58120B851EC5C7017916982135EF63C519E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 68,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "GG Bridge",
+      "trophyDetail": "In Mob of the Dead, survive an entire round on the bridge on round 15 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/DEB4E8C68D5C6902F1F5E0559D07780FF465D69E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 69,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Trapped in Time",
+      "trophyDetail": "In Mob of the Dead, use and upgrade all traps before round 10.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/6798C3F3AF28B4609C90068B32BEF847B943DB0E.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 70,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Pop Goes the Weasel",
+      "trophyDetail": "In Mob of the Dead, break the cycle.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/4CD55A1E89FF26225B509DBA8F7DDD0A687BE098.PNG",
+      "trophyGroupId": "002"
+    },
+    {
+      "trophyId": 71,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Mined Games",
+      "trophyDetail": "In Buried, be their pawn.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/8DFF0F1B5B84C032F72F3D4B9084F4C10299371A.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 72,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Ectoplasmic Residue",
+      "trophyDetail": "In Buried, acquire a perk for free.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/DCAAA4DF608ED39976A75483B50C3548F49EE1AD.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 73,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I'm Your Huckleberry",
+      "trophyDetail": "In Buried, access all areas with the help of your new friend in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/8C3694DA7B79574DFBDC696638409AC737080964.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 74,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Death From Below",
+      "trophyDetail": "In Buried, drop the beat on 10 zombies in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/85187749AF0528DD6FD0BC6A502FC44D73EF4399.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 75,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Candygram",
+      "trophyDetail": "In Buried, make a candy delivery.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/C70C4F575ACDC34922F4097E2ABBE9B0CA2313E2.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 76,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Awaken the Gazebo",
+      "trophyDetail": "In Buried, Pack-a-Punch a weapon during round 1 with no one using the bank or Weapon Locker.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/AA0967601CB9E9EE8541CB19B5842E36015B9E7B.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 77,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Revisionist Historian",
+      "trophyDetail": "In Buried, rewrite history.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/A21038A4183823BAD496A727896A724D39B18208.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 78,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Mazed and Confused",
+      "trophyDetail": "In Buried, survive an entire round within the maze on round 20 or higher.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/1FF42E543F3612FBA2934E635004C2232770C85F.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 79,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "FSIRT Against the Wall",
+      "trophyDetail": "In Buried, purchase the LSAT off the wall and Pack-a-Punch it.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0ECA064F95696E3A04948D659609D03A05A63CEF.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 80,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "When the Revolution Comes",
+      "trophyDetail": "In Buried, return to processing.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/3B09BDE6DC9D9122CAB60C7199987EBCEE1EA308.PNG",
+      "trophyGroupId": "003"
+    },
+    {
+      "trophyId": 81,
+      "trophyHidden": false,
+      "trophyType": "silver",
+      "trophyName": "Little Lost Girl",
+      "trophyDetail": "In Origins, release Samantha.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/F91363D5EE3D9172810320693297E448693100EA.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 82,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Not a Gold Digger",
+      "trophyDetail": "In Origins, share a weapon you dug up.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/11C19BD127F41486BCD47E71A6EF70F5AE064A3B.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 83,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "All Your Base",
+      "trophyDetail": "In Origins, activate all generators without allowing one to stop.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/0176964090E5EA44EE8711FD1D97EF8520C785DB.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 84,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Kung Fu Grip",
+      "trophyDetail": "In Origins, free yourself and another from the Panzer Soldat’s claw in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/2B24418F027FFCAE44C60BAF01B07B63AF0D60D2.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 85,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Playing with Power",
+      "trophyDetail": "In Origins, build all elemental staffs in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/EA00ECB93C30420A84166509C2CA22B1C6EA7732.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 86,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "I’m on a Tank!",
+      "trophyDetail": "In Origins, ride the tank around the map without getting off.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/38033932916C5DECD51C31E82F44351BB031A269.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 87,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Saving the Day...All Day",
+      "trophyDetail": "In Origins, revive another player four different ways in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/B5B0DCB1515DACA55051241F9515F4782152BB60.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 88,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master of Disguise",
+      "trophyDetail": "In Origins, use Zombie Blood to revive three players and activate a generator in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/5BA1044C97470C84D1BC4203A35AFEA9DCB17C5C.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 89,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Overachiever",
+      "trophyDetail": "In Origins, complete all 4 Challenges in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/196B0F63846F16ADE62F74821A6783EBA9F155E6.PNG",
+      "trophyGroupId": "004"
+    },
+    {
+      "trophyId": 90,
+      "trophyHidden": false,
+      "trophyType": "bronze",
+      "trophyName": "Master Wizard",
+      "trophyDetail": "In Origins, wield all of the ultimate staffs in one game.",
+      "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR59723_00_000A8C7D1C330B3E861AC6D351730742D53636A40A/4272842A76628D9D10D00C27B2053DA7082B56B1.PNG",
+      "trophyGroupId": "004"
+    }
+  ]
+}
